@@ -1,0 +1,21 @@
+ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+80,2017-01-07,18:00:00,serie-a,Palermo @ Empoli,Palermo,Empoli,4.01,3.29,2.01,Empoli,Empoli,0.538,N,Upcoming
+81,2017-01-07,20:45:00,serie-a,Sampdoria @ Napoli,Sampdoria,Napoli,10.7,5.92,1.27,Napoli,Napoli,0.608,N,Upcoming
+82,2017-01-08,12:30:00,serie-a,Internazionale Milano @ Udinese Calcio,Internazionale Milano,Udinese Calcio,1.98,3.49,3.87,Internazionale Milano,Udinese Calcio,0.408,Y,Upcoming
+83,2017-01-08,15:00:00,serie-a,Crotone @ SS Lazio,Crotone,SS Lazio,12.16,6.01,1.25,SS Lazio,SS Lazio,0.68,N,Upcoming
+84,2017-01-08,15:00:00,serie-a,Atalanta Bergamo @ Chievo Verona,Atalanta Bergamo,Chievo Verona,2.87,3.09,2.63,Chievo Verona,Chievo Verona,0.387,N,Upcoming
+85,2017-01-08,15:00:00,serie-a,AC Fiorentina @ Pescara,AC Fiorentina,Pescara,1.85,3.65,4.21,AC Fiorentina,AC Fiorentina,0.542,N,Upcoming
+86,2017-01-08,15:00:00,serie-a,Torino FC @ Sassuolo,Torino FC,Sassuolo,2.62,3.33,2.71,Torino FC,Torino FC,0.43,N,Upcoming
+87,2017-01-08,15:00:00,serie-a,AS Roma @ Genoa,AS Roma,Genoa,1.88,3.65,4.13,AS Roma,AS Roma,0.481,N,Upcoming
+88,2017-01-08,18:00:00,serie-a,Cagliari @ AC Milan,Cagliari,AC Milan,7.97,4.8,1.39,AC Milan,AC Milan,0.613,N,Upcoming
+89,2017-01-08,20:45:00,serie-a,Bologna F.C. @ Juventus FC,Bologna F.C.,Juventus FC,15.9,7.09,1.18,Juventus FC,Juventus FC,0.645,N,Upcoming
+90,2017-01-14,18:00:00,serie-a,Bologna F.C. @ Crotone,Bologna F.C.,Crotone,2.53,3.11,2.96,Bologna F.C.,Bologna F.C.,0.44,N,Upcoming
+91,2017-01-14,20:45:00,serie-a,Chievo Verona @ Internazionale Milano,Chievo Verona,Internazionale Milano,7.04,4.18,1.48,Internazionale Milano,Internazionale Milano,0.523,N,Upcoming
+92,2017-01-15,12:30:00,serie-a,Genoa @ Cagliari,Genoa,Cagliari,2.73,3.3,2.61,Cagliari,Cagliari,0.44,N,Upcoming
+93,2017-01-15,15:00:00,serie-a,Empoli @ Sampdoria,Empoli,Sampdoria,4.51,3.46,1.84,Sampdoria,Sampdoria,0.545,N,Upcoming
+94,2017-01-15,15:00:00,serie-a,Atalanta Bergamo @ SS Lazio,Atalanta Bergamo,SS Lazio,4.32,3.6,1.83,SS Lazio,SS Lazio,0.506,N,Upcoming
+95,2017-01-15,15:00:00,serie-a,Palermo @ Sassuolo,Palermo,Sassuolo,5.36,3.81,1.65,Sassuolo,Sassuolo,0.538,N,Upcoming
+96,2017-01-15,15:00:00,serie-a,Pescara @ Napoli,Pescara,Napoli,16.49,7.93,1.15,Napoli,Napoli,0.68,N,Upcoming
+97,2017-01-15,15:00:00,serie-a,AS Roma @ Udinese Calcio,AS Roma,Udinese Calcio,1.81,3.62,4.47,AS Roma,AS Roma,0.449,N,Upcoming
+98,2017-01-15,20:45:00,serie-a,Juventus FC @ AC Fiorentina,Juventus FC,AC Fiorentina,1.82,3.52,4.56,Juventus FC,Juventus FC,0.491,N,Upcoming
+99,2017-01-16,20:45:00,serie-a,AC Milan @ Torino FC,AC Milan,Torino FC,2.92,3.28,2.44,Torino FC,Torino FC,0.386,N,Upcoming

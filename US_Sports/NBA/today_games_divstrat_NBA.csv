@@ -1,0 +1,4 @@
+,ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+3,3,2016-12-23,20:30:00,NBA,Brooklyn Nets @ Cleveland Cavaliers,Brooklyn Nets,Cleveland Cavaliers,1.95,1.95,Brooklyn Nets,Cleveland Cavaliers,0.96,Y,Upcoming
+7,7,2016-12-23,21:00:00,NBA,Sacramento Kings @ Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,1.95,1.95,Sacramento Kings,Minnesota Timberwolves,0.651,Y,Upcoming
+13,13,2016-12-23,23:30:00,NBA,Dallas Mavericks @ Los Angeles Clippers,Dallas Mavericks,Los Angeles Clippers,1.95,1.95,Dallas Mavericks,Los Angeles Clippers,0.936,Y,Upcoming

@@ -1,0 +1,17 @@
+ID,Date,Time,League,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2016-12-28,20:00:00,NBA,Orlando Magic vs Charlotte Hornets,Orlando Magic,Charlotte Hornets,2.5,1.55,Charlotte Hornets,Charlotte Hornets,0.59,N,Upcoming
+1,2016-12-28,20:00:00,NBA,Washington Wizards vs Indiana Pacers,Washington Wizards,Indiana Pacers,1.5,2.65,Washington Wizards,Washington Wizards,0.69,N,Upcoming
+2,2016-12-28,20:30:00,NBA,Atlanta Hawks vs New York Knicks,Atlanta Hawks,New York Knicks,1.57,2.44,Atlanta Hawks,Atlanta Hawks,0.635,N,Upcoming
+3,2016-12-28,20:30:00,NBA,Detroit Pistons vs Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,1.65,2.27,Detroit Pistons,Detroit Pistons,0.629,N,Upcoming
+4,2016-12-28,21:00:00,NBA,Chicago Bulls vs Brooklyn Nets,Chicago Bulls,Brooklyn Nets,1.2,4.71,Chicago Bulls,Chicago Bulls,0.862,N,Upcoming
+5,2016-12-28,21:00:00,NBA,New Orleans Pelicans vs Los Angeles Clippers,New Orleans Pelicans,Los Angeles Clippers,1.5,2.63,New Orleans Pelicans,Los Angeles Clippers,0.734,Y,Upcoming
+6,2016-12-28,21:30:00,NBA,San Antonio Spurs vs Phoenix Suns,San Antonio Spurs,Phoenix Suns,1.05,11.16,San Antonio Spurs,San Antonio Spurs,0.948,N,Upcoming
+7,2016-12-28,22:00:00,NBA,Denver Nuggets vs Minnesota Timberwolves,Denver Nuggets,Minnesota Timberwolves,1.54,2.53,Denver Nuggets,Denver Nuggets,0.645,N,Upcoming
+8,2016-12-28,23:00:00,NBA,Portland Trail Blazers vs Sacramento Kings,Portland Trail Blazers,Sacramento Kings,1.98,1.84,Sacramento Kings,Portland Trail Blazers,0.601,Y,Upcoming
+9,2016-12-28,23:30:00,NBA,Golden State Warriors vs Toronto Raptors,Golden State Warriors,Toronto Raptors,1.2,4.71,Golden State Warriors,Golden State Warriors,0.733,N,Upcoming
+10,2016-12-29,20:00:00,NBA,Charlotte Hornets vs Miami Heat,Charlotte Hornets,Miami Heat,1.9,1.9,Miami Heat,Charlotte Hornets,0.78,Y,Upcoming
+11,2016-12-29,21:00:00,NBA,Cleveland Cavaliers vs Boston Celtics,Cleveland Cavaliers,Boston Celtics,1.92,1.92,Boston Celtics,Cleveland Cavaliers,0.825,Y,Upcoming
+12,2016-12-29,21:00:00,NBA,Memphis Grizzlies vs Oklahoma City Thunder,Memphis Grizzlies,Oklahoma City Thunder,1.9,1.9,Oklahoma City Thunder,Memphis Grizzlies,0.556,Y,Upcoming
+13,2016-12-29,22:00:00,NBA,Phoenix Suns vs Toronto Raptors,Phoenix Suns,Toronto Raptors,1.92,1.92,Toronto Raptors,Toronto Raptors,0.891,N,Upcoming
+14,2016-12-29,22:00:00,NBA,Utah Jazz vs Philadelphia 76ers,Utah Jazz,Philadelphia 76ers,1.9,1.9,Philadelphia 76ers,Utah Jazz,0.93,Y,Upcoming
+15,2016-12-29,23:30:00,NBA,Los Angeles Lakers vs Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,1.92,1.92,Dallas Mavericks,Los Angeles Lakers,0.635,Y,Upcoming

@@ -1,0 +1,18 @@
+ID,Date,Time,League,Matchup_US_P,Home_Team,Visitor_Team,Home_Odd,Draw_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2016-11-25,20:30:00,bundesliga,SC Freiburg vs RB Leipzig,SC Freiburg,RB Leipzig,4.2,3.8,2.04,RB Leipzig,RB Leipzig,0.526,N,Upcoming
+1,2016-11-26,15:30:00,bundesliga,1. FC Koln vs FC Augsburg,1. FC Koln,FC Augsburg,1.82,3.7,5.51,FC Koln,FC Koln,0.582,N,Upcoming
+2,2016-11-26,15:30:00,bundesliga,Hamburger SV vs SV Werder Bremen,Hamburger SV,SV Werder Bremen,2.5,3.6,3.1,Hamburger SV,Hamburger SV,0.434,N,Upcoming
+3,2016-11-26,15:30:00,bundesliga,Borussia Monchengladbach vs TSG 1899 Hoffenheim,Borussia Monchengladbach,TSG 1899 Hoffenheim,2.2,3.99,3.9,Monchengladb.,Hoffenheim,0.476,Y,Upcoming
+4,2016-11-26,15:30:00,bundesliga,Eintracht Frankfurt vs Borussia Dortmund,Eintracht Frankfurt,Borussia Dortmund,5.5,4.5,1.75,Dortmund,Frankfurt,0.458,Y,Upcoming
+5,2016-11-26,15:30:00,bundesliga,FC Ingolstadt 04 vs VfL Wolfsburg,FC Ingolstadt 04,VfL Wolfsburg,3.05,3.37,2.66,Wolfsburg,Ingolstadt,0.398,Y,Upcoming
+6,2016-11-26,18:30:00,bundesliga,FC Bayern Munchen vs Bayer 04 Leverkusen,FC Bayern Munchen,Bayer 04 Leverkusen,1.4,6.3,11.5,Bayern Munich,Bayern Munich,0.578,N,Upcoming
+7,2016-11-27,15:30:00,bundesliga,FC Schalke 04 vs SV Darmstadt 98,FC Schalke 04,SV Darmstadt 98,1.41,5.5,13.0,Schalke 04,Schalke 04,0.545,N,Upcoming
+8,2016-12-02,20:30:00,bundesliga,1. FSV Mainz 05 vs FC Bayern Munchen,1. FSV Mainz 05,FC Bayern Munchen,12.0,6.05,1.35,Bayern Munich,Bayern Munich,0.427,N,Upcoming
+9,2016-12-03,15:30:00,bundesliga,VfL Wolfsburg vs Hertha BSC Berlin,VfL Wolfsburg,Hertha BSC Berlin,2.22,3.49,3.86,Wolfsburg,Hertha Berlin,0.509,Y,Upcoming
+10,2016-12-03,15:30:00,bundesliga,SV Werder Bremen vs FC Ingolstadt 04,SV Werder Bremen,FC Ingolstadt 04,2.35,3.56,3.44,Werder Bremen,Werder Bremen,0.472,N,Upcoming
+11,2016-12-03,15:30:00,bundesliga,Borussia Dortmund vs Borussia Monchengladbach,Borussia Dortmund,Borussia Monchengladbach,1.53,5.15,8.0,Dortmund,Dortmund,0.582,N,Upcoming
+12,2016-12-03,15:30:00,bundesliga,TSG 1899 Hoffenheim vs 1. FC Koln,TSG 1899 Hoffenheim,1. FC Koln,2.33,3.65,3.5,Hoffenheim,Hoffenheim,0.478,N,Upcoming
+13,2016-12-03,15:30:00,bundesliga,Bayer 04 Leverkusen vs SC Freiburg,Bayer 04 Leverkusen,SC Freiburg,1.57,4.6,6.7,Leverkusen,Leverkusen,0.49,N,Upcoming
+14,2016-12-03,18:30:00,bundesliga,RB Leipzig vs FC Schalke 04,RB Leipzig,FC Schalke 04,2.13,3.64,3.96,RB Leipzig,RB Leipzig,0.598,N,Upcoming
+15,2016-12-04,15:30:00,bundesliga,SV Darmstadt 98 vs Hamburger SV,SV Darmstadt 98,Hamburger SV,3.02,3.5,2.6,Hamburger SV,Darmstadt,0.523,Y,Upcoming
+16,2016-12-04,17:30:00,bundesliga,FC Augsburg vs Eintracht Frankfurt,FC Augsburg,Eintracht Frankfurt,2.66,3.4,3.01,Augsburg,Frankfurt,0.448,Y,Upcoming

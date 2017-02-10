@@ -1,0 +1,17 @@
+ID,Date,Time,League,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2017-01-01,14:00:00,NFL,Tampa Bay Buccaneers vs Carolina Panthers,Tampa Bay Buccaneers,Carolina Panthers,1.39,3.06,Tampa Bay Buccaneers,Tampa Bay Buccaneers,0.671,N,Upcoming
+1,2017-01-01,14:00:00,NFL,New York Jets vs Buffalo Bills,New York Jets,Buffalo Bills,2.54,1.53,Buffalo Bills,Buffalo Bills,0.73,N,Upcoming
+2,2017-01-01,14:00:00,NFL,Cincinnati Bengals vs Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,1.73,2.14,Cincinnati Bengals,Cincinnati Bengals,0.527,N,Upcoming
+3,2017-01-01,14:00:00,NFL,Indianapolis Colts vs Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,1.45,2.8,Indianapolis Colts,Indianapolis Colts,0.792,N,Upcoming
+4,2017-01-01,14:00:00,NFL,Tennessee Titans vs Houston Texans,Tennessee Titans,Houston Texans,1.57,2.42,Tennessee Titans,Tennessee Titans,0.566,N,Upcoming
+5,2017-01-01,14:00:00,NFL,Miami Dolphins vs New England Patriots,Miami Dolphins,New England Patriots,4.4,1.21,New England Patriots,New England Patriots,0.581,N,Upcoming
+6,2017-01-01,14:00:00,NFL,Philadelphia Eagles vs Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,1.49,2.66,Philadelphia Eagles,Dallas Cowboys,0.72,Y,Upcoming
+7,2017-01-01,14:00:00,NFL,Minnesota Vikings vs Chicago Bears,Minnesota Vikings,Chicago Bears,1.45,2.78,Minnesota Vikings,Minnesota Vikings,0.77,N,Upcoming
+8,2017-01-01,14:00:00,NFL,Pittsburgh Steelers vs Cleveland Browns,Pittsburgh Steelers,Cleveland Browns,1.4,3.01,Pittsburgh Steelers,Pittsburgh Steelers,0.931,N,Upcoming
+9,2017-01-01,17:25:00,NFL,Atlanta Falcons vs New Orleans Saints,Atlanta Falcons,New Orleans Saints,1.36,3.19,Atlanta Falcons,Atlanta Falcons,0.695,N,Upcoming
+10,2017-01-01,17:25:00,NFL,San Diego Chargers vs Kansas City Chiefs,San Diego Chargers,Kansas City Chiefs,2.95,1.41,Kansas City Chiefs,Kansas City Chiefs,0.621,N,Upcoming
+11,2017-01-01,17:25:00,NFL,Washington Redskins vs New York Giants,Washington Redskins,New York Giants,1.29,3.67,Washington Redskins,Washington Redskins,0.593,N,Upcoming
+12,2017-01-01,17:25:00,NFL,Los Angeles Rams vs Arizona Cardinals,Los Angeles Rams,Arizona Cardinals,3.1,1.38,Arizona Cardinals,Arizona Cardinals,0.654,N,Upcoming
+13,2017-01-01,17:25:00,NFL,Denver Broncos vs Oakland Raiders,Denver Broncos,Oakland Raiders,1.81,2.02,Denver Broncos,Oakland Raiders,0.627,Y,Upcoming
+14,2017-01-01,17:25:00,NFL,San Francisco 49ers vs Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,4.28,1.23,Seattle Seahawks,Seattle Seahawks,0.837,N,Upcoming
+15,2017-01-01,21:30:00,NFL,Detroit Lions vs Green Bay Packers,Detroit Lions,Green Bay Packers,2.5,1.54,Green Bay Packers,Detroit Lions,0.725,Y,Upcoming

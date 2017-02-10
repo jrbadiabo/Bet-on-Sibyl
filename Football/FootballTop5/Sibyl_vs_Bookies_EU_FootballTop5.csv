@@ -1,0 +1,577 @@
+ID,League,Date,Time,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Draw_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,Home_Team_PTS,visi_team_pts,True_Result,Winner_Odd
+0,ligue-1,2016-08-12,19:30,Monaco vs Guingamp,Monaco,Guingamp,1.69,3.68,5.48,Monaco,Monaco,0.598,N,2,2,Draw,3.68
+1,premier-league,2016-08-13,15:00,Everton vs Tottenham,Everton,Tottenham,3.55,3.39,2.18,Tottenham,Tottenham,0.428,N,1,1,Draw,3.39
+2,premier-league,2016-08-13,15:00,Burnley vs Swansea City,Burnley,Swansea City,2.77,3.14,2.82,Burnley,Burnley,0.562,N,0,1,Swansea City,2.82
+3,premier-league,2016-08-13,15:00,Crystal Palace vs West Bromwich,Crystal Palace,West Bromwich,2.17,3.16,3.9,Crystal Palace,Crystal Palace,0.373,N,0,1,West Bromwich,3.9
+4,premier-league,2016-08-13,15:00,Southampton vs Watford,Southampton,Watford,1.79,3.71,4.87,Southampton,Southampton,0.504,N,1,1,Draw,3.71
+5,premier-league,2016-08-13,15:00,Middlesbrough vs Stoke City,Middlesbrough,Stoke City,2.23,3.24,3.61,Middlesbrough,Middlesbrough,0.438,N,1,1,Draw,3.24
+6,ligue-1,2016-08-13,16:00,Bordeaux vs Saint-Etienne,Bordeaux,Saint-Etienne,2.35,3.03,3.42,Bordeaux,Bordeaux,0.447,N,3,2,Bordeaux,2.35
+7,premier-league,2016-08-13,17:30,Manchester City vs Sunderland,Manchester City,Sunderland,1.24,6.44,13.98,Manchester City,Manchester City,0.681,N,2,1,Manchester City,1.24
+8,ligue-1,2016-08-13,19:00,Caen vs Lorient,Caen,Lorient,2.3,3.2,3.33,Caen,Caen,0.527,N,3,2,Caen,2.3
+9,ligue-1,2016-08-13,19:00,Montpellier vs Angers,Montpellier,Angers,1.88,3.21,4.91,Montpellier,Montpellier,0.513,N,1,0,Montpellier,1.88
+10,ligue-1,2016-08-13,19:00,Metz vs Lille,Metz,Lille,3.68,3.08,2.22,Lille,Metz,0.475,Y,3,2,Metz,3.68
+11,ligue-1,2016-08-13,19:00,Dijon vs Nantes,Dijon,Nantes,2.52,2.98,3.17,Dijon,Dijon,0.466,N,0,1,Nantes,3.17
+12,premier-league,2016-08-14,13:30,Bournemouth vs Manchester Utd,Bournemouth,Manchester Utd,5.29,3.62,1.76,Manchester Utd,Manchester Utd,0.455,N,1,3,Manchester Utd,1.76
+13,ligue-1,2016-08-14,14:00,Nancy vs Lyon,Nancy,Lyon,3.06,3.23,2.45,Lyon,Lyon,0.472,N,0,3,Lyon,2.45
+14,premier-league,2016-08-14,16:00,Arsenal vs Liverpool,Arsenal,Liverpool,2.73,3.37,2.7,Liverpool,Arsenal,0.424,Y,3,4,Liverpool,2.7
+15,ligue-1,2016-08-14,16:00,Nice vs Rennes,Nice,Rennes,2.41,3.12,3.24,Nice,Nice,0.635,N,1,0,Nice,2.41
+16,ligue-1,2016-08-14,19:45,Marseille vs Toulouse,Marseille,Toulouse,2.07,3.24,3.93,Marseille,Marseille,0.515,N,0,0,Draw,3.24
+17,premier-league,2016-08-15,20:00,Chelsea vs West Ham Utd,Chelsea,West Ham Utd,1.51,4.33,6.98,Chelsea,Chelsea,0.677,N,2,1,Chelsea,1.51
+18,ligue-1,2016-08-19,19:45,Lyon vs Caen,Lyon,Caen,1.38,5.0,8.44,Lyon,Lyon,0.62,N,2,0,Lyon,1.38
+19,premier-league,2016-08-19,20:00,Manchester Utd vs Southampton,Manchester Utd,Southampton,1.53,4.17,7.19,Manchester Utd,Manchester Utd,0.567,N,2,0,Manchester Utd,1.53
+20,laliga,2016-08-19,21:00,Deportivo vs Eibar,Deportivo,Eibar,2.0,3.32,4.19,Deportivo,Eibar,0.393,Y,2,1,Deportivo,2.0
+21,premier-league,2016-08-20,12:30,Stoke City vs Manchester City,Stoke City,Manchester City,6.28,4.22,1.57,Manchester City,Manchester City,0.514,N,1,4,Manchester City,1.57
+22,premier-league,2016-08-20,15:00,Swansea City vs Hull City,Swansea City,Hull City,1.84,3.48,4.91,Swansea City,Swansea City,0.462,N,0,2,Hull City,4.91
+23,premier-league,2016-08-20,15:00,Watford vs Chelsea,Watford,Chelsea,5.9,3.84,1.66,Chelsea,Chelsea,0.607,N,1,2,Chelsea,1.66
+24,premier-league,2016-08-20,15:00,Tottenham vs Crystal Palace,Tottenham,Crystal Palace,1.45,4.57,7.86,Tottenham,Tottenham,0.658,N,1,0,Tottenham,1.45
+25,premier-league,2016-08-20,15:00,West Bromwich vs Everton,West Bromwich,Everton,3.01,3.14,2.59,Everton,West Bromwich,0.435,Y,1,2,Everton,2.59
+26,premier-league,2016-08-20,15:00,Burnley vs Liverpool,Burnley,Liverpool,6.96,4.33,1.52,Liverpool,Liverpool,0.562,N,2,0,Burnley,6.96
+27,ligue-1,2016-08-20,16:00,Nantes vs Monaco,Nantes,Monaco,2.43,3.0,3.34,Nantes,Monaco,0.578,Y,0,1,Monaco,3.34
+28,laliga,2016-08-20,17:15,FC Barcelona vs Real Betis,FC Barcelona,Real Betis,1.1,11.6,28.09,FC Barcelona,FC Barcelona,0.635,N,6,2,FC Barcelona,1.1
+29,premier-league,2016-08-20,17:30,Leicester City vs Arsenal,Leicester City,Arsenal,2.77,3.5,2.59,Arsenal,Arsenal,0.553,N,0,0,Draw,3.5
+30,ligue-1,2016-08-20,19:00,Angers vs Nice,Angers,Nice,2.65,2.85,3.16,Angers,Nice,0.62,Y,0,1,Nice,3.16
+31,ligue-1,2016-08-20,19:00,Toulouse vs Bordeaux,Toulouse,Bordeaux,2.6,3.09,2.95,Toulouse,Toulouse,0.471,N,4,1,Toulouse,2.6
+32,ligue-1,2016-08-20,19:00,Lille vs Dijon,Lille,Dijon,1.75,3.36,5.75,Lille,Lille,0.467,N,1,0,Lille,1.75
+33,ligue-1,2016-08-20,19:00,Rennes vs Nancy,Rennes,Nancy,2.05,3.25,4.04,Rennes,Rennes,0.525,N,2,0,Rennes,2.05
+34,ligue-1,2016-08-20,19:00,Lorient vs Bastia,Lorient,Bastia,2.16,3.08,3.89,Lorient,Lorient,0.393,N,0,3,Bastia,3.89
+35,laliga,2016-08-20,19:15,Granada vs Villarreal,Granada,Villarreal,2.64,3.15,2.92,Granada,Villarreal,0.566,Y,1,1,Draw,3.15
+36,serie-a,2016-08-20,19:45,Juventus vs Fiorentina,Juventus,Fiorentina,1.5,4.05,8.04,Juventus,Juventus,0.619,N,2,1,Juventus,1.5
+37,laliga,2016-08-20,21:15,FC Sevilla vs Espanyol,FC Sevilla,Espanyol,1.71,3.88,5.12,FC Sevilla,FC Sevilla,0.564,N,6,4,FC Sevilla,1.71
+38,premier-league,2016-08-21,13:30,Sunderland vs Middlesbrough,Sunderland,Middlesbrough,2.73,3.06,2.94,Sunderland,Sunderland,0.393,N,1,2,Middlesbrough,2.94
+39,ligue-1,2016-08-21,14:00,Guingamp vs Marseille,Guingamp,Marseille,2.86,3.11,2.69,Marseille,Guingamp,0.465,Y,2,1,Guingamp,2.86
+40,premier-league,2016-08-21,16:00,West Ham Utd vs Bournemouth,West Ham Utd,Bournemouth,2.42,3.27,3.17,West Ham Utd,West Ham Utd,0.475,N,1,0,West Ham Utd,2.42
+41,ligue-1,2016-08-21,16:00,Saint-Etienne vs Montpellier,Saint-Etienne,Montpellier,2.36,3.01,3.48,Saint-Etienne,Saint-Etienne,0.525,N,3,1,Saint-Etienne,2.36
+42,serie-a,2016-08-21,17:00,AC Milan vs Torino,AC Milan,Torino,1.9,3.47,4.43,AC Milan,AC Milan,0.544,N,3,2,AC Milan,1.9
+43,laliga,2016-08-21,17:15,Sporting Gijon vs Athletic Bilbao,Sporting Gijon,Athletic Bilbao,4.46,3.5,1.89,Athletic Bilbao,Athletic Bilbao,0.483,N,2,1,Sporting Gijon,4.46
+44,laliga,2016-08-21,19:15,Real Sociedad vs Real Madrid,Real Sociedad,Real Madrid,5.15,3.94,1.7,Real Madrid,Real Madrid,0.427,N,0,3,Real Madrid,1.7
+45,serie-a,2016-08-21,19:45,Empoli vs Sampdoria,Empoli,Sampdoria,2.17,3.31,3.62,Empoli,Sampdoria,0.422,Y,0,1,Sampdoria,3.62
+46,serie-a,2016-08-21,19:45,Genoa vs Cagliari,Genoa,Cagliari,1.99,3.43,4.1,Genoa,Genoa,0.494,N,3,1,Genoa,1.99
+47,serie-a,2016-08-21,19:45,Bologna vs Crotone,Bologna,Crotone,1.75,3.45,5.66,Bologna,Bologna,0.604,N,1,0,Bologna,1.75
+48,serie-a,2016-08-21,19:45,Palermo vs Sassuolo,Palermo,Sassuolo,3.32,3.13,2.39,Sassuolo,Palermo,0.387,Y,0,1,Sassuolo,2.39
+49,serie-a,2016-08-21,19:45,Pescara vs Napoli,Pescara,Napoli,8.29,4.6,1.43,Napoli,Napoli,0.626,N,2,2,Draw,4.6
+50,serie-a,2016-08-21,19:45,Chievo vs Inter Milan,Chievo,Inter Milan,3.96,3.27,2.08,Inter Milan,Chievo,0.408,Y,2,0,Chievo,3.96
+51,serie-a,2016-08-21,19:45,Atalanta vs Lazio Roma,Atalanta,Lazio Roma,2.88,3.18,2.64,Lazio Roma,Atalanta,0.428,Y,3,4,Lazio Roma,2.64
+52,ligue-1,2016-08-21,19:45,Paris SG vs Metz,Paris SG,Metz,1.12,9.75,25.03,Paris SG,Paris SG,0.625,N,3,0,Paris SG,1.12
+53,laliga,2016-08-21,21:15,Atletico Madrid vs Alaves,Atletico Madrid,Alaves,1.24,5.88,17.52,Atletico Madrid,Atletico Madrid,0.558,N,1,1,Draw,5.88
+54,laliga,2016-08-22,19:00,Celta Vigo vs Leganes,Celta Vigo,Leganes,1.64,3.83,5.99,Celta Vigo,Celta Vigo,0.533,N,0,1,Leganes,5.99
+55,laliga,2016-08-26,19:45,Real Betis vs Deportivo,Real Betis,Deportivo,2.21,3.27,3.53,Real Betis,Real Betis,0.485,N,0,0,Draw,3.27
+56,ligue-1,2016-08-26,19:45,Marseille vs Lorient,Marseille,Lorient,1.81,3.63,4.61,Marseille,Marseille,0.63,N,2,0,Marseille,1.81
+57,laliga,2016-08-26,21:00,Espanyol vs Malaga,Espanyol,Malaga,2.31,3.21,3.37,Espanyol,Espanyol,0.488,N,2,2,Draw,3.21
+58,premier-league,2016-08-27,12:30,Tottenham vs Liverpool,Tottenham,Liverpool,2.58,3.37,2.87,Tottenham,Tottenham,0.418,N,1,1,Draw,3.37
+59,bundesliga,2016-08-27,14:30,Augsburg vs Wolfsburg,Augsburg,Wolfsburg,2.88,3.33,2.54,Wolfsburg,Augsburg,0.5,Y,0,2,Wolfsburg,2.54
+60,bundesliga,2016-08-27,14:30,Hamburger SV vs Ingolstadt,Hamburger SV,Ingolstadt,2.37,3.19,3.27,Hamburger SV,Hamburger SV,0.489,N,1,1,Draw,3.19
+61,bundesliga,2016-08-27,14:30,Frankfurt vs Schalke 04,Frankfurt,Schalke 04,3.31,3.46,2.22,Schalke 04,Frankfurt,0.599,Y,1,0,Frankfurt,3.31
+62,bundesliga,2016-08-27,14:30,FC Koln vs Darmstadt,FC Koln,Darmstadt,1.55,4.08,6.72,FC Koln,FC Koln,0.642,N,2,0,FC Koln,1.55
+63,premier-league,2016-08-27,15:00,Southampton vs Sunderland,Southampton,Sunderland,1.47,4.56,7.43,Southampton,Southampton,0.593,N,1,1,Draw,4.56
+64,premier-league,2016-08-27,15:00,Crystal Palace vs Bournemouth,Crystal Palace,Bournemouth,2.25,3.26,3.54,Crystal Palace,Crystal Palace,0.413,N,1,1,Draw,3.26
+65,premier-league,2016-08-27,15:00,Watford vs Arsenal,Watford,Arsenal,5.8,4.01,1.64,Arsenal,Arsenal,0.494,N,1,3,Arsenal,1.64
+66,premier-league,2016-08-27,15:00,Everton vs Stoke City,Everton,Stoke City,1.67,4.03,5.36,Everton,Everton,0.526,N,1,0,Everton,1.67
+67,premier-league,2016-08-27,15:00,Leicester City vs Swansea City,Leicester City,Swansea City,1.68,3.94,5.45,Leicester City,Leicester City,0.541,N,2,1,Leicester City,1.68
+68,premier-league,2016-08-27,15:00,Chelsea vs Burnley,Chelsea,Burnley,1.24,6.25,14.65,Chelsea,Chelsea,0.669,N,3,0,Chelsea,1.24
+69,ligue-1,2016-08-27,16:00,Dijon vs Lyon,Dijon,Lyon,4.94,3.66,1.76,Lyon,Lyon,0.489,N,4,2,Dijon,4.94
+70,serie-a,2016-08-27,17:00,Lazio Roma vs Juventus,Lazio Roma,Juventus,4.18,3.23,2.04,Juventus,Juventus,0.409,N,0,1,Juventus,2.04
+71,laliga,2016-08-27,17:15,Eibar vs Valencia,Eibar,Valencia,2.76,3.28,2.69,Valencia,Eibar,0.578,Y,1,0,Eibar,2.76
+72,laliga,2016-08-27,17:15,Osasuna vs Real Sociedad,Osasuna,Real Sociedad,3.08,3.11,2.54,Real Sociedad,Real Sociedad,0.605,N,0,2,Real Sociedad,2.54
+73,bundesliga,2016-08-27,17:30,Monchengladb. vs Leverkusen,Monchengladb.,Leverkusen,2.47,3.48,2.88,Monchengladb.,Monchengladb.,0.411,N,2,1,Monchengladb.,2.47
+74,premier-league,2016-08-27,17:30,Hull City vs Manchester Utd,Hull City,Manchester Utd,8.54,4.47,1.44,Manchester Utd,Manchester Utd,0.589,N,0,1,Manchester Utd,1.44
+75,ligue-1,2016-08-27,19:00,Metz vs Angers,Metz,Angers,2.61,3.0,3.04,Metz,Metz,0.492,N,2,0,Metz,2.61
+76,ligue-1,2016-08-27,19:00,Caen vs Bastia,Caen,Bastia,2.22,3.07,3.72,Caen,Caen,0.456,N,2,0,Caen,2.22
+77,ligue-1,2016-08-27,19:00,Nice vs Lille,Nice,Lille,2.62,2.91,3.13,Nice,Nice,0.672,N,1,1,Draw,2.91
+78,ligue-1,2016-08-27,19:00,Nancy vs Guingamp,Nancy,Guingamp,2.04,3.27,4.05,Nancy,Guingamp,0.403,Y,0,2,Guingamp,4.05
+79,ligue-1,2016-08-27,19:00,Montpellier vs Rennes,Montpellier,Rennes,2.11,3.19,3.89,Montpellier,Montpellier,0.413,N,1,1,Draw,3.19
+80,laliga,2016-08-27,19:15,Real Madrid vs Celta Vigo,Real Madrid,Celta Vigo,1.17,8.01,16.15,Real Madrid,Real Madrid,0.641,N,2,1,Real Madrid,1.17
+81,serie-a,2016-08-27,19:45,Napoli vs AC Milan,Napoli,AC Milan,1.61,4.01,5.94,Napoli,Napoli,0.478,N,4,2,Napoli,1.61
+82,laliga,2016-08-27,21:15,Leganes vs Atletico Madrid,Leganes,Atletico Madrid,8.71,3.93,1.49,Atletico Madrid,Atletico Madrid,0.458,N,0,0,Draw,3.93
+83,premier-league,2016-08-28,13:30,West Bromwich vs Middlesbrough,West Bromwich,Middlesbrough,2.61,3.06,3.08,West Bromwich,West Bromwich,0.523,N,0,0,Draw,3.06
+84,ligue-1,2016-08-28,14:00,Bordeaux vs Nantes,Bordeaux,Nantes,2.12,3.09,4.01,Bordeaux,Bordeaux,0.534,N,1,0,Bordeaux,2.12
+85,bundesliga,2016-08-28,14:30,Hertha Berlin vs Freiburg,Hertha Berlin,Freiburg,1.99,3.45,4.01,Hertha Berlin,Hertha Berlin,0.571,N,2,1,Hertha Berlin,1.99
+86,premier-league,2016-08-28,16:00,Manchester City vs West Ham Utd,Manchester City,West Ham Utd,1.26,6.38,11.84,Manchester City,Manchester City,0.647,N,3,1,Manchester City,1.26
+87,ligue-1,2016-08-28,16:00,Saint-Etienne vs Toulouse,Saint-Etienne,Toulouse,2.18,3.14,3.73,Saint-Etienne,Saint-Etienne,0.483,N,0,0,Draw,3.14
+88,bundesliga,2016-08-28,16:30,Hoffenheim vs RB Leipzig,Hoffenheim,RB Leipzig,2.43,3.41,2.98,Hoffenheim,Hoffenheim,0.397,N,2,2,Draw,3.41
+89,serie-a,2016-08-28,17:00,Inter Milan vs Palermo,Inter Milan,Palermo,1.31,5.47,10.69,Inter Milan,Inter Milan,0.655,N,1,1,Draw,5.47
+90,laliga,2016-08-28,17:15,Alaves vs Sporting Gijon,Alaves,Sporting Gijon,2.42,3.16,3.24,Alaves,Alaves,0.588,N,0,0,Draw,3.16
+91,laliga,2016-08-28,17:15,Las Palmas vs Granada,Las Palmas,Granada,1.83,3.65,4.63,Las Palmas,Las Palmas,0.607,N,5,1,Las Palmas,1.83
+92,laliga,2016-08-28,19:15,Athletic Bilbao vs FC Barcelona,Athletic Bilbao,FC Barcelona,6.03,4.3,1.56,FC Barcelona,FC Barcelona,0.413,N,0,1,FC Barcelona,1.56
+93,serie-a,2016-08-28,19:45,Crotone vs Genoa,Crotone,Genoa,6.13,3.89,1.61,Genoa,Genoa,0.468,N,1,3,Genoa,1.61
+94,serie-a,2016-08-28,19:45,Udinese vs Empoli,Udinese,Empoli,2.05,3.33,3.95,Udinese,Udinese,0.564,N,2,0,Udinese,2.05
+95,serie-a,2016-08-28,19:45,Torino vs Bologna,Torino,Bologna,1.89,3.37,4.65,Torino,Torino,0.536,N,5,1,Torino,1.89
+96,serie-a,2016-08-28,19:45,Cagliari vs AS Roma,Cagliari,AS Roma,5.18,4.09,1.66,AS Roma,AS Roma,0.493,N,2,2,Draw,4.09
+97,serie-a,2016-08-28,19:45,Fiorentina vs Chievo,Fiorentina,Chievo,1.65,3.7,6.11,Fiorentina,Fiorentina,0.502,N,1,0,Fiorentina,1.65
+98,serie-a,2016-08-28,19:45,Sampdoria vs Atalanta,Sampdoria,Atalanta,2.49,3.22,3.06,Sampdoria,Atalanta,0.389,Y,2,1,Sampdoria,2.49
+99,ligue-1,2016-08-28,19:45,Monaco vs Paris SG,Monaco,Paris SG,4.54,3.67,1.83,Paris SG,Monaco,0.512,Y,3,1,Monaco,4.54
+100,laliga,2016-08-28,21:15,Villarreal vs FC Sevilla,Villarreal,FC Sevilla,2.39,3.41,3.05,Villarreal,Villarreal,0.436,N,0,0,Draw,3.41
+101,bundesliga,2016-09-09,19:30,Schalke 04 vs Bayern Munich,Schalke 04,Bayern Munich,10.76,5.78,1.3,Bayern Munich,Bayern Munich,0.592,N,0,2,Bayern Munich,1.3
+102,laliga,2016-09-09,19:45,Real Sociedad vs Espanyol,Real Sociedad,Espanyol,2.0,3.5,3.96,Real Sociedad,Real Sociedad,0.518,N,1,1,Draw,3.5
+103,ligue-1,2016-09-09,19:45,Paris SG vs Saint-Etienne,Paris SG,Saint-Etienne,1.37,4.97,9.36,Paris SG,Paris SG,0.581,N,1,1,Draw,4.97
+104,laliga,2016-09-10,12:00,Celta Vigo vs Atletico Madrid,Celta Vigo,Atletico Madrid,5.8,3.53,1.72,Atletico Madrid,Atletico Madrid,0.396,N,0,4,Atletico Madrid,1.72
+105,premier-league,2016-09-10,12:30,Manchester Utd vs Manchester City,Manchester Utd,Manchester City,2.4,3.09,3.39,Manchester Utd,Manchester Utd,0.403,N,1,2,Manchester City,3.39
+106,bundesliga,2016-09-10,14:30,Leverkusen vs Hamburger SV,Leverkusen,Hamburger SV,1.54,4.34,6.36,Leverkusen,Leverkusen,0.547,N,3,1,Leverkusen,1.54
+107,bundesliga,2016-09-10,14:30,Darmstadt vs Frankfurt,Darmstadt,Frankfurt,3.29,3.33,2.29,Frankfurt,Frankfurt,0.605,N,1,0,Darmstadt,3.29
+108,bundesliga,2016-09-10,14:30,Ingolstadt vs Hertha Berlin,Ingolstadt,Hertha Berlin,2.34,3.13,3.38,Ingolstadt,Hertha Berlin,0.543,Y,0,2,Hertha Berlin,3.38
+109,bundesliga,2016-09-10,14:30,Freiburg vs Monchengladb.,Freiburg,Monchengladb.,3.68,3.68,2.01,Monchengladb.,Freiburg,0.529,Y,3,1,Freiburg,3.68
+110,bundesliga,2016-09-10,14:30,Wolfsburg vs FC Koln,Wolfsburg,FC Koln,1.81,3.76,4.53,Wolfsburg,FC Koln,0.419,Y,0,0,Draw,3.76
+111,laliga,2016-09-10,15:00,Real Madrid vs Osasuna,Real Madrid,Osasuna,1.06,15.4,37.89,Real Madrid,Real Madrid,0.699,N,5,2,Real Madrid,1.06
+112,premier-league,2016-09-10,15:00,Stoke City vs Tottenham,Stoke City,Tottenham,4.18,3.61,1.93,Tottenham,Tottenham,0.489,N,0,4,Tottenham,1.93
+113,premier-league,2016-09-10,15:00,Arsenal vs Southampton,Arsenal,Southampton,1.62,4.0,6.02,Arsenal,Arsenal,0.602,N,2,1,Arsenal,1.62
+114,premier-league,2016-09-10,15:00,Burnley vs Hull City,Burnley,Hull City,2.56,3.1,3.11,Burnley,Burnley,0.555,N,1,1,Draw,3.1
+115,premier-league,2016-09-10,15:00,Bournemouth vs West Bromwich,Bournemouth,West Bromwich,2.11,3.18,4.06,Bournemouth,Bournemouth,0.426,N,1,0,Bournemouth,2.11
+116,premier-league,2016-09-10,15:00,Middlesbrough vs Crystal Palace,Middlesbrough,Crystal Palace,2.4,3.15,3.32,Middlesbrough,Middlesbrough,0.502,N,1,2,Crystal Palace,3.32
+117,ligue-1,2016-09-10,16:00,Lyon vs Bordeaux,Lyon,Bordeaux,1.61,4.12,5.57,Lyon,Lyon,0.561,N,1,3,Bordeaux,5.57
+118,serie-a,2016-09-10,17:00,Juventus vs Sassuolo,Juventus,Sassuolo,1.31,5.26,11.74,Juventus,Juventus,0.695,N,3,1,Juventus,1.31
+119,laliga,2016-09-10,17:15,FC Sevilla vs Las Palmas,FC Sevilla,Las Palmas,1.52,4.52,6.35,FC Sevilla,FC Sevilla,0.581,N,2,1,FC Sevilla,1.52
+120,laliga,2016-09-10,17:15,Malaga vs Villarreal,Malaga,Villarreal,2.45,3.08,3.27,Malaga,Villarreal,0.398,Y,0,2,Villarreal,3.27
+121,bundesliga,2016-09-10,17:30,RB Leipzig vs Dortmund,RB Leipzig,Dortmund,5.67,4.24,1.6,Dortmund,RB Leipzig,0.547,Y,1,0,RB Leipzig,5.67
+122,premier-league,2016-09-10,17:30,Liverpool vs Leicester City,Liverpool,Leicester City,1.68,4.02,5.35,Liverpool,Liverpool,0.681,N,4,1,Liverpool,1.68
+123,ligue-1,2016-09-10,19:00,Bastia vs Toulouse,Bastia,Toulouse,2.89,2.92,2.81,Toulouse,Bastia,0.389,Y,2,1,Bastia,2.89
+124,ligue-1,2016-09-10,19:00,Lorient vs Nancy,Lorient,Nancy,2.48,3.13,3.12,Lorient,Lorient,0.37,N,0,2,Nancy,3.12
+125,ligue-1,2016-09-10,19:00,Angers vs Dijon,Angers,Dijon,2.27,3.04,3.64,Angers,Angers,0.45,N,3,1,Angers,2.27
+126,ligue-1,2016-09-10,19:00,Guingamp vs Montpellier,Guingamp,Montpellier,2.37,3.15,3.27,Guingamp,Guingamp,0.553,N,1,1,Draw,3.15
+127,ligue-1,2016-09-10,19:00,Lille vs Monaco,Lille,Monaco,2.43,3.05,3.27,Lille,Monaco,0.569,Y,1,4,Monaco,3.27
+128,laliga,2016-09-10,19:30,FC Barcelona vs Alaves,FC Barcelona,Alaves,1.09,11.95,31.16,FC Barcelona,FC Barcelona,0.606,N,1,2,Alaves,31.16
+129,serie-a,2016-09-10,19:45,Palermo vs Napoli,Palermo,Napoli,8.88,5.07,1.37,Napoli,Napoli,0.613,N,0,3,Napoli,1.37
+130,laliga,2016-09-11,11:00,Sporting Gijon vs Leganes,Sporting Gijon,Leganes,2.49,3.07,3.22,Sporting Gijon,Sporting Gijon,0.407,N,2,1,Sporting Gijon,2.49
+131,serie-a,2016-09-11,11:30,Bologna vs Cagliari,Bologna,Cagliari,2.2,3.24,3.6,Bologna,Bologna,0.476,N,2,1,Bologna,2.2
+132,serie-a,2016-09-11,14:00,Atalanta vs Torino,Atalanta,Torino,2.62,3.22,2.87,Atalanta,Atalanta,0.499,N,2,1,Atalanta,2.62
+133,serie-a,2016-09-11,14:00,AC Milan vs Udinese,AC Milan,Udinese,1.58,4.11,6.02,AC Milan,AC Milan,0.583,N,0,1,Udinese,6.02
+134,serie-a,2016-09-11,14:00,AS Roma vs Sampdoria,AS Roma,Sampdoria,1.37,5.15,8.68,AS Roma,AS Roma,0.625,N,3,2,AS Roma,1.37
+135,serie-a,2016-09-11,14:00,Chievo vs Lazio Roma,Chievo,Lazio Roma,3.51,3.18,2.27,Lazio Roma,Lazio Roma,0.392,N,1,1,Draw,3.18
+136,ligue-1,2016-09-11,14:00,Nantes vs Metz,Nantes,Metz,1.72,3.49,5.65,Nantes,Nantes,0.46,N,0,3,Metz,5.65
+137,bundesliga,2016-09-11,14:30,Werder Bremen vs Augsburg,Werder Bremen,Augsburg,2.41,3.47,2.96,Werder Bremen,Werder Bremen,0.419,N,1,2,Augsburg,2.96
+138,laliga,2016-09-11,15:00,Valencia vs Real Betis,Valencia,Real Betis,1.55,4.32,6.21,Valencia,Valencia,0.406,N,2,3,Real Betis,6.21
+139,premier-league,2016-09-11,16:00,Swansea City vs Chelsea,Swansea City,Chelsea,6.29,4.17,1.58,Chelsea,Chelsea,0.689,N,2,2,Draw,4.17
+140,ligue-1,2016-09-11,16:00,Rennes vs Caen,Rennes,Caen,2.06,3.35,3.84,Rennes,Rennes,0.554,N,2,0,Rennes,2.06
+141,laliga,2016-09-11,17:15,Granada vs Eibar,Granada,Eibar,2.46,3.24,3.09,Granada,Eibar,0.493,Y,1,2,Eibar,3.09
+142,laliga,2016-09-11,19:30,Deportivo vs Athletic Bilbao,Deportivo,Athletic Bilbao,3.53,3.26,2.22,Athletic Bilbao,Athletic Bilbao,0.422,N,0,1,Athletic Bilbao,2.22
+143,serie-a,2016-09-11,19:45,Pescara vs Inter Milan,Pescara,Inter Milan,4.48,3.51,1.88,Inter Milan,Inter Milan,0.567,N,1,2,Inter Milan,1.88
+144,premier-league,2016-09-12,20:00,Sunderland vs Everton,Sunderland,Everton,3.66,3.4,2.14,Everton,Everton,0.462,N,0,3,Everton,2.14
+145,bundesliga,2016-09-16,19:30,FC Koln vs Freiburg,FC Koln,Freiburg,1.74,3.84,4.92,FC Koln,FC Koln,0.528,N,3,0,FC Koln,1.74
+146,laliga,2016-09-16,19:45,Real Betis vs Granada,Real Betis,Granada,1.75,3.79,4.95,Real Betis,Real Betis,0.567,N,2,2,Draw,3.79
+147,serie-a,2016-09-16,19:45,Sampdoria vs AC Milan,Sampdoria,AC Milan,3.13,3.29,2.4,AC Milan,AC Milan,0.42,N,0,1,AC Milan,2.4
+148,ligue-1,2016-09-16,19:45,Caen vs Paris SG,Caen,Paris SG,7.78,4.79,1.42,Paris SG,Paris SG,0.56,N,0,6,Paris SG,1.42
+149,premier-league,2016-09-16,20:00,Chelsea vs Liverpool,Chelsea,Liverpool,2.18,3.5,3.43,Chelsea,Chelsea,0.51,N,1,2,Liverpool,3.43
+150,laliga,2016-09-17,12:00,Leganes vs FC Barcelona,Leganes,FC Barcelona,17.13,7.64,1.18,FC Barcelona,FC Barcelona,0.555,N,1,5,FC Barcelona,1.18
+151,bundesliga,2016-09-17,14:30,Hoffenheim vs Wolfsburg,Hoffenheim,Wolfsburg,2.74,3.62,2.5,Wolfsburg,Hoffenheim,0.621,Y,0,0,Draw,3.62
+152,bundesliga,2016-09-17,14:30,Frankfurt vs Leverkusen,Frankfurt,Leverkusen,3.75,3.6,2.02,Leverkusen,Frankfurt,0.582,Y,2,1,Frankfurt,3.75
+153,bundesliga,2016-09-17,14:30,Hamburger SV vs RB Leipzig,Hamburger SV,RB Leipzig,2.7,3.31,2.72,Hamburger SV,RB Leipzig,0.611,Y,0,4,RB Leipzig,2.72
+154,bundesliga,2016-09-17,14:30,Dortmund vs Darmstadt,Dortmund,Darmstadt,1.16,8.23,17.76,Dortmund,Dortmund,0.659,N,6,0,Dortmund,1.16
+155,bundesliga,2016-09-17,14:30,Bayern Munich vs Ingolstadt,Bayern Munich,Ingolstadt,1.14,8.77,22.65,Bayern Munich,Bayern Munich,0.686,N,3,1,Bayern Munich,1.14
+156,premier-league,2016-09-17,15:00,Manchester City vs Bournemouth,Manchester City,Bournemouth,1.25,6.61,12.41,Manchester City,Manchester City,0.646,N,4,0,Manchester City,1.25
+157,premier-league,2016-09-17,15:00,West Bromwich vs West Ham Utd,West Bromwich,West Ham Utd,2.82,3.21,2.71,West Ham Utd,West Bromwich,0.499,Y,4,2,West Bromwich,2.82
+158,premier-league,2016-09-17,15:00,Leicester City vs Burnley,Leicester City,Burnley,1.48,4.46,7.59,Leicester City,Leicester City,0.443,N,3,0,Leicester City,1.48
+159,premier-league,2016-09-17,15:00,Hull City vs Arsenal,Hull City,Arsenal,5.91,4.07,1.62,Arsenal,Arsenal,0.626,N,1,4,Arsenal,1.62
+160,laliga,2016-09-17,15:15,Atletico Madrid vs Sporting Gijon,Atletico Madrid,Sporting Gijon,1.19,6.97,18.52,Atletico Madrid,Atletico Madrid,0.654,N,5,0,Atletico Madrid,1.19
+161,ligue-1,2016-09-17,16:00,Monaco vs Rennes,Monaco,Rennes,1.78,3.6,4.87,Monaco,Monaco,0.626,N,3,0,Monaco,1.78
+162,serie-a,2016-09-17,17:00,Lazio Roma vs Pescara,Lazio Roma,Pescara,1.5,4.4,6.83,Lazio Roma,Lazio Roma,0.676,N,3,0,Lazio Roma,1.5
+163,bundesliga,2016-09-17,17:30,Monchengladb. vs Werder Bremen,Monchengladb.,Werder Bremen,1.44,4.99,6.91,Monchengladb.,Monchengladb.,0.481,N,4,1,Monchengladb.,1.44
+164,laliga,2016-09-17,17:30,Eibar vs FC Sevilla,Eibar,FC Sevilla,2.92,3.34,2.5,FC Sevilla,FC Sevilla,0.415,N,1,1,Draw,3.34
+165,premier-league,2016-09-17,17:30,Everton vs Middlesbrough,Everton,Middlesbrough,1.63,3.87,6.09,Everton,Everton,0.548,N,3,1,Everton,1.63
+166,ligue-1,2016-09-17,19:00,Bordeaux vs Angers,Bordeaux,Angers,1.79,3.44,5.13,Bordeaux,Bordeaux,0.55,N,0,1,Angers,5.13
+167,ligue-1,2016-09-17,19:00,Nancy vs Nantes,Nancy,Nantes,2.31,2.97,3.66,Nancy,Nancy,0.487,N,1,1,Draw,2.97
+168,ligue-1,2016-09-17,19:00,Lorient vs Lille,Lorient,Lille,3.51,3.19,2.24,Lille,Lorient,0.39,Y,1,0,Lorient,3.51
+169,ligue-1,2016-09-17,19:00,Dijon vs Metz,Dijon,Metz,1.96,3.48,4.03,Dijon,Dijon,0.459,N,0,0,Draw,3.48
+170,ligue-1,2016-09-17,19:00,Toulouse vs Guingamp,Toulouse,Guingamp,2.11,3.28,3.78,Toulouse,Toulouse,0.417,N,2,1,Toulouse,2.11
+171,laliga,2016-09-17,19:45,Las Palmas vs Malaga,Las Palmas,Malaga,2.22,3.38,3.41,Las Palmas,Las Palmas,0.466,N,1,0,Las Palmas,2.22
+172,serie-a,2016-09-17,19:45,Napoli vs Bologna,Napoli,Bologna,1.26,6.0,12.22,Napoli,Napoli,0.605,N,3,1,Napoli,1.26
+173,laliga,2016-09-18,11:00,Osasuna vs Celta Vigo,Osasuna,Celta Vigo,3.36,3.22,2.31,Celta Vigo,Celta Vigo,0.48,N,0,0,Draw,3.22
+174,serie-a,2016-09-18,11:30,Udinese vs Chievo,Udinese,Chievo,2.27,3.15,3.53,Udinese,Udinese,0.468,N,1,2,Chievo,3.53
+175,premier-league,2016-09-18,12:00,Watford vs Manchester Utd,Watford,Manchester Utd,6.41,4.2,1.56,Manchester Utd,Manchester Utd,0.444,N,3,1,Watford,6.41
+176,serie-a,2016-09-18,14:00,Torino vs Empoli,Torino,Empoli,1.68,3.69,5.73,Torino,Torino,0.597,N,0,0,Draw,3.69
+177,serie-a,2016-09-18,14:00,Crotone vs Palermo,Crotone,Palermo,2.96,3.15,2.59,Palermo,Crotone,0.471,Y,1,1,Draw,3.15
+178,serie-a,2016-09-18,14:00,Cagliari vs Atalanta,Cagliari,Atalanta,2.42,3.27,3.09,Cagliari,Atalanta,0.411,Y,3,0,Cagliari,2.42
+179,serie-a,2016-09-18,14:00,Sassuolo vs Genoa,Sassuolo,Genoa,2.39,3.22,3.19,Sassuolo,Sassuolo,0.367,N,2,0,Sassuolo,2.39
+180,ligue-1,2016-09-18,14:00,Montpellier vs Nice,Montpellier,Nice,2.18,3.33,3.52,Montpellier,Nice,0.567,Y,1,1,Draw,3.33
+181,premier-league,2016-09-18,14:15,Crystal Palace vs Stoke City,Crystal Palace,Stoke City,2.09,3.39,3.82,Crystal Palace,Crystal Palace,0.402,N,4,1,Crystal Palace,2.09
+182,premier-league,2016-09-18,14:15,Southampton vs Swansea City,Southampton,Swansea City,1.67,3.89,5.65,Southampton,Southampton,0.613,N,1,0,Southampton,1.67
+183,laliga,2016-09-18,15:15,Athletic Bilbao vs Valencia,Athletic Bilbao,Valencia,1.84,3.67,4.43,Athletic Bilbao,Athletic Bilbao,0.596,N,2,1,Athletic Bilbao,1.84
+184,ligue-1,2016-09-18,16:00,Saint-Etienne vs Bastia,Saint-Etienne,Bastia,1.75,3.4,5.66,Saint-Etienne,Saint-Etienne,0.555,N,1,0,Saint-Etienne,1.75
+185,bundesliga,2016-09-18,16:30,Hertha Berlin vs Schalke 04,Hertha Berlin,Schalke 04,2.74,3.34,2.66,Schalke 04,Hertha Berlin,0.6,Y,2,0,Hertha Berlin,2.74
+186,premier-league,2016-09-18,16:30,Tottenham vs Sunderland,Tottenham,Sunderland,1.33,5.51,10.16,Tottenham,Tottenham,0.674,N,1,0,Tottenham,1.33
+187,serie-a,2016-09-18,17:00,Inter Milan vs Juventus,Inter Milan,Juventus,4.63,3.41,1.88,Juventus,Juventus,0.462,N,2,1,Inter Milan,4.63
+188,laliga,2016-09-18,17:30,Villarreal vs Real Sociedad,Villarreal,Real Sociedad,1.84,3.38,5.01,Villarreal,Villarreal,0.493,N,2,1,Villarreal,1.84
+189,laliga,2016-09-18,19:45,Espanyol vs Real Madrid,Espanyol,Real Madrid,7.79,5.0,1.41,Real Madrid,Real Madrid,0.525,N,0,2,Real Madrid,1.41
+190,serie-a,2016-09-18,19:45,Fiorentina vs AS Roma,Fiorentina,AS Roma,2.99,3.41,2.42,AS Roma,AS Roma,0.409,N,1,0,Fiorentina,2.99
+191,ligue-1,2016-09-18,19:45,Marseille vs Lyon,Marseille,Lyon,2.58,3.28,2.84,Marseille,Marseille,0.413,N,0,0,Draw,3.28
+192,laliga,2016-09-19,19:45,Alaves vs Deportivo,Alaves,Deportivo,2.35,3.04,3.47,Alaves,Alaves,0.532,N,0,0,Draw,3.04
+193,ligue-1,2016-09-20,18:00,Lille vs Toulouse,Lille,Toulouse,2.22,3.08,3.7,Lille,Lille,0.391,N,1,2,Toulouse,3.7
+194,bundesliga,2016-09-20,19:00,Darmstadt vs Hoffenheim,Darmstadt,Hoffenheim,3.68,3.71,2.01,Hoffenheim,Hoffenheim,0.611,N,1,1,Draw,3.71
+195,bundesliga,2016-09-20,19:00,Ingolstadt vs Frankfurt,Ingolstadt,Frankfurt,2.03,3.37,3.95,Ingolstadt,Frankfurt,0.538,Y,0,2,Frankfurt,3.95
+196,bundesliga,2016-09-20,19:00,Freiburg vs Hamburger SV,Freiburg,Hamburger SV,2.14,3.48,3.5,Freiburg,Freiburg,0.558,N,1,0,Freiburg,2.14
+197,bundesliga,2016-09-20,19:00,Wolfsburg vs Dortmund,Wolfsburg,Dortmund,4.59,4.03,1.74,Dortmund,Dortmund,0.444,N,1,5,Dortmund,1.74
+198,laliga,2016-09-20,19:00,Malaga vs Eibar,Malaga,Eibar,1.8,3.43,5.16,Malaga,Malaga,0.452,N,2,1,Malaga,1.8
+199,serie-a,2016-09-20,19:45,AC Milan vs Lazio Roma,AC Milan,Lazio Roma,2.26,3.32,3.37,AC Milan,AC Milan,0.475,N,2,0,AC Milan,2.26
+200,ligue-1,2016-09-20,20:00,Paris SG vs Dijon,Paris SG,Dijon,1.11,10.03,23.66,Paris SG,Paris SG,0.638,N,3,0,Paris SG,1.11
+201,laliga,2016-09-20,21:00,FC Sevilla vs Real Betis,FC Sevilla,Real Betis,1.53,4.4,6.26,FC Sevilla,FC Sevilla,0.615,N,1,0,FC Sevilla,1.53
+202,serie-a,2016-09-21,17:30,Bologna vs Sampdoria,Bologna,Sampdoria,2.26,3.16,3.54,Bologna,Bologna,0.46,N,2,0,Bologna,2.26
+203,ligue-1,2016-09-21,18:00,Guingamp vs Lorient,Guingamp,Lorient,1.97,3.39,4.17,Guingamp,Guingamp,0.63,N,1,0,Guingamp,1.97
+204,ligue-1,2016-09-21,18:00,Nantes vs Saint-Etienne,Nantes,Saint-Etienne,2.69,2.94,3.0,Nantes,Nantes,0.376,N,0,0,Draw,2.94
+205,ligue-1,2016-09-21,18:00,Nice vs Monaco,Nice,Monaco,3.43,3.29,2.23,Monaco,Nice,0.484,Y,4,0,Nice,3.43
+206,ligue-1,2016-09-21,18:00,Angers vs Caen,Angers,Caen,2.23,3.15,3.6,Angers,Angers,0.464,N,2,1,Angers,2.23
+207,ligue-1,2016-09-21,18:00,Metz vs Bordeaux,Metz,Bordeaux,3.14,3.28,2.37,Bordeaux,Metz,0.402,Y,0,3,Bordeaux,2.37
+208,ligue-1,2016-09-21,18:00,Lyon vs Montpellier,Lyon,Montpellier,1.71,3.81,5.14,Lyon,Lyon,0.594,N,5,1,Lyon,1.71
+209,ligue-1,2016-09-21,18:00,Bastia vs Nancy,Bastia,Nancy,2.29,3.0,3.66,Bastia,Bastia,0.444,N,0,0,Draw,3.0
+210,bundesliga,2016-09-21,19:00,Leverkusen vs Augsburg,Leverkusen,Augsburg,1.47,4.64,6.96,Leverkusen,Leverkusen,0.486,N,0,0,Draw,4.64
+211,bundesliga,2016-09-21,19:00,Schalke 04 vs FC Koln,Schalke 04,FC Koln,2.22,3.36,3.42,Schalke 04,FC Koln,0.392,Y,1,3,FC Koln,3.42
+212,bundesliga,2016-09-21,19:00,RB Leipzig vs Monchengladb.,RB Leipzig,Monchengladb.,2.19,3.52,3.33,RB Leipzig,RB Leipzig,0.649,N,1,1,Draw,3.52
+213,bundesliga,2016-09-21,19:00,Bayern Munich vs Hertha Berlin,Bayern Munich,Hertha Berlin,1.14,8.5,21.82,Bayern Munich,Bayern Munich,0.569,N,3,0,Bayern Munich,1.14
+214,laliga,2016-09-21,19:00,Celta Vigo vs Sporting Gijon,Celta Vigo,Sporting Gijon,1.61,4.07,5.8,Celta Vigo,Celta Vigo,0.585,N,2,1,Celta Vigo,1.61
+215,laliga,2016-09-21,19:00,Real Madrid vs Villarreal,Real Madrid,Villarreal,1.25,6.47,11.87,Real Madrid,Real Madrid,0.575,N,1,1,Draw,6.47
+216,serie-a,2016-09-21,19:45,Empoli vs Inter Milan,Empoli,Inter Milan,4.09,3.38,2.01,Inter Milan,Inter Milan,0.515,N,0,2,Inter Milan,2.01
+217,serie-a,2016-09-21,19:45,Juventus vs Cagliari,Juventus,Cagliari,1.19,7.14,16.93,Juventus,Juventus,0.66,N,4,0,Juventus,1.19
+218,serie-a,2016-09-21,19:45,Udinese vs Fiorentina,Udinese,Fiorentina,3.24,3.19,2.39,Fiorentina,Udinese,0.431,Y,2,2,Draw,3.19
+219,serie-a,2016-09-21,19:45,AS Roma vs Crotone,AS Roma,Crotone,1.14,8.78,21.83,AS Roma,AS Roma,0.692,N,4,0,AS Roma,1.14
+220,serie-a,2016-09-21,19:45,Genoa vs Napoli,Genoa,Napoli,4.86,3.79,1.75,Napoli,Napoli,0.453,N,0,0,Draw,3.79
+221,serie-a,2016-09-21,19:45,Pescara vs Torino,Pescara,Torino,3.12,3.28,2.41,Torino,Torino,0.544,N,0,0,Draw,3.28
+222,serie-a,2016-09-21,19:45,Chievo vs Sassuolo,Chievo,Sassuolo,2.33,3.13,3.43,Chievo,Chievo,0.572,N,2,1,Chievo,2.33
+223,serie-a,2016-09-21,19:45,Atalanta vs Palermo,Atalanta,Palermo,1.56,4.04,6.62,Atalanta,Atalanta,0.663,N,0,1,Palermo,6.62
+224,ligue-1,2016-09-21,20:00,Rennes vs Marseille,Rennes,Marseille,2.32,3.24,3.28,Rennes,Rennes,0.426,N,3,2,Rennes,2.32
+225,laliga,2016-09-21,21:00,Real Sociedad vs Las Palmas,Real Sociedad,Las Palmas,1.89,3.6,4.31,Real Sociedad,Real Sociedad,0.537,N,4,1,Real Sociedad,1.89
+226,laliga,2016-09-21,21:00,Granada vs Athletic Bilbao,Granada,Athletic Bilbao,4.12,3.56,1.95,Athletic Bilbao,Athletic Bilbao,0.519,N,1,2,Athletic Bilbao,1.95
+227,laliga,2016-09-21,21:00,FC Barcelona vs Atletico Madrid,FC Barcelona,Atletico Madrid,1.56,4.26,6.18,FC Barcelona,FC Barcelona,0.531,N,1,1,Draw,4.26
+228,laliga,2016-09-22,19:00,Deportivo vs Leganes,Deportivo,Leganes,2.19,3.16,3.75,Deportivo,Deportivo,0.473,N,1,2,Leganes,3.75
+229,laliga,2016-09-22,19:00,Osasuna vs Espanyol,Osasuna,Espanyol,3.22,3.22,2.39,Espanyol,Espanyol,0.522,N,1,2,Espanyol,2.39
+230,laliga,2016-09-22,21:00,Valencia vs Alaves,Valencia,Alaves,1.55,4.32,6.3,Valencia,Alaves,0.408,Y,2,1,Valencia,1.55
+231,bundesliga,2016-09-23,19:30,Dortmund vs Freiburg,Dortmund,Freiburg,1.2,7.39,14.46,Dortmund,Dortmund,0.556,N,3,1,Dortmund,1.2
+232,laliga,2016-09-23,19:45,Real Betis vs Malaga,Real Betis,Malaga,2.54,3.19,3.01,Real Betis,Real Betis,0.412,N,1,0,Real Betis,2.54
+233,ligue-1,2016-09-23,19:45,Toulouse vs Paris SG,Toulouse,Paris SG,7.34,4.43,1.47,Paris SG,Paris SG,0.466,N,2,0,Toulouse,7.34
+234,laliga,2016-09-24,12:00,Eibar vs Real Sociedad,Eibar,Real Sociedad,2.68,3.15,2.86,Eibar,Eibar,0.401,N,2,0,Eibar,2.68
+235,premier-league,2016-09-24,12:30,Manchester Utd vs Leicester City,Manchester Utd,Leicester City,1.69,3.91,5.44,Manchester Utd,Manchester Utd,0.629,N,4,1,Manchester Utd,1.69
+236,bundesliga,2016-09-24,14:30,Augsburg vs Darmstadt,Augsburg,Darmstadt,1.64,3.84,5.84,Augsburg,Augsburg,0.583,N,1,0,Augsburg,1.64
+237,bundesliga,2016-09-24,14:30,Frankfurt vs Hertha Berlin,Frankfurt,Hertha Berlin,2.36,3.19,3.29,Frankfurt,Frankfurt,0.464,N,3,3,Draw,3.19
+238,bundesliga,2016-09-24,14:30,Monchengladb. vs Ingolstadt,Monchengladb.,Ingolstadt,1.94,3.43,4.24,Monchengladb.,Monchengladb.,0.525,N,2,0,Monchengladb.,1.94
+239,bundesliga,2016-09-24,14:30,Hamburger SV vs Bayern Munich,Hamburger SV,Bayern Munich,15.06,6.95,1.21,Bayern Munich,Bayern Munich,0.651,N,0,1,Bayern Munich,1.21
+240,premier-league,2016-09-24,15:00,Bournemouth vs Everton,Bournemouth,Everton,3.35,3.45,2.25,Everton,Bournemouth,0.395,Y,1,0,Bournemouth,3.35
+241,premier-league,2016-09-24,15:00,Middlesbrough vs Tottenham,Middlesbrough,Tottenham,3.91,3.39,2.06,Tottenham,Tottenham,0.538,N,1,2,Tottenham,2.06
+242,premier-league,2016-09-24,15:00,Stoke City vs West Bromwich,Stoke City,West Bromwich,2.29,3.3,3.38,Stoke City,Stoke City,0.437,N,1,1,Draw,3.3
+243,premier-league,2016-09-24,15:00,Swansea City vs Manchester City,Swansea City,Manchester City,9.0,5.68,1.34,Manchester City,Manchester City,0.625,N,1,3,Manchester City,1.34
+244,premier-league,2016-09-24,15:00,Sunderland vs Crystal Palace,Sunderland,Crystal Palace,2.57,3.24,2.97,Sunderland,Sunderland,0.428,N,2,3,Crystal Palace,2.97
+245,premier-league,2016-09-24,15:00,Liverpool vs Hull City,Liverpool,Hull City,1.24,6.64,12.82,Liverpool,Liverpool,0.7,N,5,1,Liverpool,1.24
+246,laliga,2016-09-24,15:15,Sporting Gijon vs FC Barcelona,Sporting Gijon,FC Barcelona,13.08,6.41,1.24,FC Barcelona,FC Barcelona,0.603,N,0,5,FC Barcelona,1.24
+247,ligue-1,2016-09-24,16:00,Lorient vs Lyon,Lorient,Lyon,3.9,3.42,2.02,Lyon,Lyon,0.558,N,1,0,Lorient,3.9
+248,serie-a,2016-09-24,17:00,Palermo vs Juventus,Palermo,Juventus,14.16,6.19,1.24,Juventus,Juventus,0.678,N,0,1,Juventus,1.24
+249,bundesliga,2016-09-24,17:30,Werder Bremen vs Wolfsburg,Werder Bremen,Wolfsburg,3.92,3.84,1.91,Wolfsburg,Werder Bremen,0.452,Y,2,1,Werder Bremen,3.92
+250,laliga,2016-09-24,17:30,Athletic Bilbao vs FC Sevilla,Athletic Bilbao,FC Sevilla,1.97,3.44,4.17,Athletic Bilbao,FC Sevilla,0.386,Y,3,1,Athletic Bilbao,1.97
+251,premier-league,2016-09-24,17:30,Arsenal vs Chelsea,Arsenal,Chelsea,2.41,3.45,3.06,Arsenal,Chelsea,0.403,Y,3,0,Arsenal,2.41
+252,ligue-1,2016-09-24,19:00,Dijon vs Rennes,Dijon,Rennes,2.51,3.1,3.09,Dijon,Rennes,0.386,Y,3,0,Dijon,2.51
+253,ligue-1,2016-09-24,19:00,Monaco vs Angers,Monaco,Angers,1.75,3.55,5.2,Monaco,Monaco,0.67,N,2,1,Monaco,1.75
+254,ligue-1,2016-09-24,19:00,Bordeaux vs Caen,Bordeaux,Caen,1.78,3.66,4.81,Bordeaux,Bordeaux,0.547,N,0,0,Draw,3.66
+255,ligue-1,2016-09-24,19:00,Bastia vs Guingamp,Bastia,Guingamp,2.53,2.92,3.24,Bastia,Guingamp,0.418,Y,1,0,Bastia,2.53
+256,ligue-1,2016-09-24,19:00,Montpellier vs Metz,Montpellier,Metz,1.62,3.94,5.81,Montpellier,Montpellier,0.488,N,0,1,Metz,5.81
+257,laliga,2016-09-24,19:45,Las Palmas vs Real Madrid,Las Palmas,Real Madrid,8.79,5.68,1.34,Real Madrid,Real Madrid,0.54,N,2,2,Draw,5.68
+258,serie-a,2016-09-24,19:45,Napoli vs Chievo,Napoli,Chievo,1.39,4.78,9.25,Napoli,Napoli,0.59,N,2,0,Napoli,1.39
+259,laliga,2016-09-25,11:00,Leganes vs Valencia,Leganes,Valencia,3.02,3.3,2.46,Valencia,Leganes,0.503,Y,1,2,Valencia,2.46
+260,serie-a,2016-09-25,11:30,Torino vs AS Roma,Torino,AS Roma,3.48,3.49,2.14,AS Roma,AS Roma,0.406,N,3,1,Torino,3.48
+261,serie-a,2016-09-25,14:00,Sassuolo vs Udinese,Sassuolo,Udinese,2.08,3.3,3.93,Sassuolo,Udinese,0.387,Y,1,0,Sassuolo,2.08
+262,serie-a,2016-09-25,14:00,Lazio Roma vs Empoli,Lazio Roma,Empoli,1.52,4.15,7.19,Lazio Roma,Lazio Roma,0.64,N,2,0,Lazio Roma,1.52
+263,serie-a,2016-09-25,14:00,Genoa vs Pescara,Genoa,Pescara,1.66,3.86,5.52,Genoa,Genoa,0.612,N,1,1,Draw,3.86
+264,serie-a,2016-09-25,14:00,Inter Milan vs Bologna,Inter Milan,Bologna,1.47,4.53,7.26,Inter Milan,Inter Milan,0.545,N,1,1,Draw,4.53
+265,ligue-1,2016-09-25,14:00,Saint-Etienne vs Lille,Saint-Etienne,Lille,2.43,3.02,3.31,Saint-Etienne,Saint-Etienne,0.554,N,3,1,Saint-Etienne,2.43
+266,bundesliga,2016-09-25,14:30,Hoffenheim vs Schalke 04,Hoffenheim,Schalke 04,2.86,3.7,2.39,Schalke 04,Hoffenheim,0.604,Y,2,1,Hoffenheim,2.86
+267,laliga,2016-09-25,15:15,Atletico Madrid vs Deportivo,Atletico Madrid,Deportivo,1.2,6.54,19.3,Atletico Madrid,Atletico Madrid,0.61,N,1,0,Atletico Madrid,1.2
+268,premier-league,2016-09-25,16:00,West Ham Utd vs Southampton,West Ham Utd,Southampton,3.04,3.39,2.45,Southampton,West Ham Utd,0.422,Y,0,3,Southampton,2.45
+269,ligue-1,2016-09-25,16:00,Nancy vs Nice,Nancy,Nice,2.47,3.13,3.11,Nancy,Nice,0.589,Y,0,1,Nice,3.11
+270,laliga,2016-09-25,17:30,Villarreal vs Osasuna,Villarreal,Osasuna,1.38,4.78,9.58,Villarreal,Villarreal,0.67,N,3,1,Villarreal,1.38
+271,laliga,2016-09-25,19:45,Espanyol vs Celta Vigo,Espanyol,Celta Vigo,2.3,3.32,3.3,Espanyol,Espanyol,0.499,N,0,2,Celta Vigo,3.3
+272,serie-a,2016-09-25,19:45,Fiorentina vs AC Milan,Fiorentina,AC Milan,2.25,3.23,3.5,Fiorentina,Fiorentina,0.377,N,0,0,Draw,3.23
+273,ligue-1,2016-09-25,19:45,Marseille vs Nantes,Marseille,Nantes,2.12,3.19,3.86,Marseille,Marseille,0.576,N,2,1,Marseille,2.12
+274,serie-a,2016-09-26,18:00,Crotone vs Atalanta,Crotone,Atalanta,4.4,3.35,1.94,Atalanta,Atalanta,0.581,N,1,3,Atalanta,1.94
+275,serie-a,2016-09-26,20:00,Cagliari vs Sampdoria,Cagliari,Sampdoria,2.12,3.36,3.66,Cagliari,Cagliari,0.451,N,2,1,Cagliari,2.12
+276,premier-league,2016-09-26,20:00,Burnley vs Watford,Burnley,Watford,3.29,3.16,2.42,Watford,Burnley,0.436,Y,2,0,Burnley,3.29
+277,bundesliga,2016-09-30,19:30,RB Leipzig vs Augsburg,RB Leipzig,Augsburg,1.74,3.68,5.18,RB Leipzig,RB Leipzig,0.636,N,2,1,RB Leipzig,1.74
+278,laliga,2016-09-30,19:45,Real Sociedad vs Real Betis,Real Sociedad,Real Betis,1.84,3.53,4.75,Real Sociedad,Real Sociedad,0.578,N,1,0,Real Sociedad,1.84
+279,ligue-1,2016-09-30,19:45,Rennes vs Guingamp,Rennes,Guingamp,2.11,3.2,3.88,Rennes,Rennes,0.428,N,1,0,Rennes,2.11
+280,premier-league,2016-09-30,20:00,Everton vs Crystal Palace,Everton,Crystal Palace,1.72,3.89,5.14,Everton,Everton,0.578,N,1,1,Draw,3.89
+281,laliga,2016-10-01,12:00,Granada vs Leganes,Granada,Leganes,2.46,3.23,3.1,Granada,Granada,0.381,N,0,1,Leganes,3.1
+282,premier-league,2016-10-01,12:30,Swansea City vs Liverpool,Swansea City,Liverpool,7.28,4.98,1.44,Liverpool,Liverpool,0.63,N,1,2,Liverpool,1.44
+283,bundesliga,2016-10-01,14:30,Darmstadt vs Werder Bremen,Darmstadt,Werder Bremen,2.98,3.42,2.42,Werder Bremen,Werder Bremen,0.427,N,2,2,Draw,3.42
+284,bundesliga,2016-10-01,14:30,Hertha Berlin vs Hamburger SV,Hertha Berlin,Hamburger SV,2.05,3.3,3.97,Hertha Berlin,Hertha Berlin,0.635,N,2,0,Hertha Berlin,2.05
+285,bundesliga,2016-10-01,14:30,Bayern Munich vs FC Koln,Bayern Munich,FC Koln,1.2,6.88,15.96,Bayern Munich,Bayern Munich,0.6,N,1,1,Draw,6.88
+286,bundesliga,2016-10-01,14:30,Ingolstadt vs Hoffenheim,Ingolstadt,Hoffenheim,2.11,3.42,3.63,Ingolstadt,Hoffenheim,0.545,Y,1,2,Hoffenheim,3.63
+287,bundesliga,2016-10-01,14:30,Freiburg vs Frankfurt,Freiburg,Frankfurt,2.37,3.4,3.07,Freiburg,Frankfurt,0.367,Y,1,0,Freiburg,2.37
+288,premier-league,2016-10-01,15:00,West Ham Utd vs Middlesbrough,West Ham Utd,Middlesbrough,2.03,3.43,3.98,West Ham Utd,West Ham Utd,0.489,N,1,1,Draw,3.43
+289,premier-league,2016-10-01,15:00,Hull City vs Chelsea,Hull City,Chelsea,7.57,4.74,1.45,Chelsea,Chelsea,0.704,N,0,2,Chelsea,1.45
+290,premier-league,2016-10-01,15:00,Watford vs Bournemouth,Watford,Bournemouth,2.47,3.27,3.08,Watford,Watford,0.483,N,2,2,Draw,3.27
+291,premier-league,2016-10-01,15:00,Sunderland vs West Bromwich,Sunderland,West Bromwich,2.5,3.15,3.15,Sunderland,West Bromwich,0.411,Y,1,1,Draw,3.15
+292,laliga,2016-10-01,15:15,FC Sevilla vs Alaves,FC Sevilla,Alaves,1.42,4.7,8.52,FC Sevilla,FC Sevilla,0.584,N,2,1,FC Sevilla,1.42
+293,ligue-1,2016-10-01,16:00,Paris SG vs Bordeaux,Paris SG,Bordeaux,1.27,5.87,11.63,Paris SG,Paris SG,0.594,N,2,0,Paris SG,1.27
+294,serie-a,2016-10-01,17:00,Pescara vs Chievo,Pescara,Chievo,2.67,3.14,2.9,Pescara,Chievo,0.505,Y,0,2,Chievo,2.9
+295,bundesliga,2016-10-01,17:30,Leverkusen vs Dortmund,Leverkusen,Dortmund,3.35,3.72,2.11,Dortmund,Dortmund,0.363,N,2,0,Leverkusen,3.35
+296,laliga,2016-10-01,17:30,Osasuna vs Las Palmas,Osasuna,Las Palmas,2.71,3.33,2.7,Las Palmas,Las Palmas,0.506,N,2,2,Draw,3.33
+297,ligue-1,2016-10-01,19:00,Nantes vs Bastia,Nantes,Bastia,1.96,3.16,4.62,Nantes,Nantes,0.471,N,1,0,Nantes,1.96
+298,ligue-1,2016-10-01,19:00,Dijon vs Montpellier,Dijon,Montpellier,2.48,3.16,3.07,Dijon,Dijon,0.435,N,3,3,Draw,3.16
+299,ligue-1,2016-10-01,19:00,Caen vs Toulouse,Caen,Toulouse,2.75,3.15,2.75,Draw,Caen,0.377,Y,1,0,Caen,2.75
+300,ligue-1,2016-10-01,19:00,Metz vs Monaco,Metz,Monaco,4.75,3.73,1.77,Monaco,Monaco,0.589,N,0,7,Monaco,1.77
+301,ligue-1,2016-10-01,19:00,Lille vs Nancy,Lille,Nancy,1.8,3.36,5.22,Lille,Lille,0.446,N,1,0,Lille,1.8
+302,laliga,2016-10-01,19:45,Deportivo vs Sporting Gijon,Deportivo,Sporting Gijon,1.86,3.42,4.76,Deportivo,Deportivo,0.531,N,2,1,Deportivo,1.86
+303,serie-a,2016-10-01,19:45,Udinese vs Lazio Roma,Udinese,Lazio Roma,3.02,3.29,2.46,Lazio Roma,Lazio Roma,0.391,N,0,3,Lazio Roma,2.46
+304,laliga,2016-10-02,11:00,Valencia vs Atletico Madrid,Valencia,Atletico Madrid,4.53,3.56,1.86,Atletico Madrid,Atletico Madrid,0.504,N,0,2,Atletico Madrid,1.86
+305,serie-a,2016-10-02,11:30,Empoli vs Juventus,Empoli,Juventus,10.74,5.1,1.33,Juventus,Juventus,0.66,N,0,3,Juventus,1.33
+306,premier-league,2016-10-02,12:00,Manchester Utd vs Stoke City,Manchester Utd,Stoke City,1.3,5.64,11.47,Manchester Utd,Manchester Utd,0.601,N,1,1,Draw,5.64
+307,serie-a,2016-10-02,14:00,Atalanta vs Napoli,Atalanta,Napoli,5.3,3.75,1.71,Napoli,Atalanta,0.408,Y,1,0,Atalanta,5.3
+308,serie-a,2016-10-02,14:00,Cagliari vs Crotone,Cagliari,Crotone,1.62,3.87,6.17,Cagliari,Cagliari,0.591,N,2,1,Cagliari,1.62
+309,serie-a,2016-10-02,14:00,Sampdoria vs Palermo,Sampdoria,Palermo,1.71,3.66,5.51,Sampdoria,Sampdoria,0.607,N,1,1,Draw,3.66
+310,serie-a,2016-10-02,14:00,Bologna vs Genoa,Bologna,Genoa,2.54,3.16,3.04,Bologna,Bologna,0.449,N,0,1,Genoa,3.04
+311,ligue-1,2016-10-02,14:00,Angers vs Marseille,Angers,Marseille,2.74,3.1,2.79,Angers,Marseille,0.452,Y,1,1,Draw,3.1
+312,premier-league,2016-10-02,14:15,Leicester City vs Southampton,Leicester City,Southampton,2.49,3.29,3.03,Leicester City,Southampton,0.377,Y,0,0,Draw,3.29
+313,premier-league,2016-10-02,14:15,Tottenham vs Manchester City,Tottenham,Manchester City,3.02,3.41,2.43,Manchester City,Tottenham,0.446,Y,2,0,Tottenham,3.02
+314,laliga,2016-10-02,15:15,Real Madrid vs Eibar,Real Madrid,Eibar,1.11,11.01,24.11,Real Madrid,Real Madrid,0.641,N,1,1,Draw,11.01
+315,ligue-1,2016-10-02,16:00,Nice vs Lorient,Nice,Lorient,1.69,3.77,5.37,Nice,Nice,0.697,N,2,1,Nice,1.69
+316,bundesliga,2016-10-02,16:30,Schalke 04 vs Monchengladb.,Schalke 04,Monchengladb.,2.37,3.45,3.03,Schalke 04,Schalke 04,0.491,N,4,0,Schalke 04,2.37
+317,premier-league,2016-10-02,16:30,Burnley vs Arsenal,Burnley,Arsenal,9.54,5.28,1.35,Arsenal,Arsenal,0.533,N,0,1,Arsenal,1.35
+318,serie-a,2016-10-02,17:00,Torino vs Fiorentina,Torino,Fiorentina,2.43,3.23,3.14,Torino,Torino,0.476,N,2,1,Torino,2.43
+319,serie-a,2016-10-02,17:00,AC Milan vs Sassuolo,AC Milan,Sassuolo,1.63,3.91,5.84,AC Milan,AC Milan,0.663,N,4,3,AC Milan,1.63
+320,laliga,2016-10-02,17:30,Espanyol vs Villarreal,Espanyol,Villarreal,3.11,3.1,2.53,Villarreal,Espanyol,0.382,Y,0,0,Draw,3.1
+321,laliga,2016-10-02,17:30,Malaga vs Athletic Bilbao,Malaga,Athletic Bilbao,2.62,3.1,2.98,Malaga,Malaga,0.426,N,2,1,Malaga,2.62
+322,laliga,2016-10-02,19:45,Celta Vigo vs FC Barcelona,Celta Vigo,FC Barcelona,7.53,4.85,1.43,FC Barcelona,FC Barcelona,0.502,N,4,3,Celta Vigo,7.53
+323,serie-a,2016-10-02,19:45,AS Roma vs Inter Milan,AS Roma,Inter Milan,1.93,3.66,4.0,AS Roma,AS Roma,0.563,N,2,1,AS Roma,1.93
+324,ligue-1,2016-10-02,19:45,Lyon vs Saint-Etienne,Lyon,Saint-Etienne,1.85,3.51,4.61,Lyon,Lyon,0.546,N,2,0,Lyon,1.85
+325,ligue-1,2016-10-14,18:00,Toulouse vs Monaco,Toulouse,Monaco,2.85,3.2,2.65,Monaco,Monaco,0.504,N,3,1,Toulouse,2.85
+326,bundesliga,2016-10-14,19:30,Dortmund vs Hertha Berlin,Dortmund,Hertha Berlin,1.41,5.02,7.44,Dortmund,Dortmund,0.449,N,1,1,Draw,5.02
+327,laliga,2016-10-14,19:45,Las Palmas vs Espanyol,Las Palmas,Espanyol,1.88,3.59,4.36,Las Palmas,Las Palmas,0.445,N,0,0,Draw,3.59
+328,ligue-1,2016-10-14,19:45,Nice vs Lyon,Nice,Lyon,2.89,3.39,2.49,Lyon,Nice,0.569,Y,2,0,Nice,2.89
+329,laliga,2016-10-15,12:00,Leganes vs FC Sevilla,Leganes,FC Sevilla,3.56,3.39,2.16,FC Sevilla,FC Sevilla,0.533,N,2,3,FC Sevilla,2.16
+330,premier-league,2016-10-15,12:30,Chelsea vs Leicester City,Chelsea,Leicester City,1.55,4.32,6.35,Chelsea,Chelsea,0.679,N,3,0,Chelsea,1.55
+331,serie-a,2016-10-15,14:00,Napoli vs AS Roma,Napoli,AS Roma,1.89,3.67,4.26,Napoli,Napoli,0.443,N,1,3,AS Roma,4.26
+332,bundesliga,2016-10-15,14:30,FC Koln vs Ingolstadt,FC Koln,Ingolstadt,1.83,3.44,4.9,FC Koln,FC Koln,0.626,N,2,1,FC Koln,1.83
+333,bundesliga,2016-10-15,14:30,Monchengladb. vs Hamburger SV,Monchengladb.,Hamburger SV,1.68,4.01,5.09,Monchengladb.,Monchengladb.,0.504,N,0,0,Draw,4.01
+334,bundesliga,2016-10-15,14:30,Frankfurt vs Bayern Munich,Frankfurt,Bayern Munich,11.55,5.77,1.28,Bayern Munich,Bayern Munich,0.433,N,2,2,Draw,5.77
+335,bundesliga,2016-10-15,14:30,Hoffenheim vs Freiburg,Hoffenheim,Freiburg,2.04,3.64,3.63,Hoffenheim,Hoffenheim,0.575,N,2,1,Hoffenheim,2.04
+336,bundesliga,2016-10-15,14:30,Augsburg vs Schalke 04,Augsburg,Schalke 04,3.52,3.43,2.15,Schalke 04,Augsburg,0.476,Y,1,1,Draw,3.43
+337,premier-league,2016-10-15,15:00,Bournemouth vs Hull City,Bournemouth,Hull City,1.78,3.71,4.94,Bournemouth,Bournemouth,0.563,N,6,1,Bournemouth,1.78
+338,premier-league,2016-10-15,15:00,Stoke City vs Sunderland,Stoke City,Sunderland,1.92,3.53,4.35,Stoke City,Stoke City,0.559,N,2,0,Stoke City,1.92
+339,premier-league,2016-10-15,15:00,Arsenal vs Swansea City,Arsenal,Swansea City,1.24,6.72,13.47,Arsenal,Arsenal,0.693,N,3,2,Arsenal,1.24
+340,premier-league,2016-10-15,15:00,Manchester City vs Everton,Manchester City,Everton,1.5,4.61,6.61,Manchester City,Manchester City,0.6,N,1,1,Draw,4.61
+341,premier-league,2016-10-15,15:00,West Bromwich vs Tottenham,West Bromwich,Tottenham,5.44,3.79,1.7,Tottenham,Tottenham,0.478,N,1,1,Draw,3.79
+342,laliga,2016-10-15,15:15,FC Barcelona vs Deportivo,FC Barcelona,Deportivo,1.12,9.81,22.86,FC Barcelona,FC Barcelona,0.643,N,4,0,FC Barcelona,1.12
+343,ligue-1,2016-10-15,16:00,Nancy vs Paris SG,Nancy,Paris SG,8.41,4.39,1.44,Paris SG,Paris SG,0.529,N,1,2,Paris SG,1.44
+344,serie-a,2016-10-15,17:00,Pescara vs Sampdoria,Pescara,Sampdoria,2.48,3.31,2.97,Pescara,Sampdoria,0.484,Y,1,1,Draw,3.31
+345,bundesliga,2016-10-15,17:30,Werder Bremen vs Leverkusen,Werder Bremen,Leverkusen,4.99,4.37,1.64,Leverkusen,Werder Bremen,0.399,Y,2,1,Werder Bremen,4.99
+346,laliga,2016-10-15,17:30,Atletico Madrid vs Granada,Atletico Madrid,Granada,1.11,9.94,28.47,Atletico Madrid,Atletico Madrid,0.664,N,7,1,Atletico Madrid,1.11
+347,premier-league,2016-10-15,17:30,Crystal Palace vs West Ham Utd,Crystal Palace,West Ham Utd,2.2,3.4,3.48,Crystal Palace,Crystal Palace,0.403,N,0,1,West Ham Utd,3.48
+348,ligue-1,2016-10-15,19:00,Lorient vs Nantes,Lorient,Nantes,2.66,3.03,2.96,Lorient,Lorient,0.39,N,1,2,Nantes,2.96
+349,ligue-1,2016-10-15,19:00,Montpellier vs Caen,Montpellier,Caen,2.05,3.36,3.88,Montpellier,Montpellier,0.51,N,3,2,Montpellier,2.05
+350,ligue-1,2016-10-15,19:00,Guingamp vs Lille,Guingamp,Lille,2.79,2.96,2.85,Guingamp,Guingamp,0.578,N,1,0,Guingamp,2.79
+351,ligue-1,2016-10-15,19:00,Bastia vs Angers,Bastia,Angers,2.61,2.82,3.24,Bastia,Bastia,0.481,N,1,2,Angers,3.24
+352,laliga,2016-10-15,19:45,Real Betis vs Real Madrid,Real Betis,Real Madrid,10.24,6.02,1.29,Real Madrid,Real Madrid,0.592,N,1,6,Real Madrid,1.29
+353,serie-a,2016-10-15,19:45,Juventus vs Udinese,Juventus,Udinese,1.21,6.85,16.18,Juventus,Juventus,0.64,N,2,1,Juventus,1.21
+354,laliga,2016-10-16,11:00,Alaves vs Malaga,Alaves,Malaga,2.83,3.01,2.81,Malaga,Alaves,0.464,Y,1,1,Draw,3.01
+355,serie-a,2016-10-16,11:30,Fiorentina vs Atalanta,Fiorentina,Atalanta,1.7,3.74,5.47,Fiorentina,Fiorentina,0.424,N,0,0,Draw,3.74
+356,premier-league,2016-10-16,13:30,Middlesbrough vs Watford,Middlesbrough,Watford,2.28,3.24,3.49,Middlesbrough,Middlesbrough,0.433,N,0,1,Watford,3.49
+357,serie-a,2016-10-16,14:00,Lazio Roma vs Bologna,Lazio Roma,Bologna,1.48,4.3,7.64,Lazio Roma,Lazio Roma,0.594,N,1,1,Draw,4.3
+358,serie-a,2016-10-16,14:00,Inter Milan vs Cagliari,Inter Milan,Cagliari,1.35,5.16,9.5,Inter Milan,Inter Milan,0.557,N,1,2,Cagliari,9.5
+359,serie-a,2016-10-16,14:00,Genoa vs Empoli,Genoa,Empoli,1.81,3.5,4.95,Genoa,Genoa,0.559,N,0,0,Draw,3.5
+360,serie-a,2016-10-16,14:00,Sassuolo vs Crotone,Sassuolo,Crotone,1.54,4.14,6.7,Sassuolo,Sassuolo,0.532,N,2,1,Sassuolo,1.54
+361,ligue-1,2016-10-16,14:00,Rennes vs Bordeaux,Rennes,Bordeaux,2.55,3.13,3.0,Rennes,Rennes,0.479,N,1,1,Draw,3.13
+362,laliga,2016-10-16,15:15,Athletic Bilbao vs Real Sociedad,Athletic Bilbao,Real Sociedad,1.85,3.48,4.7,Athletic Bilbao,Athletic Bilbao,0.428,N,3,2,Athletic Bilbao,1.85
+363,premier-league,2016-10-16,16:00,Southampton vs Burnley,Southampton,Burnley,1.36,4.99,10.25,Southampton,Southampton,0.531,N,3,1,Southampton,1.36
+364,ligue-1,2016-10-16,16:00,Saint-Etienne vs Dijon,Saint-Etienne,Dijon,1.76,3.49,5.36,Saint-Etienne,Saint-Etienne,0.552,N,1,1,Draw,3.49
+365,bundesliga,2016-10-16,16:30,Wolfsburg vs RB Leipzig,Wolfsburg,RB Leipzig,2.41,3.33,3.07,Wolfsburg,RB Leipzig,0.567,Y,0,1,RB Leipzig,3.07
+366,laliga,2016-10-16,17:30,Sporting Gijon vs Valencia,Sporting Gijon,Valencia,3.37,3.41,2.23,Valencia,Sporting Gijon,0.444,Y,1,2,Valencia,2.23
+367,laliga,2016-10-16,19:45,Villarreal vs Celta Vigo,Villarreal,Celta Vigo,2.04,3.35,4.0,Villarreal,Villarreal,0.57,N,5,0,Villarreal,2.04
+368,serie-a,2016-10-16,19:45,Chievo vs AC Milan,Chievo,AC Milan,3.11,3.06,2.55,AC Milan,AC Milan,0.397,N,1,3,AC Milan,2.55
+369,laliga,2016-10-17,19:45,Eibar vs Osasuna,Eibar,Osasuna,1.61,4.0,5.98,Eibar,Eibar,0.62,N,2,3,Osasuna,5.98
+370,premier-league,2016-10-17,20:00,Liverpool vs Manchester Utd,Liverpool,Manchester Utd,2.24,3.34,3.49,Liverpool,Liverpool,0.553,N,0,0,Draw,3.34
+371,bundesliga,2016-10-21,19:30,Hamburger SV vs Frankfurt,Hamburger SV,Frankfurt,2.51,3.31,2.95,Hamburger SV,Frankfurt,0.529,Y,0,3,Frankfurt,2.95
+372,laliga,2016-10-21,19:45,Osasuna vs Real Betis,Osasuna,Real Betis,2.54,3.24,2.97,Osasuna,Real Betis,0.444,Y,1,2,Real Betis,2.97
+373,ligue-1,2016-10-21,19:45,Monaco vs Montpellier,Monaco,Montpellier,1.62,3.95,5.92,Monaco,Monaco,0.654,N,6,2,Monaco,1.62
+374,laliga,2016-10-22,12:00,Espanyol vs Eibar,Espanyol,Eibar,2.15,3.27,3.71,Espanyol,Espanyol,0.474,N,3,3,Draw,3.27
+375,premier-league,2016-10-22,12:30,Bournemouth vs Tottenham,Bournemouth,Tottenham,4.2,3.62,1.93,Tottenham,Tottenham,0.502,N,0,0,Draw,3.62
+376,bundesliga,2016-10-22,14:30,Darmstadt vs Wolfsburg,Darmstadt,Wolfsburg,4.66,3.72,1.79,Wolfsburg,Wolfsburg,0.423,N,3,1,Darmstadt,4.66
+377,bundesliga,2016-10-22,14:30,Hertha Berlin vs FC Koln,Hertha Berlin,FC Koln,2.68,3.17,2.84,Hertha Berlin,Hertha Berlin,0.513,N,2,1,Hertha Berlin,2.68
+378,bundesliga,2016-10-22,14:30,Ingolstadt vs Dortmund,Ingolstadt,Dortmund,5.55,4.19,1.61,Dortmund,Dortmund,0.511,N,3,3,Draw,4.19
+379,bundesliga,2016-10-22,14:30,Leverkusen vs Hoffenheim,Leverkusen,Hoffenheim,1.59,4.32,5.59,Leverkusen,Hoffenheim,0.402,Y,0,3,Hoffenheim,5.59
+380,bundesliga,2016-10-22,14:30,Freiburg vs Augsburg,Freiburg,Augsburg,2.15,3.28,3.67,Freiburg,Freiburg,0.5,N,2,1,Freiburg,2.15
+381,premier-league,2016-10-22,15:00,Swansea City vs Watford,Swansea City,Watford,2.43,3.25,3.08,Swansea City,Watford,0.411,Y,0,0,Draw,3.25
+382,premier-league,2016-10-22,15:00,Hull City vs Stoke City,Hull City,Stoke City,2.99,3.27,2.54,Stoke City,Stoke City,0.434,N,0,2,Stoke City,2.54
+383,premier-league,2016-10-22,15:00,Burnley vs Everton,Burnley,Everton,5.8,3.72,1.69,Everton,Burnley,0.379,Y,2,1,Burnley,5.8
+384,premier-league,2016-10-22,15:00,Leicester City vs Crystal Palace,Leicester City,Crystal Palace,1.98,3.38,4.26,Leicester City,Leicester City,0.481,N,3,1,Leicester City,1.98
+385,premier-league,2016-10-22,15:00,Arsenal vs Middlesbrough,Arsenal,Middlesbrough,1.26,6.11,12.82,Arsenal,Arsenal,0.642,N,0,0,Draw,6.11
+386,laliga,2016-10-22,15:15,Valencia vs FC Barcelona,Valencia,FC Barcelona,7.83,5.57,1.37,FC Barcelona,FC Barcelona,0.592,N,2,3,FC Barcelona,1.37
+387,ligue-1,2016-10-22,16:00,Lyon vs Guingamp,Lyon,Guingamp,1.47,4.42,7.36,Lyon,Lyon,0.519,N,1,3,Guingamp,7.36
+388,serie-a,2016-10-22,17:00,Sampdoria vs Genoa,Sampdoria,Genoa,3.02,3.25,2.5,Genoa,Sampdoria,0.456,Y,2,1,Sampdoria,3.02
+389,bundesliga,2016-10-22,17:30,Bayern Munich vs Monchengladb.,Bayern Munich,Monchengladb.,1.18,7.72,15.72,Bayern Munich,Bayern Munich,0.664,N,2,0,Bayern Munich,1.18
+390,laliga,2016-10-22,17:30,Real Sociedad vs Alaves,Real Sociedad,Alaves,1.64,3.8,5.95,Real Sociedad,Real Sociedad,0.54,N,3,0,Real Sociedad,1.64
+391,premier-league,2016-10-22,17:30,Liverpool vs West Bromwich,Liverpool,West Bromwich,1.29,5.84,11.38,Liverpool,Liverpool,0.638,N,2,1,Liverpool,1.29
+392,ligue-1,2016-10-22,19:00,Dijon vs Lorient,Dijon,Lorient,2.23,3.25,3.47,Dijon,Dijon,0.539,N,1,0,Dijon,2.23
+393,ligue-1,2016-10-22,19:00,Nantes vs Rennes,Nantes,Rennes,2.36,3.06,3.42,Nantes,Rennes,0.387,Y,1,2,Rennes,3.42
+394,ligue-1,2016-10-22,19:00,Angers vs Toulouse,Angers,Toulouse,2.6,3.0,3.06,Angers,Toulouse,0.377,Y,0,0,Draw,3.0
+395,ligue-1,2016-10-22,19:00,Lille vs Bastia,Lille,Bastia,1.85,3.25,5.12,Lille,Lille,0.469,N,2,1,Lille,1.85
+396,ligue-1,2016-10-22,19:00,Bordeaux vs Nancy,Bordeaux,Nancy,1.78,3.43,5.29,Bordeaux,Bordeaux,0.516,N,1,1,Draw,3.43
+397,laliga,2016-10-22,19:45,Granada vs Sporting Gijon,Granada,Sporting Gijon,2.31,3.29,3.31,Granada,Granada,0.442,N,0,0,Draw,3.29
+398,serie-a,2016-10-22,19:45,AC Milan vs Juventus,AC Milan,Juventus,4.67,3.41,1.88,Juventus,Juventus,0.404,N,1,0,AC Milan,4.67
+399,laliga,2016-10-23,11:00,Celta Vigo vs Deportivo,Celta Vigo,Deportivo,1.77,3.63,5.03,Celta Vigo,Celta Vigo,0.527,N,4,1,Celta Vigo,1.77
+400,serie-a,2016-10-23,11:30,Udinese vs Pescara,Udinese,Pescara,1.91,3.54,4.27,Udinese,Udinese,0.614,N,3,1,Udinese,1.91
+401,premier-league,2016-10-23,13:30,Manchester City vs Southampton,Manchester City,Southampton,1.46,4.56,7.88,Manchester City,Manchester City,0.611,N,1,1,Draw,4.56
+402,serie-a,2016-10-23,14:00,Crotone vs Napoli,Crotone,Napoli,9.7,5.41,1.33,Napoli,Napoli,0.62,N,1,2,Napoli,1.33
+403,serie-a,2016-10-23,14:00,Atalanta vs Inter Milan,Atalanta,Inter Milan,3.25,3.3,2.32,Inter Milan,Atalanta,0.487,Y,2,1,Atalanta,3.25
+404,serie-a,2016-10-23,14:00,Cagliari vs Fiorentina,Cagliari,Fiorentina,3.43,3.35,2.22,Fiorentina,Cagliari,0.39,Y,3,5,Fiorentina,2.22
+405,serie-a,2016-10-23,14:00,Empoli vs Chievo,Empoli,Chievo,2.53,3.02,3.19,Empoli,Chievo,0.445,Y,0,0,Draw,3.02
+406,serie-a,2016-10-23,14:00,Torino vs Lazio Roma,Torino,Lazio Roma,2.12,3.49,3.52,Torino,Torino,0.394,N,2,2,Draw,3.49
+407,ligue-1,2016-10-23,14:00,Caen vs Saint-Etienne,Caen,Saint-Etienne,2.66,3.11,2.89,Caen,Saint-Etienne,0.386,Y,0,2,Saint-Etienne,2.89
+408,bundesliga,2016-10-23,14:30,RB Leipzig vs Werder Bremen,RB Leipzig,Werder Bremen,1.58,4.28,5.8,RB Leipzig,RB Leipzig,0.668,N,3,1,RB Leipzig,1.58
+409,laliga,2016-10-23,15:15,FC Sevilla vs Atletico Madrid,FC Sevilla,Atletico Madrid,3.97,3.51,1.99,Atletico Madrid,FC Sevilla,0.504,Y,1,0,FC Sevilla,3.97
+410,premier-league,2016-10-23,16:00,Chelsea vs Manchester Utd,Chelsea,Manchester Utd,2.19,3.26,3.7,Chelsea,Chelsea,0.585,N,4,0,Chelsea,2.19
+411,ligue-1,2016-10-23,16:00,Metz vs Nice,Metz,Nice,3.31,3.29,2.29,Nice,Nice,0.613,N,2,4,Nice,2.29
+412,serie-a,2016-10-23,17:00,Bologna vs Sassuolo,Bologna,Sassuolo,2.85,3.04,2.77,Sassuolo,Bologna,0.548,Y,1,1,Draw,3.04
+413,laliga,2016-10-23,17:30,Malaga vs Leganes,Malaga,Leganes,2.14,3.19,3.87,Malaga,Malaga,0.542,N,4,0,Malaga,2.14
+414,laliga,2016-10-23,17:30,Villarreal vs Las Palmas,Villarreal,Las Palmas,1.64,3.92,5.79,Villarreal,Villarreal,0.564,N,2,1,Villarreal,1.64
+415,laliga,2016-10-23,19:45,Real Madrid vs Athletic Bilbao,Real Madrid,Athletic Bilbao,1.19,7.66,14.82,Real Madrid,Real Madrid,0.624,N,2,1,Real Madrid,1.19
+416,serie-a,2016-10-23,19:45,AS Roma vs Palermo,AS Roma,Palermo,1.23,6.74,13.2,AS Roma,AS Roma,0.7,N,4,1,AS Roma,1.23
+417,ligue-1,2016-10-23,19:45,Paris SG vs Marseille,Paris SG,Marseille,1.28,5.83,11.03,Paris SG,Paris SG,0.559,N,0,0,Draw,5.83
+418,serie-a,2016-10-25,19:45,Genoa vs AC Milan,Genoa,AC Milan,2.87,3.2,2.64,AC Milan,AC Milan,0.43,N,3,0,Genoa,2.87
+419,serie-a,2016-10-26,19:45,Fiorentina vs Crotone,Fiorentina,Crotone,1.24,6.22,13.15,Fiorentina,Fiorentina,0.638,N,1,1,Draw,6.22
+420,serie-a,2016-10-26,19:45,Chievo vs Bologna,Chievo,Bologna,2.12,3.12,4.01,Chievo,Chievo,0.495,N,1,1,Draw,3.12
+421,serie-a,2016-10-26,19:45,Napoli vs Empoli,Napoli,Empoli,1.25,6.07,12.76,Napoli,Napoli,0.646,N,2,0,Napoli,1.25
+422,serie-a,2016-10-26,19:45,Lazio Roma vs Cagliari,Lazio Roma,Cagliari,1.48,4.54,6.92,Lazio Roma,Lazio Roma,0.606,N,4,1,Lazio Roma,1.48
+423,serie-a,2016-10-26,19:45,Juventus vs Sampdoria,Juventus,Sampdoria,1.19,7.05,16.22,Juventus,Juventus,0.655,N,4,1,Juventus,1.19
+424,serie-a,2016-10-26,19:45,Pescara vs Atalanta,Pescara,Atalanta,2.87,3.21,2.63,Atalanta,Atalanta,0.588,N,0,1,Atalanta,2.63
+425,serie-a,2016-10-26,19:45,Sassuolo vs AS Roma,Sassuolo,AS Roma,4.25,3.72,1.87,AS Roma,AS Roma,0.555,N,1,3,AS Roma,1.87
+426,serie-a,2016-10-26,19:45,Inter Milan vs Torino,Inter Milan,Torino,1.93,3.6,4.09,Inter Milan,Inter Milan,0.48,N,2,1,Inter Milan,1.93
+427,serie-a,2016-10-27,19:45,Palermo vs Udinese,Palermo,Udinese,2.78,3.19,2.73,Udinese,Udinese,0.491,N,1,3,Udinese,2.73
+428,bundesliga,2016-10-28,19:30,Monchengladb. vs Frankfurt,Monchengladb.,Frankfurt,1.93,3.42,4.38,Monchengladb.,Frankfurt,0.48,Y,0,0,Draw,3.42
+429,laliga,2016-10-28,19:45,Leganes vs Real Sociedad,Leganes,Real Sociedad,2.7,3.12,2.87,Leganes,Real Sociedad,0.477,Y,0,2,Real Sociedad,2.87
+430,ligue-1,2016-10-28,19:45,Lille vs Paris SG,Lille,Paris SG,6.59,4.03,1.56,Paris SG,Paris SG,0.537,N,0,1,Paris SG,1.56
+431,laliga,2016-10-29,12:00,Sporting Gijon vs FC Sevilla,Sporting Gijon,FC Sevilla,4.42,3.64,1.86,FC Sevilla,FC Sevilla,0.584,N,1,1,Draw,3.64
+432,premier-league,2016-10-29,12:30,Sunderland vs Arsenal,Sunderland,Arsenal,7.93,4.8,1.43,Arsenal,Arsenal,0.6,N,1,4,Arsenal,1.43
+433,bundesliga,2016-10-29,14:30,Darmstadt vs RB Leipzig,Darmstadt,RB Leipzig,5.53,3.85,1.67,RB Leipzig,RB Leipzig,0.671,N,0,2,RB Leipzig,1.67
+434,bundesliga,2016-10-29,14:30,Werder Bremen vs Freiburg,Werder Bremen,Freiburg,2.25,3.52,3.19,Werder Bremen,Werder Bremen,0.382,N,1,3,Freiburg,3.19
+435,bundesliga,2016-10-29,14:30,Wolfsburg vs Leverkusen,Wolfsburg,Leverkusen,2.64,3.46,2.69,Wolfsburg,Wolfsburg,0.412,N,1,2,Leverkusen,2.69
+436,bundesliga,2016-10-29,14:30,Augsburg vs Bayern Munich,Augsburg,Bayern Munich,16.16,6.87,1.2,Bayern Munich,Bayern Munich,0.58,N,1,3,Bayern Munich,1.2
+437,premier-league,2016-10-29,15:00,West Bromwich vs Manchester City,West Bromwich,Manchester City,7.49,4.62,1.46,Manchester City,Manchester City,0.504,N,0,4,Manchester City,1.46
+438,premier-league,2016-10-29,15:00,Watford vs Hull City,Watford,Hull City,1.72,3.68,5.48,Watford,Watford,0.577,N,1,0,Watford,1.72
+439,premier-league,2016-10-29,15:00,Middlesbrough vs Bournemouth,Middlesbrough,Bournemouth,2.51,3.11,3.18,Middlesbrough,Middlesbrough,0.449,N,2,0,Middlesbrough,2.51
+440,premier-league,2016-10-29,15:00,Manchester Utd vs Burnley,Manchester Utd,Burnley,1.24,6.27,14.84,Manchester Utd,Manchester Utd,0.614,N,0,0,Draw,6.27
+441,premier-league,2016-10-29,15:00,Tottenham vs Leicester City,Tottenham,Leicester City,1.61,4.11,5.86,Tottenham,Tottenham,0.651,N,1,1,Draw,4.11
+442,laliga,2016-10-29,15:15,Alaves vs Real Madrid,Alaves,Real Madrid,14.72,7.22,1.2,Real Madrid,Real Madrid,0.539,N,1,4,Real Madrid,1.2
+443,ligue-1,2016-10-29,16:00,Toulouse vs Lyon,Toulouse,Lyon,2.69,3.28,2.7,Toulouse,Lyon,0.404,Y,1,2,Lyon,2.7
+444,serie-a,2016-10-29,17:00,Bologna vs Fiorentina,Bologna,Fiorentina,3.94,3.34,2.06,Fiorentina,Bologna,0.397,Y,0,1,Fiorentina,2.06
+445,bundesliga,2016-10-29,17:30,Dortmund vs Schalke 04,Dortmund,Schalke 04,1.59,4.35,5.55,Dortmund,Dortmund,0.59,N,0,0,Draw,4.35
+446,laliga,2016-10-29,17:30,Atletico Madrid vs Malaga,Atletico Madrid,Malaga,1.23,6.29,14.91,Atletico Madrid,Atletico Madrid,0.553,N,4,2,Atletico Madrid,1.23
+447,premier-league,2016-10-29,17:30,Crystal Palace vs Liverpool,Crystal Palace,Liverpool,4.89,3.98,1.74,Liverpool,Liverpool,0.593,N,2,4,Liverpool,1.74
+448,ligue-1,2016-10-29,19:00,Bastia vs Dijon,Bastia,Dijon,2.23,3.07,3.65,Bastia,Bastia,0.465,N,0,0,Draw,3.07
+449,ligue-1,2016-10-29,19:00,Saint-Etienne vs Monaco,Saint-Etienne,Monaco,2.55,3.18,2.94,Saint-Etienne,Monaco,0.491,Y,1,1,Draw,3.18
+450,ligue-1,2016-10-29,19:00,Nancy vs Caen,Nancy,Caen,2.07,3.17,4.06,Nancy,Nancy,0.501,N,2,0,Nancy,2.07
+451,ligue-1,2016-10-29,19:00,Guingamp vs Angers,Guingamp,Angers,2.31,3.06,3.48,Guingamp,Guingamp,0.587,N,1,0,Guingamp,2.31
+452,ligue-1,2016-10-29,19:00,Lorient vs Montpellier,Lorient,Montpellier,2.08,3.4,3.72,Lorient,Montpellier,0.391,Y,2,2,Draw,3.4
+453,laliga,2016-10-29,19:45,FC Barcelona vs Granada,FC Barcelona,Granada,1.04,19.24,42.42,FC Barcelona,FC Barcelona,0.682,N,1,0,FC Barcelona,1.04
+454,serie-a,2016-10-29,19:45,Juventus vs Napoli,Juventus,Napoli,1.77,3.51,5.29,Juventus,Juventus,0.544,N,2,1,Juventus,1.77
+455,laliga,2016-10-30,11:00,Eibar vs Villarreal,Eibar,Villarreal,3.09,3.11,2.54,Villarreal,Eibar,0.376,Y,2,1,Eibar,3.09
+456,serie-a,2016-10-30,11:30,Atalanta vs Genoa,Atalanta,Genoa,2.31,3.17,3.43,Atalanta,Atalanta,0.548,N,3,0,Atalanta,2.31
+457,premier-league,2016-10-30,13:30,Everton vs West Ham Utd,Everton,West Ham Utd,1.86,3.72,4.4,Everton,Everton,0.53,N,2,0,Everton,1.86
+458,serie-a,2016-10-30,14:00,AC Milan vs Pescara,AC Milan,Pescara,1.38,4.96,9.01,AC Milan,AC Milan,0.681,N,1,0,AC Milan,1.38
+459,serie-a,2016-10-30,14:00,Empoli vs AS Roma,Empoli,AS Roma,5.69,4.08,1.62,AS Roma,AS Roma,0.605,N,0,0,Draw,4.08
+460,serie-a,2016-10-30,14:00,Lazio Roma vs Sassuolo,Lazio Roma,Sassuolo,1.49,4.52,6.86,Lazio Roma,Lazio Roma,0.657,N,2,1,Lazio Roma,1.49
+461,serie-a,2016-10-30,14:00,Crotone vs Chievo,Crotone,Chievo,3.44,3.18,2.3,Chievo,Chievo,0.498,N,2,0,Crotone,3.44
+462,ligue-1,2016-10-30,14:00,Nice vs Nantes,Nice,Nantes,1.96,3.29,4.41,Nice,Nice,0.666,N,4,1,Nice,1.96
+463,bundesliga,2016-10-30,14:30,Hoffenheim vs Hertha Berlin,Hoffenheim,Hertha Berlin,2.03,3.57,3.74,Hoffenheim,Hoffenheim,0.472,N,1,0,Hoffenheim,2.03
+464,laliga,2016-10-30,15:15,Athletic Bilbao vs Osasuna,Athletic Bilbao,Osasuna,1.42,4.63,8.49,Athletic Bilbao,Athletic Bilbao,0.635,N,1,1,Draw,4.63
+465,premier-league,2016-10-30,16:00,Southampton vs Chelsea,Southampton,Chelsea,3.15,3.36,2.39,Chelsea,Chelsea,0.576,N,0,2,Chelsea,2.39
+466,ligue-1,2016-10-30,16:00,Rennes vs Metz,Rennes,Metz,1.6,3.88,6.26,Rennes,Rennes,0.533,N,1,0,Rennes,1.6
+467,bundesliga,2016-10-30,16:30,FC Koln vs Hamburger SV,FC Koln,Hamburger SV,1.64,3.98,5.61,FC Koln,FC Koln,0.609,N,3,0,FC Koln,1.64
+468,laliga,2016-10-30,17:30,Real Betis vs Espanyol,Real Betis,Espanyol,2.17,3.33,3.6,Real Betis,Real Betis,0.391,N,0,1,Espanyol,3.6
+469,laliga,2016-10-30,19:45,Las Palmas vs Celta Vigo,Las Palmas,Celta Vigo,2.28,3.53,3.14,Las Palmas,Las Palmas,0.477,N,3,3,Draw,3.53
+470,serie-a,2016-10-30,19:45,Sampdoria vs Inter Milan,Sampdoria,Inter Milan,3.64,3.54,2.07,Inter Milan,Sampdoria,0.384,Y,1,0,Sampdoria,3.64
+471,ligue-1,2016-10-30,19:45,Marseille vs Bordeaux,Marseille,Bordeaux,2.18,3.27,3.58,Marseille,Marseille,0.517,N,0,0,Draw,3.27
+472,serie-a,2016-10-31,18:00,Udinese vs Torino,Udinese,Torino,2.72,3.28,2.72,Draw,Udinese,0.422,Y,2,2,Draw,3.28
+473,laliga,2016-10-31,19:45,Deportivo vs Valencia,Deportivo,Valencia,2.96,3.3,2.5,Valencia,Deportivo,0.509,Y,1,1,Draw,3.3
+474,serie-a,2016-10-31,20:00,Cagliari vs Palermo,Cagliari,Palermo,1.75,3.76,4.93,Cagliari,Cagliari,0.598,N,2,1,Cagliari,1.75
+475,premier-league,2016-10-31,20:00,Stoke City vs Swansea City,Stoke City,Swansea City,2.04,3.5,3.91,Stoke City,Stoke City,0.58,N,3,1,Stoke City,2.04
+476,bundesliga,2016-11-04,19:30,Hertha Berlin vs Monchengladb.,Hertha Berlin,Monchengladb.,2.81,3.21,2.7,Monchengladb.,Hertha Berlin,0.615,Y,3,0,Hertha Berlin,2.81
+477,laliga,2016-11-04,19:45,Malaga vs Sporting Gijon,Malaga,Sporting Gijon,1.69,3.74,5.6,Malaga,Malaga,0.593,N,3,2,Malaga,1.69
+478,ligue-1,2016-11-04,19:45,Montpellier vs Marseille,Montpellier,Marseille,2.58,3.19,2.91,Montpellier,Marseille,0.381,Y,3,1,Montpellier,2.58
+479,laliga,2016-11-05,12:00,Granada vs Deportivo,Granada,Deportivo,2.69,3.14,2.87,Granada,Granada,0.375,N,1,1,Draw,3.14
+480,bundesliga,2016-11-05,14:30,Hamburger SV vs Dortmund,Hamburger SV,Dortmund,6.8,4.61,1.48,Dortmund,Dortmund,0.501,N,2,5,Dortmund,1.48
+481,bundesliga,2016-11-05,14:30,Ingolstadt vs Augsburg,Ingolstadt,Augsburg,2.42,3.16,3.24,Ingolstadt,Augsburg,0.382,Y,0,2,Augsburg,3.24
+482,bundesliga,2016-11-05,14:30,Bayern Munich vs Hoffenheim,Bayern Munich,Hoffenheim,1.17,8.36,15.18,Bayern Munich,Bayern Munich,0.564,N,1,1,Draw,8.36
+483,bundesliga,2016-11-05,14:30,Freiburg vs Wolfsburg,Freiburg,Wolfsburg,2.53,3.34,2.89,Freiburg,Freiburg,0.529,N,0,3,Wolfsburg,2.89
+484,bundesliga,2016-11-05,14:30,Leverkusen vs Darmstadt,Leverkusen,Darmstadt,1.38,4.91,9.32,Leverkusen,Leverkusen,0.591,N,3,2,Leverkusen,1.38
+485,premier-league,2016-11-05,15:00,Burnley vs Crystal Palace,Burnley,Crystal Palace,3.46,3.23,2.29,Crystal Palace,Burnley,0.505,Y,3,2,Burnley,3.46
+486,premier-league,2016-11-05,15:00,West Ham Utd vs Stoke City,West Ham Utd,Stoke City,2.0,3.49,4.0,West Ham Utd,West Ham Utd,0.464,N,1,1,Draw,3.49
+487,premier-league,2016-11-05,15:00,Manchester City vs Middlesbrough,Manchester City,Middlesbrough,1.21,7.11,15.43,Manchester City,Manchester City,0.648,N,1,1,Draw,7.11
+488,premier-league,2016-11-05,15:00,Bournemouth vs Sunderland,Bournemouth,Sunderland,1.61,4.23,5.63,Bournemouth,Bournemouth,0.55,N,1,2,Sunderland,5.63
+489,laliga,2016-11-05,15:15,Real Sociedad vs Atletico Madrid,Real Sociedad,Atletico Madrid,5.72,3.84,1.66,Atletico Madrid,Real Sociedad,0.452,Y,2,0,Real Sociedad,5.72
+490,ligue-1,2016-11-05,16:00,Monaco vs Nancy,Monaco,Nancy,1.47,4.32,7.71,Monaco,Monaco,0.653,N,6,0,Monaco,1.47
+491,serie-a,2016-11-05,17:00,Torino vs Cagliari,Torino,Cagliari,1.56,4.28,6.16,Torino,Torino,0.547,N,5,1,Torino,1.56
+492,bundesliga,2016-11-05,17:30,Frankfurt vs FC Koln,Frankfurt,FC Koln,2.57,3.24,2.94,Frankfurt,Frankfurt,0.51,N,1,0,Frankfurt,2.57
+493,laliga,2016-11-05,17:30,Osasuna vs Alaves,Osasuna,Alaves,2.5,3.1,3.19,Osasuna,Alaves,0.507,Y,0,1,Alaves,3.19
+494,premier-league,2016-11-05,17:30,Chelsea vs Everton,Chelsea,Everton,1.49,4.49,7.17,Chelsea,Chelsea,0.638,N,5,0,Chelsea,1.49
+495,ligue-1,2016-11-05,19:00,Angers vs Lille,Angers,Lille,2.42,2.93,3.45,Angers,Angers,0.45,N,1,0,Angers,2.42
+496,ligue-1,2016-11-05,19:00,Lyon vs Bastia,Lyon,Bastia,1.41,4.66,8.51,Lyon,Lyon,0.616,N,2,1,Lyon,1.41
+497,ligue-1,2016-11-05,19:00,Bordeaux vs Lorient,Bordeaux,Lorient,1.76,3.63,5.05,Bordeaux,Bordeaux,0.599,N,2,1,Bordeaux,1.76
+498,ligue-1,2016-11-05,19:00,Dijon vs Guingamp,Dijon,Guingamp,2.59,3.09,3.0,Dijon,Guingamp,0.422,Y,3,3,Draw,3.09
+499,ligue-1,2016-11-05,19:00,Nantes vs Toulouse,Nantes,Toulouse,2.6,2.98,3.1,Nantes,Nantes,0.392,N,1,1,Draw,2.98
+500,laliga,2016-11-05,19:45,Las Palmas vs Eibar,Las Palmas,Eibar,1.95,3.64,3.96,Las Palmas,Las Palmas,0.452,N,1,0,Las Palmas,1.95
+501,serie-a,2016-11-05,19:45,Napoli vs Lazio Roma,Napoli,Lazio Roma,1.69,3.94,5.15,Napoli,Napoli,0.486,N,1,1,Draw,3.94
+502,laliga,2016-11-06,11:00,Real Madrid vs Leganes,Real Madrid,Leganes,1.09,12.68,25.86,Real Madrid,Real Madrid,0.677,N,3,0,Real Madrid,1.09
+503,serie-a,2016-11-06,11:30,Pescara vs Empoli,Pescara,Empoli,2.4,3.19,3.22,Pescara,Pescara,0.4,N,0,4,Empoli,3.22
+504,premier-league,2016-11-06,12:00,Arsenal vs Tottenham,Arsenal,Tottenham,1.94,3.58,4.17,Arsenal,Arsenal,0.472,N,1,1,Draw,3.58
+505,serie-a,2016-11-06,14:00,Chievo vs Juventus,Chievo,Juventus,7.05,3.73,1.59,Juventus,Juventus,0.528,N,1,2,Juventus,1.59
+506,serie-a,2016-11-06,14:00,Sassuolo vs Atalanta,Sassuolo,Atalanta,2.63,3.19,2.9,Sassuolo,Atalanta,0.483,Y,0,3,Atalanta,2.9
+507,serie-a,2016-11-06,14:00,Palermo vs AC Milan,Palermo,AC Milan,5.09,3.65,1.76,AC Milan,AC Milan,0.594,N,1,2,AC Milan,1.76
+508,serie-a,2016-11-06,14:00,Genoa vs Udinese,Genoa,Udinese,1.93,3.44,4.35,Genoa,Genoa,0.454,N,1,1,Draw,3.44
+509,ligue-1,2016-11-06,14:00,Caen vs Nice,Caen,Nice,3.02,3.32,2.43,Nice,Nice,0.615,N,1,0,Caen,3.02
+510,premier-league,2016-11-06,14:15,Liverpool vs Watford,Liverpool,Watford,1.27,6.12,12.29,Liverpool,Liverpool,0.656,N,6,1,Liverpool,1.27
+511,premier-league,2016-11-06,14:15,Hull City vs Southampton,Hull City,Southampton,5.64,3.77,1.69,Southampton,Southampton,0.473,N,2,1,Hull City,5.64
+512,premier-league,2016-11-06,15:00,Swansea City vs Manchester Utd,Swansea City,Manchester Utd,5.35,3.93,1.69,Manchester Utd,Manchester Utd,0.571,N,1,3,Manchester Utd,1.69
+513,laliga,2016-11-06,15:15,Espanyol vs Athletic Bilbao,Espanyol,Athletic Bilbao,2.62,3.2,2.9,Espanyol,Espanyol,0.447,N,0,0,Draw,3.2
+514,laliga,2016-11-06,15:15,Celta Vigo vs Valencia,Celta Vigo,Valencia,2.32,3.48,3.13,Celta Vigo,Celta Vigo,0.565,N,2,1,Celta Vigo,2.32
+515,ligue-1,2016-11-06,16:00,Metz vs Saint-Etienne,Metz,Saint-Etienne,3.59,3.23,2.19,Saint-Etienne,Metz,0.381,Y,0,0,Draw,3.23
+516,bundesliga,2016-11-06,16:30,Schalke 04 vs Werder Bremen,Schalke 04,Werder Bremen,1.57,4.33,5.87,Schalke 04,Schalke 04,0.506,N,3,1,Schalke 04,1.57
+517,premier-league,2016-11-06,16:30,Leicester City vs West Bromwich,Leicester City,West Bromwich,1.72,3.67,5.59,Leicester City,Leicester City,0.387,N,1,2,West Bromwich,5.59
+518,serie-a,2016-11-06,17:00,Fiorentina vs Sampdoria,Fiorentina,Sampdoria,1.56,4.21,6.21,Fiorentina,Fiorentina,0.525,N,1,1,Draw,4.21
+519,serie-a,2016-11-06,17:00,Inter Milan vs Crotone,Inter Milan,Crotone,1.28,5.81,11.98,Inter Milan,Inter Milan,0.647,N,3,0,Inter Milan,1.28
+520,laliga,2016-11-06,17:30,Villarreal vs Real Betis,Villarreal,Real Betis,1.61,3.92,6.19,Villarreal,Villarreal,0.604,N,2,0,Villarreal,1.61
+521,serie-a,2016-11-06,19:45,AS Roma vs Bologna,AS Roma,Bologna,1.25,6.45,12.16,AS Roma,AS Roma,0.62,N,3,0,AS Roma,1.25
+522,ligue-1,2016-11-06,19:45,Paris SG vs Rennes,Paris SG,Rennes,1.22,6.62,13.64,Paris SG,Paris SG,0.592,N,4,0,Paris SG,1.22
+523,ligue-1,2016-11-18,18:00,Lorient vs Monaco,Lorient,Monaco,3.88,3.64,1.96,Monaco,Monaco,0.632,N,0,3,Monaco,1.96
+524,bundesliga,2016-11-18,19:30,Leverkusen vs RB Leipzig,Leverkusen,RB Leipzig,2.3,3.37,3.25,Leverkusen,RB Leipzig,0.498,Y,2,3,RB Leipzig,3.25
+525,ligue-1,2016-11-18,19:45,Lille vs Lyon,Lille,Lyon,3.06,3.16,2.51,Lyon,Lyon,0.48,N,0,1,Lyon,2.51
+526,premier-league,2016-11-19,12:30,Manchester Utd vs Arsenal,Manchester Utd,Arsenal,2.47,3.24,3.13,Manchester Utd,Manchester Utd,0.42,N,1,1,Draw,3.24
+527,serie-a,2016-11-19,14:00,Chievo vs Cagliari,Chievo,Cagliari,1.97,3.41,4.22,Chievo,Chievo,0.506,N,1,0,Chievo,1.97
+528,bundesliga,2016-11-19,14:30,Darmstadt vs Ingolstadt,Darmstadt,Ingolstadt,2.95,3.11,2.64,Ingolstadt,Darmstadt,0.417,Y,0,1,Ingolstadt,2.64
+529,bundesliga,2016-11-19,14:30,Augsburg vs Hertha Berlin,Augsburg,Hertha Berlin,2.61,3.1,2.99,Augsburg,Hertha Berlin,0.439,Y,0,0,Draw,3.1
+530,bundesliga,2016-11-19,14:30,Wolfsburg vs Schalke 04,Wolfsburg,Schalke 04,2.46,3.33,3.0,Wolfsburg,Wolfsburg,0.443,N,0,1,Schalke 04,3.0
+531,premier-league,2016-11-19,15:00,Everton vs Swansea City,Everton,Swansea City,1.57,4.32,6.08,Everton,Everton,0.625,N,1,1,Draw,4.32
+532,premier-league,2016-11-19,15:00,Crystal Palace vs Manchester City,Crystal Palace,Manchester City,6.75,4.9,1.47,Manchester City,Manchester City,0.586,N,1,2,Manchester City,1.47
+533,premier-league,2016-11-19,15:00,Stoke City vs Bournemouth,Stoke City,Bournemouth,2.15,3.43,3.6,Stoke City,Stoke City,0.478,N,0,1,Bournemouth,3.6
+534,premier-league,2016-11-19,15:00,Southampton vs Liverpool,Southampton,Liverpool,3.16,3.44,2.34,Liverpool,Liverpool,0.488,N,0,0,Draw,3.44
+535,premier-league,2016-11-19,15:00,Watford vs Leicester City,Watford,Leicester City,2.95,3.29,2.56,Leicester City,Watford,0.519,Y,2,1,Watford,2.95
+536,premier-league,2016-11-19,15:00,Sunderland vs Hull City,Sunderland,Hull City,2.24,3.27,3.53,Sunderland,Sunderland,0.486,N,3,0,Sunderland,2.24
+537,ligue-1,2016-11-19,16:00,Paris SG vs Nantes,Paris SG,Nantes,1.21,6.64,14.83,Paris SG,Paris SG,0.637,N,2,0,Paris SG,1.21
+538,serie-a,2016-11-19,17:00,Udinese vs Napoli,Udinese,Napoli,5.25,3.98,1.68,Napoli,Napoli,0.42,N,1,2,Napoli,1.68
+539,premier-league,2016-11-19,17:30,Tottenham vs West Ham Utd,Tottenham,West Ham Utd,1.56,4.34,6.27,Tottenham,Tottenham,0.635,N,3,2,Tottenham,1.56
+540,ligue-1,2016-11-19,19:00,Rennes vs Angers,Rennes,Angers,2.36,3.02,3.47,Rennes,Rennes,0.556,N,1,1,Draw,3.02
+541,ligue-1,2016-11-19,19:00,Bastia vs Montpellier,Bastia,Montpellier,2.88,3.11,2.66,Montpellier,Bastia,0.433,Y,1,1,Draw,3.11
+542,ligue-1,2016-11-19,19:00,Nancy vs Dijon,Nancy,Dijon,2.09,3.28,3.84,Nancy,Nancy,0.488,N,1,0,Nancy,2.09
+543,ligue-1,2016-11-19,19:00,Toulouse vs Metz,Toulouse,Metz,1.53,4.12,6.86,Toulouse,Toulouse,0.528,N,1,2,Metz,6.86
+544,serie-a,2016-11-19,19:45,Juventus vs Pescara,Juventus,Pescara,1.16,8.19,19.35,Juventus,Juventus,0.696,N,3,0,Juventus,1.16
+545,serie-a,2016-11-20,11:30,Sampdoria vs Sassuolo,Sampdoria,Sassuolo,2.21,3.38,3.42,Sampdoria,Sampdoria,0.551,N,3,2,Sampdoria,2.21
+546,serie-a,2016-11-20,14:00,Lazio Roma vs Genoa,Lazio Roma,Genoa,1.71,3.89,5.14,Lazio Roma,Lazio Roma,0.582,N,3,1,Lazio Roma,1.71
+547,serie-a,2016-11-20,14:00,Atalanta vs AS Roma,Atalanta,AS Roma,3.75,3.56,2.04,AS Roma,Atalanta,0.383,Y,2,1,Atalanta,3.75
+548,serie-a,2016-11-20,14:00,Empoli vs Fiorentina,Empoli,Fiorentina,3.92,3.43,2.03,Fiorentina,Fiorentina,0.486,N,0,4,Fiorentina,2.03
+549,serie-a,2016-11-20,14:00,Crotone vs Torino,Crotone,Torino,4.89,3.78,1.76,Torino,Torino,0.537,N,0,2,Torino,1.76
+550,serie-a,2016-11-20,14:00,Bologna vs Palermo,Bologna,Palermo,1.91,3.4,4.55,Bologna,Bologna,0.61,N,3,1,Bologna,1.91
+551,ligue-1,2016-11-20,14:00,Guingamp vs Bordeaux,Guingamp,Bordeaux,2.52,3.18,3.01,Guingamp,Guingamp,0.516,N,1,1,Draw,3.18
+552,premier-league,2016-11-20,16:00,Middlesbrough vs Chelsea,Middlesbrough,Chelsea,7.05,4.45,1.5,Chelsea,Chelsea,0.641,N,0,1,Chelsea,1.5
+553,ligue-1,2016-11-20,16:00,Marseille vs Caen,Marseille,Caen,1.78,3.68,4.77,Marseille,Marseille,0.586,N,1,0,Marseille,1.78
+554,ligue-1,2016-11-20,19:45,Saint-Etienne vs Nice,Saint-Etienne,Nice,2.22,3.18,3.58,Saint-Etienne,Nice,0.522,Y,0,1,Nice,3.58
+555,premier-league,2016-11-21,20:00,West Bromwich vs Burnley,West Bromwich,Burnley,1.9,3.35,4.73,West Bromwich,West Bromwich,0.521,N,4,0,West Bromwich,1.9
+556,ligue-1,2016-11-25,19:45,Rennes vs Toulouse,Rennes,Toulouse,2.4,3.16,3.22,Rennes,Rennes,0.476,N,1,0,Rennes,2.4
+557,premier-league,2016-11-26,12:30,Burnley vs Manchester City,Burnley,Manchester City,12.52,6.74,1.24,Manchester City,Manchester City,0.554,N,1,2,Manchester City,1.24
+558,premier-league,2016-11-26,15:00,Leicester City vs Middlesbrough,Leicester City,Middlesbrough,1.9,3.4,4.63,Leicester City,Leicester City,0.446,N,2,2,Draw,3.4
+559,premier-league,2016-11-26,15:00,Swansea City vs Crystal Palace,Swansea City,Crystal Palace,2.67,3.27,2.82,Swansea City,Swansea City,0.405,N,5,4,Swansea City,2.67
+560,premier-league,2016-11-26,15:00,Hull City vs West Bromwich,Hull City,West Bromwich,2.84,3.1,2.79,West Bromwich,West Bromwich,0.446,N,1,1,Draw,3.1
+561,premier-league,2016-11-26,15:00,Liverpool vs Sunderland,Liverpool,Sunderland,1.17,8.52,16.13,Liverpool,Liverpool,0.7,N,2,0,Liverpool,1.17
+562,ligue-1,2016-11-26,16:10,Monaco vs Marseille,Monaco,Marseille,1.67,3.85,5.42,Monaco,Monaco,0.597,N,4,0,Monaco,1.67
+563,premier-league,2016-11-26,17:30,Chelsea vs Tottenham,Chelsea,Tottenham,1.71,3.85,5.35,Chelsea,Chelsea,0.554,N,2,1,Chelsea,1.71
+564,ligue-1,2016-11-26,19:00,Bordeaux vs Dijon,Bordeaux,Dijon,1.62,3.92,5.84,Bordeaux,Bordeaux,0.536,N,3,2,Bordeaux,1.62
+565,ligue-1,2016-11-26,19:00,Nantes vs Lille,Nantes,Lille,2.47,2.93,3.35,Nantes,Nantes,0.468,N,0,0,Draw,2.93
+566,ligue-1,2016-11-26,19:00,Montpellier vs Nancy,Montpellier,Nancy,1.86,3.53,4.5,Montpellier,Montpellier,0.478,N,0,0,Draw,3.53
+567,ligue-1,2016-11-26,19:00,Caen vs Guingamp,Caen,Guingamp,2.36,3.12,3.31,Caen,Guingamp,0.44,Y,1,1,Draw,3.12
+568,ligue-1,2016-11-26,19:00,Metz vs Lorient,Metz,Lorient,2.51,3.24,2.95,Metz,Metz,0.548,N,3,3,Draw,3.24
+569,premier-league,2016-11-27,12:00,Watford vs Stoke City,Watford,Stoke City,2.27,3.27,3.48,Watford,Watford,0.473,N,0,1,Stoke City,3.48
+570,ligue-1,2016-11-27,14:00,Angers vs Saint-Etienne,Angers,Saint-Etienne,2.59,2.85,3.22,Angers,Saint-Etienne,0.392,Y,1,2,Saint-Etienne,3.22
+571,premier-league,2016-11-27,14:15,Arsenal vs Bournemouth,Arsenal,Bournemouth,1.35,5.44,9.39,Arsenal,Arsenal,0.639,N,3,1,Arsenal,1.35
+572,ligue-1,2016-11-27,16:00,Nice vs Bastia,Nice,Bastia,1.64,3.75,5.98,Nice,Nice,0.671,N,1,1,Draw,3.75
+573,premier-league,2016-11-27,16:30,Southampton vs Everton,Southampton,Everton,2.12,3.4,3.73,Southampton,Southampton,0.449,N,1,0,Southampton,2.12
+574,premier-league,2016-11-27,16:30,Manchester Utd vs West Ham Utd,Manchester Utd,West Ham Utd,1.35,5.45,9.1,Manchester Utd,Manchester Utd,0.607,N,1,1,Draw,5.45
+575,premier-league,2016-12-03,12:30,Manchester City vs Chelsea,Manchester City,Chelsea,2.15,3.43,3.6,Manchester City,Manchester City,0.387,N,1,3,Chelsea,3.6

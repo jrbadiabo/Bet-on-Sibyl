@@ -1,0 +1,15 @@
+ID,Date,Time,League,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2016-12-23,20:00:00,NBA,Charlotte Hornets vs Chicago Bulls,Charlotte Hornets,Chicago Bulls,1.58,2.42,Charlotte Hornets,Charlotte Hornets,0.647,N,Upcoming
+1,2016-12-23,20:00:00,NBA,Orlando Magic vs Los Angeles Lakers,Orlando Magic,Los Angeles Lakers,1.46,2.77,Orlando Magic,Orlando Magic,0.643,N,Upcoming
+2,2016-12-23,20:30:00,NBA,Boston Celtics vs Oklahoma City Thunder,Boston Celtics,Oklahoma City Thunder,1.57,2.44,Boston Celtics,Boston Celtics,0.681,N,Upcoming
+3,2016-12-23,20:30:00,NBA,Cleveland Cavaliers vs Brooklyn Nets,Cleveland Cavaliers,Brooklyn Nets,1.95,1.95,Brooklyn Nets,Cleveland Cavaliers,0.96,Y,Upcoming
+4,2016-12-23,20:30:00,NBA,Detroit Pistons vs Golden State Warriors,Detroit Pistons,Golden State Warriors,3.51,1.31,Golden State Warriors,Golden State Warriors,0.783,N,Upcoming
+5,2016-12-23,21:00:00,NBA,Memphis Grizzlies vs Houston Rockets,Memphis Grizzlies,Houston Rockets,2.36,1.61,Houston Rockets,Houston Rockets,0.641,N,Upcoming
+6,2016-12-23,21:00:00,NBA,Milwaukee Bucks vs Washington Wizards,Milwaukee Bucks,Washington Wizards,1.62,2.34,Milwaukee Bucks,Milwaukee Bucks,0.724,N,Upcoming
+7,2016-12-23,21:00:00,NBA,Minnesota Timberwolves vs Sacramento Kings,Minnesota Timberwolves,Sacramento Kings,1.95,1.95,Sacramento Kings,Minnesota Timberwolves,0.651,Y,Upcoming
+8,2016-12-23,21:00:00,NBA,New Orleans Pelicans vs Miami Heat,New Orleans Pelicans,Miami Heat,1.48,2.7,New Orleans Pelicans,New Orleans Pelicans,0.585,N,Upcoming
+9,2016-12-23,22:00:00,NBA,Denver Nuggets vs Atlanta Hawks,Denver Nuggets,Atlanta Hawks,1.55,2.48,Denver Nuggets,Denver Nuggets,0.624,N,Upcoming
+10,2016-12-23,22:00:00,NBA,Phoenix Suns vs Philadelphia 76ers,Phoenix Suns,Philadelphia 76ers,1.49,2.74,Phoenix Suns,Phoenix Suns,0.656,N,Upcoming
+11,2016-12-23,22:00:00,NBA,Utah Jazz vs Toronto Raptors,Utah Jazz,Toronto Raptors,2.05,1.79,Toronto Raptors,Toronto Raptors,0.557,N,Upcoming
+12,2016-12-23,23:00:00,NBA,Portland Trail Blazers vs San Antonio Spurs,Portland Trail Blazers,San Antonio Spurs,2.11,1.75,San Antonio Spurs,San Antonio Spurs,0.722,N,Upcoming
+13,2016-12-23,23:30:00,NBA,Los Angeles Clippers vs Dallas Mavericks,Los Angeles Clippers,Dallas Mavericks,1.95,1.95,Dallas Mavericks,Los Angeles Clippers,0.936,Y,Upcoming

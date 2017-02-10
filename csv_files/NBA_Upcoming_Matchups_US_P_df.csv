@@ -1,0 +1,6 @@
+ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2016-11-10,21:00:00,NBA,Chicago Bulls @ Miami Heat,Chicago Bulls,Miami Heat,2.3,1.8,Miami Heat,Miami Heat,0.584,N,Upcoming
+1,2016-11-10,21:00:00,NBA,New Orleans Pelicans @ Milwaukee Bucks,New Orleans Pelicans,Milwaukee Bucks,2.98,1.52,Milwaukee Bucks,Milwaukee Bucks,0.842,N,Upcoming
+2,2016-11-10,22:00:00,NBA,Golden State Warriors @ Denver Nuggets,Golden State Warriors,Denver Nuggets,1.41,3.48,Golden State Warriors,Golden State Warriors,0.605,N,Upcoming
+3,2016-11-10,23:30:00,NBA,Los Angeles Lakers @ Sacramento Kings,Los Angeles Lakers,Sacramento Kings,2.94,1.52,Sacramento Kings,Los Angeles Lakers,0.58,Y,Upcoming
+4,2016-11-11,20:00:00,NBA,Cleveland Cavaliers @ Washington Wizards,Cleveland Cavaliers,Washington Wizards,1.36,3.26,Cleveland Cavaliers,Cleveland Cavaliers,0.635,N,Upcoming

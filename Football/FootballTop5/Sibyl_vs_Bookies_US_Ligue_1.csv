@@ -1,0 +1,137 @@
+ID,League,Date,Time,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,visi_team_pts,Home_Team_PTS,True_Result,Winner_Odd
+0,ligue-1,2016-08-12,19:30,Guingamp @ Monaco,Guingamp,Monaco,5.48,3.68,1.69,Monaco,Monaco,0.598,N,2,2,Draw,3.68
+6,ligue-1,2016-08-13,16:00,Saint-Etienne @ Bordeaux,Saint-Etienne,Bordeaux,3.42,3.03,2.35,Bordeaux,Bordeaux,0.447,N,2,3,Bordeaux,2.35
+8,ligue-1,2016-08-13,19:00,Lorient @ Caen,Lorient,Caen,3.33,3.2,2.3,Caen,Caen,0.527,N,2,3,Caen,2.3
+9,ligue-1,2016-08-13,19:00,Angers @ Montpellier,Angers,Montpellier,4.91,3.21,1.88,Montpellier,Montpellier,0.513,N,0,1,Montpellier,1.88
+10,ligue-1,2016-08-13,19:00,Lille @ Metz,Lille,Metz,2.22,3.08,3.68,Lille,Metz,0.475,Y,2,3,Metz,3.68
+11,ligue-1,2016-08-13,19:00,Nantes @ Dijon,Nantes,Dijon,3.17,2.98,2.52,Dijon,Dijon,0.466,N,1,0,Nantes,3.17
+13,ligue-1,2016-08-14,14:00,Lyon @ Nancy,Lyon,Nancy,2.45,3.23,3.06,Lyon,Lyon,0.472,N,3,0,Lyon,2.45
+15,ligue-1,2016-08-14,16:00,Rennes @ Nice,Rennes,Nice,3.24,3.12,2.41,Nice,Nice,0.635,N,0,1,Nice,2.41
+16,ligue-1,2016-08-14,19:45,Toulouse @ Marseille,Toulouse,Marseille,3.93,3.24,2.07,Marseille,Marseille,0.515,N,0,0,Draw,3.24
+18,ligue-1,2016-08-19,19:45,Caen @ Lyon,Caen,Lyon,8.44,5.0,1.38,Lyon,Lyon,0.62,N,0,2,Lyon,1.38
+27,ligue-1,2016-08-20,16:00,Monaco @ Nantes,Monaco,Nantes,3.34,3.0,2.43,Nantes,Monaco,0.578,Y,1,0,Monaco,3.34
+30,ligue-1,2016-08-20,19:00,Nice @ Angers,Nice,Angers,3.16,2.85,2.65,Angers,Nice,0.62,Y,1,0,Nice,3.16
+31,ligue-1,2016-08-20,19:00,Bordeaux @ Toulouse,Bordeaux,Toulouse,2.95,3.09,2.6,Toulouse,Toulouse,0.471,N,1,4,Toulouse,2.6
+32,ligue-1,2016-08-20,19:00,Dijon @ Lille,Dijon,Lille,5.75,3.36,1.75,Lille,Lille,0.467,N,0,1,Lille,1.75
+33,ligue-1,2016-08-20,19:00,Nancy @ Rennes,Nancy,Rennes,4.04,3.25,2.05,Rennes,Rennes,0.525,N,0,2,Rennes,2.05
+34,ligue-1,2016-08-20,19:00,Bastia @ Lorient,Bastia,Lorient,3.89,3.08,2.16,Lorient,Lorient,0.393,N,3,0,Bastia,3.89
+39,ligue-1,2016-08-21,14:00,Marseille @ Guingamp,Marseille,Guingamp,2.69,3.11,2.86,Marseille,Guingamp,0.465,Y,1,2,Guingamp,2.86
+41,ligue-1,2016-08-21,16:00,Montpellier @ Saint-Etienne,Montpellier,Saint-Etienne,3.48,3.01,2.36,Saint-Etienne,Saint-Etienne,0.525,N,1,3,Saint-Etienne,2.36
+52,ligue-1,2016-08-21,19:45,Metz @ Paris SG,Metz,Paris SG,25.03,9.75,1.12,Paris SG,Paris SG,0.625,N,0,3,Paris SG,1.12
+56,ligue-1,2016-08-26,19:45,Lorient @ Marseille,Lorient,Marseille,4.61,3.63,1.81,Marseille,Marseille,0.63,N,0,2,Marseille,1.81
+69,ligue-1,2016-08-27,16:00,Lyon @ Dijon,Lyon,Dijon,1.76,3.66,4.94,Lyon,Lyon,0.489,N,2,4,Dijon,4.94
+75,ligue-1,2016-08-27,19:00,Angers @ Metz,Angers,Metz,3.04,3.0,2.61,Metz,Metz,0.492,N,0,2,Metz,2.61
+76,ligue-1,2016-08-27,19:00,Bastia @ Caen,Bastia,Caen,3.72,3.07,2.22,Caen,Caen,0.456,N,0,2,Caen,2.22
+77,ligue-1,2016-08-27,19:00,Lille @ Nice,Lille,Nice,3.13,2.91,2.62,Nice,Nice,0.672,N,1,1,Draw,2.91
+78,ligue-1,2016-08-27,19:00,Guingamp @ Nancy,Guingamp,Nancy,4.05,3.27,2.04,Nancy,Guingamp,0.403,Y,2,0,Guingamp,4.05
+79,ligue-1,2016-08-27,19:00,Rennes @ Montpellier,Rennes,Montpellier,3.89,3.19,2.11,Montpellier,Montpellier,0.413,N,1,1,Draw,3.19
+84,ligue-1,2016-08-28,14:00,Nantes @ Bordeaux,Nantes,Bordeaux,4.01,3.09,2.12,Bordeaux,Bordeaux,0.534,N,0,1,Bordeaux,2.12
+87,ligue-1,2016-08-28,16:00,Toulouse @ Saint-Etienne,Toulouse,Saint-Etienne,3.73,3.14,2.18,Saint-Etienne,Saint-Etienne,0.483,N,0,0,Draw,3.14
+99,ligue-1,2016-08-28,19:45,Paris SG @ Monaco,Paris SG,Monaco,1.83,3.67,4.54,Paris SG,Monaco,0.512,Y,1,3,Monaco,4.54
+103,ligue-1,2016-09-09,19:45,Saint-Etienne @ Paris SG,Saint-Etienne,Paris SG,9.36,4.97,1.37,Paris SG,Paris SG,0.581,N,1,1,Draw,4.97
+117,ligue-1,2016-09-10,16:00,Bordeaux @ Lyon,Bordeaux,Lyon,5.57,4.12,1.61,Lyon,Lyon,0.561,N,3,1,Bordeaux,5.57
+123,ligue-1,2016-09-10,19:00,Toulouse @ Bastia,Toulouse,Bastia,2.81,2.92,2.89,Toulouse,Bastia,0.389,Y,1,2,Bastia,2.89
+124,ligue-1,2016-09-10,19:00,Nancy @ Lorient,Nancy,Lorient,3.12,3.13,2.48,Lorient,Lorient,0.37,N,2,0,Nancy,3.12
+125,ligue-1,2016-09-10,19:00,Dijon @ Angers,Dijon,Angers,3.64,3.04,2.27,Angers,Angers,0.45,N,1,3,Angers,2.27
+126,ligue-1,2016-09-10,19:00,Montpellier @ Guingamp,Montpellier,Guingamp,3.27,3.15,2.37,Guingamp,Guingamp,0.553,N,1,1,Draw,3.15
+127,ligue-1,2016-09-10,19:00,Monaco @ Lille,Monaco,Lille,3.27,3.05,2.43,Lille,Monaco,0.569,Y,4,1,Monaco,3.27
+136,ligue-1,2016-09-11,14:00,Metz @ Nantes,Metz,Nantes,5.65,3.49,1.72,Nantes,Nantes,0.46,N,3,0,Metz,5.65
+140,ligue-1,2016-09-11,16:00,Caen @ Rennes,Caen,Rennes,3.84,3.35,2.06,Rennes,Rennes,0.554,N,0,2,Rennes,2.06
+148,ligue-1,2016-09-16,19:45,Paris SG @ Caen,Paris SG,Caen,1.42,4.79,7.78,Paris SG,Paris SG,0.56,N,6,0,Paris SG,1.42
+161,ligue-1,2016-09-17,16:00,Rennes @ Monaco,Rennes,Monaco,4.87,3.6,1.78,Monaco,Monaco,0.626,N,0,3,Monaco,1.78
+166,ligue-1,2016-09-17,19:00,Angers @ Bordeaux,Angers,Bordeaux,5.13,3.44,1.79,Bordeaux,Bordeaux,0.55,N,1,0,Angers,5.13
+167,ligue-1,2016-09-17,19:00,Nantes @ Nancy,Nantes,Nancy,3.66,2.97,2.31,Nancy,Nancy,0.487,N,1,1,Draw,2.97
+168,ligue-1,2016-09-17,19:00,Lille @ Lorient,Lille,Lorient,2.24,3.19,3.51,Lille,Lorient,0.39,Y,0,1,Lorient,3.51
+169,ligue-1,2016-09-17,19:00,Metz @ Dijon,Metz,Dijon,4.03,3.48,1.96,Dijon,Dijon,0.459,N,0,0,Draw,3.48
+170,ligue-1,2016-09-17,19:00,Guingamp @ Toulouse,Guingamp,Toulouse,3.78,3.28,2.11,Toulouse,Toulouse,0.417,N,1,2,Toulouse,2.11
+180,ligue-1,2016-09-18,14:00,Nice @ Montpellier,Nice,Montpellier,3.52,3.33,2.18,Montpellier,Nice,0.567,Y,1,1,Draw,3.33
+184,ligue-1,2016-09-18,16:00,Bastia @ Saint-Etienne,Bastia,Saint-Etienne,5.66,3.4,1.75,Saint-Etienne,Saint-Etienne,0.555,N,0,1,Saint-Etienne,1.75
+191,ligue-1,2016-09-18,19:45,Lyon @ Marseille,Lyon,Marseille,2.84,3.28,2.58,Marseille,Marseille,0.413,N,0,0,Draw,3.28
+193,ligue-1,2016-09-20,18:00,Toulouse @ Lille,Toulouse,Lille,3.7,3.08,2.22,Lille,Lille,0.391,N,2,1,Toulouse,3.7
+200,ligue-1,2016-09-20,20:00,Dijon @ Paris SG,Dijon,Paris SG,23.66,10.03,1.11,Paris SG,Paris SG,0.638,N,0,3,Paris SG,1.11
+203,ligue-1,2016-09-21,18:00,Lorient @ Guingamp,Lorient,Guingamp,4.17,3.39,1.97,Guingamp,Guingamp,0.63,N,0,1,Guingamp,1.97
+204,ligue-1,2016-09-21,18:00,Saint-Etienne @ Nantes,Saint-Etienne,Nantes,3.0,2.94,2.69,Nantes,Nantes,0.376,N,0,0,Draw,2.94
+205,ligue-1,2016-09-21,18:00,Monaco @ Nice,Monaco,Nice,2.23,3.29,3.43,Monaco,Nice,0.484,Y,0,4,Nice,3.43
+206,ligue-1,2016-09-21,18:00,Caen @ Angers,Caen,Angers,3.6,3.15,2.23,Angers,Angers,0.464,N,1,2,Angers,2.23
+207,ligue-1,2016-09-21,18:00,Bordeaux @ Metz,Bordeaux,Metz,2.37,3.28,3.14,Bordeaux,Metz,0.402,Y,3,0,Bordeaux,2.37
+208,ligue-1,2016-09-21,18:00,Montpellier @ Lyon,Montpellier,Lyon,5.14,3.81,1.71,Lyon,Lyon,0.594,N,1,5,Lyon,1.71
+209,ligue-1,2016-09-21,18:00,Nancy @ Bastia,Nancy,Bastia,3.66,3.0,2.29,Bastia,Bastia,0.444,N,0,0,Draw,3.0
+224,ligue-1,2016-09-21,20:00,Marseille @ Rennes,Marseille,Rennes,3.28,3.24,2.32,Rennes,Rennes,0.426,N,2,3,Rennes,2.32
+233,ligue-1,2016-09-23,19:45,Paris SG @ Toulouse,Paris SG,Toulouse,1.47,4.43,7.34,Paris SG,Paris SG,0.466,N,0,2,Toulouse,7.34
+247,ligue-1,2016-09-24,16:00,Lyon @ Lorient,Lyon,Lorient,2.02,3.42,3.9,Lyon,Lyon,0.558,N,0,1,Lorient,3.9
+252,ligue-1,2016-09-24,19:00,Rennes @ Dijon,Rennes,Dijon,3.09,3.1,2.51,Dijon,Rennes,0.386,Y,0,3,Dijon,2.51
+253,ligue-1,2016-09-24,19:00,Angers @ Monaco,Angers,Monaco,5.2,3.55,1.75,Monaco,Monaco,0.67,N,1,2,Monaco,1.75
+254,ligue-1,2016-09-24,19:00,Caen @ Bordeaux,Caen,Bordeaux,4.81,3.66,1.78,Bordeaux,Bordeaux,0.547,N,0,0,Draw,3.66
+255,ligue-1,2016-09-24,19:00,Guingamp @ Bastia,Guingamp,Bastia,3.24,2.92,2.53,Bastia,Guingamp,0.418,Y,0,1,Bastia,2.53
+256,ligue-1,2016-09-24,19:00,Metz @ Montpellier,Metz,Montpellier,5.81,3.94,1.62,Montpellier,Montpellier,0.488,N,1,0,Metz,5.81
+265,ligue-1,2016-09-25,14:00,Lille @ Saint-Etienne,Lille,Saint-Etienne,3.31,3.02,2.43,Saint-Etienne,Saint-Etienne,0.554,N,1,3,Saint-Etienne,2.43
+269,ligue-1,2016-09-25,16:00,Nice @ Nancy,Nice,Nancy,3.11,3.13,2.47,Nancy,Nice,0.589,Y,1,0,Nice,3.11
+273,ligue-1,2016-09-25,19:45,Nantes @ Marseille,Nantes,Marseille,3.86,3.19,2.12,Marseille,Marseille,0.576,N,1,2,Marseille,2.12
+279,ligue-1,2016-09-30,19:45,Guingamp @ Rennes,Guingamp,Rennes,3.88,3.2,2.11,Rennes,Rennes,0.428,N,0,1,Rennes,2.11
+293,ligue-1,2016-10-01,16:00,Bordeaux @ Paris SG,Bordeaux,Paris SG,11.63,5.87,1.27,Paris SG,Paris SG,0.594,N,0,2,Paris SG,1.27
+297,ligue-1,2016-10-01,19:00,Bastia @ Nantes,Bastia,Nantes,4.62,3.16,1.96,Nantes,Nantes,0.471,N,0,1,Nantes,1.96
+298,ligue-1,2016-10-01,19:00,Montpellier @ Dijon,Montpellier,Dijon,3.07,3.16,2.48,Dijon,Dijon,0.435,N,3,3,Draw,3.16
+299,ligue-1,2016-10-01,19:00,Toulouse @ Caen,Toulouse,Caen,2.75,3.15,2.75,Draw,Caen,0.377,Y,0,1,Caen,2.75
+300,ligue-1,2016-10-01,19:00,Monaco @ Metz,Monaco,Metz,1.77,3.73,4.75,Monaco,Monaco,0.589,N,7,0,Monaco,1.77
+301,ligue-1,2016-10-01,19:00,Nancy @ Lille,Nancy,Lille,5.22,3.36,1.8,Lille,Lille,0.446,N,0,1,Lille,1.8
+311,ligue-1,2016-10-02,14:00,Marseille @ Angers,Marseille,Angers,2.79,3.1,2.74,Angers,Marseille,0.452,Y,1,1,Draw,3.1
+315,ligue-1,2016-10-02,16:00,Lorient @ Nice,Lorient,Nice,5.37,3.77,1.69,Nice,Nice,0.697,N,1,2,Nice,1.69
+324,ligue-1,2016-10-02,19:45,Saint-Etienne @ Lyon,Saint-Etienne,Lyon,4.61,3.51,1.85,Lyon,Lyon,0.546,N,0,2,Lyon,1.85
+325,ligue-1,2016-10-14,18:00,Monaco @ Toulouse,Monaco,Toulouse,2.65,3.2,2.85,Monaco,Monaco,0.504,N,1,3,Toulouse,2.85
+328,ligue-1,2016-10-14,19:45,Lyon @ Nice,Lyon,Nice,2.49,3.39,2.89,Lyon,Nice,0.569,Y,0,2,Nice,2.89
+343,ligue-1,2016-10-15,16:00,Paris SG @ Nancy,Paris SG,Nancy,1.44,4.39,8.41,Paris SG,Paris SG,0.529,N,2,1,Paris SG,1.44
+348,ligue-1,2016-10-15,19:00,Nantes @ Lorient,Nantes,Lorient,2.96,3.03,2.66,Lorient,Lorient,0.39,N,2,1,Nantes,2.96
+349,ligue-1,2016-10-15,19:00,Caen @ Montpellier,Caen,Montpellier,3.88,3.36,2.05,Montpellier,Montpellier,0.51,N,2,3,Montpellier,2.05
+350,ligue-1,2016-10-15,19:00,Lille @ Guingamp,Lille,Guingamp,2.85,2.96,2.79,Guingamp,Guingamp,0.578,N,0,1,Guingamp,2.79
+351,ligue-1,2016-10-15,19:00,Angers @ Bastia,Angers,Bastia,3.24,2.82,2.61,Bastia,Bastia,0.481,N,2,1,Angers,3.24
+361,ligue-1,2016-10-16,14:00,Bordeaux @ Rennes,Bordeaux,Rennes,3.0,3.13,2.55,Rennes,Rennes,0.479,N,1,1,Draw,3.13
+364,ligue-1,2016-10-16,16:00,Dijon @ Saint-Etienne,Dijon,Saint-Etienne,5.36,3.49,1.76,Saint-Etienne,Saint-Etienne,0.552,N,1,1,Draw,3.49
+373,ligue-1,2016-10-21,19:45,Montpellier @ Monaco,Montpellier,Monaco,5.92,3.95,1.62,Monaco,Monaco,0.654,N,2,6,Monaco,1.62
+387,ligue-1,2016-10-22,16:00,Guingamp @ Lyon,Guingamp,Lyon,7.36,4.42,1.47,Lyon,Lyon,0.519,N,3,1,Guingamp,7.36
+392,ligue-1,2016-10-22,19:00,Lorient @ Dijon,Lorient,Dijon,3.47,3.25,2.23,Dijon,Dijon,0.539,N,0,1,Dijon,2.23
+393,ligue-1,2016-10-22,19:00,Rennes @ Nantes,Rennes,Nantes,3.42,3.06,2.36,Nantes,Rennes,0.387,Y,2,1,Rennes,3.42
+394,ligue-1,2016-10-22,19:00,Toulouse @ Angers,Toulouse,Angers,3.06,3.0,2.6,Angers,Toulouse,0.377,Y,0,0,Draw,3.0
+395,ligue-1,2016-10-22,19:00,Bastia @ Lille,Bastia,Lille,5.12,3.25,1.85,Lille,Lille,0.469,N,1,2,Lille,1.85
+396,ligue-1,2016-10-22,19:00,Nancy @ Bordeaux,Nancy,Bordeaux,5.29,3.43,1.78,Bordeaux,Bordeaux,0.516,N,1,1,Draw,3.43
+407,ligue-1,2016-10-23,14:00,Saint-Etienne @ Caen,Saint-Etienne,Caen,2.89,3.11,2.66,Caen,Saint-Etienne,0.386,Y,2,0,Saint-Etienne,2.89
+411,ligue-1,2016-10-23,16:00,Nice @ Metz,Nice,Metz,2.29,3.29,3.31,Nice,Nice,0.613,N,4,2,Nice,2.29
+417,ligue-1,2016-10-23,19:45,Marseille @ Paris SG,Marseille,Paris SG,11.03,5.83,1.28,Paris SG,Paris SG,0.559,N,0,0,Draw,5.83
+430,ligue-1,2016-10-28,19:45,Paris SG @ Lille,Paris SG,Lille,1.56,4.03,6.59,Paris SG,Paris SG,0.537,N,1,0,Paris SG,1.56
+443,ligue-1,2016-10-29,16:00,Lyon @ Toulouse,Lyon,Toulouse,2.7,3.28,2.69,Toulouse,Lyon,0.404,Y,2,1,Lyon,2.7
+448,ligue-1,2016-10-29,19:00,Dijon @ Bastia,Dijon,Bastia,3.65,3.07,2.23,Bastia,Bastia,0.465,N,0,0,Draw,3.07
+449,ligue-1,2016-10-29,19:00,Monaco @ Saint-Etienne,Monaco,Saint-Etienne,2.94,3.18,2.55,Saint-Etienne,Monaco,0.491,Y,1,1,Draw,3.18
+450,ligue-1,2016-10-29,19:00,Caen @ Nancy,Caen,Nancy,4.06,3.17,2.07,Nancy,Nancy,0.501,N,0,2,Nancy,2.07
+451,ligue-1,2016-10-29,19:00,Angers @ Guingamp,Angers,Guingamp,3.48,3.06,2.31,Guingamp,Guingamp,0.587,N,0,1,Guingamp,2.31
+452,ligue-1,2016-10-29,19:00,Montpellier @ Lorient,Montpellier,Lorient,3.72,3.4,2.08,Lorient,Montpellier,0.391,Y,2,2,Draw,3.4
+462,ligue-1,2016-10-30,14:00,Nantes @ Nice,Nantes,Nice,4.41,3.29,1.96,Nice,Nice,0.666,N,1,4,Nice,1.96
+466,ligue-1,2016-10-30,16:00,Metz @ Rennes,Metz,Rennes,6.26,3.88,1.6,Rennes,Rennes,0.533,N,0,1,Rennes,1.6
+471,ligue-1,2016-10-30,19:45,Bordeaux @ Marseille,Bordeaux,Marseille,3.58,3.27,2.18,Marseille,Marseille,0.517,N,0,0,Draw,3.27
+478,ligue-1,2016-11-04,19:45,Marseille @ Montpellier,Marseille,Montpellier,2.91,3.19,2.58,Montpellier,Marseille,0.381,Y,1,3,Montpellier,2.58
+490,ligue-1,2016-11-05,16:00,Nancy @ Monaco,Nancy,Monaco,7.71,4.32,1.47,Monaco,Monaco,0.653,N,0,6,Monaco,1.47
+495,ligue-1,2016-11-05,19:00,Lille @ Angers,Lille,Angers,3.45,2.93,2.42,Angers,Angers,0.45,N,0,1,Angers,2.42
+496,ligue-1,2016-11-05,19:00,Bastia @ Lyon,Bastia,Lyon,8.51,4.66,1.41,Lyon,Lyon,0.616,N,1,2,Lyon,1.41
+497,ligue-1,2016-11-05,19:00,Lorient @ Bordeaux,Lorient,Bordeaux,5.05,3.63,1.76,Bordeaux,Bordeaux,0.599,N,1,2,Bordeaux,1.76
+498,ligue-1,2016-11-05,19:00,Guingamp @ Dijon,Guingamp,Dijon,3.0,3.09,2.59,Dijon,Guingamp,0.422,Y,3,3,Draw,3.09
+499,ligue-1,2016-11-05,19:00,Toulouse @ Nantes,Toulouse,Nantes,3.1,2.98,2.6,Nantes,Nantes,0.392,N,1,1,Draw,2.98
+509,ligue-1,2016-11-06,14:00,Nice @ Caen,Nice,Caen,2.43,3.32,3.02,Nice,Nice,0.615,N,0,1,Caen,3.02
+515,ligue-1,2016-11-06,16:00,Saint-Etienne @ Metz,Saint-Etienne,Metz,2.19,3.23,3.59,Saint-Etienne,Metz,0.381,Y,0,0,Draw,3.23
+522,ligue-1,2016-11-06,19:45,Rennes @ Paris SG,Rennes,Paris SG,13.64,6.62,1.22,Paris SG,Paris SG,0.592,N,0,4,Paris SG,1.22
+523,ligue-1,2016-11-18,18:00,Monaco @ Lorient,Monaco,Lorient,1.96,3.64,3.88,Monaco,Monaco,0.632,N,3,0,Monaco,1.96
+525,ligue-1,2016-11-18,19:45,Lyon @ Lille,Lyon,Lille,2.51,3.16,3.06,Lyon,Lyon,0.48,N,1,0,Lyon,2.51
+537,ligue-1,2016-11-19,16:00,Nantes @ Paris SG,Nantes,Paris SG,14.83,6.64,1.21,Paris SG,Paris SG,0.637,N,0,2,Paris SG,1.21
+540,ligue-1,2016-11-19,19:00,Angers @ Rennes,Angers,Rennes,3.47,3.02,2.36,Rennes,Rennes,0.556,N,1,1,Draw,3.02
+541,ligue-1,2016-11-19,19:00,Montpellier @ Bastia,Montpellier,Bastia,2.66,3.11,2.88,Montpellier,Bastia,0.433,Y,1,1,Draw,3.11
+542,ligue-1,2016-11-19,19:00,Dijon @ Nancy,Dijon,Nancy,3.84,3.28,2.09,Nancy,Nancy,0.488,N,0,1,Nancy,2.09
+543,ligue-1,2016-11-19,19:00,Metz @ Toulouse,Metz,Toulouse,6.86,4.12,1.53,Toulouse,Toulouse,0.528,N,2,1,Metz,6.86
+551,ligue-1,2016-11-20,14:00,Bordeaux @ Guingamp,Bordeaux,Guingamp,3.01,3.18,2.52,Guingamp,Guingamp,0.516,N,1,1,Draw,3.18
+553,ligue-1,2016-11-20,16:00,Caen @ Marseille,Caen,Marseille,4.77,3.68,1.78,Marseille,Marseille,0.586,N,0,1,Marseille,1.78
+554,ligue-1,2016-11-20,19:45,Nice @ Saint-Etienne,Nice,Saint-Etienne,3.58,3.18,2.22,Saint-Etienne,Nice,0.522,Y,1,0,Nice,3.58
+556,ligue-1,2016-11-25,19:45,Toulouse @ Rennes,Toulouse,Rennes,3.22,3.16,2.4,Rennes,Rennes,0.476,N,0,1,Rennes,2.4
+562,ligue-1,2016-11-26,16:10,Marseille @ Monaco,Marseille,Monaco,5.42,3.85,1.67,Monaco,Monaco,0.597,N,0,4,Monaco,1.67
+564,ligue-1,2016-11-26,19:00,Dijon @ Bordeaux,Dijon,Bordeaux,5.84,3.92,1.62,Bordeaux,Bordeaux,0.536,N,2,3,Bordeaux,1.62
+565,ligue-1,2016-11-26,19:00,Lille @ Nantes,Lille,Nantes,3.35,2.93,2.47,Nantes,Nantes,0.468,N,0,0,Draw,2.93
+566,ligue-1,2016-11-26,19:00,Nancy @ Montpellier,Nancy,Montpellier,4.5,3.53,1.86,Montpellier,Montpellier,0.478,N,0,0,Draw,3.53
+567,ligue-1,2016-11-26,19:00,Guingamp @ Caen,Guingamp,Caen,3.31,3.12,2.36,Caen,Guingamp,0.44,Y,1,1,Draw,3.12
+568,ligue-1,2016-11-26,19:00,Lorient @ Metz,Lorient,Metz,2.95,3.24,2.51,Metz,Metz,0.548,N,3,3,Draw,3.24
+570,ligue-1,2016-11-27,14:00,Saint-Etienne @ Angers,Saint-Etienne,Angers,3.22,2.85,2.59,Angers,Saint-Etienne,0.392,Y,2,1,Saint-Etienne,3.22
+572,ligue-1,2016-11-27,16:00,Bastia @ Nice,Bastia,Nice,5.98,3.75,1.64,Nice,Nice,0.671,N,1,1,Draw,3.75

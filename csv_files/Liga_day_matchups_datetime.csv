@@ -1,0 +1,22 @@
+,Matchup_Date,Date,Hour,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd
+0,2016-10-31 19:45:00,2016-10-31,19:45:00,Valencia CF,Deportivo La Coruna,2.68,3.41,3.05
+1,2016-11-04 19:45:00,2016-11-04,19:45:00,Real Sporting de Gijon,Malaga CF,5.8,3.85,1.8
+2,2016-11-05 12:00:00,2016-11-05,12:00:00,Deportivo La Coruna,Granada CF,2.92,3.3,2.81
+3,2016-11-05 15:15:00,2016-11-05,15:15:00,Atletico Madrid,Real Sociedad,1.88,3.85,5.3
+4,2016-11-05 17:30:00,2016-11-05,17:30:00,Alaves,Osasuna,3.49,3.4,2.4
+5,2016-11-05 19:45:00,2016-11-05,19:45:00,Eibar,U.D. Las Palmas de Gran Canaria,4.07,3.61,2.07
+6,2016-11-06 11:00:00,2016-11-06,11:00:00,Leganes,Real Madrid,45.0,18.0,1.13
+7,2016-11-06 15:15:00,2016-11-06,15:15:00,Athletic Bilbao,RCD Espanyol,2.62,3.4,3.2
+8,2016-11-06 15:15:00,2016-11-06,15:15:00,Valencia CF,Celta de Vigo,3.48,3.67,2.32
+9,2016-11-06 17:30:00,2016-11-06,17:30:00,Real Betis,Villarreal CF,7.6,4.5,1.59
+10,2016-11-06 19:45:00,2016-11-06,19:45:00,FC Barcelona,Sevilla FC,1.59,5.0,6.05
+11,2016-11-18 19:45:00,2016-11-18,19:45:00,U.D. Las Palmas de Gran Canaria,Real Betis,3.5,3.42,2.36
+12,2016-11-19 12:00:00,2016-11-19,12:00:00,Sevilla FC,Deportivo La Coruna,2.34,3.47,3.43
+13,2016-11-19 15:15:00,2016-11-19,15:15:00,Malaga CF,FC Barcelona,33.0,14.0,1.13
+14,2016-11-19 17:30:00,2016-11-19,17:30:00,Celta de Vigo,Eibar,3.02,3.41,2.62
+15,2016-11-19 19:45:00,2016-11-19,19:45:00,Real Madrid,Atletico Madrid,2.8,3.5,2.76
+16,2016-11-20 11:00:00,2016-11-20,11:00:00,RCD Espanyol,Alaves,3.52,3.3,2.51
+17,2016-11-20 15:15:00,2016-11-20,15:15:00,Granada CF,Valencia CF,10.0,5.27,1.42
+18,2016-11-20 17:30:00,2016-11-20,17:30:00,Real Sociedad,Real Sporting de Gijon,2.5,3.35,3.24
+19,2016-11-20 19:45:00,2016-11-20,19:45:00,Villarreal CF,Athletic Bilbao,4.3,3.55,2.1
+20,2016-11-21 19:45:00,2016-11-21,19:45:00,Osasuna,Leganes,4.25,3.6,2.12

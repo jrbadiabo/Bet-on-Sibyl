@@ -1,0 +1,22 @@
+ID,Date,Time,League,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2016-12-28,20:00:00,NHL,Florida Panthers vs Toronto Maple Leafs,Florida Panthers,Toronto Maple Leafs,1.77,2.05,Florida Panthers,Florida Panthers,0.541,N,Upcoming
+1,2016-12-28,20:00:00,NHL,Pittsburgh Penguins vs Carolina Hurricanes,Pittsburgh Penguins,Carolina Hurricanes,1.55,2.44,Pittsburgh Penguins,Pittsburgh Penguins,0.685,N,Upcoming
+2,2016-12-28,20:30:00,NHL,Tampa Bay Lightning vs Montreal Canadiens,Tampa Bay Lightning,Montreal Canadiens,1.9,1.9,Montreal Canadiens,Montreal Canadiens,0.603,N,Upcoming
+3,2016-12-28,21:00:00,NHL,St. Louis Blues vs Philadelphia Flyers,St. Louis Blues,Philadelphia Flyers,1.67,2.2,St. Louis Blues,St. Louis Blues,0.564,N,Upcoming
+4,2016-12-28,23:00:00,NHL,Vancouver Canucks vs Los Angeles Kings,Vancouver Canucks,Los Angeles Kings,2.21,1.67,Los Angeles Kings,Los Angeles Kings,0.597,N,Upcoming
+5,2016-12-29,20:00:00,NHL,Buffalo Sabres vs Boston Bruins,Buffalo Sabres,Boston Bruins,2.04,1.77,Boston Bruins,Boston Bruins,0.597,N,Upcoming
+6,2016-12-29,20:00:00,NHL,Washington Capitals vs New Jersey Devils,Washington Capitals,New Jersey Devils,1.45,2.72,Washington Capitals,Washington Capitals,0.751,N,Upcoming
+7,2016-12-29,20:30:00,NHL,Florida Panthers vs Montreal Canadiens,Florida Panthers,Montreal Canadiens,1.53,1.24,Montreal Canadiens,Montreal Canadiens,0.642,N,Upcoming
+8,2016-12-29,20:30:00,NHL,Tampa Bay Lightning vs Toronto Maple Leafs,Tampa Bay Lightning,Toronto Maple Leafs,1.32,1.24,Toronto Maple Leafs,Tampa Bay Lightning,0.582,Y,Upcoming
+9,2016-12-29,21:00:00,NHL,Minnesota Wild vs New York Islanders,Minnesota Wild,New York Islanders,1.49,2.6,Minnesota Wild,Minnesota Wild,0.717,N,Upcoming
+10,2016-12-29,21:00:00,NHL,Nashville Predators vs Chicago Blackhawks,Nashville Predators,Chicago Blackhawks,1.77,2.04,Nashville Predators,Chicago Blackhawks,0.574,Y,Upcoming
+11,2016-12-29,21:00:00,NHL,Ottawa Senators vs Detroit Red Wings,Ottawa Senators,Detroit Red Wings,1.66,2.2,Ottawa Senators,Ottawa Senators,0.651,N,Upcoming
+12,2016-12-29,21:00:00,NHL,Winnipeg Jets vs Columbus Blue Jackets,Winnipeg Jets,Columbus Blue Jackets,2.03,1.77,Columbus Blue Jackets,Columbus Blue Jackets,0.718,N,Upcoming
+13,2016-12-29,21:30:00,NHL,Dallas Stars vs Colorado Avalanche,Dallas Stars,Colorado Avalanche,1.48,2.62,Dallas Stars,Dallas Stars,0.643,N,Upcoming
+14,2016-12-29,22:00:00,NHL,Arizona Coyotes vs New York Rangers,Arizona Coyotes,New York Rangers,2.44,1.55,New York Rangers,New York Rangers,0.75,N,Upcoming
+15,2016-12-29,22:00:00,NHL,Calgary Flames vs Anaheim Ducks,Calgary Flames,Anaheim Ducks,1.79,2.02,Calgary Flames,Calgary Flames,0.555,N,Upcoming
+16,2016-12-29,22:00:00,NHL,Edmonton Oilers vs Los Angeles Kings,Edmonton Oilers,Los Angeles Kings,1.73,2.09,Edmonton Oilers,Edmonton Oilers,0.535,N,Upcoming
+17,2016-12-30,20:30:00,NHL,Carolina Hurricanes vs Chicago Blackhawks,Carolina Hurricanes,Chicago Blackhawks,2.4,1.66,Chicago Blackhawks,Chicago Blackhawks,0.516,N,Upcoming
+18,2016-12-30,21:00:00,NHL,St. Louis Blues vs Nashville Predators,St. Louis Blues,Nashville Predators,2.4,1.66,Nashville Predators,St. Louis Blues,0.637,Y,Upcoming
+19,2016-12-30,23:00:00,NHL,San Jose Sharks vs Philadelphia Flyers,San Jose Sharks,Philadelphia Flyers,2.44,1.64,Philadelphia Flyers,San Jose Sharks,0.668,Y,Upcoming
+20,2016-12-30,23:00:00,NHL,Vancouver Canucks vs Anaheim Ducks,Vancouver Canucks,Anaheim Ducks,2.44,1.64,Anaheim Ducks,Anaheim Ducks,0.558,N,Upcoming

@@ -1,0 +1,16 @@
+ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2016-12-24,14:00:00,NFL,Miami Dolphins @ Buffalo Bills,Miami Dolphins,Buffalo Bills,2.72,1.47,Buffalo Bills,Buffalo Bills,0.56,N,Upcoming
+1,2016-12-24,14:00:00,NFL,Atlanta Falcons @ Carolina Panthers,Atlanta Falcons,Carolina Panthers,1.6,2.38,Atlanta Falcons,Atlanta Falcons,0.625,N,Upcoming
+2,2016-12-24,14:00:00,NFL,San Diego Chargers @ Cleveland Browns,San Diego Chargers,Cleveland Browns,1.42,2.92,San Diego Chargers,San Diego Chargers,0.751,N,Upcoming
+3,2016-12-24,14:00:00,NFL,Washington Redskins @ Chicago Bears,Washington Redskins,Chicago Bears,1.56,2.48,Washington Redskins,Washington Redskins,0.676,N,Upcoming
+4,2016-12-24,14:00:00,NFL,Tennessee Titans @ Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,1.44,2.81,Tennessee Titans,Tennessee Titans,0.709,N,Upcoming
+5,2016-12-24,14:00:00,NFL,New York Jets @ New England Patriots,New York Jets,New England Patriots,10.05,1.05,New England Patriots,New England Patriots,0.905,N,Upcoming
+6,2016-12-24,14:00:00,NFL,Minnesota Vikings @ Green Bay Packers,Minnesota Vikings,Green Bay Packers,3.4,1.32,Green Bay Packers,Green Bay Packers,0.632,N,Upcoming
+7,2016-12-24,17:05:00,NFL,Indianapolis Colts @ Oakland Raiders,Indianapolis Colts,Oakland Raiders,2.57,1.52,Oakland Raiders,Oakland Raiders,0.779,N,Upcoming
+8,2016-12-24,17:25:00,NFL,Arizona Cardinals @ Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,3.89,1.26,Seattle Seahawks,Seattle Seahawks,0.736,N,Upcoming
+9,2016-12-24,17:25:00,NFL,San Francisco 49ers @ Los Angeles Rams,San Francisco 49ers,Los Angeles Rams,2.84,1.43,Los Angeles Rams,Los Angeles Rams,0.752,N,Upcoming
+10,2016-12-24,17:25:00,NFL,Tampa Bay Buccaneers @ New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,2.46,1.55,New Orleans Saints,New Orleans Saints,0.664,N,Upcoming
+11,2016-12-24,21:25:00,NFL,Cincinnati Bengals @ Houston Texans,Cincinnati Bengals,Houston Texans,1.91,1.9,Houston Texans,Houston Texans,0.613,N,Upcoming
+12,2016-12-25,17:30:00,NFL,Baltimore Ravens @ Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,3.06,1.39,Pittsburgh Steelers,Pittsburgh Steelers,0.642,N,Upcoming
+13,2016-12-25,21:30:00,NFL,Denver Broncos @ Kansas City Chiefs,Denver Broncos,Kansas City Chiefs,2.5,1.54,Kansas City Chiefs,Kansas City Chiefs,0.639,N,Upcoming
+14,2016-12-26,21:30:00,NFL,Detroit Lions @ Dallas Cowboys,Detroit Lions,Dallas Cowboys,3.27,1.35,Dallas Cowboys,Dallas Cowboys,0.617,N,Upcoming

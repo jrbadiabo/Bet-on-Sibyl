@@ -1,0 +1,89 @@
+ID,Date,Time,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result,Winner_Odd
+0,2016-10-29,00:30,Cleveland Cavaliers vs Orlando Magic,Cleveland Cavaliers,Orlando Magic,1.13,6.9,Cleveland Cavaliers,Cleveland Cavaliers,0.963,N,Cleveland Cavaliers,1.13
+1,2016-10-29,00:30,New York Knicks vs Memphis Grizzlies,New York Knicks,Memphis Grizzlies,1.69,2.26,New York Knicks,New York Knicks,0.706,N,New York Knicks,1.69
+2,2016-10-29,02:00,Chicago Bulls vs Indiana Pacers,Chicago Bulls,Indiana Pacers,1.65,2.3,Chicago Bulls,Chicago Bulls,0.834,N,Chicago Bulls,1.65
+3,2016-10-29,02:00,Denver Nuggets vs Portland Trail Blazers,Denver Nuggets,Portland Trail Blazers,2.02,1.87,Portland Trail Blazers,Denver Nuggets,0.614,Y,Portland Trail Blazers,1.87
+4,2016-10-29,02:00,Milwaukee Bucks vs Brooklyn Nets,Milwaukee Bucks,Brooklyn Nets,1.28,3.85,Milwaukee Bucks,Milwaukee Bucks,0.766,N,Milwaukee Bucks,1.28
+5,2016-10-29,02:00,San Antonio Spurs vs New Orleans Pelicans,San Antonio Spurs,New Orleans Pelicans,1.06,10.71,San Antonio Spurs,San Antonio Spurs,0.953,N,San Antonio Spurs,1.06
+6,2016-10-29,02:30,Sacramento Kings vs Minnesota Timberwolves,Sacramento Kings,Minnesota Timberwolves,1.91,1.96,Sacramento Kings,Sacramento Kings,0.586,N,Sacramento Kings,1.91
+7,2016-10-30,00:00,Houston Rockets vs Dallas Mavericks,Houston Rockets,Dallas Mavericks,1.52,2.67,Houston Rockets,Houston Rockets,0.847,N,Houston Rockets,1.52
+8,2016-10-30,00:00,Memphis Grizzlies vs Washington Wizards,Memphis Grizzlies,Washington Wizards,2.38,1.63,Washington Wizards,Washington Wizards,0.519,N,Memphis Grizzlies,2.38
+9,2016-10-30,20:30,Los Angeles Clippers vs Utah Jazz,Los Angeles Clippers,Utah Jazz,1.31,3.68,Los Angeles Clippers,Los Angeles Clippers,0.932,N,Los Angeles Clippers,1.31
+10,2016-10-30,22:00,Detroit Pistons vs Milwaukee Bucks,Detroit Pistons,Milwaukee Bucks,1.28,3.95,Detroit Pistons,Detroit Pistons,0.698,N,Detroit Pistons,1.28
+11,2016-10-30,22:00,Miami Heat vs San Antonio Spurs,Miami Heat,San Antonio Spurs,3.22,1.38,San Antonio Spurs,San Antonio Spurs,0.647,N,San Antonio Spurs,1.38
+12,2016-10-30,22:00,Phoenix Suns vs Golden State Warriors,Phoenix Suns,Golden State Warriors,7.27,1.11,Golden State Warriors,Golden State Warriors,0.687,N,Golden State Warriors,1.11
+13,2016-10-30,23:00,Oklahoma City Thunder vs Los Angeles Lakers,Oklahoma City Thunder,Los Angeles Lakers,1.24,4.45,Oklahoma City Thunder,Oklahoma City Thunder,0.753,N,Oklahoma City Thunder,1.24
+14,2016-10-31,02:30,Los Angeles Clippers vs Phoenix Suns,Los Angeles Clippers,Phoenix Suns,1.1,8.28,Los Angeles Clippers,Los Angeles Clippers,0.984,N,Los Angeles Clippers,1.1
+15,2016-10-31,23:30,Atlanta Hawks vs Sacramento Kings,Atlanta Hawks,Sacramento Kings,1.33,3.52,Atlanta Hawks,Atlanta Hawks,0.93,N,Atlanta Hawks,1.33
+16,2016-10-31,23:30,Brooklyn Nets vs Chicago Bulls,Brooklyn Nets,Chicago Bulls,3.41,1.35,Chicago Bulls,Chicago Bulls,0.603,N,Chicago Bulls,1.35
+17,2016-10-31,23:30,Toronto Raptors vs Denver Nuggets,Toronto Raptors,Denver Nuggets,1.34,3.46,Toronto Raptors,Toronto Raptors,0.872,N,Toronto Raptors,1.34
+18,2016-11-01,00:00,Minnesota Timberwolves vs Memphis Grizzlies,Minnesota Timberwolves,Memphis Grizzlies,1.35,3.47,Minnesota Timberwolves,Minnesota Timberwolves,0.756,N,Minnesota Timberwolves,1.35
+19,2016-11-01,00:00,New Orleans Pelicans vs Milwaukee Bucks,New Orleans Pelicans,Milwaukee Bucks,1.6,2.45,New Orleans Pelicans,Milwaukee Bucks,0.621,Y,Milwaukee Bucks,2.45
+20,2016-11-01,00:30,San Antonio Spurs vs Utah Jazz,San Antonio Spurs,Utah Jazz,1.18,5.4,San Antonio Spurs,San Antonio Spurs,0.719,N,Utah Jazz,5.4
+21,2016-11-01,02:00,Portland Trail Blazers vs Golden State Warriors,Portland Trail Blazers,Golden State Warriors,2.82,1.47,Golden State Warriors,Golden State Warriors,0.575,N,Golden State Warriors,1.47
+22,2016-11-01,22:00,Cleveland Cavaliers vs Houston Rockets,Cleveland Cavaliers,Houston Rockets,1.19,5.19,Cleveland Cavaliers,Cleveland Cavaliers,0.743,N,Cleveland Cavaliers,1.19
+23,2016-11-01,23:00,Indiana Pacers vs Los Angeles Lakers,Indiana Pacers,Los Angeles Lakers,1.23,4.58,Indiana Pacers,Los Angeles Lakers,0.609,Y,Indiana Pacers,1.23
+24,2016-11-01,23:00,Philadelphia 76ers vs Orlando Magic,Philadelphia 76ers,Orlando Magic,2.83,1.47,Orlando Magic,Philadelphia 76ers,0.67,Y,Orlando Magic,1.47
+25,2016-11-01,23:30,Detroit Pistons vs New York Knicks,Detroit Pistons,New York Knicks,1.57,2.54,Detroit Pistons,Detroit Pistons,0.794,N,Detroit Pistons,1.57
+26,2016-11-01,23:30,Miami Heat vs Sacramento Kings,Miami Heat,Sacramento Kings,1.6,2.46,Miami Heat,Miami Heat,0.776,N,Miami Heat,1.6
+27,2016-11-02,00:00,Boston Celtics vs Chicago Bulls,Boston Celtics,Chicago Bulls,1.65,2.35,Boston Celtics,Chicago Bulls,0.6,Y,Boston Celtics,1.65
+28,2016-11-02,00:00,Memphis Grizzlies vs New Orleans Pelicans,Memphis Grizzlies,New Orleans Pelicans,1.42,3.01,Memphis Grizzlies,Memphis Grizzlies,0.704,N,Memphis Grizzlies,1.42
+29,2016-11-02,01:00,Utah Jazz vs Dallas Mavericks,Utah Jazz,Dallas Mavericks,1.63,2.39,Utah Jazz,Utah Jazz,0.899,N,Utah Jazz,1.63
+30,2016-11-02,02:00,Phoenix Suns vs Portland Trail Blazers,Phoenix Suns,Portland Trail Blazers,2.31,1.67,Portland Trail Blazers,Phoenix Suns,0.526,Y,Phoenix Suns,2.31
+31,2016-11-02,02:30,Los Angeles Clippers vs Oklahoma City Thunder,Los Angeles Clippers,Oklahoma City Thunder,1.32,3.61,Los Angeles Clippers,Los Angeles Clippers,0.936,N,Oklahoma City Thunder,3.61
+32,2016-11-02,23:00,Charlotte Hornets vs Philadelphia 76ers,Charlotte Hornets,Philadelphia 76ers,1.08,9.35,Charlotte Hornets,Charlotte Hornets,0.96,N,Charlotte Hornets,1.08
+33,2016-11-02,23:00,Washington Wizards vs Toronto Raptors,Washington Wizards,Toronto Raptors,1.95,1.92,Toronto Raptors,Toronto Raptors,0.68,N,Toronto Raptors,1.92
+34,2016-11-02,23:30,Atlanta Hawks vs Los Angeles Lakers,Atlanta Hawks,Los Angeles Lakers,1.11,7.42,Atlanta Hawks,Atlanta Hawks,0.843,N,Los Angeles Lakers,7.42
+35,2016-11-02,23:30,Brooklyn Nets vs Detroit Pistons,Brooklyn Nets,Detroit Pistons,2.53,1.57,Detroit Pistons,Detroit Pistons,0.565,N,Brooklyn Nets,2.53
+36,2016-11-02,23:30,New York Knicks vs Houston Rockets,New York Knicks,Houston Rockets,1.91,1.96,New York Knicks,Houston Rockets,0.611,Y,Houston Rockets,1.96
+37,2016-11-03,00:00,Cleveland Cavaliers vs Boston Celtics,Cleveland Cavaliers,Boston Celtics,1.14,6.26,Cleveland Cavaliers,Cleveland Cavaliers,0.898,N,Cleveland Cavaliers,1.14
+38,2016-11-03,00:00,Milwaukee Bucks vs Indiana Pacers,Milwaukee Bucks,Indiana Pacers,2.26,1.69,Indiana Pacers,Milwaukee Bucks,0.77,Y,Milwaukee Bucks,2.26
+39,2016-11-03,00:00,Minnesota Timberwolves vs Denver Nuggets,Minnesota Timberwolves,Denver Nuggets,1.63,2.39,Minnesota Timberwolves,Minnesota Timberwolves,0.612,N,Denver Nuggets,2.39
+40,2016-11-03,02:30,Golden State Warriors vs Oklahoma City Thunder,Golden State Warriors,Oklahoma City Thunder,1.11,7.79,Golden State Warriors,Golden State Warriors,0.631,N,Golden State Warriors,1.11
+41,2016-11-03,23:00,Orlando Magic vs Sacramento Kings,Orlando Magic,Sacramento Kings,1.95,1.92,Sacramento Kings,Sacramento Kings,0.644,N,Orlando Magic,1.95
+42,2016-11-04,00:00,Chicago Bulls vs New York Knicks,Chicago Bulls,New York Knicks,1.31,3.72,Chicago Bulls,Chicago Bulls,0.819,N,New York Knicks,3.72
+43,2016-11-04,00:00,Memphis Grizzlies vs Los Angeles Clippers,Memphis Grizzlies,Los Angeles Clippers,3.01,1.42,Los Angeles Clippers,Los Angeles Clippers,0.962,N,Los Angeles Clippers,1.42
+44,2016-11-04,00:00,New Orleans Pelicans vs Phoenix Suns,New Orleans Pelicans,Phoenix Suns,1.69,2.26,New Orleans Pelicans,Phoenix Suns,0.501,Y,Phoenix Suns,2.26
+45,2016-11-04,00:30,Dallas Mavericks vs Portland Trail Blazers,Dallas Mavericks,Portland Trail Blazers,2.31,1.67,Portland Trail Blazers,Portland Trail Blazers,0.503,N,Portland Trail Blazers,1.67
+46,2016-11-04,02:30,Los Angeles Lakers vs Golden State Warriors,Los Angeles Lakers,Golden State Warriors,7.0,1.12,Golden State Warriors,Los Angeles Lakers,0.528,Y,Los Angeles Lakers,7.0
+47,2016-11-04,23:00,Washington Wizards vs Atlanta Hawks,Washington Wizards,Atlanta Hawks,1.88,1.99,Washington Wizards,Atlanta Hawks,0.742,Y,Washington Wizards,1.88
+48,2016-11-04,23:30,Brooklyn Nets vs Charlotte Hornets,Brooklyn Nets,Charlotte Hornets,3.35,1.36,Charlotte Hornets,Charlotte Hornets,0.74,N,Charlotte Hornets,1.36
+49,2016-11-04,23:30,Toronto Raptors vs Miami Heat,Toronto Raptors,Miami Heat,1.32,3.59,Toronto Raptors,Toronto Raptors,0.837,N,Toronto Raptors,1.32
+50,2016-11-05,00:00,Milwaukee Bucks vs Sacramento Kings,Milwaukee Bucks,Sacramento Kings,1.62,2.42,Milwaukee Bucks,Milwaukee Bucks,0.748,N,Milwaukee Bucks,1.62
+51,2016-11-05,00:30,San Antonio Spurs vs Los Angeles Clippers,San Antonio Spurs,Los Angeles Clippers,1.49,2.75,San Antonio Spurs,Los Angeles Clippers,0.749,Y,Los Angeles Clippers,2.75
+52,2016-11-05,22:00,Oklahoma City Thunder vs Minnesota Timberwolves,Oklahoma City Thunder,Minnesota Timberwolves,1.5,2.73,Oklahoma City Thunder,Oklahoma City Thunder,0.856,N,Oklahoma City Thunder,1.5
+53,2016-11-05,23:00,Detroit Pistons vs Denver Nuggets,Detroit Pistons,Denver Nuggets,1.51,2.69,Detroit Pistons,Detroit Pistons,0.724,N,Detroit Pistons,1.51
+54,2016-11-05,23:00,Indiana Pacers vs Chicago Bulls,Indiana Pacers,Chicago Bulls,1.62,2.4,Indiana Pacers,Chicago Bulls,0.608,Y,Indiana Pacers,1.62
+55,2016-11-05,23:00,Orlando Magic vs Washington Wizards,Orlando Magic,Washington Wizards,1.39,3.18,Orlando Magic,Washington Wizards,0.722,Y,Orlando Magic,1.39
+56,2016-11-05,23:00,Philadelphia 76ers vs Cleveland Cavaliers,Philadelphia 76ers,Cleveland Cavaliers,9.16,1.09,Cleveland Cavaliers,Cleveland Cavaliers,0.878,N,Cleveland Cavaliers,1.09
+57,2016-11-05,23:30,Atlanta Hawks vs Houston Rockets,Atlanta Hawks,Houston Rockets,1.64,2.36,Atlanta Hawks,Atlanta Hawks,0.828,N,Atlanta Hawks,1.64
+58,2016-11-06,00:00,Dallas Mavericks vs Milwaukee Bucks,Dallas Mavericks,Milwaukee Bucks,1.7,2.24,Dallas Mavericks,Milwaukee Bucks,0.504,Y,Dallas Mavericks,1.7
+59,2016-11-06,00:30,Boston Celtics vs Denver Nuggets,Boston Celtics,Denver Nuggets,1.33,3.53,Boston Celtics,Boston Celtics,0.532,N,Denver Nuggets,3.53
+60,2016-11-06,02:30,Los Angeles Lakers vs Phoenix Suns,Los Angeles Lakers,Phoenix Suns,1.57,2.53,Los Angeles Lakers,Los Angeles Lakers,0.816,N,Los Angeles Lakers,1.57
+61,2016-11-06,17:00,New York Knicks vs Utah Jazz,New York Knicks,Utah Jazz,2.21,1.72,Utah Jazz,Utah Jazz,0.716,N,Utah Jazz,1.72
+62,2016-11-06,20:30,Memphis Grizzlies vs Portland Trail Blazers,Memphis Grizzlies,Portland Trail Blazers,1.93,1.93,,Portland Trail Blazers,0.553,Y,Portland Trail Blazers,1.93
+63,2016-11-06,23:00,Toronto Raptors vs Sacramento Kings,Toronto Raptors,Sacramento Kings,1.26,4.26,Toronto Raptors,Toronto Raptors,0.908,N,Sacramento Kings,4.26
+64,2016-11-07,00:00,Charlotte Hornets vs Indiana Pacers,Charlotte Hornets,Indiana Pacers,1.68,2.29,Charlotte Hornets,Charlotte Hornets,0.904,N,Charlotte Hornets,1.68
+65,2016-11-07,00:00,Philadelphia 76ers vs Utah Jazz,Philadelphia 76ers,Utah Jazz,2.9,1.45,Utah Jazz,Utah Jazz,0.878,N,Utah Jazz,1.45
+66,2016-11-07,00:00,Washington Wizards vs Houston Rockets,Washington Wizards,Houston Rockets,1.88,2.0,Washington Wizards,Houston Rockets,0.519,Y,Houston Rockets,2.0
+67,2016-11-07,01:00,Chicago Bulls vs Orlando Magic,Chicago Bulls,Orlando Magic,1.35,3.43,Chicago Bulls,Chicago Bulls,0.936,N,Chicago Bulls,1.35
+68,2016-11-07,01:00,Oklahoma City Thunder vs Miami Heat,Oklahoma City Thunder,Miami Heat,1.44,2.95,Oklahoma City Thunder,Oklahoma City Thunder,0.797,N,Oklahoma City Thunder,1.44
+69,2016-11-07,03:30,Golden State Warriors vs New Orleans Pelicans,Golden State Warriors,New Orleans Pelicans,1.02,20.01,Golden State Warriors,Golden State Warriors,0.928,N,Golden State Warriors,1.02
+70,2016-11-07,03:30,Los Angeles Clippers vs Detroit Pistons,Los Angeles Clippers,Detroit Pistons,1.24,4.39,Los Angeles Clippers,Los Angeles Clippers,0.967,N,Los Angeles Clippers,1.24
+71,2016-11-08,00:00,Cleveland Cavaliers vs Atlanta Hawks,Cleveland Cavaliers,Atlanta Hawks,1.28,4.01,Cleveland Cavaliers,Cleveland Cavaliers,0.52,N,Atlanta Hawks,4.01
+72,2016-11-08,00:30,Brooklyn Nets vs Minnesota Timberwolves,Brooklyn Nets,Minnesota Timberwolves,2.57,1.55,Minnesota Timberwolves,Brooklyn Nets,0.561,Y,Brooklyn Nets,2.57
+73,2016-11-08,01:00,Memphis Grizzlies vs Denver Nuggets,Memphis Grizzlies,Denver Nuggets,1.58,2.49,Memphis Grizzlies,Denver Nuggets,0.522,Y,Memphis Grizzlies,1.58
+74,2016-11-08,03:00,Portland Trail Blazers vs Phoenix Suns,Portland Trail Blazers,Phoenix Suns,1.25,4.27,Portland Trail Blazers,Portland Trail Blazers,0.745,N,Portland Trail Blazers,1.25
+75,2016-11-08,03:30,Los Angeles Lakers vs Dallas Mavericks,Los Angeles Lakers,Dallas Mavericks,1.55,2.58,Los Angeles Lakers,Los Angeles Lakers,0.832,N,Dallas Mavericks,2.58
+76,2016-11-08,03:30,Sacramento Kings vs New Orleans Pelicans,Sacramento Kings,New Orleans Pelicans,1.37,3.29,Sacramento Kings,Sacramento Kings,0.763,N,Sacramento Kings,1.37
+77,2016-11-09,00:00,Charlotte Hornets vs Utah Jazz,Charlotte Hornets,Utah Jazz,1.68,2.3,Charlotte Hornets,Charlotte Hornets,0.651,N,Charlotte Hornets,1.68
+78,2016-11-09,00:00,Indiana Pacers vs Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,1.11,7.41,Indiana Pacers,Indiana Pacers,0.822,N,Indiana Pacers,1.11
+79,2016-11-09,00:00,New York Knicks vs Brooklyn Nets,New York Knicks,Brooklyn Nets,1.28,3.96,New York Knicks,New York Knicks,0.662,N,New York Knicks,1.28
+80,2016-11-09,00:00,Orlando Magic vs Minnesota Timberwolves,Orlando Magic,Minnesota Timberwolves,1.71,2.22,Orlando Magic,Minnesota Timberwolves,0.697,Y,Minnesota Timberwolves,2.22
+81,2016-11-09,00:00,Washington Wizards vs Boston Celtics,Washington Wizards,Boston Celtics,1.83,2.05,Washington Wizards,Washington Wizards,0.738,N,Washington Wizards,1.83
+82,2016-11-09,00:30,Atlanta Hawks vs Chicago Bulls,Atlanta Hawks,Chicago Bulls,1.63,2.4,Atlanta Hawks,Atlanta Hawks,0.844,N,Atlanta Hawks,1.63
+83,2016-11-09,01:00,Oklahoma City Thunder vs Toronto Raptors,Oklahoma City Thunder,Toronto Raptors,1.59,2.49,Oklahoma City Thunder,Oklahoma City Thunder,0.579,N,Toronto Raptors,2.49
+84,2016-11-09,02:00,Phoenix Suns vs Detroit Pistons,Phoenix Suns,Detroit Pistons,2.58,1.55,Detroit Pistons,Detroit Pistons,0.537,N,Phoenix Suns,2.58
+85,2016-11-09,02:30,San Antonio Spurs vs Houston Rockets,San Antonio Spurs,Houston Rockets,1.24,4.43,San Antonio Spurs,San Antonio Spurs,0.804,N,Houston Rockets,4.43
+86,2016-11-09,03:30,Golden State Warriors vs Dallas Mavericks,Golden State Warriors,Dallas Mavericks,1.02,18.25,Golden State Warriors,Golden State Warriors,0.888,N,Golden State Warriors,1.02
+87,2016-11-09,03:30,Los Angeles Clippers vs Portland Trail Blazers,Los Angeles Clippers,Portland Trail Blazers,1.15,6.14,Los Angeles Clippers,Los Angeles Clippers,0.974,N,Los Angeles Clippers,1.15

@@ -1,0 +1,3 @@
+ID,Date,Time,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,Home_Team_PTS,visi_team_pts,True_Result,Winner_Odd
+0,2016-09-25,21:25,Indianapolis Colts vs San Diego Chargers,Indianapolis Colts,San Diego Chargers,1.81,2.04,Indianapolis Colts,Indianapolis Colts,0.654,N,26,22,San Diego Chargers,1.81
+1,2016-10-09,01:30,Dallas Cowboys vs Cincinnati Bengals,Dallas Cowboys,Cincinnati Bengals,1.94,1.9,Cincinnati Bengals,Dallas Cowboys,0.857,Y,21,20,Cincinnati Bengals,1.94

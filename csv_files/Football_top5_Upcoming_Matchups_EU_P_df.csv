@@ -1,0 +1,98 @@
+ID,Date,Time,League,Matchup_US_P,Home_Team,Visitor_Team,Home_Odd,Draw_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2016-11-25,20:30:00,bundesliga,SC Freiburg vs RB Leipzig,SC Freiburg,RB Leipzig,4.2,3.8,2.04,RB Leipzig,RB Leipzig,0.526,N,Upcoming
+1,2016-11-26,15:30:00,bundesliga,1. FC Koln vs FC Augsburg,1. FC Koln,FC Augsburg,1.82,3.7,5.51,FC Koln,FC Koln,0.582,N,Upcoming
+2,2016-11-26,15:30:00,bundesliga,Hamburger SV vs SV Werder Bremen,Hamburger SV,SV Werder Bremen,2.5,3.6,3.1,Hamburger SV,Hamburger SV,0.434,N,Upcoming
+3,2016-11-26,15:30:00,bundesliga,Borussia Monchengladbach vs TSG 1899 Hoffenheim,Borussia Monchengladbach,TSG 1899 Hoffenheim,2.2,3.99,3.9,Monchengladb.,Hoffenheim,0.476,Y,Upcoming
+4,2016-11-26,15:30:00,bundesliga,Eintracht Frankfurt vs Borussia Dortmund,Eintracht Frankfurt,Borussia Dortmund,5.5,4.5,1.75,Dortmund,Frankfurt,0.458,Y,Upcoming
+5,2016-11-26,15:30:00,bundesliga,FC Ingolstadt 04 vs VfL Wolfsburg,FC Ingolstadt 04,VfL Wolfsburg,3.05,3.37,2.66,Wolfsburg,Ingolstadt,0.398,Y,Upcoming
+6,2016-11-26,18:30:00,bundesliga,FC Bayern Munchen vs Bayer 04 Leverkusen,FC Bayern Munchen,Bayer 04 Leverkusen,1.4,6.3,11.5,Bayern Munich,Bayern Munich,0.578,N,Upcoming
+7,2016-11-27,15:30:00,bundesliga,FC Schalke 04 vs SV Darmstadt 98,FC Schalke 04,SV Darmstadt 98,1.41,5.5,13.0,Schalke 04,Schalke 04,0.545,N,Upcoming
+8,2016-12-02,20:30:00,bundesliga,1. FSV Mainz 05 vs FC Bayern Munchen,1. FSV Mainz 05,FC Bayern Munchen,12.0,6.05,1.35,Bayern Munich,Bayern Munich,0.427,N,Upcoming
+9,2016-12-03,15:30:00,bundesliga,VfL Wolfsburg vs Hertha BSC Berlin,VfL Wolfsburg,Hertha BSC Berlin,2.22,3.49,3.86,Wolfsburg,Hertha Berlin,0.509,Y,Upcoming
+10,2016-12-03,15:30:00,bundesliga,SV Werder Bremen vs FC Ingolstadt 04,SV Werder Bremen,FC Ingolstadt 04,2.35,3.56,3.44,Werder Bremen,Werder Bremen,0.472,N,Upcoming
+11,2016-12-03,15:30:00,bundesliga,Borussia Dortmund vs Borussia Monchengladbach,Borussia Dortmund,Borussia Monchengladbach,1.53,5.15,8.0,Dortmund,Dortmund,0.582,N,Upcoming
+12,2016-12-03,15:30:00,bundesliga,TSG 1899 Hoffenheim vs 1. FC Koln,TSG 1899 Hoffenheim,1. FC Koln,2.33,3.65,3.5,Hoffenheim,Hoffenheim,0.478,N,Upcoming
+13,2016-12-03,15:30:00,bundesliga,Bayer 04 Leverkusen vs SC Freiburg,Bayer 04 Leverkusen,SC Freiburg,1.57,4.6,6.7,Leverkusen,Leverkusen,0.49,N,Upcoming
+14,2016-12-03,18:30:00,bundesliga,RB Leipzig vs FC Schalke 04,RB Leipzig,FC Schalke 04,2.13,3.64,3.96,RB Leipzig,RB Leipzig,0.598,N,Upcoming
+15,2016-12-04,15:30:00,bundesliga,SV Darmstadt 98 vs Hamburger SV,SV Darmstadt 98,Hamburger SV,3.02,3.5,2.6,Hamburger SV,Darmstadt,0.523,Y,Upcoming
+16,2016-12-04,17:30:00,bundesliga,FC Augsburg vs Eintracht Frankfurt,FC Augsburg,Eintracht Frankfurt,2.66,3.4,3.01,Augsburg,Frankfurt,0.448,Y,Upcoming
+26,2016-11-25,20:45:00,ligue-1,Stade Rennes FC vs FC Toulouse,Stade Rennes FC,FC Toulouse,2.5,3.25,3.5,Rennes,Rennes,0.483,N,Upcoming
+27,2016-11-26,17:10:00,ligue-1,AS Monaco vs Olympique Marseille,AS Monaco,Olympique Marseille,1.71,4.2,5.8,Monaco,Monaco,0.6,N,Upcoming
+28,2016-11-26,20:00:00,ligue-1,FC Girondins de Bordeaux vs Dijon FCO,FC Girondins de Bordeaux,Dijon FCO,1.8,3.85,5.6,Bordeaux,Bordeaux,0.534,N,Upcoming
+29,2016-11-26,20:00:00,ligue-1,FC Nantes vs OSC Lille,FC Nantes,OSC Lille,2.5,3.11,3.7,Nantes,Nantes,0.502,N,Upcoming
+30,2016-11-26,20:00:00,ligue-1,Montpellier HSC vs AS Nancy Lorraine,Montpellier HSC,AS Nancy Lorraine,2.05,3.56,4.55,Montpellier,Montpellier,0.505,N,Upcoming
+31,2016-11-26,20:00:00,ligue-1,Stade Caen vs EA Guingamp,Stade Caen,EA Guingamp,2.5,3.3,3.54,Caen,Guingamp,0.46,Y,Upcoming
+32,2016-11-26,20:00:00,ligue-1,FC Metz vs FC Lorient,FC Metz,FC Lorient,2.82,3.51,2.9,Metz,Metz,0.594,N,Upcoming
+33,2016-11-27,15:00:00,ligue-1,Angers SCO vs AS St. Etienne,Angers SCO,AS St. Etienne,2.65,3.12,3.28,Angers,Angers,0.449,N,Upcoming
+34,2016-11-27,17:00:00,ligue-1,OGC Nice vs SC Bastia,OGC Nice,SC Bastia,1.71,3.9,6.25,Nice,Nice,0.632,N,Upcoming
+35,2016-11-27,20:45:00,ligue-1,Olympique Lyonnais vs Paris Saint-Germain FC,Olympique Lyonnais,Paris Saint-Germain FC,4.0,3.79,2.11,Paris SG,Paris SG,0.413,N,Upcoming
+36,2016-11-29,19:00:00,ligue-1,OSC Lille vs Stade Caen,OSC Lille,Stade Caen,1.85,3.45,5.7,Lille,Lille,0.421,N,Upcoming
+37,2016-11-29,19:00:00,ligue-1,FC Lorient vs Stade Rennes FC,FC Lorient,Stade Rennes FC,3.1,3.32,2.62,Rennes,Rennes,0.528,N,Upcoming
+38,2016-11-29,21:00:00,ligue-1,Dijon FCO vs AS Monaco,Dijon FCO,AS Monaco,4.25,3.66,2.08,Monaco,Monaco,0.538,N,Upcoming
+39,2016-11-30,19:00:00,ligue-1,FC Toulouse vs Montpellier HSC,FC Toulouse,Montpellier HSC,2.12,3.61,3.9,Toulouse,Toulouse,0.524,N,Upcoming
+40,2016-11-30,19:00:00,ligue-1,AS St. Etienne vs Olympique Marseille,AS St. Etienne,Olympique Marseille,2.49,3.27,3.35,Saint-Etienne,Saint-Etienne,0.49,N,Upcoming
+41,2016-11-30,19:00:00,ligue-1,FC Nantes vs Olympique Lyonnais,FC Nantes,Olympique Lyonnais,3.35,3.2,2.47,Lyon,Lyon,0.452,N,Upcoming
+42,2016-11-30,19:00:00,ligue-1,EA Guingamp vs OGC Nice,EA Guingamp,OGC Nice,3.18,3.46,2.53,Nice,Nice,0.447,N,Upcoming
+43,2016-11-30,19:00:00,ligue-1,SC Bastia vs FC Girondins de Bordeaux,SC Bastia,FC Girondins de Bordeaux,3.7,3.15,2.42,Bordeaux,Bordeaux,0.424,N,Upcoming
+44,2016-11-30,19:00:00,ligue-1,AS Nancy Lorraine vs FC Metz,AS Nancy Lorraine,FC Metz,2.27,3.46,3.65,Nancy,Nancy,0.4,N,Upcoming
+45,2016-11-30,21:00:00,ligue-1,Paris Saint-Germain FC vs Angers SCO,Paris Saint-Germain FC,Angers SCO,1.26,7.0,17.0,Paris SG,Paris SG,0.581,N,Upcoming
+56,2016-11-26,13:30:00,premier-league,Burnley FC vs Manchester City,Burnley FC,Manchester City,11.0,6.5,1.36,Manchester City,Manchester City,0.527,N,Upcoming
+57,2016-11-26,16:00:00,premier-league,Leicester City vs Middlesbrough FC,Leicester City,Middlesbrough FC,2.0,3.7,4.6,Leicester City,Leicester City,0.467,N,Upcoming
+58,2016-11-26,16:00:00,premier-league,Liverpool vs Sunderland,Liverpool,Sunderland,1.21,9.0,20.0,Liverpool,Liverpool,0.663,N,Upcoming
+59,2016-11-26,16:00:00,premier-league,Swansea City vs Crystal Palace FC,Swansea City,Crystal Palace FC,2.67,3.58,3.06,Swansea City,Swansea City,0.396,N,Upcoming
+60,2016-11-26,16:00:00,premier-league,Hull City AFC vs West Bromwich Albion FC,Hull City AFC,West Bromwich Albion FC,3.16,3.31,2.7,West Bromwich,West Bromwich,0.408,N,Upcoming
+61,2016-11-26,18:30:00,premier-league,Chelsea vs Tottenham Hotspur,Chelsea,Tottenham Hotspur,1.82,4.0,5.2,Chelsea,Chelsea,0.503,N,Upcoming
+62,2016-11-27,13:00:00,premier-league,Watford FC vs Stoke City FC,Watford FC,Stoke City FC,2.45,3.55,3.4,Watford,Watford,0.525,N,Upcoming
+63,2016-11-27,15:15:00,premier-league,Arsenal vs Bournemouth AFC,Arsenal,Bournemouth AFC,1.49,5.3,9.0,Arsenal,Arsenal,0.591,N,Upcoming
+64,2016-11-27,17:30:00,premier-league,Manchester United FC vs West Ham United,Manchester United FC,West Ham United,1.54,4.8,7.8,Manchester Utd,Manchester Utd,0.586,N,Upcoming
+65,2016-11-27,17:30:00,premier-league,Southampton FC vs Everton,Southampton FC,Everton,2.24,3.52,3.85,Southampton,Southampton,0.406,N,Upcoming
+66,2016-12-03,13:30:00,premier-league,Manchester City vs Chelsea,Manchester City,Chelsea,2.2,3.83,3.75,Manchester City,Manchester City,0.462,N,Upcoming
+67,2016-12-03,16:00:00,premier-league,Crystal Palace FC vs Southampton FC,Crystal Palace FC,Southampton FC,3.15,3.49,2.5,Southampton,Crystal Palace,0.406,Y,Upcoming
+68,2016-12-03,16:00:00,premier-league,Sunderland vs Leicester City,Sunderland,Leicester City,3.62,3.59,2.37,Leicester City,Sunderland,0.406,Y,Upcoming
+69,2016-12-03,16:00:00,premier-league,West Bromwich Albion FC vs Watford FC,West Bromwich Albion FC,Watford FC,2.45,3.44,3.3,West Bromwich,West Bromwich,0.449,N,Upcoming
+70,2016-12-03,16:00:00,premier-league,Tottenham Hotspur vs Swansea City,Tottenham Hotspur,Swansea City,1.34,6.3,11.5,Tottenham,Tottenham,0.646,N,Upcoming
+71,2016-12-03,16:00:00,premier-league,Stoke City FC vs Burnley FC,Stoke City FC,Burnley FC,1.74,3.98,5.9,Stoke City,Stoke City,0.453,N,Upcoming
+72,2016-12-03,18:30:00,premier-league,West Ham United vs Arsenal,West Ham United,Arsenal,4.8,4.1,1.82,Arsenal,Arsenal,0.526,N,Upcoming
+73,2016-12-04,14:30:00,premier-league,Bournemouth AFC vs Liverpool,Bournemouth AFC,Liverpool,5.5,4.38,1.71,Liverpool,Liverpool,0.483,N,Upcoming
+74,2016-12-04,17:00:00,premier-league,Everton vs Manchester United FC,Everton,Manchester United FC,3.45,3.55,2.34,Manchester Utd,Everton,0.462,Y,Upcoming
+75,2016-12-05,21:00:00,premier-league,Middlesbrough FC vs Hull City AFC,Middlesbrough FC,Hull City AFC,1.84,3.75,5.23,Middlesbrough,Middlesbrough,0.503,N,Upcoming
+86,2016-11-25,20:45:00,primera-division,Eibar vs Real Betis,Eibar,Real Betis,2.05,3.6,4.4,Eibar,Eibar,0.512,N,Upcoming
+87,2016-11-26,13:00:00,primera-division,Malaga CF vs Deportivo La Coruna,Malaga CF,Deportivo La Coruna,2.06,3.5,4.3,Malaga,Malaga,0.546,N,Upcoming
+88,2016-11-26,16:15:00,primera-division,Real Madrid vs Real Sporting de Gijon,Real Madrid,Real Sporting de Gijon,1.1,18.0,52.05,Real Madrid,Real Madrid,0.654,N,Upcoming
+89,2016-11-26,18:30:00,primera-division,RCD Espanyol vs Leganes,RCD Espanyol,Leganes,1.93,3.5,5.31,Espanyol,Espanyol,0.529,N,Upcoming
+90,2016-11-26,20:45:00,primera-division,Sevilla FC vs Valencia CF,Sevilla FC,Valencia CF,1.82,4.22,4.8,FC Sevilla,FC Sevilla,0.611,N,Upcoming
+91,2016-11-27,12:00:00,primera-division,Villarreal CF vs Alaves,Villarreal CF,Alaves,1.58,4.2,8.63,Villarreal,Villarreal,0.579,N,Upcoming
+92,2016-11-27,16:15:00,primera-division,Osasuna vs Atletico Madrid,Osasuna,Atletico Madrid,13.5,6.0,1.36,Atletico Madrid,Atletico Madrid,0.531,N,Upcoming
+93,2016-11-27,18:30:00,primera-division,Celta de Vigo vs Granada CF,Celta de Vigo,Granada CF,1.61,4.5,7.0,Celta Vigo,Celta Vigo,0.61,N,Upcoming
+94,2016-11-27,20:45:00,primera-division,Real Sociedad vs FC Barcelona,Real Sociedad,FC Barcelona,7.1,5.14,1.57,FC Barcelona,Real Sociedad,0.398,Y,Upcoming
+95,2016-11-28,20:45:00,primera-division,U.D. Las Palmas de Gran Canaria vs Athletic Bilbao,U.D. Las Palmas de Gran Canaria,Athletic Bilbao,2.75,3.55,2.9,Las Palmas,Las Palmas,0.422,N,Upcoming
+96,2016-12-03,13:00:00,primera-division,Granada CF vs Sevilla FC,Granada CF,Sevilla FC,4.9,3.89,1.85,FC Sevilla,FC Sevilla,0.6,N,Upcoming
+97,2016-12-03,16:15:00,primera-division,FC Barcelona vs Real Madrid,FC Barcelona,Real Madrid,1.74,4.55,5.1,FC Barcelona,FC Barcelona,0.406,N,Upcoming
+98,2016-12-03,18:30:00,primera-division,Leganes vs Villarreal CF,Leganes,Villarreal CF,3.4,3.3,2.42,Villarreal,Villarreal,0.453,N,Upcoming
+99,2016-12-03,20:45:00,primera-division,Atletico Madrid vs RCD Espanyol,Atletico Madrid,RCD Espanyol,1.27,7.0,16.5,Atletico Madrid,Atletico Madrid,0.538,N,Upcoming
+100,2016-12-04,12:00:00,primera-division,Real Betis vs Celta de Vigo,Real Betis,Celta de Vigo,2.45,3.56,3.24,Real Betis,Real Betis,0.421,N,Upcoming
+101,2016-12-04,16:15:00,primera-division,Athletic Bilbao vs Eibar,Athletic Bilbao,Eibar,1.76,3.93,5.9,Athletic Bilbao,Athletic Bilbao,0.494,N,Upcoming
+102,2016-12-04,18:30:00,primera-division,Real Sporting de Gijon vs Osasuna,Real Sporting de Gijon,Osasuna,2.15,3.47,4.25,Sporting Gijon,Sporting Gijon,0.487,N,Upcoming
+103,2016-12-04,18:30:00,primera-division,Alaves vs U.D. Las Palmas de Gran Canaria,Alaves,U.D. Las Palmas de Gran Canaria,2.67,3.47,3.05,Alaves,Alaves,0.424,N,Upcoming
+104,2016-12-04,20:45:00,primera-division,Valencia CF vs Malaga CF,Valencia CF,Malaga CF,1.88,3.81,5.0,Valencia,Valencia,0.377,N,Upcoming
+105,2016-12-05,20:45:00,primera-division,Deportivo La Coruna vs Real Sociedad,Deportivo La Coruna,Real Sociedad,2.79,3.37,2.98,Deportivo,Real Sociedad,0.503,Y,Upcoming
+117,2016-11-26,18:00:00,serie-a,Torino FC vs Chievo Verona,Torino FC,Chievo Verona,1.75,4.0,5.8,Torino,Torino,0.53,N,Upcoming
+118,2016-11-26,20:45:00,serie-a,Empoli vs AC Milan,Empoli,AC Milan,4.2,3.51,2.12,AC Milan,AC Milan,0.565,N,Upcoming
+119,2016-11-27,12:30:00,serie-a,Palermo vs SS Lazio,Palermo,SS Lazio,5.7,4.2,1.72,Lazio Roma,Lazio Roma,0.589,N,Upcoming
+120,2016-11-27,15:00:00,serie-a,Genoa vs Juventus FC,Genoa,Juventus FC,7.0,4.1,1.66,Juventus,Juventus,0.54,N,Upcoming
+121,2016-11-27,15:00:00,serie-a,Crotone vs Sampdoria,Crotone,Sampdoria,3.55,3.57,2.37,Sampdoria,Sampdoria,0.507,N,Upcoming
+122,2016-11-27,15:00:00,serie-a,Bologna F.C. vs Atalanta Bergamo,Bologna F.C.,Atalanta Bergamo,3.18,3.38,2.66,Atalanta,Atalanta,0.425,N,Upcoming
+123,2016-11-27,15:00:00,serie-a,Cagliari vs Udinese Calcio,Cagliari,Udinese Calcio,2.54,3.66,3.28,Cagliari,Cagliari,0.465,N,Upcoming
+124,2016-11-27,20:45:00,serie-a,AS Roma vs Pescara,AS Roma,Pescara,1.26,8.2,16.5,AS Roma,AS Roma,0.631,N,Upcoming
+125,2016-11-28,19:00:00,serie-a,Napoli vs Sassuolo,Napoli,Sassuolo,1.35,6.5,12.0,Napoli,Napoli,0.611,N,Upcoming
+126,2016-11-28,21:00:00,serie-a,Internazionale Milano vs AC Fiorentina,Internazionale Milano,AC Fiorentina,2.06,3.73,4.15,Inter Milan,Inter Milan,0.397,N,Upcoming
+127,2016-12-02,20:45:00,serie-a,Napoli vs Internazionale Milano,Napoli,Internazionale Milano,1.86,4.03,5.5,Napoli,Napoli,0.547,N,Upcoming
+128,2016-12-03,20:45:00,serie-a,Juventus FC vs Atalanta Bergamo,Juventus FC,Atalanta Bergamo,1.38,5.5,12.0,Juventus,Juventus,0.559,N,Upcoming
+129,2016-12-04,12:30:00,serie-a,AC Milan vs Crotone,AC Milan,Crotone,1.33,6.01,13.5,AC Milan,AC Milan,0.659,N,Upcoming
+130,2016-12-04,15:00:00,serie-a,Sampdoria vs Torino FC,Sampdoria,Torino FC,2.78,3.6,2.9,Sampdoria,Sampdoria,0.393,N,Upcoming
+131,2016-12-04,15:00:00,serie-a,Sassuolo vs Empoli,Sassuolo,Empoli,1.97,3.58,4.7,Sassuolo,Sassuolo,0.458,N,Upcoming
+132,2016-12-04,15:00:00,serie-a,Pescara vs Cagliari,Pescara,Cagliari,2.59,3.68,3.02,Pescara,Cagliari,0.435,Y,Upcoming
+133,2016-12-04,15:00:00,serie-a,SS Lazio vs AS Roma,SS Lazio,AS Roma,3.11,3.55,2.62,AS Roma,Lazio Roma,0.46,Y,Upcoming
+134,2016-12-04,20:45:00,serie-a,AC Fiorentina vs Palermo,AC Fiorentina,Palermo,1.36,5.85,13.0,Fiorentina,Fiorentina,0.644,N,Upcoming
+135,2016-12-05,19:00:00,serie-a,Chievo Verona vs Genoa,Chievo Verona,Genoa,2.6,3.28,3.3,Chievo,Chievo,0.46,N,Upcoming
+136,2016-12-05,21:00:00,serie-a,Udinese Calcio vs Bologna F.C.,Udinese Calcio,Bologna F.C.,2.18,3.5,4.2,Udinese,Udinese,0.451,N,Upcoming

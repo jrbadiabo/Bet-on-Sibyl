@@ -1,0 +1,21 @@
+ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+26,2016-11-25,20:45:00,ligue-1,FC Toulouse @ Stade Rennes FC,FC Toulouse,Stade Rennes FC,3.5,3.25,2.5,Stade Rennes FC,Stade Rennes FC,0.483,N,Upcoming
+27,2016-11-26,17:10:00,ligue-1,Olympique Marseille @ AS Monaco,Olympique Marseille,AS Monaco,5.8,4.2,1.71,AS Monaco,AS Monaco,0.6,N,Upcoming
+28,2016-11-26,20:00:00,ligue-1,Dijon FCO @ FC Girondins de Bordeaux,Dijon FCO,FC Girondins de Bordeaux,5.6,3.85,1.8,FC Girondins de Bordeaux,FC Girondins de Bordeaux,0.534,N,Upcoming
+29,2016-11-26,20:00:00,ligue-1,OSC Lille @ FC Nantes,OSC Lille,FC Nantes,3.7,3.11,2.5,FC Nantes,FC Nantes,0.502,N,Upcoming
+30,2016-11-26,20:00:00,ligue-1,AS Nancy Lorraine @ Montpellier HSC,AS Nancy Lorraine,Montpellier HSC,4.55,3.56,2.05,Montpellier HSC,Montpellier HSC,0.505,N,Upcoming
+31,2016-11-26,20:00:00,ligue-1,EA Guingamp @ Stade Caen,EA Guingamp,Stade Caen,3.54,3.3,2.5,Stade Caen,EA Guingamp,0.46,Y,Upcoming
+32,2016-11-26,20:00:00,ligue-1,FC Lorient @ FC Metz,FC Lorient,FC Metz,2.9,3.51,2.82,FC Metz,FC Metz,0.594,N,Upcoming
+33,2016-11-27,15:00:00,ligue-1,AS St. Etienne @ Angers SCO,AS St. Etienne,Angers SCO,3.28,3.12,2.65,Angers SCO,Angers SCO,0.449,N,Upcoming
+34,2016-11-27,17:00:00,ligue-1,SC Bastia @ OGC Nice,SC Bastia,OGC Nice,6.25,3.9,1.71,OGC Nice,OGC Nice,0.632,N,Upcoming
+35,2016-11-27,20:45:00,ligue-1,Paris Saint-Germain FC @ Olympique Lyonnais,Paris Saint-Germain FC,Olympique Lyonnais,2.11,3.79,4.0,Paris Saint-Germain FC,Paris Saint-Germain FC,0.413,N,Upcoming
+36,2016-11-29,19:00:00,ligue-1,Stade Caen @ OSC Lille,Stade Caen,OSC Lille,5.7,3.45,1.85,OSC Lille,OSC Lille,0.421,N,Upcoming
+37,2016-11-29,19:00:00,ligue-1,Stade Rennes FC @ FC Lorient,Stade Rennes FC,FC Lorient,2.62,3.32,3.1,Stade Rennes FC,Stade Rennes FC,0.528,N,Upcoming
+38,2016-11-29,21:00:00,ligue-1,AS Monaco @ Dijon FCO,AS Monaco,Dijon FCO,2.08,3.66,4.25,AS Monaco,AS Monaco,0.538,N,Upcoming
+39,2016-11-30,19:00:00,ligue-1,Montpellier HSC @ FC Toulouse,Montpellier HSC,FC Toulouse,3.9,3.61,2.12,FC Toulouse,FC Toulouse,0.524,N,Upcoming
+40,2016-11-30,19:00:00,ligue-1,Olympique Marseille @ AS St. Etienne,Olympique Marseille,AS St. Etienne,3.35,3.27,2.49,AS St. Etienne,AS St. Etienne,0.49,N,Upcoming
+41,2016-11-30,19:00:00,ligue-1,Olympique Lyonnais @ FC Nantes,Olympique Lyonnais,FC Nantes,2.47,3.2,3.35,Olympique Lyonnais,Olympique Lyonnais,0.452,N,Upcoming
+42,2016-11-30,19:00:00,ligue-1,OGC Nice @ EA Guingamp,OGC Nice,EA Guingamp,2.53,3.46,3.18,OGC Nice,OGC Nice,0.447,N,Upcoming
+43,2016-11-30,19:00:00,ligue-1,FC Girondins de Bordeaux @ SC Bastia,FC Girondins de Bordeaux,SC Bastia,2.42,3.15,3.7,FC Girondins de Bordeaux,FC Girondins de Bordeaux,0.424,N,Upcoming
+44,2016-11-30,19:00:00,ligue-1,FC Metz @ AS Nancy Lorraine,FC Metz,AS Nancy Lorraine,3.65,3.46,2.27,AS Nancy Lorraine,AS Nancy Lorraine,0.4,N,Upcoming
+45,2016-11-30,21:00:00,ligue-1,Angers SCO @ Paris Saint-Germain FC,Angers SCO,Paris Saint-Germain FC,17.0,7.0,1.26,Paris Saint-Germain FC,Paris Saint-Germain FC,0.581,N,Upcoming

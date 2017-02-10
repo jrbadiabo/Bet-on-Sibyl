@@ -1,0 +1,13 @@
+ID,Date,Time,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result,Winner_Odd
+0,2016-10-02,14:30,Jacksonville Jaguars vs Indianapolis Colts,Jacksonville Jaguars,Indianapolis Colts,1.96,1.88,Indianapolis Colts,Jacksonville Jaguars,0.512,Y,Jacksonville Jaguars,1.96
+1,2016-10-02,18:00,Chicago Bears vs Detroit Lions,Chicago Bears,Detroit Lions,2.48,1.58,Detroit Lions,Detroit Lions,0.598,N,Chicago Bears,2.48
+2,2016-10-02,18:00,Atlanta Falcons vs Carolina Panthers,Atlanta Falcons,Carolina Panthers,2.24,1.69,Carolina Panthers,Atlanta Falcons,0.562,Y,Atlanta Falcons,2.24
+3,2016-10-02,18:00,Washington Redskins vs Cleveland Browns,Washington Redskins,Cleveland Browns,1.32,3.69,Washington Redskins,Washington Redskins,0.852,N,Washington Redskins,1.32
+4,2016-10-09,18:00,Indianapolis Colts vs Chicago Bears,Indianapolis Colts,Chicago Bears,1.51,2.68,Indianapolis Colts,Indianapolis Colts,0.65,N,Indianapolis Colts,1.51
+5,2016-10-09,18:00,Baltimore Ravens vs Washington Redskins,Baltimore Ravens,Washington Redskins,1.53,2.61,Baltimore Ravens,Baltimore Ravens,0.593,N,Washington Redskins,2.61
+6,2016-10-09,21:05,Denver Broncos vs Atlanta Falcons,Denver Broncos,Atlanta Falcons,1.52,2.63,Denver Broncos,Denver Broncos,0.664,N,Atlanta Falcons,2.63
+7,2016-10-09,21:25,Dallas Cowboys vs Cincinnati Bengals,Dallas Cowboys,Cincinnati Bengals,2.14,1.75,Cincinnati Bengals,Dallas Cowboys,0.782,Y,Dallas Cowboys,2.14
+8,2016-10-16,01:30,Houston Texans vs Indianapolis Colts,Houston Texans,Indianapolis Colts,1.63,2.35,Houston Texans,Houston Texans,0.649,N,Houston Texans,1.63
+9,2016-10-16,18:00,Chicago Bears vs Jacksonville Jaguars,Chicago Bears,Jacksonville Jaguars,1.74,2.15,Chicago Bears,Chicago Bears,0.618,N,Jacksonville Jaguars,2.15
+10,2016-10-16,21:25,Green Bay Packers vs Dallas Cowboys,Green Bay Packers,Dallas Cowboys,1.45,2.88,Green Bay Packers,Dallas Cowboys,0.616,Y,Dallas Cowboys,2.88
+11,2016-10-20,01:25,Green Bay Packers vs Chicago Bears,Green Bay Packers,Chicago Bears,1.32,3.7,Green Bay Packers,Green Bay Packers,0.656,N,Green Bay Packers,1.32

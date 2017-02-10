@@ -1,0 +1,77 @@
+ID,League,Date,Time,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Draw_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,Home_Team_PTS,Visi_Team_PTS,True_Result,Winner_Odd
+36,serie-a,2016-08-20,19:45,Juventus vs Fiorentina,Juventus,Fiorentina,1.5,4.06,8.06,Juventus,Juventus,0.573,N,2,1,Juventus,1.5
+42,serie-a,2016-08-21,17:00,AC Milan vs Torino,AC Milan,Torino,1.9,3.47,4.44,AC Milan,AC Milan,0.503,N,3,2,AC Milan,1.9
+45,serie-a,2016-08-21,19:45,Empoli vs Sampdoria,Empoli,Sampdoria,2.16,3.32,3.62,Empoli,Sampdoria,0.436,Y,0,1,Sampdoria,3.62
+46,serie-a,2016-08-21,19:45,Genoa vs Cagliari,Genoa,Cagliari,1.99,3.43,4.11,Genoa,Genoa,0.518,N,3,1,Genoa,1.99
+47,serie-a,2016-08-21,19:45,Bologna vs Crotone,Bologna,Crotone,1.75,3.45,5.66,Bologna,Bologna,0.601,N,1,0,Bologna,1.75
+48,serie-a,2016-08-21,19:45,Palermo vs Sassuolo,Palermo,Sassuolo,3.32,3.13,2.39,Sassuolo,Sassuolo,0.395,N,0,1,Sassuolo,2.39
+49,serie-a,2016-08-21,19:45,Pescara vs Napoli,Pescara,Napoli,8.31,4.59,1.43,Napoli,Napoli,0.577,N,2,2,Draw,4.59
+50,serie-a,2016-08-21,19:45,Chievo vs Inter Milan,Chievo,Inter Milan,3.95,3.28,2.08,Inter Milan,Chievo,0.471,Y,2,0,Chievo,3.95
+51,serie-a,2016-08-21,19:45,Atalanta vs Lazio Roma,Atalanta,Lazio Roma,2.88,3.18,2.65,Lazio Roma,Atalanta,0.451,Y,3,4,Lazio Roma,2.65
+70,serie-a,2016-08-27,17:00,Lazio Roma vs Juventus,Lazio Roma,Juventus,4.18,3.23,2.04,Juventus,Juventus,0.406,N,0,1,Juventus,2.04
+81,serie-a,2016-08-27,19:45,Napoli vs AC Milan,Napoli,AC Milan,1.61,4.02,5.93,Napoli,Napoli,0.446,N,4,2,Napoli,1.61
+89,serie-a,2016-08-28,17:00,Inter Milan vs Palermo,Inter Milan,Palermo,1.31,5.47,10.67,Inter Milan,Inter Milan,0.606,N,1,1,Draw,5.47
+93,serie-a,2016-08-28,19:45,Crotone vs Genoa,Crotone,Genoa,6.18,3.89,1.61,Genoa,Genoa,0.494,N,1,3,Genoa,1.61
+94,serie-a,2016-08-28,19:45,Udinese vs Empoli,Udinese,Empoli,2.05,3.33,3.95,Udinese,Udinese,0.499,N,2,0,Udinese,2.05
+95,serie-a,2016-08-28,19:45,Torino vs Bologna,Torino,Bologna,1.89,3.37,4.64,Torino,Torino,0.553,N,5,1,Torino,1.89
+96,serie-a,2016-08-28,19:45,Cagliari vs AS Roma,Cagliari,AS Roma,5.19,4.1,1.66,AS Roma,AS Roma,0.456,N,2,2,Draw,4.1
+97,serie-a,2016-08-28,19:45,Fiorentina vs Chievo,Fiorentina,Chievo,1.65,3.7,6.12,Fiorentina,Fiorentina,0.528,N,1,0,Fiorentina,1.65
+98,serie-a,2016-08-28,19:45,Sampdoria vs Atalanta,Sampdoria,Atalanta,2.49,3.22,3.05,Sampdoria,Atalanta,0.389,Y,2,1,Sampdoria,2.49
+117,serie-a,2016-09-10,17:00,Juventus vs Sassuolo,Juventus,Sassuolo,1.31,5.27,11.76,Juventus,Juventus,0.659,N,3,1,Juventus,1.31
+128,serie-a,2016-09-10,19:45,Palermo vs Napoli,Palermo,Napoli,8.92,5.07,1.37,Napoli,Napoli,0.578,N,0,3,Napoli,1.37
+130,serie-a,2016-09-11,11:30,Bologna vs Cagliari,Bologna,Cagliari,2.21,3.24,3.6,Bologna,Bologna,0.486,N,2,1,Bologna,2.21
+131,serie-a,2016-09-11,14:00,Atalanta vs Torino,Atalanta,Torino,2.62,3.22,2.87,Atalanta,Atalanta,0.487,N,2,1,Atalanta,2.62
+132,serie-a,2016-09-11,14:00,AC Milan vs Udinese,AC Milan,Udinese,1.58,4.11,6.03,AC Milan,AC Milan,0.59,N,0,1,Udinese,6.03
+133,serie-a,2016-09-11,14:00,AS Roma vs Sampdoria,AS Roma,Sampdoria,1.36,5.15,8.69,AS Roma,AS Roma,0.574,N,3,2,AS Roma,1.36
+134,serie-a,2016-09-11,14:00,Chievo vs Lazio Roma,Chievo,Lazio Roma,3.5,3.18,2.27,Lazio Roma,Lazio Roma,0.399,N,1,1,Draw,3.18
+142,serie-a,2016-09-11,19:45,Pescara vs Inter Milan,Pescara,Inter Milan,4.49,3.5,1.87,Inter Milan,Inter Milan,0.479,N,1,2,Inter Milan,1.87
+144,serie-a,2016-09-12,19:45,Empoli vs Crotone,Empoli,Crotone,1.75,3.53,5.41,Empoli,Empoli,0.568,N,2,1,Empoli,1.75
+162,serie-a,2016-09-17,17:00,Lazio Roma vs Pescara,Lazio Roma,Pescara,1.5,4.4,6.87,Lazio Roma,Lazio Roma,0.631,N,3,0,Lazio Roma,1.5
+172,serie-a,2016-09-17,19:45,Napoli vs Bologna,Napoli,Bologna,1.26,5.96,12.15,Napoli,Napoli,0.564,N,3,1,Napoli,1.26
+174,serie-a,2016-09-18,11:30,Udinese vs Chievo,Udinese,Chievo,2.27,3.15,3.53,Udinese,Udinese,0.423,N,1,2,Chievo,3.53
+176,serie-a,2016-09-18,14:00,Torino vs Empoli,Torino,Empoli,1.68,3.68,5.75,Torino,Torino,0.576,N,0,0,Draw,3.68
+177,serie-a,2016-09-18,14:00,Crotone vs Palermo,Crotone,Palermo,2.95,3.15,2.6,Palermo,Crotone,0.452,Y,1,1,Draw,3.15
+178,serie-a,2016-09-18,14:00,Cagliari vs Atalanta,Cagliari,Atalanta,2.42,3.27,3.1,Cagliari,Atalanta,0.434,Y,3,0,Cagliari,2.42
+179,serie-a,2016-09-18,14:00,Sassuolo vs Genoa,Sassuolo,Genoa,2.4,3.21,3.2,Sassuolo,Sassuolo,0.374,N,2,0,Sassuolo,2.4
+187,serie-a,2016-09-18,17:00,Inter Milan vs Juventus,Inter Milan,Juventus,4.64,3.4,1.89,Juventus,Juventus,0.528,N,2,1,Inter Milan,4.64
+190,serie-a,2016-09-18,19:45,Fiorentina vs AS Roma,Fiorentina,AS Roma,2.99,3.41,2.42,AS Roma,Fiorentina,0.42,Y,1,0,Fiorentina,2.99
+199,serie-a,2016-09-20,19:45,AC Milan vs Lazio Roma,AC Milan,Lazio Roma,2.26,3.32,3.38,AC Milan,AC Milan,0.468,N,2,0,AC Milan,2.26
+202,serie-a,2016-09-21,17:30,Bologna vs Sampdoria,Bologna,Sampdoria,2.26,3.16,3.55,Bologna,Bologna,0.447,N,2,0,Bologna,2.26
+216,serie-a,2016-09-21,19:45,Empoli vs Inter Milan,Empoli,Inter Milan,4.09,3.38,2.01,Inter Milan,Inter Milan,0.436,N,0,2,Inter Milan,2.01
+217,serie-a,2016-09-21,19:45,Juventus vs Cagliari,Juventus,Cagliari,1.19,7.15,17.01,Juventus,Juventus,0.638,N,4,0,Juventus,1.19
+218,serie-a,2016-09-21,19:45,Udinese vs Fiorentina,Udinese,Fiorentina,3.24,3.19,2.39,Fiorentina,Fiorentina,0.408,N,2,2,Draw,3.19
+219,serie-a,2016-09-21,19:45,AS Roma vs Crotone,AS Roma,Crotone,1.14,8.78,21.87,AS Roma,AS Roma,0.664,N,4,0,AS Roma,1.14
+220,serie-a,2016-09-21,19:45,Genoa vs Napoli,Genoa,Napoli,4.88,3.78,1.75,Napoli,Napoli,0.394,N,0,0,Draw,3.78
+221,serie-a,2016-09-21,19:45,Pescara vs Torino,Pescara,Torino,3.13,3.28,2.41,Torino,Torino,0.548,N,0,0,Draw,3.28
+222,serie-a,2016-09-21,19:45,Chievo vs Sassuolo,Chievo,Sassuolo,2.33,3.13,3.43,Chievo,Chievo,0.55,N,2,1,Chievo,2.33
+223,serie-a,2016-09-21,19:45,Atalanta vs Palermo,Atalanta,Palermo,1.56,4.05,6.63,Atalanta,Atalanta,0.65,N,0,1,Palermo,6.63
+248,serie-a,2016-09-24,17:00,Palermo vs Juventus,Palermo,Juventus,14.15,6.18,1.24,Juventus,Juventus,0.674,N,0,1,Juventus,1.24
+258,serie-a,2016-09-24,19:45,Napoli vs Chievo,Napoli,Chievo,1.38,4.79,9.31,Napoli,Napoli,0.543,N,2,0,Napoli,1.38
+260,serie-a,2016-09-25,11:30,Torino vs AS Roma,Torino,AS Roma,3.48,3.48,2.15,AS Roma,Torino,0.421,Y,3,1,Torino,3.48
+261,serie-a,2016-09-25,14:00,Sassuolo vs Udinese,Sassuolo,Udinese,2.08,3.3,3.93,Sassuolo,Sassuolo,0.424,N,1,0,Sassuolo,2.08
+262,serie-a,2016-09-25,14:00,Lazio Roma vs Empoli,Lazio Roma,Empoli,1.52,4.15,7.21,Lazio Roma,Lazio Roma,0.595,N,2,0,Lazio Roma,1.52
+263,serie-a,2016-09-25,14:00,Genoa vs Pescara,Genoa,Pescara,1.66,3.87,5.56,Genoa,Genoa,0.587,N,1,1,Draw,3.87
+264,serie-a,2016-09-25,14:00,Inter Milan vs Bologna,Inter Milan,Bologna,1.47,4.53,7.29,Inter Milan,Inter Milan,0.49,N,1,1,Draw,4.53
+273,serie-a,2016-09-25,19:45,Fiorentina vs AC Milan,Fiorentina,AC Milan,2.24,3.23,3.5,Fiorentina,Fiorentina,0.427,N,0,0,Draw,3.23
+275,serie-a,2016-09-26,18:00,Crotone vs Atalanta,Crotone,Atalanta,4.39,3.35,1.94,Atalanta,Atalanta,0.602,N,1,3,Atalanta,1.94
+277,serie-a,2016-09-26,20:00,Cagliari vs Sampdoria,Cagliari,Sampdoria,2.13,3.35,3.67,Cagliari,Cagliari,0.429,N,2,1,Cagliari,2.13
+294,serie-a,2016-10-01,17:00,Pescara vs Chievo,Pescara,Chievo,2.67,3.14,2.9,Pescara,Chievo,0.476,Y,0,2,Chievo,2.9
+302,serie-a,2016-10-01,19:45,Udinese vs Lazio Roma,Udinese,Lazio Roma,3.02,3.28,2.47,Lazio Roma,Lazio Roma,0.454,N,0,3,Lazio Roma,2.47
+304,serie-a,2016-10-02,11:30,Empoli vs Juventus,Empoli,Juventus,10.79,5.1,1.33,Juventus,Juventus,0.652,N,0,3,Juventus,1.33
+306,serie-a,2016-10-02,14:00,Atalanta vs Napoli,Atalanta,Napoli,5.32,3.74,1.71,Napoli,Atalanta,0.472,Y,1,0,Atalanta,5.32
+307,serie-a,2016-10-02,14:00,Cagliari vs Crotone,Cagliari,Crotone,1.62,3.87,6.2,Cagliari,Cagliari,0.585,N,2,1,Cagliari,1.62
+308,serie-a,2016-10-02,14:00,Sampdoria vs Palermo,Sampdoria,Palermo,1.71,3.66,5.52,Sampdoria,Sampdoria,0.603,N,1,1,Draw,3.66
+309,serie-a,2016-10-02,14:00,Bologna vs Genoa,Bologna,Genoa,2.54,3.16,3.04,Bologna,Bologna,0.434,N,0,1,Genoa,3.04
+316,serie-a,2016-10-02,17:00,Torino vs Fiorentina,Torino,Fiorentina,2.43,3.24,3.13,Torino,Torino,0.468,N,2,1,Torino,2.43
+317,serie-a,2016-10-02,17:00,AC Milan vs Sassuolo,AC Milan,Sassuolo,1.63,3.9,5.84,AC Milan,AC Milan,0.624,N,4,3,AC Milan,1.63
+321,serie-a,2016-10-02,19:45,AS Roma vs Inter Milan,AS Roma,Inter Milan,1.93,3.66,4.01,AS Roma,AS Roma,0.57,N,2,1,AS Roma,1.93
+323,serie-a,2016-10-15,14:00,Napoli vs AS Roma,Napoli,AS Roma,1.89,3.66,4.27,Napoli,Napoli,0.439,N,1,3,AS Roma,4.27
+324,serie-a,2016-10-15,17:00,Pescara vs Sampdoria,Pescara,Sampdoria,2.49,3.31,2.97,Pescara,Sampdoria,0.479,Y,1,1,Draw,3.31
+325,serie-a,2016-10-15,19:45,Juventus vs Udinese,Juventus,Udinese,1.2,6.85,16.36,Juventus,Juventus,0.631,N,2,1,Juventus,1.2
+326,serie-a,2016-10-16,11:30,Fiorentina vs Atalanta,Fiorentina,Atalanta,1.69,3.74,5.48,Fiorentina,Fiorentina,0.444,N,0,0,Draw,3.74
+327,serie-a,2016-10-16,14:00,Lazio Roma vs Bologna,Lazio Roma,Bologna,1.48,4.3,7.66,Lazio Roma,Lazio Roma,0.582,N,1,1,Draw,4.3
+328,serie-a,2016-10-16,14:00,Inter Milan vs Cagliari,Inter Milan,Cagliari,1.35,5.14,9.49,Inter Milan,Inter Milan,0.508,N,1,2,Cagliari,9.49
+329,serie-a,2016-10-16,14:00,Genoa vs Empoli,Genoa,Empoli,1.81,3.5,4.95,Genoa,Genoa,0.542,N,0,0,Draw,3.5
+330,serie-a,2016-10-16,14:00,Sassuolo vs Crotone,Sassuolo,Crotone,1.54,4.15,6.73,Sassuolo,Sassuolo,0.553,N,2,1,Sassuolo,1.54
+331,serie-a,2016-10-16,19:45,Chievo vs AC Milan,Chievo,AC Milan,3.11,3.07,2.55,AC Milan,AC Milan,0.412,N,1,3,AC Milan,2.55
+332,serie-a,2016-10-17,19:45,Palermo vs Torino,Palermo,Torino,4.32,3.46,1.92,Torino,Torino,0.55,N,1,4,Torino,1.92

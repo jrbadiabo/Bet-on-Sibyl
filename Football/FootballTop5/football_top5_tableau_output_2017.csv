@@ -1,0 +1,1827 @@
+ID,Visitor_Team,V_Team_PTS,Home_Team,H_Team_PTS,True_Result,Predicted_Result,Confidence,Date,League_T
+0,Werder Bremen,0,Bayern Munich,6,1,1,0.683038027891,2016-08-26,bundesliga
+1,Wolfsburg,2,Augsburg,0,2,1,0.499699625869,2016-08-27,bundesliga
+2,Ingolstadt,1,Hamburger SV,1,0,1,0.48870397296,2016-08-27,bundesliga
+3,FSV Mainz 05,1,Dortmund,2,1,1,0.57687425164,2016-08-27,bundesliga
+4,Schalke 04,0,Frankfurt,1,1,1,0.59871381648,2016-08-27,bundesliga
+5,Darmstadt,0,FC Koln,2,1,1,0.641926165047,2016-08-27,bundesliga
+6,Leverkusen,1,Monchengladb.,2,1,1,0.411435228925,2016-08-27,bundesliga
+7,Freiburg,1,Hertha Berlin,2,1,1,0.570749908979,2016-08-28,bundesliga
+8,RB Leipzig,2,Hoffenheim,2,0,1,0.397315209532,2016-08-28,bundesliga
+9,Bayern Munich,2,Schalke 04,0,2,2,0.592206328633,2016-09-09,bundesliga
+10,Hamburger SV,1,Leverkusen,3,1,1,0.546633667089,2016-09-10,bundesliga
+11,Frankfurt,0,Darmstadt,1,1,2,0.604672384797,2016-09-10,bundesliga
+12,Hertha Berlin,2,Ingolstadt,0,2,2,0.543336255756,2016-09-10,bundesliga
+13,Monchengladb.,1,Freiburg,3,1,1,0.528823809444,2016-09-10,bundesliga
+14,FC Koln,0,Wolfsburg,0,0,2,0.41917556,2016-09-10,bundesliga
+15,Dortmund,0,RB Leipzig,1,1,1,0.546715784651,2016-09-10,bundesliga
+16,Augsburg,2,Werder Bremen,1,2,1,0.418728217597,2016-09-11,bundesliga
+17,Hoffenheim,4,FSV Mainz 05,4,0,2,0.433540688584,2016-09-11,bundesliga
+18,Freiburg,0,FC Koln,3,1,1,0.528189590068,2016-09-16,bundesliga
+19,Wolfsburg,0,Hoffenheim,0,0,1,0.620737518298,2016-09-17,bundesliga
+20,Leverkusen,1,Frankfurt,2,1,1,0.58151892519,2016-09-17,bundesliga
+21,RB Leipzig,4,Hamburger SV,0,2,2,0.611392895395,2016-09-17,bundesliga
+22,Darmstadt,0,Dortmund,6,1,1,0.659020758409,2016-09-17,bundesliga
+23,Ingolstadt,1,Bayern Munich,3,1,1,0.686421320213,2016-09-17,bundesliga
+24,Werder Bremen,1,Monchengladb.,4,1,1,0.481373394745,2016-09-17,bundesliga
+25,FSV Mainz 05,3,Augsburg,1,2,1,0.459127559324,2016-09-18,bundesliga
+26,Schalke 04,0,Hertha Berlin,2,1,1,0.599970770437,2016-09-18,bundesliga
+27,Hoffenheim,1,Darmstadt,1,0,2,0.610806429188,2016-09-20,bundesliga
+28,Frankfurt,2,Ingolstadt,0,2,2,0.538082636517,2016-09-20,bundesliga
+29,Hamburger SV,0,Freiburg,1,1,1,0.557530973018,2016-09-20,bundesliga
+30,Dortmund,5,Wolfsburg,1,2,2,0.444333797377,2016-09-20,bundesliga
+31,Augsburg,0,Leverkusen,0,0,1,0.485527630718,2016-09-21,bundesliga
+32,FC Koln,3,Schalke 04,1,2,2,0.392175731624,2016-09-21,bundesliga
+33,FSV Mainz 05,2,Werder Bremen,1,2,1,0.410697175643,2016-09-21,bundesliga
+34,Monchengladb.,1,RB Leipzig,1,0,1,0.649135767899,2016-09-21,bundesliga
+35,Hertha Berlin,0,Bayern Munich,3,1,1,0.568925430203,2016-09-21,bundesliga
+36,Freiburg,1,Dortmund,3,1,1,0.555812680328,2016-09-23,bundesliga
+37,Darmstadt,0,Augsburg,1,1,1,0.583221422065,2016-09-24,bundesliga
+38,Hertha Berlin,3,Frankfurt,3,0,1,0.46446077291,2016-09-24,bundesliga
+39,Leverkusen,3,FSV Mainz 05,2,2,1,0.455592733871,2016-09-24,bundesliga
+40,Ingolstadt,0,Monchengladb.,2,1,1,0.525240220288,2016-09-24,bundesliga
+41,Bayern Munich,1,Hamburger SV,0,2,2,0.650584975641,2016-09-24,bundesliga
+42,Wolfsburg,1,Werder Bremen,2,1,1,0.45206374716,2016-09-24,bundesliga
+43,Schalke 04,1,Hoffenheim,2,1,1,0.604282237933,2016-09-25,bundesliga
+44,RB Leipzig,1,FC Koln,1,0,2,0.429673435183,2016-09-25,bundesliga
+45,Augsburg,1,RB Leipzig,2,1,1,0.636254414102,2016-09-30,bundesliga
+46,Werder Bremen,2,Darmstadt,2,0,2,0.427177015466,2016-10-01,bundesliga
+47,Hamburger SV,0,Hertha Berlin,2,1,1,0.634609617497,2016-10-01,bundesliga
+48,FC Koln,1,Bayern Munich,1,0,1,0.600216950767,2016-10-01,bundesliga
+49,Hoffenheim,2,Ingolstadt,1,2,2,0.544899462411,2016-10-01,bundesliga
+50,Frankfurt,0,Freiburg,1,1,2,0.366874591528,2016-10-01,bundesliga
+51,Dortmund,0,Leverkusen,2,1,2,0.363341289768,2016-10-01,bundesliga
+52,FSV Mainz 05,0,Wolfsburg,0,0,1,0.42511924064,2016-10-02,bundesliga
+53,Monchengladb.,0,Schalke 04,4,1,1,0.491402540653,2016-10-02,bundesliga
+54,Hertha Berlin,1,Dortmund,1,0,1,0.448621746367,2016-10-14,bundesliga
+55,Ingolstadt,1,FC Koln,2,1,1,0.62639459329,2016-10-15,bundesliga
+56,Hamburger SV,0,Monchengladb.,0,0,1,0.5042108012,2016-10-15,bundesliga
+57,Bayern Munich,2,Frankfurt,2,0,2,0.432622295317,2016-10-15,bundesliga
+58,Freiburg,1,Hoffenheim,2,1,1,0.575113722788,2016-10-15,bundesliga
+59,Schalke 04,1,Augsburg,1,0,1,0.476182701923,2016-10-15,bundesliga
+60,Leverkusen,1,Werder Bremen,2,1,1,0.398650399951,2016-10-15,bundesliga
+61,Darmstadt,1,FSV Mainz 05,2,1,1,0.589645394157,2016-10-16,bundesliga
+62,RB Leipzig,1,Wolfsburg,0,2,2,0.566581555054,2016-10-16,bundesliga
+63,Frankfurt,3,Hamburger SV,0,2,2,0.528735915681,2016-10-21,bundesliga
+64,Wolfsburg,1,Darmstadt,3,1,2,0.422556166366,2016-10-22,bundesliga
+65,FC Koln,1,Hertha Berlin,2,1,1,0.512782165474,2016-10-22,bundesliga
+66,Dortmund,3,Ingolstadt,3,0,2,0.511298201048,2016-10-22,bundesliga
+67,Hoffenheim,3,Leverkusen,0,2,2,0.402483454838,2016-10-22,bundesliga
+68,Augsburg,1,Freiburg,2,1,1,0.500368052328,2016-10-22,bundesliga
+69,Monchengladb.,0,Bayern Munich,2,1,1,0.664071580937,2016-10-22,bundesliga
+70,Werder Bremen,1,RB Leipzig,3,1,1,0.667919536365,2016-10-23,bundesliga
+71,FSV Mainz 05,0,Schalke 04,3,1,1,0.449860715408,2016-10-23,bundesliga
+72,Frankfurt,0,Monchengladb.,0,0,2,0.480336735444,2016-10-28,bundesliga
+73,Ingolstadt,0,FSV Mainz 05,2,1,1,0.561076663026,2016-10-29,bundesliga
+74,RB Leipzig,2,Darmstadt,0,2,2,0.670897743438,2016-10-29,bundesliga
+75,Freiburg,3,Werder Bremen,1,2,1,0.381507276472,2016-10-29,bundesliga
+76,Leverkusen,2,Wolfsburg,1,2,1,0.412473585199,2016-10-29,bundesliga
+77,Bayern Munich,3,Augsburg,1,2,2,0.579867719912,2016-10-29,bundesliga
+78,Schalke 04,0,Dortmund,0,0,1,0.590085271729,2016-10-29,bundesliga
+79,Hertha Berlin,0,Hoffenheim,1,1,1,0.472318106011,2016-10-30,bundesliga
+80,Hamburger SV,0,FC Koln,3,1,1,0.608607860687,2016-10-30,bundesliga
+81,Monchengladb.,0,Hertha Berlin,3,1,1,0.615065200086,2016-11-04,bundesliga
+82,Dortmund,5,Hamburger SV,2,2,2,0.501297664749,2016-11-05,bundesliga
+83,Augsburg,2,Ingolstadt,0,2,2,0.381554346521,2016-11-05,bundesliga
+84,Hoffenheim,1,Bayern Munich,1,0,1,0.56425698674,2016-11-05,bundesliga
+85,Wolfsburg,3,Freiburg,0,2,1,0.529422489048,2016-11-05,bundesliga
+86,Darmstadt,2,Leverkusen,3,1,1,0.590918664752,2016-11-05,bundesliga
+87,FC Koln,0,Frankfurt,1,1,1,0.510427247543,2016-11-05,bundesliga
+88,FSV Mainz 05,1,RB Leipzig,3,1,1,0.630614560258,2016-11-06,bundesliga
+89,Werder Bremen,1,Schalke 04,3,1,1,0.506211957213,2016-11-06,bundesliga
+90,RB Leipzig,3,Leverkusen,2,2,2,0.497644506324,2016-11-18,bundesliga
+91,Ingolstadt,1,Darmstadt,0,2,1,0.41703348601,2016-11-19,bundesliga
+92,Hertha Berlin,0,Augsburg,0,0,2,0.438895187403,2016-11-19,bundesliga
+93,Schalke 04,1,Wolfsburg,0,2,1,0.442745007774,2016-11-19,bundesliga
+94,Freiburg,2,FSV Mainz 05,4,1,1,0.438050918771,2016-11-19,bundesliga
+95,FC Koln,2,Monchengladb.,1,2,2,0.425482215493,2016-11-19,bundesliga
+96,Bayern Munich,0,Dortmund,1,1,2,0.462801042458,2016-11-19,bundesliga
+97,Hamburger SV,2,Hoffenheim,2,0,1,0.638583854168,2016-11-20,bundesliga
+98,Frankfurt,2,Werder Bremen,1,2,2,0.468283980018,2016-11-20,bundesliga
+99,RB Leipzig,4,Freiburg,1,2,2,0.472158180227,2016-11-25,bundesliga
+100,Augsburg,0,FC Koln,0,0,1,0.55858925745,2016-11-26,bundesliga
+101,Werder Bremen,2,Hamburger SV,2,0,1,0.440827281577,2016-11-26,bundesliga
+102,Hoffenheim,1,Monchengladb.,1,0,2,0.48774134243,2016-11-26,bundesliga
+103,Dortmund,1,Frankfurt,2,1,1,0.481882080919,2016-11-26,bundesliga
+104,Wolfsburg,1,Ingolstadt,1,0,1,0.405659669989,2016-11-26,bundesliga
+105,Leverkusen,1,Bayern Munich,2,1,1,0.652068772711,2016-11-26,bundesliga
+106,Darmstadt,1,Schalke 04,3,1,1,0.578391030234,2016-11-27,bundesliga
+107,FSV Mainz 05,1,Hertha Berlin,2,1,1,0.588117996486,2016-11-27,bundesliga
+108,Bayern Munich,3,FSV Mainz 05,1,2,2,0.575282229982,2016-12-02,bundesliga
+109,Hertha Berlin,3,Wolfsburg,2,2,2,0.480272475622,2016-12-03,bundesliga
+110,Ingolstadt,1,Werder Bremen,2,1,1,0.509173130833,2016-12-03,bundesliga
+111,Monchengladb.,1,Dortmund,4,1,1,0.607074507073,2016-12-03,bundesliga
+112,FC Koln,0,Hoffenheim,4,1,1,0.517722134557,2016-12-03,bundesliga
+113,Freiburg,1,Leverkusen,1,0,1,0.450466716944,2016-12-03,bundesliga
+114,Schalke 04,1,RB Leipzig,2,1,1,0.638948059038,2016-12-03,bundesliga
+115,Hamburger SV,2,Darmstadt,0,2,1,0.39592168481,2016-12-04,bundesliga
+116,Frankfurt,1,Augsburg,1,0,2,0.432482977675,2016-12-04,bundesliga
+117,Hoffenheim,0,Frankfurt,0,0,1,0.459287737292,2016-12-09,bundesliga
+118,Wolfsburg,0,Bayern Munich,5,1,1,0.666701116415,2016-12-10,bundesliga
+119,Darmstadt,0,Freiburg,1,1,1,0.59794151154,2016-12-10,bundesliga
+120,Dortmund,1,FC Koln,1,0,1,0.437582727215,2016-12-10,bundesliga
+121,Augsburg,0,Hamburger SV,1,1,1,0.391943895166,2016-12-10,bundesliga
+122,RB Leipzig,0,Ingolstadt,1,1,2,0.617894201135,2016-12-10,bundesliga
+123,Werder Bremen,1,Hertha Berlin,0,2,1,0.632908214509,2016-12-10,bundesliga
+124,FSV Mainz 05,0,Monchengladb.,1,1,1,0.424303682133,2016-12-11,bundesliga
+125,Leverkusen,1,Schalke 04,0,2,1,0.437644300564,2016-12-11,bundesliga
+126,Dortmund,2,Hoffenheim,2,0,1,0.489512749908,2016-12-16,bundesliga
+127,Freiburg,1,Schalke 04,1,0,1,0.419923548744,2016-12-17,bundesliga
+128,Hertha Berlin,0,RB Leipzig,2,1,1,0.534355521212,2016-12-17,bundesliga
+129,Hamburger SV,1,FSV Mainz 05,3,1,1,0.540906593405,2016-12-17,bundesliga
+130,Monchengladb.,0,Augsburg,1,1,1,0.499774416222,2016-12-17,bundesliga
+131,FC Koln,1,Werder Bremen,1,0,2,0.41344295881,2016-12-17,bundesliga
+132,Frankfurt,0,Wolfsburg,1,1,2,0.474226452157,2016-12-17,bundesliga
+133,Bayern Munich,1,Darmstadt,0,2,2,0.702066448422,2016-12-18,bundesliga
+134,Ingolstadt,2,Leverkusen,1,2,1,0.566336571182,2016-12-18,bundesliga
+135,Schalke 04,1,Hamburger SV,2,1,1,0.401832074105,2016-12-20,bundesliga
+136,Augsburg,1,Dortmund,1,0,1,0.583965839304,2016-12-20,bundesliga
+137,FSV Mainz 05,0,Frankfurt,3,1,1,0.586630186859,2016-12-20,bundesliga
+138,Wolfsburg,2,Monchengladb.,1,2,1,0.466719177502,2016-12-20,bundesliga
+139,RB Leipzig,0,Bayern Munich,3,1,1,0.509883181488,2016-12-21,bundesliga
+140,Werder Bremen,1,Hoffenheim,1,0,1,0.636804766413,2016-12-21,bundesliga
+141,Freiburg,2,Ingolstadt,1,2,2,0.44666319007,2016-12-21,bundesliga
+142,Leverkusen,1,FC Koln,1,0,1,0.54335496909,2016-12-21,bundesliga
+143,Darmstadt,0,Hertha Berlin,2,1,1,0.659690823219,2016-12-21,bundesliga
+144,Bayern Munich,0,Freiburg,0,0,2,0.526465318457,2017-01-20,bundesliga
+145,Ingolstadt,0,Schalke 04,0,0,1,0.546812146194,2017-01-21,bundesliga
+146,Hamburger SV,0,Wolfsburg,0,0,1,0.504180431639,2017-01-21,bundesliga
+147,Hoffenheim,0,Augsburg,0,0,2,0.440046653494,2017-01-21,bundesliga
+148,Dortmund,0,Werder Bremen,0,0,2,0.438227706044,2017-01-21,bundesliga
+149,Monchengladb.,0,Darmstadt,0,0,2,0.416337362433,2017-01-21,bundesliga
+150,Frankfurt,0,RB Leipzig,0,0,1,0.53632193298,2017-01-21,bundesliga
+151,Hertha Berlin,0,Leverkusen,0,0,2,0.401593800718,2017-01-22,bundesliga
+152,FC Koln,0,FSV Mainz 05,0,0,1,0.376034571298,2017-01-22,bundesliga
+153,Frankfurt,0,Schalke 04,0,0,2,0.448509012234,2017-01-27,bundesliga
+154,Hamburger SV,0,Ingolstadt,0,0,1,0.445746343004,2017-01-28,bundesliga
+155,Bayern Munich,0,Werder Bremen,0,0,2,0.605190258565,2017-01-28,bundesliga
+156,FC Koln,0,Darmstadt,0,0,2,0.562449082537,2017-01-28,bundesliga
+157,Hoffenheim,0,RB Leipzig,0,0,1,0.52943691508,2017-01-28,bundesliga
+158,Augsburg,0,Wolfsburg,0,0,1,0.433253285212,2017-01-28,bundesliga
+159,Monchengladb.,0,Leverkusen,0,0,1,0.515779837269,2017-01-28,bundesliga
+160,Hertha Berlin,0,Freiburg,0,0,2,0.373630480002,2017-01-29,bundesliga
+161,Dortmund,0,FSV Mainz 05,0,0,2,0.394664117024,2017-01-29,bundesliga
+162,Leverkusen,0,Hamburger SV,0,0,2,0.406694686031,2017-02-03,bundesliga
+163,Freiburg,0,Monchengladb.,0,0,1,0.393629920079,2017-02-04,bundesliga
+164,FSV Mainz 05,0,Hoffenheim,0,0,1,0.592499997357,2017-02-04,bundesliga
+165,Schalke 04,0,Bayern Munich,0,0,1,0.656344096857,2017-02-04,bundesliga
+166,Ingolstadt,0,Hertha Berlin,0,0,1,0.651038426261,2017-02-04,bundesliga
+167,Wolfsburg,0,FC Koln,0,0,1,0.584737713982,2017-02-04,bundesliga
+168,RB Leipzig,0,Dortmund,0,0,2,0.403815814846,2017-02-04,bundesliga
+169,Werder Bremen,0,Augsburg,0,0,1,0.515012392536,2017-02-05,bundesliga
+170,Darmstadt,0,Frankfurt,0,0,1,0.659932016637,2017-02-05,bundesliga
+171,Augsburg,0,FSV Mainz 05,0,0,1,0.475319749913,2017-02-10,bundesliga
+172,Hamburger SV,0,RB Leipzig,0,0,1,0.661551045232,2017-02-11,bundesliga
+173,Monchengladb.,0,Werder Bremen,0,0,1,0.452372066075,2017-02-11,bundesliga
+174,Bayern Munich,0,Ingolstadt,0,0,2,0.655543563019,2017-02-11,bundesliga
+175,Dortmund,0,Darmstadt,0,0,2,0.582177888557,2017-02-11,bundesliga
+176,Frankfurt,0,Leverkusen,0,0,2,0.394952939932,2017-02-11,bundesliga
+177,Hertha Berlin,0,Schalke 04,0,0,2,0.454785529881,2017-02-11,bundesliga
+178,Hoffenheim,0,Wolfsburg,0,0,2,0.481627412686,2017-02-12,bundesliga
+179,FC Koln,0,Freiburg,0,0,1,0.404993672896,2017-02-12,bundesliga
+180,Leverkusen,0,Augsburg,0,0,1,0.447393606183,2017-02-18,bundesliga
+181,Werder Bremen,0,FSV Mainz 05,0,0,1,0.522941159363,2017-02-18,bundesliga
+182,Ingolstadt,0,Frankfurt,0,0,1,0.650644931225,2017-02-18,bundesliga
+183,RB Leipzig,0,Monchengladb.,0,0,2,0.57195829555,2017-02-18,bundesliga
+184,Wolfsburg,0,Dortmund,0,0,1,0.608203564529,2017-02-18,bundesliga
+185,Freiburg,0,Hamburger SV,0,0,2,0.434332857142,2017-02-18,bundesliga
+186,Schalke 04,0,FC Koln,0,0,1,0.56533493192,2017-02-18,bundesliga
+187,Bayern Munich,0,Hertha Berlin,0,0,2,0.426138218091,2017-02-18,bundesliga
+188,Darmstadt,0,Hoffenheim,0,0,1,0.66333593476,2017-02-18,bundesliga
+189,Hoffenheim,0,Schalke 04,0,0,2,0.456045383527,2017-02-25,bundesliga
+190,Monchengladb.,0,Ingolstadt,0,0,1,0.406521484456,2017-02-25,bundesliga
+191,Werder Bremen,0,Wolfsburg,0,0,1,0.482020848236,2017-02-25,bundesliga
+192,Frankfurt,0,Hertha Berlin,0,0,1,0.469938044746,2017-02-25,bundesliga
+193,Hamburger SV,0,Bayern Munich,0,0,1,0.673058275461,2017-02-25,bundesliga
+194,Dortmund,0,Freiburg,0,0,1,0.375485405609,2017-02-25,bundesliga
+195,FSV Mainz 05,0,Leverkusen,0,0,1,0.477600734511,2017-02-25,bundesliga
+196,Augsburg,0,Darmstadt,0,0,2,0.465302361824,2017-02-25,bundesliga
+197,FC Koln,0,RB Leipzig,0,0,1,0.571527090312,2017-02-25,bundesliga
+198,Leverkusen,0,Dortmund,0,0,1,0.5701048324,2017-03-04,bundesliga
+199,Bayern Munich,0,FC Koln,0,0,2,0.487441654086,2017-03-04,bundesliga
+200,Wolfsburg,0,FSV Mainz 05,0,0,1,0.507583532492,2017-03-04,bundesliga
+201,Freiburg,0,Frankfurt,0,0,1,0.568601072536,2017-03-04,bundesliga
+202,Ingolstadt,0,Hoffenheim,0,0,1,0.654818700922,2017-03-04,bundesliga
+203,Darmstadt,0,Werder Bremen,0,0,1,0.543210408243,2017-03-04,bundesliga
+204,RB Leipzig,0,Augsburg,0,0,2,0.531131325985,2017-03-04,bundesliga
+205,Hertha Berlin,0,Hamburger SV,0,0,2,0.534132534201,2017-03-04,bundesliga
+206,Schalke 04,0,Monchengladb.,0,0,1,0.442070257297,2017-03-04,bundesliga
+207,Augsburg,0,Schalke 04,0,0,1,0.457996975756,2017-03-11,bundesliga
+208,FSV Mainz 05,0,Darmstadt,0,0,2,0.471669833116,2017-03-11,bundesliga
+209,FC Koln,0,Ingolstadt,0,0,2,0.488497764186,2017-03-11,bundesliga
+210,Frankfurt,0,Bayern Munich,0,0,1,0.570345706844,2017-03-11,bundesliga
+211,Wolfsburg,0,RB Leipzig,0,0,1,0.651437215981,2017-03-11,bundesliga
+212,Werder Bremen,0,Leverkusen,0,0,1,0.531995601378,2017-03-11,bundesliga
+213,Hoffenheim,0,Freiburg,0,0,2,0.374344827737,2017-03-11,bundesliga
+214,Monchengladb.,0,Hamburger SV,0,0,1,0.427821478955,2017-03-11,bundesliga
+215,Dortmund,0,Hertha Berlin,0,0,1,0.484353015166,2017-03-11,bundesliga
+216,Leverkusen,0,Hoffenheim,0,0,1,0.587714905317,2017-03-18,bundesliga
+217,Hertha Berlin,0,FC Koln,0,0,1,0.418797838498,2017-03-18,bundesliga
+218,Darmstadt,0,Wolfsburg,0,0,1,0.560129427003,2017-03-18,bundesliga
+219,Schalke 04,0,FSV Mainz 05,0,0,1,0.484211929029,2017-03-18,bundesliga
+220,Bayern Munich,0,Monchengladb.,0,0,2,0.616139447917,2017-03-18,bundesliga
+221,Ingolstadt,0,Dortmund,0,0,1,0.646515038471,2017-03-18,bundesliga
+222,RB Leipzig,0,Werder Bremen,0,0,2,0.560654288509,2017-03-18,bundesliga
+223,Freiburg,0,Augsburg,0,0,1,0.429874706622,2017-03-18,bundesliga
+224,Hamburger SV,0,Frankfurt,0,0,1,0.634145194271,2017-03-18,bundesliga
+225,FSV Mainz 05,0,Ingolstadt,0,0,2,0.388405628327,2017-04-01,bundesliga
+226,Darmstadt,0,RB Leipzig,0,0,1,0.676266494271,2017-04-01,bundesliga
+227,Wolfsburg,0,Leverkusen,0,0,1,0.51608974992,2017-04-01,bundesliga
+228,Werder Bremen,0,Freiburg,0,0,1,0.545755689956,2017-04-01,bundesliga
+229,Monchengladb.,0,Frankfurt,0,0,1,0.614120614742,2017-04-01,bundesliga
+230,FC Koln,0,Hamburger SV,0,0,2,0.477641014423,2017-04-01,bundesliga
+231,Hoffenheim,0,Hertha Berlin,0,0,1,0.46202547482,2017-04-01,bundesliga
+232,Dortmund,0,Schalke 04,0,0,2,0.417833513718,2017-04-01,bundesliga
+233,Augsburg,0,Bayern Munich,0,0,1,0.654845985426,2017-04-01,bundesliga
+234,Hertha Berlin,0,Monchengladb.,0,0,2,0.486323140631,2017-04-05,bundesliga
+235,Ingolstadt,0,Augsburg,0,0,1,0.553794430863,2017-04-05,bundesliga
+236,Frankfurt,0,FC Koln,0,0,1,0.421718337094,2017-04-05,bundesliga
+237,Freiburg,0,Wolfsburg,0,0,1,0.394789257323,2017-04-05,bundesliga
+238,Bayern Munich,0,Hoffenheim,0,0,2,0.42491285038,2017-04-05,bundesliga
+239,Leverkusen,0,Darmstadt,0,0,2,0.500745148137,2017-04-05,bundesliga
+240,Hamburger SV,0,Dortmund,0,0,1,0.629541901986,2017-04-05,bundesliga
+241,Schalke 04,0,Werder Bremen,0,0,1,0.427918347841,2017-04-05,bundesliga
+242,RB Leipzig,0,FSV Mainz 05,0,0,2,0.525743956929,2017-04-05,bundesliga
+243,Wolfsburg,0,Schalke 04,0,0,1,0.491168127214,2017-04-08,bundesliga
+244,Werder Bremen,0,Frankfurt,0,0,1,0.631764365991,2017-04-08,bundesliga
+245,Augsburg,0,Hertha Berlin,0,0,1,0.594861324334,2017-04-08,bundesliga
+246,Leverkusen,0,RB Leipzig,0,0,1,0.630543673659,2017-04-08,bundesliga
+247,Monchengladb.,0,FC Koln,0,0,1,0.583812071748,2017-04-08,bundesliga
+248,Darmstadt,0,Ingolstadt,0,0,1,0.510243417621,2017-04-08,bundesliga
+249,Hoffenheim,0,Hamburger SV,0,0,2,0.535776405861,2017-04-08,bundesliga
+250,FSV Mainz 05,0,Freiburg,0,0,1,0.492588813336,2017-04-08,bundesliga
+251,Dortmund,0,Bayern Munich,0,0,1,0.578007742891,2017-04-08,bundesliga
+252,Hertha Berlin,0,FSV Mainz 05,0,0,2,0.432403328663,2017-04-15,bundesliga
+253,Frankfurt,0,Dortmund,0,0,1,0.451565218618,2017-04-15,bundesliga
+254,Schalke 04,0,Darmstadt,0,0,2,0.449419555181,2017-04-15,bundesliga
+255,Hamburger SV,0,Werder Bremen,0,0,1,0.488183210406,2017-04-15,bundesliga
+256,Ingolstadt,0,Wolfsburg,0,0,1,0.525143862757,2017-04-15,bundesliga
+257,Freiburg,0,RB Leipzig,0,0,1,0.622323305905,2017-04-15,bundesliga
+258,Bayern Munich,0,Leverkusen,0,0,2,0.549537921688,2017-04-15,bundesliga
+259,Monchengladb.,0,Hoffenheim,0,0,1,0.61923016822,2017-04-15,bundesliga
+260,FC Koln,0,Augsburg,0,0,2,0.375641082868,2017-04-15,bundesliga
+261,Dortmund,0,Monchengladb.,0,0,2,0.450636087799,2017-04-22,bundesliga
+262,Augsburg,0,Frankfurt,0,0,1,0.593429056901,2017-04-22,bundesliga
+263,Leverkusen,0,Freiburg,0,0,1,0.483307789174,2017-04-22,bundesliga
+264,Wolfsburg,0,Hertha Berlin,0,0,1,0.616598204527,2017-04-22,bundesliga
+265,Werder Bremen,0,Ingolstadt,0,0,1,0.419478608416,2017-04-22,bundesliga
+266,Darmstadt,0,Hamburger SV,0,0,1,0.530937690041,2017-04-22,bundesliga
+267,Hoffenheim,0,FC Koln,0,0,1,0.413505636821,2017-04-22,bundesliga
+268,FSV Mainz 05,0,Bayern Munich,0,0,1,0.649821812928,2017-04-22,bundesliga
+269,RB Leipzig,0,Schalke 04,0,0,2,0.544954714604,2017-04-22,bundesliga
+270,Hamburger SV,0,Augsburg,0,0,1,0.533500144806,2017-04-29,bundesliga
+271,Schalke 04,0,Leverkusen,0,0,1,0.493748799105,2017-04-29,bundesliga
+272,Frankfurt,0,Hoffenheim,0,0,1,0.475057255976,2017-04-29,bundesliga
+273,FC Koln,0,Dortmund,0,0,1,0.496388871068,2017-04-29,bundesliga
+274,Hertha Berlin,0,Werder Bremen,0,0,2,0.474397737311,2017-04-29,bundesliga
+275,Bayern Munich,0,Wolfsburg,0,0,2,0.611197596259,2017-04-29,bundesliga
+276,Monchengladb.,0,FSV Mainz 05,0,0,1,0.507607997807,2017-04-29,bundesliga
+277,Ingolstadt,0,RB Leipzig,0,0,1,0.675986631541,2017-04-29,bundesliga
+278,Freiburg,0,Darmstadt,0,0,2,0.525271838698,2017-04-29,bundesliga
+279,Hoffenheim,0,Dortmund,0,0,1,0.443486866305,2017-05-06,bundesliga
+280,Schalke 04,0,Freiburg,0,0,1,0.508003558649,2017-05-06,bundesliga
+281,Augsburg,0,Monchengladb.,0,0,1,0.432459015996,2017-05-06,bundesliga
+282,Werder Bremen,0,FC Koln,0,0,1,0.600661622155,2017-05-06,bundesliga
+283,Darmstadt,0,Bayern Munich,0,0,1,0.682977405647,2017-05-06,bundesliga
+284,Leverkusen,0,Ingolstadt,0,0,2,0.419355813729,2017-05-06,bundesliga
+285,FSV Mainz 05,0,Hamburger SV,0,0,1,0.383959124568,2017-05-06,bundesliga
+286,RB Leipzig,0,Hertha Berlin,0,0,1,0.392033737019,2017-05-06,bundesliga
+287,Wolfsburg,0,Frankfurt,0,0,1,0.615580970997,2017-05-06,bundesliga
+288,Ingolstadt,0,Freiburg,0,0,1,0.576790356183,2017-05-13,bundesliga
+289,Frankfurt,0,FSV Mainz 05,0,0,2,0.425934734372,2017-05-13,bundesliga
+290,Hamburger SV,0,Schalke 04,0,0,1,0.526289067214,2017-05-13,bundesliga
+291,FC Koln,0,Leverkusen,0,0,1,0.388384551565,2017-05-13,bundesliga
+292,Hertha Berlin,0,Darmstadt,0,0,2,0.608911882523,2017-05-13,bundesliga
+293,Hoffenheim,0,Werder Bremen,0,0,2,0.47556590235,2017-05-13,bundesliga
+294,Dortmund,0,Augsburg,0,0,2,0.401395472004,2017-05-13,bundesliga
+295,Monchengladb.,0,Wolfsburg,0,0,1,0.467658915674,2017-05-13,bundesliga
+296,Bayern Munich,0,RB Leipzig,0,0,1,0.421464974432,2017-05-13,bundesliga
+297,Werder Bremen,0,Dortmund,0,0,1,0.623940014271,2017-05-20,bundesliga
+298,RB Leipzig,0,Frankfurt,0,0,1,0.389065319542,2017-05-20,bundesliga
+299,Darmstadt,0,Monchengladb.,0,0,1,0.561096731979,2017-05-20,bundesliga
+300,Leverkusen,0,Hertha Berlin,0,0,1,0.583367906297,2017-05-20,bundesliga
+301,FSV Mainz 05,0,FC Koln,0,0,1,0.551198779029,2017-05-20,bundesliga
+302,Wolfsburg,0,Hamburger SV,0,0,1,0.426953664662,2017-05-20,bundesliga
+303,Schalke 04,0,Ingolstadt,0,0,1,0.380860361067,2017-05-20,bundesliga
+304,Freiburg,0,Bayern Munich,0,0,1,0.64622719317,2017-05-20,bundesliga
+305,Augsburg,0,Hoffenheim,0,0,1,0.599188281854,2017-05-20,bundesliga
+306,Osasuna,1,Malaga,1,0,1,0.622145249452,2016-08-19,primera-division
+307,Eibar,1,Deportivo,2,1,2,0.392694612359,2016-08-19,primera-division
+308,Real Betis,2,FC Barcelona,6,1,1,0.634556409091,2016-08-20,primera-division
+309,Villarreal,1,Granada,1,0,2,0.566317022689,2016-08-20,primera-division
+310,Espanyol,4,FC Sevilla,6,1,1,0.563509914768,2016-08-20,primera-division
+311,Athletic Bilbao,1,Sporting Gijon,2,1,2,0.483483264646,2016-08-21,primera-division
+312,Real Madrid,3,Real Sociedad,0,2,2,0.427310973347,2016-08-21,primera-division
+313,Alaves,1,Atletico Madrid,1,0,1,0.557664432775,2016-08-21,primera-division
+314,Leganes,1,Celta Vigo,0,2,1,0.532510512057,2016-08-22,primera-division
+315,Las Palmas,4,Valencia,2,2,2,0.406324422137,2016-08-22,primera-division
+316,Deportivo,0,Real Betis,0,0,1,0.485183465736,2016-08-26,primera-division
+317,Malaga,2,Espanyol,2,0,1,0.487873610818,2016-08-26,primera-division
+318,Valencia,0,Eibar,1,1,1,0.577549608855,2016-08-27,primera-division
+319,Real Sociedad,2,Osasuna,0,2,2,0.605160044127,2016-08-27,primera-division
+320,Celta Vigo,1,Real Madrid,2,1,1,0.641286435329,2016-08-27,primera-division
+321,Atletico Madrid,0,Leganes,0,0,2,0.458249537098,2016-08-27,primera-division
+322,Sporting Gijon,0,Alaves,0,0,1,0.58835992545,2016-08-28,primera-division
+323,Granada,1,Las Palmas,5,1,1,0.606631897473,2016-08-28,primera-division
+324,FC Barcelona,1,Athletic Bilbao,0,2,2,0.412608351696,2016-08-28,primera-division
+325,FC Sevilla,0,Villarreal,0,0,1,0.435775213226,2016-08-28,primera-division
+326,Espanyol,1,Real Sociedad,1,0,1,0.517692556404,2016-09-09,primera-division
+327,Atletico Madrid,4,Celta Vigo,0,2,2,0.396250757185,2016-09-10,primera-division
+328,Osasuna,2,Real Madrid,5,1,1,0.698652970054,2016-09-10,primera-division
+329,Las Palmas,1,FC Sevilla,2,1,1,0.581314733529,2016-09-10,primera-division
+330,Villarreal,2,Malaga,0,2,2,0.397566672192,2016-09-10,primera-division
+331,Alaves,2,FC Barcelona,1,2,1,0.606090031974,2016-09-10,primera-division
+332,Leganes,1,Sporting Gijon,2,1,1,0.406891497055,2016-09-11,primera-division
+333,Real Betis,3,Valencia,2,2,1,0.405736656238,2016-09-11,primera-division
+334,Eibar,2,Granada,1,2,2,0.493406692313,2016-09-11,primera-division
+335,Athletic Bilbao,1,Deportivo,0,2,2,0.421722646484,2016-09-11,primera-division
+336,Granada,2,Real Betis,2,0,1,0.567251610883,2016-09-16,primera-division
+337,FC Barcelona,5,Leganes,1,2,2,0.555270527301,2016-09-17,primera-division
+338,Sporting Gijon,0,Atletico Madrid,5,1,1,0.653977468962,2016-09-17,primera-division
+339,FC Sevilla,1,Eibar,1,0,2,0.415163363128,2016-09-17,primera-division
+340,Malaga,0,Las Palmas,1,1,1,0.466311294415,2016-09-17,primera-division
+341,Celta Vigo,0,Osasuna,0,0,2,0.480353201964,2016-09-18,primera-division
+342,Valencia,1,Athletic Bilbao,2,1,1,0.596421369544,2016-09-18,primera-division
+343,Real Sociedad,1,Villarreal,2,1,1,0.493110070796,2016-09-18,primera-division
+344,Real Madrid,2,Espanyol,0,2,2,0.524905560027,2016-09-18,primera-division
+345,Deportivo,0,Alaves,0,0,1,0.532498239868,2016-09-19,primera-division
+346,Eibar,1,Malaga,2,1,1,0.452308775231,2016-09-20,primera-division
+347,Real Betis,0,FC Sevilla,1,1,1,0.615261703276,2016-09-20,primera-division
+348,Sporting Gijon,1,Celta Vigo,2,1,1,0.585173622709,2016-09-21,primera-division
+349,Villarreal,1,Real Madrid,1,0,1,0.574982107292,2016-09-21,primera-division
+350,Las Palmas,1,Real Sociedad,4,1,1,0.537311598207,2016-09-21,primera-division
+351,Athletic Bilbao,2,Granada,1,2,2,0.518679544228,2016-09-21,primera-division
+352,Atletico Madrid,1,FC Barcelona,1,0,1,0.531183541226,2016-09-21,primera-division
+353,Leganes,2,Deportivo,1,2,1,0.473053562722,2016-09-22,primera-division
+354,Espanyol,2,Osasuna,1,2,2,0.522003552042,2016-09-22,primera-division
+355,Alaves,1,Valencia,2,1,2,0.408146217983,2016-09-22,primera-division
+356,Malaga,0,Real Betis,1,1,1,0.412020737146,2016-09-23,primera-division
+357,Real Sociedad,0,Eibar,2,1,1,0.401046148232,2016-09-24,primera-division
+358,FC Barcelona,5,Sporting Gijon,0,2,2,0.602978295564,2016-09-24,primera-division
+359,FC Sevilla,1,Athletic Bilbao,3,1,2,0.386125661024,2016-09-24,primera-division
+360,Real Madrid,2,Las Palmas,2,0,2,0.540364178929,2016-09-24,primera-division
+361,Valencia,2,Leganes,1,2,1,0.502681076977,2016-09-25,primera-division
+362,Deportivo,0,Atletico Madrid,1,1,1,0.609668678314,2016-09-25,primera-division
+363,Osasuna,1,Villarreal,3,1,1,0.670226402597,2016-09-25,primera-division
+364,Celta Vigo,2,Espanyol,0,2,1,0.498664175075,2016-09-25,primera-division
+365,Granada,1,Alaves,3,1,1,0.604277254936,2016-09-26,primera-division
+366,Real Betis,0,Real Sociedad,1,1,1,0.577835986089,2016-09-30,primera-division
+367,Leganes,1,Granada,0,2,1,0.380800752186,2016-10-01,primera-division
+368,Alaves,1,FC Sevilla,2,1,1,0.583787037898,2016-10-01,primera-division
+369,Las Palmas,2,Osasuna,2,0,2,0.505699771441,2016-10-01,primera-division
+370,Sporting Gijon,1,Deportivo,2,1,1,0.530897549066,2016-10-01,primera-division
+371,Atletico Madrid,2,Valencia,0,2,2,0.504316013985,2016-10-02,primera-division
+372,Eibar,1,Real Madrid,1,0,1,0.640690678745,2016-10-02,primera-division
+373,Villarreal,0,Espanyol,0,0,1,0.381799926531,2016-10-02,primera-division
+374,Athletic Bilbao,1,Malaga,2,1,1,0.425573778978,2016-10-02,primera-division
+375,FC Barcelona,3,Celta Vigo,4,1,2,0.501553075603,2016-10-02,primera-division
+376,Espanyol,0,Las Palmas,0,0,1,0.445413734727,2016-10-14,primera-division
+377,FC Sevilla,3,Leganes,2,2,2,0.533148219352,2016-10-15,primera-division
+378,Deportivo,0,FC Barcelona,4,1,1,0.642612951714,2016-10-15,primera-division
+379,Granada,1,Atletico Madrid,7,1,1,0.663775110888,2016-10-15,primera-division
+380,Real Madrid,6,Real Betis,1,2,2,0.591507866075,2016-10-15,primera-division
+381,Malaga,1,Alaves,1,0,1,0.464153705564,2016-10-16,primera-division
+382,Real Sociedad,2,Athletic Bilbao,3,1,1,0.427507621789,2016-10-16,primera-division
+383,Valencia,2,Sporting Gijon,1,2,1,0.443915607208,2016-10-16,primera-division
+384,Celta Vigo,0,Villarreal,5,1,1,0.569667639091,2016-10-16,primera-division
+385,Osasuna,3,Eibar,2,2,1,0.62017999335,2016-10-17,primera-division
+386,Real Betis,2,Osasuna,1,2,2,0.444243585805,2016-10-21,primera-division
+387,Eibar,3,Espanyol,3,0,1,0.474060417631,2016-10-22,primera-division
+388,FC Barcelona,3,Valencia,2,2,2,0.592472162878,2016-10-22,primera-division
+389,Alaves,0,Real Sociedad,3,1,1,0.539728604065,2016-10-22,primera-division
+390,Sporting Gijon,0,Granada,0,0,1,0.441578507844,2016-10-22,primera-division
+391,Deportivo,1,Celta Vigo,4,1,1,0.526685292477,2016-10-23,primera-division
+392,Atletico Madrid,0,FC Sevilla,1,1,1,0.504237683774,2016-10-23,primera-division
+393,Leganes,0,Malaga,4,1,1,0.542408597064,2016-10-23,primera-division
+394,Las Palmas,1,Villarreal,2,1,1,0.564116799971,2016-10-23,primera-division
+395,Athletic Bilbao,1,Real Madrid,2,1,1,0.624112266328,2016-10-23,primera-division
+396,Real Sociedad,2,Leganes,0,2,2,0.477352486566,2016-10-28,primera-division
+397,FC Sevilla,1,Sporting Gijon,1,0,2,0.584119938717,2016-10-29,primera-division
+398,Real Madrid,4,Alaves,1,2,2,0.53901524842,2016-10-29,primera-division
+399,Malaga,2,Atletico Madrid,4,1,1,0.553479370438,2016-10-29,primera-division
+400,Granada,0,FC Barcelona,1,1,1,0.681661304105,2016-10-29,primera-division
+401,Villarreal,1,Eibar,2,1,1,0.37626418242,2016-10-30,primera-division
+402,Osasuna,1,Athletic Bilbao,1,0,1,0.634526343652,2016-10-30,primera-division
+403,Espanyol,1,Real Betis,0,2,1,0.390530111837,2016-10-30,primera-division
+404,Celta Vigo,3,Las Palmas,3,0,1,0.47745799528,2016-10-30,primera-division
+405,Valencia,1,Deportivo,1,0,1,0.508693221122,2016-10-31,primera-division
+406,Sporting Gijon,2,Malaga,3,1,1,0.593080268511,2016-11-04,primera-division
+407,Deportivo,1,Granada,1,0,1,0.375167669821,2016-11-05,primera-division
+408,Atletico Madrid,0,Real Sociedad,2,1,1,0.451692728136,2016-11-05,primera-division
+409,Alaves,1,Osasuna,0,2,2,0.507156382761,2016-11-05,primera-division
+410,Eibar,0,Las Palmas,1,1,1,0.451947809999,2016-11-05,primera-division
+411,Leganes,0,Real Madrid,3,1,1,0.677068276711,2016-11-06,primera-division
+412,Athletic Bilbao,0,Espanyol,0,0,1,0.44747985621,2016-11-06,primera-division
+413,Valencia,1,Celta Vigo,2,1,1,0.564631529347,2016-11-06,primera-division
+414,Real Betis,0,Villarreal,2,1,1,0.604002597823,2016-11-06,primera-division
+415,FC Barcelona,2,FC Sevilla,1,2,1,0.437383197294,2016-11-06,primera-division
+416,Las Palmas,0,Real Betis,2,1,1,0.412373837541,2016-11-18,primera-division
+417,FC Sevilla,3,Deportivo,2,2,2,0.533844649359,2016-11-19,primera-division
+418,Malaga,0,FC Barcelona,0,0,1,0.600368893304,2016-11-19,primera-division
+419,Celta Vigo,0,Eibar,1,1,1,0.489842125217,2016-11-19,primera-division
+420,Real Madrid,3,Atletico Madrid,0,2,2,0.446730376215,2016-11-19,primera-division
+421,Espanyol,1,Alaves,0,2,1,0.443300194919,2016-11-20,primera-division
+422,Granada,1,Valencia,1,0,1,0.513995718224,2016-11-20,primera-division
+423,Real Sociedad,3,Sporting Gijon,1,2,2,0.535528946537,2016-11-20,primera-division
+424,Villarreal,0,Athletic Bilbao,1,1,1,0.402050639927,2016-11-20,primera-division
+425,Osasuna,0,Leganes,2,1,1,0.5653274143,2016-11-21,primera-division
+426,Real Betis,1,Eibar,3,1,1,0.529523916157,2016-11-25,primera-division
+427,Deportivo,3,Malaga,4,1,1,0.536562145256,2016-11-26,primera-division
+428,Sporting Gijon,1,Real Madrid,2,1,1,0.699638329322,2016-11-26,primera-division
+429,Leganes,0,Espanyol,3,1,1,0.560484359445,2016-11-26,primera-division
+430,Valencia,1,FC Sevilla,2,1,1,0.646330780507,2016-11-26,primera-division
+431,Alaves,2,Villarreal,0,2,1,0.566349945721,2016-11-27,primera-division
+432,Atletico Madrid,3,Osasuna,0,2,2,0.589117329439,2016-11-27,primera-division
+433,Granada,1,Celta Vigo,3,1,1,0.602917601788,2016-11-27,primera-division
+434,FC Barcelona,1,Real Sociedad,1,0,1,0.380588177931,2016-11-27,primera-division
+435,Athletic Bilbao,1,Las Palmas,3,1,1,0.42541854281,2016-11-28,primera-division
+436,FC Sevilla,1,Granada,2,1,2,0.611890171194,2016-12-03,primera-division
+437,Real Madrid,1,FC Barcelona,1,0,1,0.402843591081,2016-12-03,primera-division
+438,Villarreal,0,Leganes,0,0,2,0.47772651099,2016-12-03,primera-division
+439,Espanyol,0,Atletico Madrid,0,0,1,0.535489783337,2016-12-03,primera-division
+440,Celta Vigo,3,Real Betis,3,0,1,0.424170739141,2016-12-04,primera-division
+441,Eibar,1,Athletic Bilbao,3,1,1,0.492821025208,2016-12-04,primera-division
+442,Osasuna,1,Sporting Gijon,3,1,1,0.514876799485,2016-12-04,primera-division
+443,Las Palmas,1,Alaves,1,0,1,0.465112298543,2016-12-04,primera-division
+444,Malaga,2,Valencia,2,0,2,0.39877085466,2016-12-04,primera-division
+445,Real Sociedad,1,Deportivo,5,1,2,0.478132541428,2016-12-05,primera-division
+446,Granada,1,Malaga,1,0,1,0.609592007578,2016-12-09,primera-division
+447,FC Barcelona,3,Osasuna,0,2,2,0.660467986457,2016-12-10,primera-division
+448,Valencia,2,Real Sociedad,3,1,1,0.615905331717,2016-12-10,primera-division
+449,Leganes,1,Las Palmas,1,0,1,0.540668218015,2016-12-10,primera-division
+450,Deportivo,2,Real Madrid,3,1,1,0.671504273612,2016-12-10,primera-division
+451,Alaves,0,Eibar,0,0,1,0.483154084982,2016-12-11,primera-division
+452,FC Sevilla,3,Celta Vigo,0,2,2,0.476492578704,2016-12-11,primera-division
+453,Sporting Gijon,1,Espanyol,2,1,1,0.608398001954,2016-12-11,primera-division
+454,Athletic Bilbao,0,Real Betis,1,1,2,0.395651104754,2016-12-11,primera-division
+455,Atletico Madrid,0,Villarreal,3,1,1,0.47840480342,2016-12-12,primera-division
+456,Real Betis,0,Alaves,1,1,1,0.516432399917,2016-12-16,primera-division
+457,Villarreal,3,Sporting Gijon,1,2,2,0.534717727599,2016-12-17,primera-division
+458,Las Palmas,0,Atletico Madrid,1,1,1,0.555504321372,2016-12-17,primera-division
+459,Real Sociedad,2,Granada,0,2,2,0.567403612785,2016-12-17,primera-division
+460,Malaga,1,FC Sevilla,4,1,1,0.578227088468,2016-12-17,primera-division
+461,Eibar,1,Leganes,1,0,2,0.39162502306,2016-12-18,primera-division
+462,Osasuna,0,Deportivo,2,1,1,0.571392188897,2016-12-18,primera-division
+463,Real Madrid,0,Valencia,0,0,2,0.63862513036,2016-12-18,primera-division
+464,Espanyol,1,FC Barcelona,4,1,1,0.586827206043,2016-12-18,primera-division
+465,Celta Vigo,1,Athletic Bilbao,2,1,1,0.513327805353,2016-12-19,primera-division
+466,Deportivo,0,Espanyol,0,0,1,0.554619877401,2017-01-06,primera-division
+467,Granada,0,Real Madrid,0,0,1,0.701781100321,2017-01-07,primera-division
+468,Atletico Madrid,0,Eibar,0,0,1,0.387976486016,2017-01-07,primera-division
+469,Malaga,0,Celta Vigo,0,0,1,0.45545324404,2017-01-07,primera-division
+470,FC Sevilla,0,Real Sociedad,0,0,1,0.410603090321,2017-01-07,primera-division
+471,Alaves,0,Athletic Bilbao,0,0,1,0.507713792097,2017-01-08,primera-division
+472,Leganes,0,Real Betis,0,0,1,0.491115065184,2017-01-08,primera-division
+473,Sporting Gijon,0,Las Palmas,0,0,1,0.590605084933,2017-01-08,primera-division
+474,FC Barcelona,0,Villarreal,0,0,1,0.405449513418,2017-01-08,primera-division
+475,Valencia,0,Osasuna,0,0,1,0.38883659631,2017-01-09,primera-division
+476,Real Sociedad,0,Malaga,0,0,2,0.39599295652,2017-01-13,primera-division
+477,Athletic Bilbao,0,Leganes,0,0,2,0.42070803706,2017-01-14,primera-division
+478,Las Palmas,0,FC Barcelona,0,0,1,0.603669864793,2017-01-14,primera-division
+479,Real Betis,0,Atletico Madrid,0,0,1,0.597451316045,2017-01-14,primera-division
+480,Alaves,0,Celta Vigo,0,0,1,0.458043151055,2017-01-14,primera-division
+481,Espanyol,0,Valencia,0,0,2,0.425201515003,2017-01-15,primera-division
+482,Villarreal,0,Deportivo,0,0,2,0.478783653273,2017-01-15,primera-division
+483,Osasuna,0,Granada,0,0,1,0.492935054395,2017-01-15,primera-division
+484,Real Madrid,0,FC Sevilla,0,0,1,0.372988489343,2017-01-15,primera-division
+485,Eibar,0,Sporting Gijon,0,0,2,0.456540720532,2017-01-16,primera-division
+486,Deportivo,0,Las Palmas,0,0,1,0.534752556947,2017-01-20,primera-division
+487,Granada,0,Espanyol,0,0,1,0.623230121761,2017-01-21,primera-division
+488,Malaga,0,Real Madrid,0,0,1,0.638088477552,2017-01-21,primera-division
+489,Leganes,0,Alaves,0,0,1,0.538481466764,2017-01-21,primera-division
+490,Valencia,0,Villarreal,0,0,1,0.641504505234,2017-01-21,primera-division
+491,FC Sevilla,0,Osasuna,0,0,2,0.644968390209,2017-01-22,primera-division
+492,Atletico Madrid,0,Athletic Bilbao,0,0,1,0.41374047774,2017-01-22,primera-division
+493,Sporting Gijon,0,Real Betis,0,0,1,0.547221407455,2017-01-22,primera-division
+494,FC Barcelona,0,Eibar,0,0,2,0.441110938109,2017-01-22,primera-division
+495,Celta Vigo,0,Real Sociedad,0,0,1,0.542847165635,2017-01-23,primera-division
+496,Malaga,0,Osasuna,0,0,2,0.498408998863,2017-01-27,primera-division
+497,Granada,0,Villarreal,0,0,1,0.666486593611,2017-01-28,primera-division
+498,Atletico Madrid,0,Alaves,0,0,1,0.370397631942,2017-01-28,primera-division
+499,Deportivo,0,Eibar,0,0,1,0.544289807246,2017-01-28,primera-division
+500,Celta Vigo,0,Leganes,0,0,1,0.39987866559,2017-01-28,primera-division
+501,FC Barcelona,0,Real Betis,0,0,2,0.534959290278,2017-01-29,primera-division
+502,FC Sevilla,0,Espanyol,0,0,2,0.431812869996,2017-01-29,primera-division
+503,Sporting Gijon,0,Athletic Bilbao,0,0,1,0.614921133288,2017-01-29,primera-division
+504,Real Sociedad,0,Real Madrid,0,0,1,0.601045416317,2017-01-29,primera-division
+505,Valencia,0,Las Palmas,0,0,1,0.570651697381,2017-01-30,primera-division
+506,Real Betis,0,Deportivo,0,0,1,0.448802049649,2017-02-05,primera-division
+507,Athletic Bilbao,0,FC Barcelona,0,0,1,0.578522757257,2017-02-05,primera-division
+508,Osasuna,0,Real Sociedad,0,0,1,0.645976444984,2017-02-05,primera-division
+509,Alaves,0,Sporting Gijon,0,0,2,0.422827160867,2017-02-05,primera-division
+510,Espanyol,0,Malaga,0,0,1,0.44606427254,2017-02-05,primera-division
+511,Real Madrid,0,Celta Vigo,0,0,2,0.563600529002,2017-02-05,primera-division
+512,Villarreal,0,FC Sevilla,0,0,1,0.494630314002,2017-02-05,primera-division
+513,Eibar,0,Valencia,0,0,2,0.441915631069,2017-02-05,primera-division
+514,Leganes,0,Atletico Madrid,0,0,1,0.615417938127,2017-02-05,primera-division
+515,Las Palmas,0,Granada,0,0,2,0.459286444792,2017-02-05,primera-division
+516,FC Barcelona,0,Alaves,0,0,2,0.474413650684,2017-02-12,primera-division
+517,FC Sevilla,0,Las Palmas,0,0,2,0.450585290069,2017-02-12,primera-division
+518,Valencia,0,Real Betis,0,0,1,0.525429915856,2017-02-12,primera-division
+519,Deportivo,0,Athletic Bilbao,0,0,1,0.56535380665,2017-02-12,primera-division
+520,Celta Vigo,0,Atletico Madrid,0,0,1,0.561943515711,2017-02-12,primera-division
+521,Sporting Gijon,0,Leganes,0,0,1,0.525061007036,2017-02-12,primera-division
+522,Granada,0,Eibar,0,0,1,0.610708336704,2017-02-12,primera-division
+523,Real Madrid,0,Osasuna,0,0,2,0.695211307211,2017-02-12,primera-division
+524,Real Sociedad,0,Espanyol,0,0,1,0.406112548911,2017-02-12,primera-division
+525,Malaga,0,Villarreal,0,0,1,0.561818195845,2017-02-12,primera-division
+526,Athletic Bilbao,0,Valencia,0,0,2,0.469389307874,2017-02-19,primera-division
+527,Leganes,0,FC Barcelona,0,0,1,0.648373200603,2017-02-19,primera-division
+528,Villarreal,0,Real Sociedad,0,0,1,0.440831163065,2017-02-19,primera-division
+529,Osasuna,0,Celta Vigo,0,0,1,0.616939476094,2017-02-19,primera-division
+530,Las Palmas,0,Malaga,0,0,1,0.468020464579,2017-02-19,primera-division
+531,Real Betis,0,Granada,0,0,2,0.395438740074,2017-02-19,primera-division
+532,Atletico Madrid,0,Sporting Gijon,0,0,2,0.517098743228,2017-02-19,primera-division
+533,Alaves,0,Deportivo,0,0,1,0.395505004397,2017-02-19,primera-division
+534,Espanyol,0,Real Madrid,0,0,1,0.627535730229,2017-02-19,primera-division
+535,Eibar,0,FC Sevilla,0,0,1,0.574904802513,2017-02-19,primera-division
+536,Deportivo,0,Leganes,0,0,1,0.461297348284,2017-02-26,primera-division
+537,Real Madrid,0,Villarreal,0,0,2,0.426694161555,2017-02-26,primera-division
+538,Granada,0,Athletic Bilbao,0,0,1,0.627035981835,2017-02-26,primera-division
+539,Celta Vigo,0,Sporting Gijon,0,0,2,0.394171410753,2017-02-26,primera-division
+540,Real Sociedad,0,Las Palmas,0,0,2,0.38863518129,2017-02-26,primera-division
+541,FC Sevilla,0,Real Betis,0,0,2,0.511642989905,2017-02-26,primera-division
+542,Osasuna,0,Espanyol,0,0,1,0.633789997942,2017-02-26,primera-division
+543,Valencia,0,Alaves,0,0,1,0.56831445474,2017-02-26,primera-division
+544,Malaga,0,Eibar,0,0,1,0.479547962124,2017-02-26,primera-division
+545,FC Barcelona,0,Atletico Madrid,0,0,1,0.392991707185,2017-02-26,primera-division
+546,Leganes,0,Valencia,0,0,1,0.430129434486,2017-03-01,primera-division
+547,Espanyol,0,Celta Vigo,0,0,1,0.433906994372,2017-03-01,primera-division
+548,Eibar,0,Real Sociedad,0,0,1,0.527655091202,2017-03-01,primera-division
+549,Real Betis,0,Malaga,0,0,1,0.520078901939,2017-03-01,primera-division
+550,Athletic Bilbao,0,FC Sevilla,0,0,1,0.553590018196,2017-03-01,primera-division
+551,Sporting Gijon,0,FC Barcelona,0,0,1,0.676875554261,2017-03-01,primera-division
+552,Villarreal,0,Osasuna,0,0,2,0.603924758476,2017-03-01,primera-division
+553,Atletico Madrid,0,Deportivo,0,0,2,0.45940353824,2017-03-01,primera-division
+554,Las Palmas,0,Real Madrid,0,0,1,0.642052443102,2017-03-01,primera-division
+555,Alaves,0,Granada,0,0,2,0.460980002123,2017-03-01,primera-division
+556,Deportivo,0,Sporting Gijon,0,0,1,0.401088287534,2017-03-05,primera-division
+557,Celta Vigo,0,FC Barcelona,0,0,1,0.605601390657,2017-03-05,primera-division
+558,Granada,0,Leganes,0,0,1,0.546469025373,2017-03-05,primera-division
+559,Valencia,0,Atletico Madrid,0,0,1,0.637306042174,2017-03-05,primera-division
+560,Osasuna,0,Las Palmas,0,0,1,0.61863406525,2017-03-05,primera-division
+561,Espanyol,0,Villarreal,0,0,1,0.54463306464,2017-03-05,primera-division
+562,Real Sociedad,0,Real Betis,0,0,2,0.453434250694,2017-03-05,primera-division
+563,Malaga,0,Athletic Bilbao,0,0,1,0.503731236014,2017-03-05,primera-division
+564,FC Sevilla,0,Alaves,0,0,2,0.448943693828,2017-03-05,primera-division
+565,Real Madrid,0,Eibar,0,0,2,0.508815894201,2017-03-05,primera-division
+566,Alaves,0,Malaga,0,0,1,0.470049295746,2017-03-12,primera-division
+567,Las Palmas,0,Espanyol,0,0,1,0.488953238638,2017-03-12,primera-division
+568,Real Betis,0,Real Madrid,0,0,1,0.665833424707,2017-03-12,primera-division
+569,Athletic Bilbao,0,Real Sociedad,0,0,1,0.503858011926,2017-03-12,primera-division
+570,Leganes,0,FC Sevilla,0,0,1,0.630252722417,2017-03-12,primera-division
+571,Eibar,0,Osasuna,0,0,2,0.537564413599,2017-03-12,primera-division
+572,Atletico Madrid,0,Granada,0,0,2,0.549960178961,2017-03-12,primera-division
+573,Villarreal,0,Celta Vigo,0,0,2,0.416783826407,2017-03-12,primera-division
+574,FC Barcelona,0,Deportivo,0,0,2,0.556045562795,2017-03-12,primera-division
+575,Sporting Gijon,0,Valencia,0,0,1,0.490143491578,2017-03-12,primera-division
+576,Real Sociedad,0,Alaves,0,0,2,0.386830770676,2017-03-19,primera-division
+577,Villarreal,0,Las Palmas,0,0,2,0.390017444945,2017-03-19,primera-division
+578,Granada,0,Sporting Gijon,0,0,1,0.491534895484,2017-03-19,primera-division
+579,Valencia,0,FC Barcelona,0,0,1,0.662651217245,2017-03-19,primera-division
+580,Espanyol,0,Eibar,0,0,1,0.459569368679,2017-03-19,primera-division
+581,Osasuna,0,Real Betis,0,0,1,0.584224033724,2017-03-19,primera-division
+582,Real Madrid,0,Athletic Bilbao,0,0,2,0.483307078495,2017-03-19,primera-division
+583,Malaga,0,Leganes,0,0,1,0.387619311716,2017-03-19,primera-division
+584,Celta Vigo,0,Deportivo,0,0,1,0.40568576114,2017-03-19,primera-division
+585,FC Sevilla,0,Atletico Madrid,0,0,1,0.423268038182,2017-03-19,primera-division
+586,Sporting Gijon,0,FC Sevilla,0,0,1,0.661523807329,2017-04-02,primera-division
+587,Athletic Bilbao,0,Osasuna,0,0,2,0.560629217343,2017-04-02,primera-division
+588,Leganes,0,Real Sociedad,0,0,1,0.595375604403,2017-04-02,primera-division
+589,Atletico Madrid,0,Malaga,0,0,2,0.376986806669,2017-04-02,primera-division
+590,Las Palmas,0,Celta Vigo,0,0,1,0.456047210458,2017-04-02,primera-division
+591,Deportivo,0,Valencia,0,0,1,0.424407281251,2017-04-02,primera-division
+592,Eibar,0,Villarreal,0,0,1,0.554055802859,2017-04-02,primera-division
+593,Alaves,0,Real Madrid,0,0,1,0.644524983242,2017-04-02,primera-division
+594,Real Betis,0,Espanyol,0,0,1,0.539063756118,2017-04-02,primera-division
+595,FC Barcelona,0,Granada,0,0,2,0.62913272891,2017-04-02,primera-division
+596,Malaga,0,Sporting Gijon,0,0,2,0.413296619161,2017-04-05,primera-division
+597,Espanyol,0,Athletic Bilbao,0,0,1,0.484461466642,2017-04-05,primera-division
+598,Las Palmas,0,Eibar,0,0,1,0.480927263201,2017-04-05,primera-division
+599,Osasuna,0,Alaves,0,0,1,0.61614878648,2017-04-05,primera-division
+600,Real Sociedad,0,Atletico Madrid,0,0,1,0.481191153778,2017-04-05,primera-division
+601,Granada,0,Deportivo,0,0,1,0.552410167738,2017-04-05,primera-division
+602,Celta Vigo,0,Valencia,0,0,2,0.379703561299,2017-04-05,primera-division
+603,FC Sevilla,0,FC Barcelona,0,0,1,0.496430259097,2017-04-05,primera-division
+604,Villarreal,0,Real Betis,0,0,2,0.454249920373,2017-04-05,primera-division
+605,Real Madrid,0,Leganes,0,0,2,0.60825434655,2017-04-05,primera-division
+606,Real Betis,0,Las Palmas,0,0,1,0.518605957599,2017-04-09,primera-division
+607,Sporting Gijon,0,Real Sociedad,0,0,1,0.632926826629,2017-04-09,primera-division
+608,Valencia,0,Granada,0,0,1,0.418168924484,2017-04-09,primera-division
+609,FC Barcelona,0,Malaga,0,0,2,0.483378145941,2017-04-09,primera-division
+610,Deportivo,0,FC Sevilla,0,0,1,0.624293452353,2017-04-09,primera-division
+611,Athletic Bilbao,0,Villarreal,0,0,1,0.530201620474,2017-04-09,primera-division
+612,Eibar,0,Celta Vigo,0,0,1,0.439720964783,2017-04-09,primera-division
+613,Leganes,0,Osasuna,0,0,2,0.419654140436,2017-04-09,primera-division
+614,Atletico Madrid,0,Real Madrid,0,0,1,0.581734577951,2017-04-09,primera-division
+615,Alaves,0,Espanyol,0,0,1,0.491022847968,2017-04-09,primera-division
+616,Real Sociedad,0,FC Barcelona,0,0,1,0.548647935323,2017-04-16,primera-division
+617,Eibar,0,Real Betis,0,0,1,0.395934058798,2017-04-16,primera-division
+618,Espanyol,0,Leganes,0,0,2,0.374651624529,2017-04-16,primera-division
+619,Osasuna,0,Atletico Madrid,0,0,1,0.668665178888,2017-04-16,primera-division
+620,Real Madrid,0,Sporting Gijon,0,0,2,0.646965399859,2017-04-16,primera-division
+621,Malaga,0,Deportivo,0,0,1,0.393367162629,2017-04-16,primera-division
+622,Las Palmas,0,Athletic Bilbao,0,0,1,0.505438817395,2017-04-16,primera-division
+623,Villarreal,0,Alaves,0,0,2,0.388112692141,2017-04-16,primera-division
+624,FC Sevilla,0,Valencia,0,0,2,0.572663772652,2017-04-16,primera-division
+625,Celta Vigo,0,Granada,0,0,2,0.432933289152,2017-04-16,primera-division
+626,Valencia,0,Malaga,0,0,1,0.573051340664,2017-04-23,primera-division
+627,Sporting Gijon,0,Osasuna,0,0,1,0.412137105132,2017-04-23,primera-division
+628,Real Betis,0,Celta Vigo,0,0,1,0.509523742199,2017-04-23,primera-division
+629,Deportivo,0,Real Sociedad,0,0,1,0.589247725887,2017-04-23,primera-division
+630,Granada,0,FC Sevilla,0,0,1,0.667489434462,2017-04-23,primera-division
+631,FC Barcelona,0,Real Madrid,0,0,1,0.528430182212,2017-04-23,primera-division
+632,Athletic Bilbao,0,Eibar,0,0,1,0.441236209629,2017-04-23,primera-division
+633,Leganes,0,Villarreal,0,0,1,0.621180668796,2017-04-23,primera-division
+634,Atletico Madrid,0,Espanyol,0,0,1,0.393942445961,2017-04-23,primera-division
+635,Alaves,0,Las Palmas,0,0,1,0.469299507421,2017-04-23,primera-division
+636,Espanyol,0,Sporting Gijon,0,0,2,0.439513209667,2017-04-26,primera-division
+637,Osasuna,0,FC Barcelona,0,0,1,0.681257402492,2017-04-26,primera-division
+638,Las Palmas,0,Leganes,0,0,1,0.387824804175,2017-04-26,primera-division
+639,Villarreal,0,Atletico Madrid,0,0,1,0.455631612896,2017-04-26,primera-division
+640,Malaga,0,Granada,0,0,2,0.451715745529,2017-04-26,primera-division
+641,Celta Vigo,0,FC Sevilla,0,0,1,0.584296732322,2017-04-26,primera-division
+642,Real Betis,0,Athletic Bilbao,0,0,1,0.551640772349,2017-04-26,primera-division
+643,Real Madrid,0,Deportivo,0,0,2,0.609008348787,2017-04-26,primera-division
+644,Eibar,0,Alaves,0,0,1,0.44997498259,2017-04-26,primera-division
+645,Real Sociedad,0,Valencia,0,0,2,0.522337190194,2017-04-26,primera-division
+646,FC Barcelona,0,Espanyol,0,0,2,0.457938184291,2017-04-30,primera-division
+647,Valencia,0,Real Madrid,0,0,1,0.687120378199,2017-04-30,primera-division
+648,Alaves,0,Real Betis,0,0,1,0.414404078789,2017-04-30,primera-division
+649,Granada,0,Real Sociedad,0,0,1,0.641906734537,2017-04-30,primera-division
+650,Athletic Bilbao,0,Celta Vigo,0,0,1,0.412834434853,2017-04-30,primera-division
+651,Leganes,0,Eibar,0,0,1,0.550394771699,2017-04-30,primera-division
+652,Atletico Madrid,0,Las Palmas,0,0,1,0.37243975938,2017-04-30,primera-division
+653,Sporting Gijon,0,Villarreal,0,0,1,0.657754959978,2017-04-30,primera-division
+654,Deportivo,0,Osasuna,0,0,2,0.418617521266,2017-04-30,primera-division
+655,FC Sevilla,0,Malaga,0,0,2,0.457931027356,2017-04-30,primera-division
+656,Celta Vigo,0,Malaga,0,0,1,0.478581531099,2017-05-07,primera-division
+657,Osasuna,0,Valencia,0,0,1,0.536496793132,2017-05-07,primera-division
+658,Espanyol,0,Deportivo,0,0,2,0.375924762195,2017-05-07,primera-division
+659,Eibar,0,Atletico Madrid,0,0,1,0.54426002363,2017-05-07,primera-division
+660,Athletic Bilbao,0,Alaves,0,0,1,0.42346447971,2017-05-07,primera-division
+661,Real Sociedad,0,FC Sevilla,0,0,1,0.521401322638,2017-05-07,primera-division
+662,Real Betis,0,Leganes,0,0,1,0.442985203109,2017-05-07,primera-division
+663,Villarreal,0,FC Barcelona,0,0,1,0.522233336136,2017-05-07,primera-division
+664,Las Palmas,0,Sporting Gijon,0,0,2,0.420979947887,2017-05-07,primera-division
+665,Real Madrid,0,Granada,0,0,2,0.668644797347,2017-05-07,primera-division
+666,Leganes,0,Athletic Bilbao,0,0,1,0.571457234438,2017-05-14,primera-division
+667,Granada,0,Osasuna,0,0,1,0.438978054393,2017-05-14,primera-division
+668,FC Sevilla,0,Real Madrid,0,0,1,0.555348808952,2017-05-14,primera-division
+669,FC Barcelona,0,Las Palmas,0,0,2,0.47601893976,2017-05-14,primera-division
+670,Sporting Gijon,0,Eibar,0,0,1,0.596874994905,2017-05-14,primera-division
+671,Deportivo,0,Villarreal,0,0,1,0.615382146151,2017-05-14,primera-division
+672,Valencia,0,Espanyol,0,0,1,0.589104715177,2017-05-14,primera-division
+673,Malaga,0,Real Sociedad,0,0,1,0.534900621342,2017-05-14,primera-division
+674,Atletico Madrid,0,Real Betis,0,0,2,0.434239297021,2017-05-14,primera-division
+675,Celta Vigo,0,Alaves,0,0,1,0.475262800875,2017-05-14,primera-division
+676,Eibar,0,FC Barcelona,0,0,1,0.59855322887,2017-05-21,primera-division
+677,Villarreal,0,Valencia,0,0,2,0.522274178622,2017-05-21,primera-division
+678,Espanyol,0,Granada,0,0,2,0.47690597727,2017-05-21,primera-division
+679,Real Sociedad,0,Celta Vigo,0,0,2,0.415184468897,2017-05-21,primera-division
+680,Osasuna,0,FC Sevilla,0,0,1,0.668329950634,2017-05-21,primera-division
+681,Alaves,0,Leganes,0,0,1,0.389850122703,2017-05-21,primera-division
+682,Athletic Bilbao,0,Atletico Madrid,0,0,1,0.519652121706,2017-05-21,primera-division
+683,Real Betis,0,Sporting Gijon,0,0,1,0.38263988501,2017-05-21,primera-division
+684,Las Palmas,0,Deportivo,0,0,1,0.393521881861,2017-05-21,primera-division
+685,Real Madrid,0,Malaga,0,0,2,0.547297800203,2017-05-21,primera-division
+686,Udinese,0,AS Roma,4,1,1,0.607466341775,2016-08-20,serie-a
+687,Fiorentina,1,Juventus,2,1,1,0.61923791445,2016-08-20,serie-a
+688,Torino,2,AC Milan,3,1,1,0.544450465603,2016-08-21,serie-a
+689,Sampdoria,1,Empoli,0,2,2,0.422041604587,2016-08-21,serie-a
+690,Cagliari,1,Genoa,3,1,1,0.494096981,2016-08-21,serie-a
+691,Crotone,0,Bologna,1,1,1,0.604139084412,2016-08-21,serie-a
+692,Sassuolo,1,Palermo,0,2,1,0.387478708542,2016-08-21,serie-a
+693,Napoli,2,Pescara,2,0,2,0.626156569094,2016-08-21,serie-a
+694,Inter Milan,0,Chievo,2,1,1,0.407590163454,2016-08-21,serie-a
+695,Lazio Roma,4,Atalanta,3,2,1,0.427996604221,2016-08-21,serie-a
+696,Juventus,1,Lazio Roma,0,2,2,0.409414289216,2016-08-27,serie-a
+697,AC Milan,2,Napoli,4,1,1,0.47849435597,2016-08-27,serie-a
+698,Palermo,1,Inter Milan,1,0,1,0.654671075094,2016-08-28,serie-a
+699,Genoa,3,Crotone,1,2,2,0.467788878949,2016-08-28,serie-a
+700,Empoli,0,Udinese,2,1,1,0.564327725116,2016-08-28,serie-a
+701,Pescara,3,Sassuolo,0,2,1,0.530222949605,2016-08-28,serie-a
+702,Bologna,1,Torino,5,1,1,0.536041606252,2016-08-28,serie-a
+703,AS Roma,2,Cagliari,2,0,2,0.493478351719,2016-08-28,serie-a
+704,Chievo,0,Fiorentina,1,1,1,0.502354012867,2016-08-28,serie-a
+705,Atalanta,1,Sampdoria,2,1,2,0.388509856944,2016-08-28,serie-a
+706,Sassuolo,1,Juventus,3,1,1,0.69518940779,2016-09-10,serie-a
+707,Napoli,3,Palermo,0,2,2,0.612715648107,2016-09-10,serie-a
+708,Cagliari,1,Bologna,2,1,1,0.475820334182,2016-09-11,serie-a
+709,Torino,1,Atalanta,2,1,1,0.499196074423,2016-09-11,serie-a
+710,Udinese,1,AC Milan,0,2,1,0.583169006749,2016-09-11,serie-a
+711,Sampdoria,2,AS Roma,3,1,1,0.624871654149,2016-09-11,serie-a
+712,Lazio Roma,1,Chievo,1,0,2,0.391883864653,2016-09-11,serie-a
+713,Inter Milan,2,Pescara,1,2,2,0.567254860945,2016-09-11,serie-a
+714,Crotone,1,Empoli,2,1,1,0.534087407785,2016-09-12,serie-a
+715,AC Milan,1,Sampdoria,0,2,2,0.419756453214,2016-09-16,serie-a
+716,Pescara,0,Lazio Roma,3,1,1,0.676204424969,2016-09-17,serie-a
+717,Bologna,1,Napoli,3,1,1,0.604757255953,2016-09-17,serie-a
+718,Chievo,2,Udinese,1,2,1,0.467502920283,2016-09-18,serie-a
+719,Empoli,0,Torino,0,0,1,0.597029711881,2016-09-18,serie-a
+720,Palermo,1,Crotone,1,0,1,0.471152008734,2016-09-18,serie-a
+721,Atalanta,0,Cagliari,3,1,2,0.411395915834,2016-09-18,serie-a
+722,Genoa,0,Sassuolo,2,1,1,0.367152178158,2016-09-18,serie-a
+723,Juventus,1,Inter Milan,2,1,2,0.461822184644,2016-09-18,serie-a
+724,AS Roma,0,Fiorentina,1,1,2,0.408924388645,2016-09-18,serie-a
+725,Lazio Roma,0,AC Milan,2,1,1,0.475164361655,2016-09-20,serie-a
+726,Sampdoria,0,Bologna,2,1,1,0.459507473201,2016-09-21,serie-a
+727,Inter Milan,2,Empoli,0,2,2,0.514664580065,2016-09-21,serie-a
+728,Cagliari,0,Juventus,4,1,1,0.659900497702,2016-09-21,serie-a
+729,Fiorentina,2,Udinese,2,0,1,0.431034487818,2016-09-21,serie-a
+730,Crotone,0,AS Roma,4,1,1,0.691898049536,2016-09-21,serie-a
+731,Napoli,0,Genoa,0,0,2,0.453463445961,2016-09-21,serie-a
+732,Torino,0,Pescara,0,0,2,0.54391828914,2016-09-21,serie-a
+733,Sassuolo,1,Chievo,2,1,1,0.572286603904,2016-09-21,serie-a
+734,Palermo,1,Atalanta,0,2,1,0.662958074866,2016-09-21,serie-a
+735,Juventus,1,Palermo,0,2,2,0.678073757247,2016-09-24,serie-a
+736,Chievo,0,Napoli,2,1,1,0.589811497181,2016-09-24,serie-a
+737,AS Roma,1,Torino,3,1,2,0.406357628734,2016-09-25,serie-a
+738,Udinese,0,Sassuolo,1,1,2,0.387098565012,2016-09-25,serie-a
+739,Empoli,0,Lazio Roma,2,1,1,0.639515096348,2016-09-25,serie-a
+740,Pescara,1,Genoa,1,0,1,0.611954077464,2016-09-25,serie-a
+741,Bologna,1,Inter Milan,1,0,1,0.545179605526,2016-09-25,serie-a
+742,AC Milan,0,Fiorentina,0,0,1,0.377403364465,2016-09-25,serie-a
+743,Atalanta,3,Crotone,1,2,2,0.581140220875,2016-09-26,serie-a
+744,Sampdoria,1,Cagliari,2,1,1,0.451303071748,2016-09-26,serie-a
+745,Chievo,2,Pescara,0,2,2,0.505220526109,2016-10-01,serie-a
+746,Lazio Roma,3,Udinese,0,2,2,0.39070888354,2016-10-01,serie-a
+747,Juventus,3,Empoli,0,2,2,0.659908094414,2016-10-02,serie-a
+748,Napoli,0,Atalanta,1,1,1,0.407732361143,2016-10-02,serie-a
+749,Crotone,1,Cagliari,2,1,1,0.591398386113,2016-10-02,serie-a
+750,Palermo,1,Sampdoria,1,0,1,0.607006884578,2016-10-02,serie-a
+751,Genoa,1,Bologna,0,2,1,0.448904437202,2016-10-02,serie-a
+752,Fiorentina,1,Torino,2,1,1,0.475938896905,2016-10-02,serie-a
+753,Sassuolo,3,AC Milan,4,1,1,0.663093608806,2016-10-02,serie-a
+754,Inter Milan,1,AS Roma,2,1,1,0.563379377768,2016-10-02,serie-a
+755,AS Roma,3,Napoli,1,2,1,0.44293813686,2016-10-15,serie-a
+756,Sampdoria,1,Pescara,1,0,2,0.484059840906,2016-10-15,serie-a
+757,Udinese,1,Juventus,2,1,1,0.640415280727,2016-10-15,serie-a
+758,Atalanta,0,Fiorentina,0,0,1,0.423973663937,2016-10-16,serie-a
+759,Bologna,1,Lazio Roma,1,0,1,0.593660455235,2016-10-16,serie-a
+760,Cagliari,2,Inter Milan,1,2,1,0.557062518498,2016-10-16,serie-a
+761,Empoli,0,Genoa,0,0,1,0.55927823989,2016-10-16,serie-a
+762,Crotone,1,Sassuolo,2,1,1,0.53202253698,2016-10-16,serie-a
+763,AC Milan,3,Chievo,1,2,2,0.396954038321,2016-10-16,serie-a
+764,Torino,4,Palermo,1,2,2,0.528644064922,2016-10-17,serie-a
+765,Genoa,1,Sampdoria,2,1,1,0.45557955383,2016-10-22,serie-a
+766,Juventus,0,AC Milan,1,1,2,0.404188913123,2016-10-22,serie-a
+767,Pescara,1,Udinese,3,1,1,0.613968230438,2016-10-23,serie-a
+768,Napoli,2,Crotone,1,2,2,0.619842198808,2016-10-23,serie-a
+769,Inter Milan,1,Atalanta,2,1,1,0.486971159148,2016-10-23,serie-a
+770,Fiorentina,5,Cagliari,3,2,1,0.389834950255,2016-10-23,serie-a
+771,Chievo,0,Empoli,0,0,2,0.445348530962,2016-10-23,serie-a
+772,Lazio Roma,2,Torino,2,0,1,0.393500186511,2016-10-23,serie-a
+773,Sassuolo,1,Bologna,1,0,1,0.547721115305,2016-10-23,serie-a
+774,Palermo,1,AS Roma,4,1,1,0.699585113605,2016-10-23,serie-a
+775,AC Milan,0,Genoa,3,1,2,0.429553621108,2016-10-25,serie-a
+776,Crotone,1,Fiorentina,1,0,1,0.637787211278,2016-10-26,serie-a
+777,Bologna,1,Chievo,1,0,1,0.49532178102,2016-10-26,serie-a
+778,Empoli,0,Napoli,2,1,1,0.645655336428,2016-10-26,serie-a
+779,Cagliari,1,Lazio Roma,4,1,1,0.60609183869,2016-10-26,serie-a
+780,Sampdoria,1,Juventus,4,1,1,0.654582033609,2016-10-26,serie-a
+781,Atalanta,1,Pescara,0,2,2,0.587621889805,2016-10-26,serie-a
+782,AS Roma,3,Sassuolo,1,2,2,0.554772892895,2016-10-26,serie-a
+783,Torino,1,Inter Milan,2,1,1,0.480263766067,2016-10-26,serie-a
+784,Udinese,3,Palermo,1,2,2,0.490776910748,2016-10-27,serie-a
+785,Fiorentina,1,Bologna,0,2,1,0.397388028113,2016-10-29,serie-a
+786,Napoli,1,Juventus,2,1,1,0.543897761796,2016-10-29,serie-a
+787,Genoa,0,Atalanta,3,1,1,0.547827225925,2016-10-30,serie-a
+788,Pescara,0,AC Milan,1,1,1,0.681342326732,2016-10-30,serie-a
+789,AS Roma,0,Empoli,0,0,2,0.605261001609,2016-10-30,serie-a
+790,Sassuolo,1,Lazio Roma,2,1,1,0.657072667396,2016-10-30,serie-a
+791,Chievo,0,Crotone,2,1,2,0.498357783329,2016-10-30,serie-a
+792,Inter Milan,0,Sampdoria,1,1,1,0.383508549688,2016-10-30,serie-a
+793,Torino,2,Udinese,2,0,1,0.422346401925,2016-10-31,serie-a
+794,Palermo,1,Cagliari,2,1,1,0.597722306964,2016-10-31,serie-a
+795,Cagliari,1,Torino,5,1,1,0.546999328772,2016-11-05,serie-a
+796,Lazio Roma,1,Napoli,1,0,1,0.48633497361,2016-11-05,serie-a
+797,Empoli,4,Pescara,0,2,1,0.399565521176,2016-11-06,serie-a
+798,Juventus,2,Chievo,1,2,2,0.528128905708,2016-11-06,serie-a
+799,Atalanta,3,Sassuolo,0,2,2,0.48268694274,2016-11-06,serie-a
+800,AC Milan,2,Palermo,1,2,2,0.593797431191,2016-11-06,serie-a
+801,Udinese,1,Genoa,1,0,1,0.453819340019,2016-11-06,serie-a
+802,Sampdoria,1,Fiorentina,1,0,1,0.525063065399,2016-11-06,serie-a
+803,Crotone,0,Inter Milan,3,1,1,0.647361021865,2016-11-06,serie-a
+804,Bologna,0,AS Roma,3,1,1,0.619521586192,2016-11-06,serie-a
+805,Cagliari,0,Chievo,1,1,1,0.505720378332,2016-11-19,serie-a
+806,Napoli,2,Udinese,1,2,2,0.419893637336,2016-11-19,serie-a
+807,Pescara,0,Juventus,3,1,1,0.696255043364,2016-11-19,serie-a
+808,Sassuolo,2,Sampdoria,3,1,1,0.551293441277,2016-11-20,serie-a
+809,Genoa,1,Lazio Roma,3,1,1,0.58239488507,2016-11-20,serie-a
+810,AS Roma,1,Atalanta,2,1,1,0.383294849768,2016-11-20,serie-a
+811,Fiorentina,4,Empoli,0,2,2,0.486049465662,2016-11-20,serie-a
+812,Torino,2,Crotone,0,2,2,0.537103671295,2016-11-20,serie-a
+813,Palermo,1,Bologna,3,1,1,0.609795879184,2016-11-20,serie-a
+814,Inter Milan,2,AC Milan,2,0,1,0.532986509925,2016-11-20,serie-a
+815,Chievo,1,Torino,2,1,1,0.51099049288,2016-11-26,serie-a
+816,AC Milan,4,Empoli,1,2,2,0.563534510505,2016-11-26,serie-a
+817,Lazio Roma,1,Palermo,0,2,2,0.591153088026,2016-11-27,serie-a
+818,Juventus,1,Genoa,3,1,2,0.556030053377,2016-11-27,serie-a
+819,Sampdoria,1,Crotone,1,0,2,0.47718485623,2016-11-27,serie-a
+820,Atalanta,2,Bologna,0,2,2,0.427029477269,2016-11-27,serie-a
+821,Udinese,1,Cagliari,2,1,1,0.426665026852,2016-11-27,serie-a
+822,Pescara,2,AS Roma,3,1,1,0.687605407703,2016-11-27,serie-a
+823,Sassuolo,1,Napoli,1,0,1,0.665126516833,2016-11-28,serie-a
+824,Fiorentina,2,Inter Milan,4,1,1,0.489043007778,2016-11-28,serie-a
+825,Inter Milan,0,Napoli,3,1,1,0.542480646362,2016-12-02,serie-a
+826,Atalanta,1,Juventus,3,1,1,0.592486789255,2016-12-03,serie-a
+827,Crotone,1,AC Milan,2,1,1,0.68536767841,2016-12-04,serie-a
+828,Torino,0,Sampdoria,2,1,1,0.397873169045,2016-12-04,serie-a
+829,Empoli,0,Sassuolo,3,1,1,0.468966693689,2016-12-04,serie-a
+830,Cagliari,1,Pescara,1,0,2,0.46204717945,2016-12-04,serie-a
+831,AS Roma,2,Lazio Roma,0,2,1,0.422406815997,2016-12-04,serie-a
+832,Palermo,1,Fiorentina,2,1,1,0.644790173389,2016-12-04,serie-a
+833,Genoa,0,Chievo,0,0,1,0.478962519063,2016-12-05,serie-a
+834,Bologna,0,Udinese,1,1,1,0.495483886882,2016-12-05,serie-a
+835,Pescara,1,Crotone,2,1,1,0.466770892305,2016-12-10,serie-a
+836,Lazio Roma,2,Sampdoria,1,2,2,0.414865542786,2016-12-10,serie-a
+837,Napoli,5,Cagliari,0,2,2,0.466093093612,2016-12-11,serie-a
+838,Udinese,3,Atalanta,1,2,1,0.540227325616,2016-12-11,serie-a
+839,Empoli,0,Bologna,0,0,1,0.546224971513,2016-12-11,serie-a
+840,Chievo,2,Palermo,0,2,2,0.489544700155,2016-12-11,serie-a
+841,Juventus,3,Torino,1,2,2,0.488633833824,2016-12-11,serie-a
+842,Genoa,0,Inter Milan,2,1,1,0.531601364111,2016-12-11,serie-a
+843,Sassuolo,1,Fiorentina,2,1,1,0.600363025457,2016-12-12,serie-a
+844,AC Milan,0,AS Roma,1,1,1,0.501384248973,2016-12-12,serie-a
+845,Fiorentina,0,Genoa,1,1,1,0.416771429695,2016-12-15,serie-a
+846,Cagliari,0,Empoli,2,1,2,0.399079972172,2016-12-17,serie-a
+847,Atalanta,0,AC Milan,0,0,1,0.513903446674,2016-12-17,serie-a
+848,AS Roma,0,Juventus,1,1,1,0.523061132274,2016-12-17,serie-a
+849,Inter Milan,1,Sassuolo,0,2,2,0.457566913466,2016-12-18,serie-a
+850,Crotone,0,Udinese,2,1,1,0.617048518176,2016-12-18,serie-a
+851,Sampdoria,1,Chievo,2,1,1,0.490916464401,2016-12-18,serie-a
+852,Torino,3,Napoli,5,1,1,0.552867857025,2016-12-18,serie-a
+853,Bologna,3,Pescara,0,2,2,0.446601362874,2016-12-18,serie-a
+854,Palermo,4,Genoa,3,2,1,0.620819832191,2016-12-18,serie-a
+855,Fiorentina,1,Lazio Roma,3,1,1,0.545378087056,2016-12-18,serie-a
+856,Empoli,1,Atalanta,2,1,1,0.611611711179,2016-12-20,serie-a
+857,Lazio Roma,0,Inter Milan,3,1,1,0.407715495718,2016-12-21,serie-a
+858,Pescara,1,Palermo,1,0,1,0.462372967292,2016-12-22,serie-a
+859,Napoli,3,Fiorentina,3,0,2,0.37926285638,2016-12-22,serie-a
+860,Genoa,0,Torino,1,1,1,0.521223838229,2016-12-22,serie-a
+861,Sassuolo,3,Cagliari,4,1,1,0.538065373173,2016-12-22,serie-a
+862,Chievo,1,AS Roma,3,1,1,0.607337646301,2016-12-22,serie-a
+863,Udinese,0,Sampdoria,0,0,1,0.442940462973,2016-12-22,serie-a
+864,Palermo,0,Empoli,0,0,1,0.538228158143,2017-01-07,serie-a
+865,Sampdoria,0,Napoli,0,0,1,0.608488405087,2017-01-07,serie-a
+866,Inter Milan,0,Udinese,0,0,1,0.407997321922,2017-01-08,serie-a
+867,Crotone,0,Lazio Roma,0,0,1,0.680202435372,2017-01-08,serie-a
+868,Atalanta,0,Chievo,0,0,1,0.386796703644,2017-01-08,serie-a
+869,Fiorentina,0,Pescara,0,0,2,0.542023687969,2017-01-08,serie-a
+870,Torino,0,Sassuolo,0,0,2,0.429670228633,2017-01-08,serie-a
+871,AS Roma,0,Genoa,0,0,2,0.481488767255,2017-01-08,serie-a
+872,Cagliari,0,AC Milan,0,0,1,0.612883287838,2017-01-08,serie-a
+873,Bologna,0,Juventus,0,0,1,0.645052302997,2017-01-08,serie-a
+874,Bologna,0,Crotone,0,0,2,0.439575202198,2017-01-14,serie-a
+875,Chievo,0,Inter Milan,0,0,1,0.522793301889,2017-01-14,serie-a
+876,Genoa,0,Cagliari,0,0,1,0.440009824316,2017-01-15,serie-a
+877,Empoli,0,Sampdoria,0,0,1,0.54532567538,2017-01-15,serie-a
+878,Atalanta,0,Lazio Roma,0,0,1,0.506042054369,2017-01-15,serie-a
+879,Palermo,0,Sassuolo,0,0,1,0.537639790322,2017-01-15,serie-a
+880,Pescara,0,Napoli,0,0,1,0.679937095236,2017-01-15,serie-a
+881,AS Roma,0,Udinese,0,0,2,0.448780031791,2017-01-15,serie-a
+882,Juventus,0,Fiorentina,0,0,2,0.490888633001,2017-01-15,serie-a
+883,AC Milan,0,Torino,0,0,1,0.385805546013,2017-01-16,serie-a
+884,Fiorentina,0,Chievo,0,0,1,0.430675415544,2017-01-21,serie-a
+885,Napoli,0,AC Milan,0,0,1,0.455204918238,2017-01-21,serie-a
+886,Lazio Roma,0,Juventus,0,0,1,0.558522235655,2017-01-22,serie-a
+887,Udinese,0,Empoli,0,0,2,0.446551641702,2017-01-22,serie-a
+888,Torino,0,Bologna,0,0,1,0.38902524448,2017-01-22,serie-a
+889,Crotone,0,Genoa,0,0,1,0.614700655015,2017-01-22,serie-a
+890,Inter Milan,0,Palermo,0,0,2,0.55274211544,2017-01-22,serie-a
+891,Sassuolo,0,Pescara,0,0,1,0.389881642781,2017-01-22,serie-a
+892,Sampdoria,0,Atalanta,0,0,1,0.561272092091,2017-01-22,serie-a
+893,Cagliari,0,AS Roma,0,0,1,0.632999965033,2017-01-22,serie-a
+894,Bologna,0,Cagliari,0,0,1,0.457612399529,2017-01-28,serie-a
+895,Genoa,0,Fiorentina,0,0,1,0.512569484207,2017-01-28,serie-a
+896,Chievo,0,Lazio Roma,0,0,1,0.575923671637,2017-01-28,serie-a
+897,Pescara,0,Inter Milan,0,0,1,0.643698422401,2017-01-28,serie-a
+898,Atalanta,0,Torino,0,0,1,0.43253074811,2017-01-29,serie-a
+899,AC Milan,0,Udinese,0,0,2,0.395773707395,2017-01-29,serie-a
+900,Empoli,0,Crotone,0,0,1,0.399677034164,2017-01-29,serie-a
+901,Juventus,0,Sassuolo,0,0,2,0.616042750545,2017-01-29,serie-a
+902,AS Roma,0,Sampdoria,0,0,2,0.471800149306,2017-01-29,serie-a
+903,Palermo,0,Napoli,0,0,1,0.691632931753,2017-01-29,serie-a
+904,Napoli,0,Bologna,0,0,2,0.481580521903,2017-02-04,serie-a
+905,Sampdoria,0,AC Milan,0,0,1,0.602760494986,2017-02-05,serie-a
+906,Torino,0,Empoli,0,0,2,0.48859173972,2017-02-05,serie-a
+907,Udinese,0,Chievo,0,0,1,0.466941428512,2017-02-05,serie-a
+908,Sassuolo,0,Genoa,0,0,1,0.563692332332,2017-02-05,serie-a
+909,Lazio Roma,0,Pescara,0,0,2,0.605100552653,2017-02-05,serie-a
+910,Cagliari,0,Atalanta,0,0,1,0.572737131623,2017-02-05,serie-a
+911,Crotone,0,Palermo,0,0,1,0.462955215285,2017-02-05,serie-a
+912,Inter Milan,0,Juventus,0,0,1,0.60598806093,2017-02-05,serie-a
+913,Fiorentina,0,AS Roma,0,0,1,0.580806763725,2017-02-07,serie-a
+914,Juventus,0,Crotone,0,0,2,0.683881524286,2017-02-08,serie-a
+915,AC Milan,0,Bologna,0,0,2,0.458125500757,2017-02-08,serie-a
+916,Genoa,0,Napoli,0,0,1,0.594816744686,2017-02-10,serie-a
+917,Udinese,0,Fiorentina,0,0,1,0.502161369311,2017-02-11,serie-a
+918,AS Roma,0,Crotone,0,0,2,0.637538206914,2017-02-12,serie-a
+919,Atalanta,0,Palermo,0,0,2,0.573650184114,2017-02-12,serie-a
+920,Pescara,0,Torino,0,0,1,0.641780639013,2017-02-12,serie-a
+921,Empoli,0,Inter Milan,0,0,1,0.60128808282,2017-02-12,serie-a
+922,Chievo,0,Sassuolo,0,0,2,0.38593143766,2017-02-12,serie-a
+923,Bologna,0,Sampdoria,0,0,1,0.4725302656,2017-02-12,serie-a
+924,Juventus,0,Cagliari,0,0,2,0.56609580437,2017-02-12,serie-a
+925,AC Milan,0,Lazio Roma,0,0,1,0.459293573245,2017-02-13,serie-a
+926,Palermo,0,Juventus,0,0,1,0.708889963936,2017-02-17,serie-a
+927,Crotone,0,Atalanta,0,0,1,0.655434713155,2017-02-18,serie-a
+928,Lazio Roma,0,Empoli,0,0,2,0.559959575486,2017-02-18,serie-a
+929,Inter Milan,0,Bologna,0,0,2,0.400193874343,2017-02-19,serie-a
+930,Cagliari,0,Sampdoria,0,0,1,0.48257976584,2017-02-19,serie-a
+931,Napoli,0,Chievo,0,0,2,0.42110119582,2017-02-19,serie-a
+932,Sassuolo,0,Udinese,0,0,1,0.572294380112,2017-02-19,serie-a
+933,Genoa,0,Pescara,0,0,2,0.4747809973,2017-02-19,serie-a
+934,Torino,0,AS Roma,0,0,1,0.572533906515,2017-02-19,serie-a
+935,Fiorentina,0,AC Milan,0,0,1,0.552954496982,2017-02-19,serie-a
+936,Pescara,0,Chievo,0,0,1,0.614191593872,2017-02-26,serie-a
+937,Empoli,0,Juventus,0,0,1,0.66954512112,2017-02-26,serie-a
+938,Udinese,0,Lazio Roma,0,0,1,0.575927622425,2017-02-26,serie-a
+939,Cagliari,0,Crotone,0,0,2,0.455177299985,2017-02-26,serie-a
+940,Torino,0,Fiorentina,0,0,1,0.458476868418,2017-02-26,serie-a
+941,Bologna,0,Genoa,0,0,1,0.484766616575,2017-02-26,serie-a
+942,Sampdoria,0,Palermo,0,0,2,0.468172595876,2017-02-26,serie-a
+943,AS Roma,0,Inter Milan,0,0,2,0.377601998751,2017-02-26,serie-a
+944,AC Milan,0,Sassuolo,0,0,2,0.509232219635,2017-02-26,serie-a
+945,Atalanta,0,Napoli,0,0,1,0.524340376476,2017-02-26,serie-a
+946,Sassuolo,0,Crotone,0,0,1,0.390576625544,2017-03-05,serie-a
+947,Palermo,0,Torino,0,0,1,0.652124649816,2017-03-05,serie-a
+948,Fiorentina,0,Atalanta,0,0,1,0.507959226352,2017-03-05,serie-a
+949,Pescara,0,Sampdoria,0,0,1,0.597602281078,2017-03-05,serie-a
+950,Genoa,0,Empoli,0,0,2,0.413109395261,2017-03-05,serie-a
+951,Chievo,0,AC Milan,0,0,1,0.583151681949,2017-03-05,serie-a
+952,Juventus,0,Udinese,0,0,2,0.52690337802,2017-03-05,serie-a
+953,Napoli,0,AS Roma,0,0,1,0.490965088383,2017-03-05,serie-a
+954,Lazio Roma,0,Bologna,0,0,2,0.453350089363,2017-03-05,serie-a
+955,Inter Milan,0,Cagliari,0,0,2,0.384336007566,2017-03-05,serie-a
+956,Sampdoria,0,Genoa,0,0,1,0.478404758477,2017-03-12,serie-a
+957,Cagliari,0,Fiorentina,0,0,1,0.538550664937,2017-03-12,serie-a
+958,Bologna,0,Sassuolo,0,0,1,0.38517296334,2017-03-12,serie-a
+959,Atalanta,0,Inter Milan,0,0,1,0.446942016612,2017-03-12,serie-a
+960,AS Roma,0,Palermo,0,0,2,0.630763747881,2017-03-12,serie-a
+961,AC Milan,0,Juventus,0,0,1,0.551273891884,2017-03-12,serie-a
+962,Empoli,0,Chievo,0,0,1,0.564411954973,2017-03-12,serie-a
+963,Crotone,0,Napoli,0,0,1,0.684085457058,2017-03-12,serie-a
+964,Udinese,0,Pescara,0,0,2,0.506446396587,2017-03-12,serie-a
+965,Torino,0,Lazio Roma,0,0,1,0.536833997665,2017-03-12,serie-a
+966,Juventus,0,Sampdoria,0,0,2,0.54689226309,2017-03-19,serie-a
+967,Inter Milan,0,Torino,0,0,1,0.453307400248,2017-03-19,serie-a
+968,Lazio Roma,0,Cagliari,0,0,2,0.437490027534,2017-03-19,serie-a
+969,Napoli,0,Empoli,0,0,2,0.584076805609,2017-03-19,serie-a
+970,Chievo,0,Bologna,0,0,1,0.435026066554,2017-03-19,serie-a
+971,Sassuolo,0,AS Roma,0,0,1,0.676928962873,2017-03-19,serie-a
+972,Pescara,0,Atalanta,0,0,1,0.651587676415,2017-03-19,serie-a
+973,Genoa,0,AC Milan,0,0,1,0.589408115704,2017-03-19,serie-a
+974,Palermo,0,Udinese,0,0,1,0.623768547733,2017-03-19,serie-a
+975,Fiorentina,0,Crotone,0,0,2,0.535243409384,2017-03-19,serie-a
+976,Sampdoria,0,Inter Milan,0,0,1,0.544632647131,2017-04-02,serie-a
+977,Atalanta,0,Genoa,0,0,2,0.397734494112,2017-04-02,serie-a
+978,Lazio Roma,0,Sassuolo,0,0,2,0.505364301807,2017-04-02,serie-a
+979,Juventus,0,Napoli,0,0,1,0.380984213116,2017-04-02,serie-a
+980,Empoli,0,AS Roma,0,0,1,0.655615873507,2017-04-02,serie-a
+981,Crotone,0,Chievo,0,0,1,0.617264443495,2017-04-02,serie-a
+982,Cagliari,0,Palermo,0,0,2,0.445952850701,2017-04-02,serie-a
+983,Bologna,0,Fiorentina,0,0,1,0.527433528501,2017-04-02,serie-a
+984,AC Milan,0,Pescara,0,0,2,0.607717307045,2017-04-02,serie-a
+985,Udinese,0,Torino,0,0,1,0.510807210801,2017-04-02,serie-a
+986,Torino,0,Cagliari,0,0,1,0.381340009274,2017-04-09,serie-a
+987,Chievo,0,Juventus,0,0,1,0.640134020169,2017-04-09,serie-a
+988,AS Roma,0,Bologna,0,0,2,0.508454856974,2017-04-09,serie-a
+989,Fiorentina,0,Sampdoria,0,0,1,0.406459807285,2017-04-09,serie-a
+990,Sassuolo,0,Atalanta,0,0,1,0.627768387368,2017-04-09,serie-a
+991,Palermo,0,AC Milan,0,0,1,0.692741180753,2017-04-09,serie-a
+992,Pescara,0,Empoli,0,0,1,0.533043365947,2017-04-09,serie-a
+993,Genoa,0,Udinese,0,0,1,0.479182391817,2017-04-09,serie-a
+994,Inter Milan,0,Crotone,0,0,2,0.560631151529,2017-04-09,serie-a
+995,Napoli,0,Lazio Roma,0,0,1,0.447211211104,2017-04-09,serie-a
+996,Atalanta,0,AS Roma,0,0,1,0.546321449394,2017-04-15,serie-a
+997,Empoli,0,Fiorentina,0,0,1,0.589052431527,2017-04-15,serie-a
+998,Juventus,0,Pescara,0,0,2,0.689542605434,2017-04-15,serie-a
+999,Bologna,0,Palermo,0,0,2,0.429849178557,2017-04-15,serie-a
+1000,Sampdoria,0,Sassuolo,0,0,1,0.377289594856,2017-04-15,serie-a
+1001,Crotone,0,Torino,0,0,1,0.645218284596,2017-04-15,serie-a
+1002,Lazio Roma,0,Genoa,0,0,2,0.424581504022,2017-04-15,serie-a
+1003,Chievo,0,Cagliari,0,0,1,0.427033818974,2017-04-15,serie-a
+1004,Udinese,0,Napoli,0,0,1,0.589878216282,2017-04-15,serie-a
+1005,AC Milan,0,Inter Milan,0,0,1,0.399921645671,2017-04-15,serie-a
+1006,Torino,0,Chievo,0,0,1,0.421981496554,2017-04-23,serie-a
+1007,Empoli,0,AC Milan,0,0,1,0.64525505878,2017-04-23,serie-a
+1008,Genoa,0,Juventus,0,0,1,0.639791509727,2017-04-23,serie-a
+1009,Crotone,0,Sampdoria,0,0,1,0.600452131273,2017-04-23,serie-a
+1010,Inter Milan,0,Fiorentina,0,0,1,0.444659299834,2017-04-23,serie-a
+1011,Napoli,0,Sassuolo,0,0,2,0.531316438245,2017-04-23,serie-a
+1012,AS Roma,0,Pescara,0,0,2,0.643687265766,2017-04-23,serie-a
+1013,Bologna,0,Atalanta,0,0,1,0.560245946702,2017-04-23,serie-a
+1014,Palermo,0,Lazio Roma,0,0,1,0.687593681431,2017-04-23,serie-a
+1015,Cagliari,0,Udinese,0,0,1,0.505901037839,2017-04-23,serie-a
+1016,Sampdoria,0,Torino,0,0,1,0.533613208438,2017-04-30,serie-a
+1017,Udinese,0,Bologna,0,0,1,0.434636147363,2017-04-30,serie-a
+1018,Lazio Roma,0,AS Roma,0,0,1,0.509137125827,2017-04-30,serie-a
+1019,AC Milan,0,Crotone,0,0,2,0.601267749908,2017-04-30,serie-a
+1020,Napoli,0,Inter Milan,0,0,1,0.387176831751,2017-04-30,serie-a
+1021,Pescara,0,Cagliari,0,0,1,0.588765154035,2017-04-30,serie-a
+1022,Chievo,0,Genoa,0,0,1,0.45415977082,2017-04-30,serie-a
+1023,Juventus,0,Atalanta,0,0,2,0.43589941168,2017-04-30,serie-a
+1024,Fiorentina,0,Palermo,0,0,2,0.526868264137,2017-04-30,serie-a
+1025,Sassuolo,0,Empoli,0,0,1,0.459337196918,2017-04-30,serie-a
+1026,Cagliari,0,Napoli,0,0,1,0.617712037944,2017-05-07,serie-a
+1027,Bologna,0,Empoli,0,0,2,0.383450848221,2017-05-07,serie-a
+1028,AS Roma,0,AC Milan,0,0,1,0.430330358214,2017-05-07,serie-a
+1029,Atalanta,0,Udinese,0,0,1,0.387239316548,2017-05-07,serie-a
+1030,Palermo,0,Chievo,0,0,1,0.623977277828,2017-05-07,serie-a
+1031,Inter Milan,0,Genoa,0,0,1,0.39328597905,2017-05-07,serie-a
+1032,Fiorentina,0,Sassuolo,0,0,2,0.427339119627,2017-05-07,serie-a
+1033,Torino,0,Juventus,0,0,1,0.611384441693,2017-05-07,serie-a
+1034,Sampdoria,0,Lazio Roma,0,0,1,0.595753898875,2017-05-07,serie-a
+1035,Crotone,0,Pescara,0,0,1,0.46759106188,2017-05-07,serie-a
+1036,Lazio Roma,0,Fiorentina,0,0,1,0.385048914757,2017-05-14,serie-a
+1037,AC Milan,0,Atalanta,0,0,1,0.420124524737,2017-05-14,serie-a
+1038,Juventus,0,AS Roma,0,0,1,0.405657290058,2017-05-14,serie-a
+1039,Udinese,0,Crotone,0,0,2,0.499581622342,2017-05-14,serie-a
+1040,Genoa,0,Palermo,0,0,2,0.458409728629,2017-05-14,serie-a
+1041,Sassuolo,0,Inter Milan,0,0,1,0.615299207837,2017-05-14,serie-a
+1042,Empoli,0,Cagliari,0,0,1,0.53409547095,2017-05-14,serie-a
+1043,Pescara,0,Bologna,0,0,1,0.60171255771,2017-05-14,serie-a
+1044,Napoli,0,Torino,0,0,2,0.37661391425,2017-05-14,serie-a
+1045,Chievo,0,Sampdoria,0,0,1,0.443267660826,2017-05-14,serie-a
+1046,Sampdoria,0,Udinese,0,0,1,0.491146691876,2017-05-21,serie-a
+1047,Inter Milan,0,Lazio Roma,0,0,1,0.525237986904,2017-05-21,serie-a
+1048,Fiorentina,0,Napoli,0,0,1,0.561274376273,2017-05-21,serie-a
+1049,Crotone,0,Juventus,0,0,1,0.700860487875,2017-05-21,serie-a
+1050,Cagliari,0,Sassuolo,0,0,1,0.393731498863,2017-05-21,serie-a
+1051,Bologna,0,AC Milan,0,0,1,0.60044586782,2017-05-21,serie-a
+1052,AS Roma,0,Chievo,0,0,2,0.4500042513,2017-05-21,serie-a
+1053,Atalanta,0,Empoli,0,0,2,0.538139718757,2017-05-21,serie-a
+1054,Palermo,0,Pescara,0,0,1,0.471382552873,2017-05-21,serie-a
+1055,Torino,0,Genoa,0,0,1,0.408233559852,2017-05-21,serie-a
+1056,Lazio Roma,0,Crotone,0,0,2,0.598637811132,2017-05-28,serie-a
+1057,AC Milan,0,Cagliari,0,0,2,0.442254931757,2017-05-28,serie-a
+1058,Napoli,0,Sampdoria,0,0,2,0.44373808507,2017-05-28,serie-a
+1059,Chievo,0,Atalanta,0,0,1,0.540295487946,2017-05-28,serie-a
+1060,Pescara,0,Fiorentina,0,0,1,0.634365887777,2017-05-28,serie-a
+1061,Empoli,0,Palermo,0,0,1,0.39563785409,2017-05-28,serie-a
+1062,Sassuolo,0,Torino,0,0,1,0.608330649063,2017-05-28,serie-a
+1063,Genoa,0,AS Roma,0,0,1,0.610885269592,2017-05-28,serie-a
+1064,Udinese,0,Inter Milan,0,0,1,0.522666744844,2017-05-28,serie-a
+1065,Juventus,0,Bologna,0,0,2,0.579123846028,2017-05-28,serie-a
+1066,Leicester City,1,Hull City,2,1,1,0.392326931633,2016-08-13,premier-league
+1067,Tottenham,1,Everton,1,0,2,0.427897728513,2016-08-13,premier-league
+1068,Swansea City,1,Burnley,0,2,1,0.562204483895,2016-08-13,premier-league
+1069,West Bromwich,1,Crystal Palace,0,2,1,0.372892262258,2016-08-13,premier-league
+1070,Watford,1,Southampton,1,0,1,0.503579947352,2016-08-13,premier-league
+1071,Stoke City,1,Middlesbrough,1,0,1,0.437815732748,2016-08-13,premier-league
+1072,Sunderland,1,Manchester City,2,1,1,0.68125348388,2016-08-13,premier-league
+1073,Manchester Utd,3,Bournemouth,1,2,2,0.455201476217,2016-08-14,premier-league
+1074,Liverpool,4,Arsenal,3,2,1,0.423629011689,2016-08-14,premier-league
+1075,West Ham Utd,1,Chelsea,2,1,1,0.67688319202,2016-08-15,premier-league
+1076,Southampton,0,Manchester Utd,2,1,1,0.566892530224,2016-08-19,premier-league
+1077,Manchester City,4,Stoke City,1,2,2,0.514062322325,2016-08-20,premier-league
+1078,Hull City,2,Swansea City,0,2,1,0.462482278655,2016-08-20,premier-league
+1079,Chelsea,2,Watford,1,2,2,0.607264764461,2016-08-20,premier-league
+1080,Crystal Palace,0,Tottenham,1,1,1,0.657894510338,2016-08-20,premier-league
+1081,Everton,2,West Bromwich,1,2,1,0.435454089524,2016-08-20,premier-league
+1082,Liverpool,0,Burnley,2,1,2,0.562320308563,2016-08-20,premier-league
+1083,Arsenal,0,Leicester City,0,0,2,0.552860176466,2016-08-20,premier-league
+1084,Middlesbrough,2,Sunderland,1,2,1,0.39259323584,2016-08-21,premier-league
+1085,Bournemouth,0,West Ham Utd,1,1,1,0.474762373722,2016-08-21,premier-league
+1086,Liverpool,1,Tottenham,1,0,1,0.418487474902,2016-08-27,premier-league
+1087,Sunderland,1,Southampton,1,0,1,0.59331668035,2016-08-27,premier-league
+1088,Bournemouth,1,Crystal Palace,1,0,1,0.413220921355,2016-08-27,premier-league
+1089,Arsenal,3,Watford,1,2,2,0.494344180627,2016-08-27,premier-league
+1090,Stoke City,0,Everton,1,1,1,0.526001301763,2016-08-27,premier-league
+1091,Swansea City,1,Leicester City,2,1,1,0.540687683415,2016-08-27,premier-league
+1092,Burnley,0,Chelsea,3,1,1,0.669340263116,2016-08-27,premier-league
+1093,Manchester Utd,1,Hull City,0,2,2,0.58908157786,2016-08-27,premier-league
+1094,Middlesbrough,0,West Bromwich,0,0,1,0.523264301316,2016-08-28,premier-league
+1095,West Ham Utd,1,Manchester City,3,1,1,0.647452897237,2016-08-28,premier-league
+1096,Manchester City,2,Manchester Utd,1,2,1,0.402882118746,2016-09-10,premier-league
+1097,Tottenham,4,Stoke City,0,2,2,0.489309912056,2016-09-10,premier-league
+1098,Southampton,1,Arsenal,2,1,1,0.60242715139,2016-09-10,premier-league
+1099,Hull City,1,Burnley,1,0,1,0.554680302744,2016-09-10,premier-league
+1100,West Bromwich,0,Bournemouth,1,1,1,0.426275929232,2016-09-10,premier-league
+1101,Crystal Palace,2,Middlesbrough,1,2,1,0.502005325342,2016-09-10,premier-league
+1102,Watford,4,West Ham Utd,2,2,1,0.458769155896,2016-09-10,premier-league
+1103,Leicester City,1,Liverpool,4,1,1,0.680718044024,2016-09-10,premier-league
+1104,Chelsea,2,Swansea City,2,0,2,0.689061465425,2016-09-11,premier-league
+1105,Everton,3,Sunderland,0,2,2,0.461781160285,2016-09-12,premier-league
+1106,Liverpool,2,Chelsea,1,2,1,0.510125992519,2016-09-16,premier-league
+1107,Bournemouth,0,Manchester City,4,1,1,0.645782085006,2016-09-17,premier-league
+1108,West Ham Utd,2,West Bromwich,4,1,1,0.499463690761,2016-09-17,premier-league
+1109,Burnley,0,Leicester City,3,1,1,0.443455621501,2016-09-17,premier-league
+1110,Arsenal,4,Hull City,1,2,2,0.625658642581,2016-09-17,premier-league
+1111,Middlesbrough,1,Everton,3,1,1,0.548283735004,2016-09-17,premier-league
+1112,Manchester Utd,1,Watford,3,1,2,0.444254371156,2016-09-18,premier-league
+1113,Stoke City,1,Crystal Palace,4,1,1,0.401836387214,2016-09-18,premier-league
+1114,Swansea City,0,Southampton,1,1,1,0.613313351817,2016-09-18,premier-league
+1115,Sunderland,0,Tottenham,1,1,1,0.674311433556,2016-09-18,premier-league
+1116,Leicester City,1,Manchester Utd,4,1,1,0.629446763668,2016-09-24,premier-league
+1117,Everton,0,Bournemouth,1,1,1,0.39454094897,2016-09-24,premier-league
+1118,Tottenham,2,Middlesbrough,1,2,2,0.537681046735,2016-09-24,premier-league
+1119,West Bromwich,1,Stoke City,1,0,1,0.437186577925,2016-09-24,premier-league
+1120,Manchester City,3,Swansea City,1,2,2,0.6253248174,2016-09-24,premier-league
+1121,Crystal Palace,3,Sunderland,2,2,1,0.428336107537,2016-09-24,premier-league
+1122,Hull City,1,Liverpool,5,1,1,0.699779781776,2016-09-24,premier-league
+1123,Chelsea,0,Arsenal,3,1,2,0.403303350286,2016-09-24,premier-league
+1124,Southampton,3,West Ham Utd,0,2,1,0.421940649883,2016-09-25,premier-league
+1125,Watford,0,Burnley,2,1,1,0.435994939884,2016-09-26,premier-league
+1126,Crystal Palace,1,Everton,1,0,1,0.577787189108,2016-09-30,premier-league
+1127,Liverpool,2,Swansea City,1,2,2,0.629529111647,2016-10-01,premier-league
+1128,Middlesbrough,1,West Ham Utd,1,0,1,0.489458387575,2016-10-01,premier-league
+1129,Chelsea,2,Hull City,0,2,2,0.703519097888,2016-10-01,premier-league
+1130,Bournemouth,2,Watford,2,0,1,0.483364459744,2016-10-01,premier-league
+1131,West Bromwich,1,Sunderland,1,0,2,0.411017461672,2016-10-01,premier-league
+1132,Stoke City,1,Manchester Utd,1,0,1,0.601254012631,2016-10-02,premier-league
+1133,Southampton,0,Leicester City,0,0,2,0.376772878658,2016-10-02,premier-league
+1134,Manchester City,0,Tottenham,2,1,1,0.445934547241,2016-10-02,premier-league
+1135,Arsenal,1,Burnley,0,2,2,0.532978252774,2016-10-02,premier-league
+1136,Leicester City,0,Chelsea,3,1,1,0.678958212888,2016-10-15,premier-league
+1137,Hull City,1,Bournemouth,6,1,1,0.5631226199,2016-10-15,premier-league
+1138,Sunderland,0,Stoke City,2,1,1,0.558651620756,2016-10-15,premier-league
+1139,Swansea City,2,Arsenal,3,1,1,0.692839907313,2016-10-15,premier-league
+1140,Everton,1,Manchester City,1,0,1,0.600007462186,2016-10-15,premier-league
+1141,Tottenham,1,West Bromwich,1,0,2,0.478067131126,2016-10-15,premier-league
+1142,West Ham Utd,1,Crystal Palace,0,2,1,0.403085803085,2016-10-15,premier-league
+1143,Watford,1,Middlesbrough,0,2,1,0.432904548639,2016-10-16,premier-league
+1144,Burnley,1,Southampton,3,1,1,0.531000614662,2016-10-16,premier-league
+1145,Manchester Utd,0,Liverpool,0,0,1,0.5534673681,2016-10-17,premier-league
+1146,Tottenham,0,Bournemouth,0,0,2,0.502492429212,2016-10-22,premier-league
+1147,Watford,0,Swansea City,0,0,2,0.411131801616,2016-10-22,premier-league
+1148,Stoke City,2,Hull City,0,2,2,0.433843894154,2016-10-22,premier-league
+1149,Sunderland,0,West Ham Utd,1,1,1,0.553116906771,2016-10-22,premier-league
+1150,Everton,1,Burnley,2,1,1,0.37855538352,2016-10-22,premier-league
+1151,Crystal Palace,1,Leicester City,3,1,1,0.481481093728,2016-10-22,premier-league
+1152,Middlesbrough,0,Arsenal,0,0,1,0.642004324449,2016-10-22,premier-league
+1153,West Bromwich,1,Liverpool,2,1,1,0.638157827504,2016-10-22,premier-league
+1154,Southampton,1,Manchester City,1,0,1,0.611393484548,2016-10-23,premier-league
+1155,Manchester Utd,0,Chelsea,4,1,1,0.584585704861,2016-10-23,premier-league
+1156,Arsenal,4,Sunderland,1,2,2,0.599799408042,2016-10-29,premier-league
+1157,Manchester City,4,West Bromwich,0,2,2,0.503568108741,2016-10-29,premier-league
+1158,Hull City,0,Watford,1,1,1,0.577087005261,2016-10-29,premier-league
+1159,Bournemouth,0,Middlesbrough,2,1,1,0.449171648782,2016-10-29,premier-league
+1160,Burnley,0,Manchester Utd,0,0,1,0.613605095322,2016-10-29,premier-league
+1161,Leicester City,1,Tottenham,1,0,1,0.651259996983,2016-10-29,premier-league
+1162,Liverpool,4,Crystal Palace,2,2,2,0.592805235067,2016-10-29,premier-league
+1163,West Ham Utd,0,Everton,2,1,1,0.529518530246,2016-10-30,premier-league
+1164,Chelsea,2,Southampton,0,2,2,0.575500810571,2016-10-30,premier-league
+1165,Swansea City,1,Stoke City,3,1,1,0.579927429974,2016-10-31,premier-league
+1166,Crystal Palace,2,Burnley,3,1,1,0.504703889512,2016-11-05,premier-league
+1167,Stoke City,1,West Ham Utd,1,0,1,0.464260525016,2016-11-05,premier-league
+1168,Middlesbrough,1,Manchester City,1,0,1,0.647529831261,2016-11-05,premier-league
+1169,Sunderland,2,Bournemouth,1,2,1,0.550086826391,2016-11-05,premier-league
+1170,Everton,0,Chelsea,5,1,1,0.638242410314,2016-11-05,premier-league
+1171,Tottenham,1,Arsenal,1,0,1,0.472433642366,2016-11-06,premier-league
+1172,Watford,1,Liverpool,6,1,1,0.656145782986,2016-11-06,premier-league
+1173,Southampton,1,Hull City,2,1,2,0.473059113853,2016-11-06,premier-league
+1174,Manchester Utd,3,Swansea City,1,2,2,0.571104858348,2016-11-06,premier-league
+1175,West Bromwich,2,Leicester City,1,2,1,0.387398761374,2016-11-06,premier-league
+1176,Arsenal,1,Manchester Utd,1,0,1,0.419511018876,2016-11-19,premier-league
+1177,Swansea City,1,Everton,1,0,1,0.624654031773,2016-11-19,premier-league
+1178,Manchester City,2,Crystal Palace,1,2,2,0.586217760569,2016-11-19,premier-league
+1179,Bournemouth,1,Stoke City,0,2,1,0.47797603087,2016-11-19,premier-league
+1180,Liverpool,0,Southampton,0,0,2,0.488263152662,2016-11-19,premier-league
+1181,Leicester City,1,Watford,2,1,1,0.519303349936,2016-11-19,premier-league
+1182,Hull City,0,Sunderland,3,1,1,0.485966953006,2016-11-19,premier-league
+1183,West Ham Utd,2,Tottenham,3,1,1,0.635101539486,2016-11-19,premier-league
+1184,Chelsea,1,Middlesbrough,0,2,2,0.641005867484,2016-11-20,premier-league
+1185,Burnley,0,West Bromwich,4,1,1,0.520721276278,2016-11-21,premier-league
+1186,Manchester City,2,Burnley,1,2,2,0.554274062082,2016-11-26,premier-league
+1187,Middlesbrough,2,Leicester City,2,0,1,0.446362069329,2016-11-26,premier-league
+1188,Crystal Palace,4,Swansea City,5,1,1,0.404513845909,2016-11-26,premier-league
+1189,West Bromwich,1,Hull City,1,0,2,0.446392839502,2016-11-26,premier-league
+1190,Sunderland,0,Liverpool,2,1,1,0.700052216865,2016-11-26,premier-league
+1191,Tottenham,1,Chelsea,2,1,1,0.553781293585,2016-11-26,premier-league
+1192,Stoke City,1,Watford,0,2,1,0.472523737399,2016-11-27,premier-league
+1193,Bournemouth,1,Arsenal,3,1,1,0.638918484003,2016-11-27,premier-league
+1194,Everton,0,Southampton,1,1,1,0.448882563677,2016-11-27,premier-league
+1195,West Ham Utd,1,Manchester Utd,1,0,1,0.606941723623,2016-11-27,premier-league
+1196,Chelsea,3,Manchester City,1,2,1,0.386967135031,2016-12-03,premier-league
+1197,Swansea City,0,Tottenham,5,1,1,0.689107073619,2016-12-03,premier-league
+1198,Southampton,0,Crystal Palace,3,1,2,0.395032770138,2016-12-03,premier-league
+1199,Leicester City,1,Sunderland,2,1,1,0.413538875473,2016-12-03,premier-league
+1200,Burnley,0,Stoke City,2,1,1,0.491172652069,2016-12-03,premier-league
+1201,Watford,1,West Bromwich,3,1,1,0.491760908412,2016-12-03,premier-league
+1202,Arsenal,5,West Ham Utd,1,2,2,0.477601862218,2016-12-03,premier-league
+1203,Liverpool,3,Bournemouth,4,1,2,0.535171118284,2016-12-04,premier-league
+1204,Manchester Utd,1,Everton,1,0,2,0.377277294624,2016-12-04,premier-league
+1205,Hull City,0,Middlesbrough,1,1,1,0.552718111215,2016-12-05,premier-league
+1206,Everton,2,Watford,3,1,1,0.410678665759,2016-12-10,premier-league
+1207,Sunderland,0,Swansea City,3,1,1,0.443432316818,2016-12-10,premier-league
+1208,Crystal Palace,3,Hull City,3,0,1,0.407292336043,2016-12-10,premier-league
+1209,Stoke City,1,Arsenal,3,1,1,0.633000906343,2016-12-10,premier-league
+1210,Bournemouth,2,Burnley,3,1,1,0.452323789095,2016-12-10,premier-league
+1211,Manchester City,2,Leicester City,4,1,2,0.572961228133,2016-12-10,premier-league
+1212,West Bromwich,0,Chelsea,1,1,1,0.645723655543,2016-12-11,premier-league
+1213,Middlesbrough,0,Southampton,1,1,1,0.533208555377,2016-12-11,premier-league
+1214,Tottenham,0,Manchester Utd,1,1,1,0.424651067748,2016-12-11,premier-league
+1215,West Ham Utd,2,Liverpool,2,0,1,0.66919807556,2016-12-11,premier-league
+1216,Arsenal,1,Everton,2,1,2,0.430163260847,2016-12-13,premier-league
+1217,Leicester City,0,Bournemouth,1,1,1,0.503668346111,2016-12-13,premier-league
+1218,Liverpool,3,Middlesbrough,0,2,2,0.568114446982,2016-12-14,premier-league
+1219,Burnley,0,West Ham Utd,1,1,1,0.487255638438,2016-12-14,premier-league
+1220,Chelsea,1,Sunderland,0,2,2,0.684202761506,2016-12-14,premier-league
+1221,Watford,0,Manchester City,2,1,1,0.634119970099,2016-12-14,premier-league
+1222,Southampton,0,Stoke City,0,0,1,0.424414857382,2016-12-14,premier-league
+1223,Manchester Utd,2,Crystal Palace,1,2,2,0.523695125868,2016-12-14,premier-league
+1224,Hull City,0,Tottenham,3,1,1,0.675516586201,2016-12-14,premier-league
+1225,Swansea City,1,West Bromwich,3,1,1,0.607109952322,2016-12-14,premier-league
+1226,Chelsea,1,Crystal Palace,0,2,2,0.660249380475,2016-12-17,premier-league
+1227,Hull City,0,West Ham Utd,1,1,1,0.564621582925,2016-12-17,premier-league
+1228,Swansea City,0,Middlesbrough,3,1,1,0.559871427076,2016-12-17,premier-league
+1229,Watford,0,Sunderland,1,1,2,0.395480708351,2016-12-17,premier-league
+1230,Leicester City,2,Stoke City,2,0,1,0.513524289079,2016-12-17,premier-league
+1231,Manchester Utd,2,West Bromwich,0,2,2,0.428882202056,2016-12-17,premier-league
+1232,Southampton,3,Bournemouth,1,2,1,0.413254045975,2016-12-18,premier-league
+1233,Arsenal,1,Manchester City,2,1,1,0.482767502781,2016-12-18,premier-league
+1234,Burnley,1,Tottenham,2,1,1,0.637397344725,2016-12-18,premier-league
+1235,Liverpool,1,Everton,0,2,2,0.465712192745,2016-12-19,premier-league
+1236,Crystal Palace,1,Watford,1,0,1,0.53226182763,2016-12-26,premier-league
+1237,Bournemouth,0,Chelsea,3,1,1,0.671542722319,2016-12-26,premier-league
+1238,Everton,2,Leicester City,0,2,2,0.400981550499,2016-12-26,premier-league
+1239,Sunderland,1,Manchester Utd,3,1,1,0.657012243682,2016-12-26,premier-league
+1240,West Bromwich,0,Arsenal,1,1,1,0.607371454783,2016-12-26,premier-league
+1241,Middlesbrough,0,Burnley,1,1,1,0.470067248903,2016-12-26,premier-league
+1242,West Ham Utd,4,Swansea City,1,2,2,0.427728535011,2016-12-26,premier-league
+1243,Manchester City,3,Hull City,0,2,2,0.641893561673,2016-12-26,premier-league
+1244,Stoke City,1,Liverpool,4,1,1,0.662269076306,2016-12-27,premier-league
+1245,Tottenham,4,Southampton,1,2,2,0.451599743015,2016-12-28,premier-league
+1246,Everton,0,Hull City,0,0,2,0.49574113351,2016-12-30,premier-league
+1247,West Bromwich,0,Southampton,0,0,1,0.479297546192,2016-12-31,premier-league
+1248,Sunderland,0,Burnley,0,0,1,0.53988146861,2016-12-31,premier-league
+1249,Bournemouth,0,Swansea City,0,0,2,0.399733314093,2016-12-31,premier-league
+1250,Stoke City,0,Chelsea,0,0,1,0.668210988305,2016-12-31,premier-league
+1251,West Ham Utd,0,Leicester City,0,0,1,0.418156614395,2016-12-31,premier-league
+1252,Middlesbrough,0,Manchester Utd,0,0,1,0.6144224846,2016-12-31,premier-league
+1253,Manchester City,0,Liverpool,0,0,1,0.494585459432,2016-12-31,premier-league
+1254,Tottenham,0,Watford,0,0,2,0.492436764961,2017-01-01,premier-league
+1255,Crystal Palace,0,Arsenal,0,0,1,0.661969126208,2017-01-01,premier-league
+1256,Leicester City,0,Middlesbrough,0,0,1,0.487958686253,2017-01-02,premier-league
+1257,Burnley,0,Manchester City,0,0,1,0.647454542619,2017-01-02,premier-league
+1258,Liverpool,0,Sunderland,0,0,2,0.622522599609,2017-01-02,premier-league
+1259,Hull City,0,West Bromwich,0,0,1,0.598055535141,2017-01-02,premier-league
+1260,Southampton,0,Everton,0,0,1,0.485083943789,2017-01-02,premier-league
+1261,Manchester Utd,0,West Ham Utd,0,0,2,0.427381886833,2017-01-02,premier-league
+1262,Arsenal,0,Bournemouth,0,0,2,0.504279717544,2017-01-03,premier-league
+1263,Watford,0,Stoke City,0,0,1,0.461877336954,2017-01-03,premier-league
+1264,Swansea City,0,Crystal Palace,0,0,1,0.527517238476,2017-01-03,premier-league
+1265,Chelsea,0,Tottenham,0,0,2,0.405761543205,2017-01-04,premier-league
+1266,West Bromwich,0,Tottenham,0,0,1,0.602771653646,2017-01-14,premier-league
+1267,Arsenal,0,Swansea City,0,0,2,0.6084961238,2017-01-14,premier-league
+1268,Stoke City,0,Sunderland,0,0,2,0.398254804139,2017-01-14,premier-league
+1269,Crystal Palace,0,West Ham Utd,0,0,1,0.521590467576,2017-01-14,premier-league
+1270,Bournemouth,0,Hull City,0,0,2,0.419502283163,2017-01-14,premier-league
+1271,Southampton,0,Burnley,0,0,1,0.397504220875,2017-01-14,premier-league
+1272,Middlesbrough,0,Watford,0,0,1,0.499329465398,2017-01-14,premier-league
+1273,Chelsea,0,Leicester City,0,0,2,0.650331107466,2017-01-14,premier-league
+1274,Manchester City,0,Everton,0,0,2,0.454973876059,2017-01-15,premier-league
+1275,Liverpool,0,Manchester Utd,0,0,1,0.375934357684,2017-01-15,premier-league
+1276,Swansea City,0,Liverpool,0,0,1,0.713605171992,2017-01-21,premier-league
+1277,Watford,0,Bournemouth,0,0,1,0.451035793666,2017-01-21,premier-league
+1278,Sunderland,0,West Bromwich,0,0,1,0.586510724115,2017-01-21,premier-league
+1279,Manchester Utd,0,Stoke City,0,0,2,0.44126471436,2017-01-21,premier-league
+1280,Everton,0,Crystal Palace,0,0,2,0.419065228455,2017-01-21,premier-league
+1281,West Ham Utd,0,Middlesbrough,0,0,1,0.439319559374,2017-01-21,premier-league
+1282,Tottenham,0,Manchester City,0,0,1,0.48798195867,2017-01-21,premier-league
+1283,Leicester City,0,Southampton,0,0,1,0.552173052388,2017-01-22,premier-league
+1284,Burnley,0,Arsenal,0,0,1,0.641670198881,2017-01-22,premier-league
+1285,Hull City,0,Chelsea,0,0,1,0.690319085624,2017-01-22,premier-league
+1286,Leicester City,0,Burnley,0,0,1,0.490783252081,2017-01-31,premier-league
+1287,West Bromwich,0,Middlesbrough,0,0,1,0.408203436428,2017-01-31,premier-league
+1288,Crystal Palace,0,Bournemouth,0,0,1,0.516855171339,2017-01-31,premier-league
+1289,Watford,0,Arsenal,0,0,1,0.62681107889,2017-01-31,premier-league
+1290,Southampton,0,Swansea City,0,0,2,0.45319930984,2017-01-31,premier-league
+1291,Tottenham,0,Sunderland,0,0,2,0.598790790982,2017-01-31,premier-league
+1292,Chelsea,0,Liverpool,0,0,1,0.413592326493,2017-01-31,premier-league
+1293,Manchester City,0,West Ham Utd,0,0,2,0.500860174959,2017-02-01,premier-league
+1294,Hull City,0,Manchester Utd,0,0,1,0.660222052147,2017-02-01,premier-league
+1295,Everton,0,Stoke City,0,0,1,0.40578541605,2017-02-01,premier-league
+1296,Manchester Utd,0,Leicester City,0,0,2,0.507999933891,2017-02-04,premier-league
+1297,Swansea City,0,Manchester City,0,0,1,0.695463061768,2017-02-04,premier-league
+1298,Middlesbrough,0,Tottenham,0,0,1,0.637739031247,2017-02-04,premier-league
+1299,West Ham Utd,0,Southampton,0,0,1,0.512164023447,2017-02-04,premier-league
+1300,Stoke City,0,West Bromwich,0,0,1,0.497075855143,2017-02-04,premier-league
+1301,Sunderland,0,Crystal Palace,0,0,1,0.504438238964,2017-02-04,premier-league
+1302,Bournemouth,0,Everton,0,0,1,0.535711778417,2017-02-04,premier-league
+1303,Arsenal,0,Chelsea,0,0,1,0.548803381234,2017-02-04,premier-league
+1304,Burnley,0,Watford,0,0,1,0.496791789881,2017-02-04,premier-league
+1305,Liverpool,0,Hull City,0,0,2,0.646379082482,2017-02-04,premier-league
+1306,Hull City,0,Arsenal,0,0,1,0.679251098659,2017-02-11,premier-league
+1307,Tottenham,0,Liverpool,0,0,1,0.515234499826,2017-02-11,premier-league
+1308,West Bromwich,0,West Ham Utd,0,0,1,0.434168640432,2017-02-11,premier-league
+1309,Chelsea,0,Burnley,0,0,2,0.636817187516,2017-02-11,premier-league
+1310,Leicester City,0,Swansea City,0,0,1,0.389908522983,2017-02-11,premier-league
+1311,Southampton,0,Sunderland,0,0,2,0.438336072363,2017-02-11,premier-league
+1312,Crystal Palace,0,Stoke City,0,0,1,0.526375568883,2017-02-11,premier-league
+1313,Everton,0,Middlesbrough,0,0,2,0.383527413727,2017-02-11,premier-league
+1314,Watford,0,Manchester Utd,0,0,1,0.595138756559,2017-02-11,premier-league
+1315,Manchester City,0,Bournemouth,0,0,2,0.526668855994,2017-02-11,premier-league
+1316,Bournemouth,0,West Bromwich,0,0,1,0.507728508259,2017-02-25,premier-league
+1317,Manchester Utd,0,Manchester City,0,0,1,0.527010356553,2017-02-25,premier-league
+1318,Arsenal,0,Southampton,0,0,2,0.453762157,2017-02-25,premier-league
+1319,Liverpool,0,Leicester City,0,0,2,0.580090493642,2017-02-25,premier-league
+1320,Burnley,0,Hull City,0,0,2,0.387902334105,2017-02-25,premier-league
+1321,West Ham Utd,0,Watford,0,0,1,0.474882297648,2017-02-25,premier-league
+1322,Middlesbrough,0,Crystal Palace,0,0,1,0.431824389379,2017-02-25,premier-league
+1323,Stoke City,0,Tottenham,0,0,1,0.628548602534,2017-02-25,premier-league
+1324,Swansea City,0,Chelsea,0,0,1,0.705297817083,2017-02-25,premier-league
+1325,Sunderland,0,Everton,0,0,1,0.60533996501,2017-02-25,premier-league
+1326,Everton,0,Tottenham,0,0,1,0.585294948169,2017-03-04,premier-league
+1327,Middlesbrough,0,Stoke City,0,0,1,0.493614699186,2017-03-04,premier-league
+1328,Bournemouth,0,Manchester Utd,0,0,1,0.608431079634,2017-03-04,premier-league
+1329,Crystal Palace,0,West Bromwich,0,0,1,0.555410721172,2017-03-04,premier-league
+1330,Arsenal,0,Liverpool,0,0,1,0.510065110059,2017-03-04,premier-league
+1331,Hull City,0,Leicester City,0,0,1,0.533940809567,2017-03-04,premier-league
+1332,Chelsea,0,West Ham Utd,0,0,2,0.592792319193,2017-03-04,premier-league
+1333,Burnley,0,Swansea City,0,0,2,0.36814265982,2017-03-04,premier-league
+1334,Manchester City,0,Sunderland,0,0,2,0.617379306113,2017-03-04,premier-league
+1335,Southampton,0,Watford,0,0,1,0.429483903273,2017-03-04,premier-league
+1336,Manchester Utd,0,Southampton,0,0,2,0.40152837303,2017-03-11,premier-league
+1337,Tottenham,0,Crystal Palace,0,0,2,0.565584587559,2017-03-11,premier-league
+1338,West Bromwich,0,Everton,0,0,1,0.496428063365,2017-03-11,premier-league
+1339,Watford,0,Chelsea,0,0,1,0.661781806612,2017-03-11,premier-league
+1340,Sunderland,0,Middlesbrough,0,0,1,0.537499294411,2017-03-11,premier-league
+1341,West Ham Utd,0,Bournemouth,0,0,1,0.458582859568,2017-03-11,premier-league
+1342,Stoke City,0,Manchester City,0,0,1,0.640396966334,2017-03-11,premier-league
+1343,Swansea City,0,Hull City,0,0,1,0.471107760363,2017-03-11,premier-league
+1344,Leicester City,0,Arsenal,0,0,1,0.655413526883,2017-03-11,premier-league
+1345,Burnley,0,Liverpool,0,0,1,0.668470306013,2017-03-12,premier-league
+1346,Burnley,0,Sunderland,0,0,1,0.389669968322,2017-03-18,premier-league
+1347,Arsenal,0,West Bromwich,0,0,2,0.480142614539,2017-03-18,premier-league
+1348,Watford,0,Crystal Palace,0,0,1,0.397156051783,2017-03-18,premier-league
+1349,Southampton,0,Tottenham,0,0,1,0.597739151202,2017-03-18,premier-league
+1350,Chelsea,0,Stoke City,0,0,2,0.604153377395,2017-03-18,premier-league
+1351,Manchester Utd,0,Middlesbrough,0,0,2,0.492723188335,2017-03-18,premier-league
+1352,Liverpool,0,Manchester City,0,0,1,0.439613820336,2017-03-18,premier-league
+1353,Leicester City,0,West Ham Utd,0,0,1,0.509116389158,2017-03-18,premier-league
+1354,Hull City,0,Everton,0,0,1,0.61403419643,2017-03-18,premier-league
+1355,Swansea City,0,Bournemouth,0,0,1,0.571739134598,2017-03-18,premier-league
+1356,Bournemouth,0,Southampton,0,0,1,0.51928964229,2017-04-01,premier-league
+1357,West Ham Utd,0,Hull City,0,0,2,0.447183743879,2017-04-01,premier-league
+1358,Sunderland,0,Watford,0,0,1,0.56467154812,2017-04-01,premier-league
+1359,Crystal Palace,0,Chelsea,0,0,1,0.682838322922,2017-04-01,premier-league
+1360,Tottenham,0,Burnley,0,0,2,0.531316666601,2017-04-01,premier-league
+1361,Stoke City,0,Leicester City,0,0,1,0.416727840089,2017-04-01,premier-league
+1362,Manchester City,0,Arsenal,0,0,1,0.45110973251,2017-04-01,premier-league
+1363,West Bromwich,0,Manchester Utd,0,0,1,0.574005237996,2017-04-01,premier-league
+1364,Everton,0,Liverpool,0,0,1,0.623876730405,2017-04-01,premier-league
+1365,Middlesbrough,0,Swansea City,0,0,1,0.369301386528,2017-04-01,premier-league
+1366,Tottenham,0,Swansea City,0,0,2,0.607679590876,2017-04-04,premier-league
+1367,West Ham Utd,0,Arsenal,0,0,1,0.63955268834,2017-04-04,premier-league
+1368,West Bromwich,0,Watford,0,0,1,0.442483335413,2017-04-04,premier-league
+1369,Sunderland,0,Leicester City,0,0,1,0.517895350798,2017-04-04,premier-league
+1370,Stoke City,0,Burnley,0,0,1,0.44100075751,2017-04-04,premier-league
+1371,Middlesbrough,0,Hull City,0,0,2,0.379744690675,2017-04-04,premier-league
+1372,Everton,0,Manchester Utd,0,0,1,0.552483192663,2017-04-04,premier-league
+1373,Crystal Palace,0,Southampton,0,0,1,0.564018402445,2017-04-05,premier-league
+1374,Manchester City,0,Chelsea,0,0,1,0.536908630831,2017-04-05,premier-league
+1375,Bournemouth,0,Liverpool,0,0,1,0.667285395478,2017-04-05,premier-league
+1376,Arsenal,0,Crystal Palace,0,0,2,0.566912930718,2017-04-08,premier-league
+1377,Hull City,0,Manchester City,0,0,1,0.681497857168,2017-04-08,premier-league
+1378,Swansea City,0,West Ham Utd,0,0,1,0.574219208044,2017-04-08,premier-league
+1379,Leicester City,0,Everton,0,0,1,0.566617615114,2017-04-08,premier-league
+1380,Southampton,0,West Bromwich,0,0,1,0.454292682959,2017-04-08,premier-league
+1381,Chelsea,0,Bournemouth,0,0,2,0.614289225926,2017-04-08,premier-league
+1382,Manchester Utd,0,Sunderland,0,0,2,0.56041163691,2017-04-08,premier-league
+1383,Burnley,0,Middlesbrough,0,0,1,0.464301101828,2017-04-08,premier-league
+1384,Liverpool,0,Stoke City,0,0,2,0.522932517115,2017-04-08,premier-league
+1385,Watford,0,Tottenham,0,0,1,0.622342434248,2017-04-08,premier-league
+1386,Chelsea,0,Manchester Utd,0,0,2,0.455814883399,2017-04-15,premier-league
+1387,West Ham Utd,0,Sunderland,0,0,2,0.411827332033,2017-04-15,premier-league
+1388,Hull City,0,Stoke City,0,0,1,0.570899160769,2017-04-15,premier-league
+1389,Arsenal,0,Middlesbrough,0,0,2,0.539305421506,2017-04-15,premier-league
+1390,Swansea City,0,Watford,0,0,1,0.585935451608,2017-04-15,premier-league
+1391,Burnley,0,Everton,0,0,1,0.546316173197,2017-04-15,premier-league
+1392,Bournemouth,0,Tottenham,0,0,1,0.634535967152,2017-04-15,premier-league
+1393,Leicester City,0,Crystal Palace,0,0,1,0.45275311281,2017-04-15,premier-league
+1394,Manchester City,0,Southampton,0,0,2,0.47799102016,2017-04-15,premier-league
+1395,Liverpool,0,West Bromwich,0,0,2,0.51353146247,2017-04-16,premier-league
+1396,Middlesbrough,0,Bournemouth,0,0,1,0.483482817725,2017-04-22,premier-league
+1397,Everton,0,West Ham Utd,0,0,1,0.403650004035,2017-04-22,premier-league
+1398,Manchester Utd,0,Burnley,0,0,2,0.485647099587,2017-04-22,premier-league
+1399,Stoke City,0,Swansea City,0,0,2,0.414054070987,2017-04-22,premier-league
+1400,Watford,0,Hull City,0,0,2,0.431051817422,2017-04-22,premier-league
+1401,Sunderland,0,Arsenal,0,0,1,0.678160627048,2017-04-22,premier-league
+1402,Tottenham,0,Leicester City,0,0,2,0.551405169464,2017-04-22,premier-league
+1403,West Bromwich,0,Manchester City,0,0,1,0.615296378458,2017-04-22,premier-league
+1404,Southampton,0,Chelsea,0,0,1,0.645732123056,2017-04-22,premier-league
+1405,Crystal Palace,0,Liverpool,0,0,1,0.686303526889,2017-04-22,premier-league
+1406,Chelsea,0,Everton,0,0,2,0.556223074706,2017-04-29,premier-league
+1407,West Ham Utd,0,Stoke City,0,0,1,0.469746127776,2017-04-29,premier-league
+1408,Hull City,0,Southampton,0,0,1,0.603328011894,2017-04-29,premier-league
+1409,Manchester City,0,Middlesbrough,0,0,2,0.560179351924,2017-04-29,premier-league
+1410,Leicester City,0,West Bromwich,0,0,1,0.542822243714,2017-04-29,premier-league
+1411,Liverpool,0,Watford,0,0,2,0.526313039652,2017-04-29,premier-league
+1412,Arsenal,0,Tottenham,0,0,1,0.462018936326,2017-04-29,premier-league
+1413,Burnley,0,Crystal Palace,0,0,1,0.428874440432,2017-04-29,premier-league
+1414,Bournemouth,0,Sunderland,0,0,2,0.383803960668,2017-04-29,premier-league
+1415,Swansea City,0,Manchester Utd,0,0,1,0.673126091798,2017-04-29,premier-league
+1416,Southampton,0,Liverpool,0,0,1,0.634662835862,2017-05-06,premier-league
+1417,Manchester Utd,0,Arsenal,0,0,1,0.512902082901,2017-05-06,premier-league
+1418,Crystal Palace,0,Manchester City,0,0,1,0.666324424864,2017-05-06,premier-league
+1419,Everton,0,Swansea City,0,0,2,0.476106254616,2017-05-06,premier-league
+1420,Sunderland,0,Hull City,0,0,1,0.447112978732,2017-05-06,premier-league
+1421,Middlesbrough,0,Chelsea,0,0,1,0.668560912754,2017-05-06,premier-league
+1422,Tottenham,0,West Ham Utd,0,0,2,0.475737583966,2017-05-06,premier-league
+1423,West Bromwich,0,Burnley,0,0,1,0.411163248243,2017-05-06,premier-league
+1424,Stoke City,0,Bournemouth,0,0,1,0.456289807204,2017-05-06,premier-league
+1425,Watford,0,Leicester City,0,0,1,0.411910796556,2017-05-06,premier-league
+1426,Watford,0,Everton,0,0,1,0.52032696362,2017-05-13,premier-league
+1427,Southampton,0,Middlesbrough,0,0,1,0.394456002117,2017-05-13,premier-league
+1428,Liverpool,0,West Ham Utd,0,0,2,0.509577978546,2017-05-13,premier-league
+1429,Chelsea,0,West Bromwich,0,0,2,0.596687352954,2017-05-13,premier-league
+1430,Manchester Utd,0,Tottenham,0,0,1,0.507743640415,2017-05-13,premier-league
+1431,Burnley,0,Bournemouth,0,0,1,0.480936400796,2017-05-13,premier-league
+1432,Swansea City,0,Sunderland,0,0,1,0.490976928952,2017-05-13,premier-league
+1433,Arsenal,0,Stoke City,0,0,2,0.49118069712,2017-05-13,premier-league
+1434,Hull City,0,Crystal Palace,0,0,1,0.521343407285,2017-05-13,premier-league
+1435,Leicester City,0,Manchester City,0,0,1,0.660339575858,2017-05-13,premier-league
+1436,Stoke City,0,Southampton,0,0,1,0.509117886365,2017-05-21,premier-league
+1437,Middlesbrough,0,Liverpool,0,0,1,0.668547183213,2017-05-21,premier-league
+1438,Bournemouth,0,Leicester City,0,0,1,0.428096759149,2017-05-21,premier-league
+1439,Tottenham,0,Hull City,0,0,2,0.624819526554,2017-05-21,premier-league
+1440,Manchester City,0,Watford,0,0,2,0.517214239318,2017-05-21,premier-league
+1441,Sunderland,0,Chelsea,0,0,1,0.693003912877,2017-05-21,premier-league
+1442,West Ham Utd,0,Burnley,0,0,1,0.44267849781,2017-05-21,premier-league
+1443,Everton,0,Arsenal,0,0,1,0.590087814258,2017-05-21,premier-league
+1444,Crystal Palace,0,Manchester Utd,0,0,1,0.637410593113,2017-05-21,premier-league
+1445,West Bromwich,0,Swansea City,0,0,2,0.426199263678,2017-05-21,premier-league
+1446,Paris SG,1,Bastia,0,2,2,0.541580554441,2016-08-12,ligue-1
+1447,Guingamp,2,Monaco,2,0,1,0.597864597698,2016-08-12,ligue-1
+1448,Saint-Etienne,2,Bordeaux,3,1,1,0.447400496841,2016-08-13,ligue-1
+1449,Lorient,2,Caen,3,1,1,0.527432950938,2016-08-13,ligue-1
+1450,Angers,0,Montpellier,1,1,1,0.512550144479,2016-08-13,ligue-1
+1451,Lille,2,Metz,3,1,1,0.474798404755,2016-08-13,ligue-1
+1452,Nantes,1,Dijon,0,2,1,0.466223417,2016-08-13,ligue-1
+1453,Lyon,3,Nancy,0,2,2,0.471794897679,2016-08-14,ligue-1
+1454,Rennes,0,Nice,1,1,1,0.634524015515,2016-08-14,ligue-1
+1455,Toulouse,0,Marseille,0,0,1,0.514867563613,2016-08-14,ligue-1
+1456,Caen,0,Lyon,2,1,1,0.619810349864,2016-08-19,ligue-1
+1457,Monaco,1,Nantes,0,2,2,0.578299367032,2016-08-20,ligue-1
+1458,Nice,1,Angers,0,2,2,0.619870430615,2016-08-20,ligue-1
+1459,Bordeaux,1,Toulouse,4,1,1,0.470684860966,2016-08-20,ligue-1
+1460,Dijon,0,Lille,1,1,1,0.466742556279,2016-08-20,ligue-1
+1461,Nancy,0,Rennes,2,1,1,0.525107889073,2016-08-20,ligue-1
+1462,Bastia,3,Lorient,0,2,1,0.392641820495,2016-08-20,ligue-1
+1463,Marseille,1,Guingamp,2,1,1,0.465090533719,2016-08-21,ligue-1
+1464,Montpellier,1,Saint-Etienne,3,1,1,0.525234694483,2016-08-21,ligue-1
+1465,Metz,0,Paris SG,3,1,1,0.625187574861,2016-08-21,ligue-1
+1466,Lorient,0,Marseille,2,1,1,0.629972527871,2016-08-26,ligue-1
+1467,Lyon,2,Dijon,4,1,2,0.489354925746,2016-08-27,ligue-1
+1468,Angers,0,Metz,2,1,1,0.491899796156,2016-08-27,ligue-1
+1469,Bastia,0,Caen,2,1,1,0.455924450495,2016-08-27,ligue-1
+1470,Lille,1,Nice,1,0,1,0.671810696994,2016-08-27,ligue-1
+1471,Guingamp,2,Nancy,0,2,2,0.402901653063,2016-08-27,ligue-1
+1472,Rennes,1,Montpellier,1,0,1,0.412649345214,2016-08-27,ligue-1
+1473,Nantes,0,Bordeaux,1,1,1,0.534338122518,2016-08-28,ligue-1
+1474,Toulouse,0,Saint-Etienne,0,0,1,0.483152275299,2016-08-28,ligue-1
+1475,Paris SG,1,Monaco,3,1,1,0.512470968647,2016-08-28,ligue-1
+1476,Saint-Etienne,1,Paris SG,1,0,1,0.581228435767,2016-09-09,ligue-1
+1477,Bordeaux,3,Lyon,1,2,1,0.560576710176,2016-09-10,ligue-1
+1478,Toulouse,1,Bastia,2,1,1,0.38921275323,2016-09-10,ligue-1
+1479,Nancy,2,Lorient,0,2,1,0.370285620853,2016-09-10,ligue-1
+1480,Dijon,1,Angers,3,1,1,0.450031760781,2016-09-10,ligue-1
+1481,Montpellier,1,Guingamp,1,0,1,0.552616655816,2016-09-10,ligue-1
+1482,Monaco,4,Lille,1,2,2,0.569466147101,2016-09-10,ligue-1
+1483,Metz,3,Nantes,0,2,1,0.460129290978,2016-09-11,ligue-1
+1484,Caen,0,Rennes,2,1,1,0.553815046081,2016-09-11,ligue-1
+1485,Marseille,2,Nice,3,1,1,0.606948629378,2016-09-11,ligue-1
+1486,Paris SG,6,Caen,0,2,2,0.560374056222,2016-09-16,ligue-1
+1487,Rennes,0,Monaco,3,1,1,0.626472211206,2016-09-17,ligue-1
+1488,Angers,1,Bordeaux,0,2,1,0.549735705358,2016-09-17,ligue-1
+1489,Nantes,1,Nancy,1,0,1,0.486506762949,2016-09-17,ligue-1
+1490,Lille,0,Lorient,1,1,1,0.390410276177,2016-09-17,ligue-1
+1491,Metz,0,Dijon,0,0,1,0.459147032095,2016-09-17,ligue-1
+1492,Guingamp,1,Toulouse,2,1,1,0.41706398119,2016-09-17,ligue-1
+1493,Nice,1,Montpellier,1,0,2,0.56669199791,2016-09-18,ligue-1
+1494,Bastia,0,Saint-Etienne,1,1,1,0.555217685123,2016-09-18,ligue-1
+1495,Lyon,0,Marseille,0,0,1,0.413453328148,2016-09-18,ligue-1
+1496,Toulouse,2,Lille,1,2,1,0.391396593297,2016-09-20,ligue-1
+1497,Dijon,0,Paris SG,3,1,1,0.638101506368,2016-09-20,ligue-1
+1498,Lorient,0,Guingamp,1,1,1,0.629578439661,2016-09-21,ligue-1
+1499,Saint-Etienne,0,Nantes,0,0,1,0.375960020736,2016-09-21,ligue-1
+1500,Monaco,0,Nice,4,1,1,0.484464620245,2016-09-21,ligue-1
+1501,Caen,1,Angers,2,1,1,0.463798097134,2016-09-21,ligue-1
+1502,Bordeaux,3,Metz,0,2,1,0.401880273797,2016-09-21,ligue-1
+1503,Montpellier,1,Lyon,5,1,1,0.594209315615,2016-09-21,ligue-1
+1504,Nancy,0,Bastia,0,0,1,0.444382598309,2016-09-21,ligue-1
+1505,Marseille,2,Rennes,3,1,1,0.425962285,2016-09-21,ligue-1
+1506,Paris SG,0,Toulouse,2,1,2,0.466288966358,2016-09-23,ligue-1
+1507,Lyon,0,Lorient,1,1,2,0.558355254965,2016-09-24,ligue-1
+1508,Rennes,0,Dijon,3,1,2,0.386246509475,2016-09-24,ligue-1
+1509,Angers,1,Monaco,2,1,1,0.669697779551,2016-09-24,ligue-1
+1510,Caen,0,Bordeaux,0,0,1,0.547243929352,2016-09-24,ligue-1
+1511,Guingamp,0,Bastia,1,1,2,0.418071767926,2016-09-24,ligue-1
+1512,Metz,1,Montpellier,0,2,1,0.488275135321,2016-09-24,ligue-1
+1513,Lille,1,Saint-Etienne,3,1,1,0.553643498713,2016-09-25,ligue-1
+1514,Nice,1,Nancy,0,2,2,0.589388954876,2016-09-25,ligue-1
+1515,Nantes,1,Marseille,2,1,1,0.575623828678,2016-09-25,ligue-1
+1516,Guingamp,0,Rennes,1,1,1,0.428179665138,2016-09-30,ligue-1
+1517,Bordeaux,0,Paris SG,2,1,1,0.593756242633,2016-10-01,ligue-1
+1518,Bastia,0,Nantes,1,1,1,0.470625349394,2016-10-01,ligue-1
+1519,Montpellier,3,Dijon,3,0,1,0.435195458976,2016-10-01,ligue-1
+1520,Toulouse,0,Caen,1,1,1,0.37740234438,2016-10-01,ligue-1
+1521,Monaco,7,Metz,0,2,2,0.588975908395,2016-10-01,ligue-1
+1522,Nancy,0,Lille,1,1,1,0.446428137504,2016-10-01,ligue-1
+1523,Marseille,1,Angers,1,0,2,0.451511582245,2016-10-02,ligue-1
+1524,Lorient,1,Nice,2,1,1,0.697219200007,2016-10-02,ligue-1
+1525,Saint-Etienne,0,Lyon,2,1,1,0.545529414227,2016-10-02,ligue-1
+1526,Monaco,1,Toulouse,3,1,2,0.504474640615,2016-10-14,ligue-1
+1527,Lyon,0,Nice,2,1,1,0.569043753688,2016-10-14,ligue-1
+1528,Paris SG,2,Nancy,1,2,2,0.52945606226,2016-10-15,ligue-1
+1529,Nantes,2,Lorient,1,2,1,0.38969132086,2016-10-15,ligue-1
+1530,Caen,2,Montpellier,3,1,1,0.509726021699,2016-10-15,ligue-1
+1531,Lille,0,Guingamp,1,1,1,0.578028516955,2016-10-15,ligue-1
+1532,Angers,2,Bastia,1,2,1,0.48119230449,2016-10-15,ligue-1
+1533,Bordeaux,1,Rennes,1,0,1,0.47918385729,2016-10-16,ligue-1
+1534,Dijon,1,Saint-Etienne,1,0,1,0.552489920323,2016-10-16,ligue-1
+1535,Metz,0,Marseille,1,1,1,0.565708952403,2016-10-16,ligue-1
+1536,Montpellier,2,Monaco,6,1,1,0.653886803356,2016-10-21,ligue-1
+1537,Guingamp,3,Lyon,1,2,1,0.519465053906,2016-10-22,ligue-1
+1538,Lorient,0,Dijon,1,1,1,0.539419041723,2016-10-22,ligue-1
+1539,Rennes,2,Nantes,1,2,2,0.386546924416,2016-10-22,ligue-1
+1540,Toulouse,0,Angers,0,0,2,0.376848333452,2016-10-22,ligue-1
+1541,Bastia,1,Lille,2,1,1,0.469276972359,2016-10-22,ligue-1
+1542,Nancy,1,Bordeaux,1,0,1,0.516215143078,2016-10-22,ligue-1
+1543,Saint-Etienne,2,Caen,0,2,2,0.386029312417,2016-10-23,ligue-1
+1544,Nice,4,Metz,2,2,2,0.613051206596,2016-10-23,ligue-1
+1545,Marseille,0,Paris SG,0,0,1,0.559032542203,2016-10-23,ligue-1
+1546,Paris SG,1,Lille,0,2,2,0.536826611809,2016-10-28,ligue-1
+1547,Lyon,2,Toulouse,1,2,2,0.404321161034,2016-10-29,ligue-1
+1548,Dijon,0,Bastia,0,0,1,0.464742997585,2016-10-29,ligue-1
+1549,Monaco,1,Saint-Etienne,1,0,2,0.490949487343,2016-10-29,ligue-1
+1550,Caen,0,Nancy,2,1,1,0.500619625559,2016-10-29,ligue-1
+1551,Angers,0,Guingamp,1,1,1,0.587081795001,2016-10-29,ligue-1
+1552,Montpellier,2,Lorient,2,0,2,0.39131381108,2016-10-29,ligue-1
+1553,Nantes,1,Nice,4,1,1,0.666128201687,2016-10-30,ligue-1
+1554,Metz,0,Rennes,1,1,1,0.532692413878,2016-10-30,ligue-1
+1555,Bordeaux,0,Marseille,0,0,1,0.517269611014,2016-10-30,ligue-1
+1556,Marseille,1,Montpellier,3,1,2,0.3811525027,2016-11-04,ligue-1
+1557,Nancy,0,Monaco,6,1,1,0.653177401869,2016-11-05,ligue-1
+1558,Lille,0,Angers,1,1,1,0.450103655147,2016-11-05,ligue-1
+1559,Bastia,1,Lyon,2,1,1,0.615891686143,2016-11-05,ligue-1
+1560,Lorient,1,Bordeaux,2,1,1,0.599385704137,2016-11-05,ligue-1
+1561,Guingamp,3,Dijon,3,0,2,0.422126006302,2016-11-05,ligue-1
+1562,Toulouse,1,Nantes,1,0,1,0.392119080259,2016-11-05,ligue-1
+1563,Nice,0,Caen,1,1,2,0.614935202072,2016-11-06,ligue-1
+1564,Saint-Etienne,0,Metz,0,0,1,0.381252503797,2016-11-06,ligue-1
+1565,Rennes,0,Paris SG,4,1,1,0.591840751267,2016-11-06,ligue-1
+1566,Monaco,3,Lorient,0,2,2,0.631628890135,2016-11-18,ligue-1
+1567,Lyon,1,Lille,0,2,2,0.480364428303,2016-11-18,ligue-1
+1568,Nantes,0,Paris SG,2,1,1,0.636557877828,2016-11-19,ligue-1
+1569,Angers,1,Rennes,1,0,1,0.555943020945,2016-11-19,ligue-1
+1570,Montpellier,1,Bastia,1,0,1,0.432916260403,2016-11-19,ligue-1
+1571,Dijon,0,Nancy,1,1,1,0.487588693947,2016-11-19,ligue-1
+1572,Metz,2,Toulouse,1,2,1,0.528192442488,2016-11-19,ligue-1
+1573,Bordeaux,1,Guingamp,1,0,1,0.515708775121,2016-11-20,ligue-1
+1574,Caen,0,Marseille,1,1,1,0.586206486703,2016-11-20,ligue-1
+1575,Nice,1,Saint-Etienne,0,2,2,0.521570628728,2016-11-20,ligue-1
+1576,Toulouse,0,Rennes,1,1,1,0.47622833357,2016-11-25,ligue-1
+1577,Marseille,0,Monaco,4,1,1,0.596906324115,2016-11-26,ligue-1
+1578,Dijon,2,Bordeaux,3,1,1,0.535605811518,2016-11-26,ligue-1
+1579,Lille,0,Nantes,0,0,1,0.468468042052,2016-11-26,ligue-1
+1580,Nancy,0,Montpellier,0,0,1,0.477541552016,2016-11-26,ligue-1
+1581,Guingamp,1,Caen,1,0,2,0.440354094537,2016-11-26,ligue-1
+1582,Lorient,3,Metz,3,0,1,0.548469634381,2016-11-26,ligue-1
+1583,Saint-Etienne,2,Angers,1,2,2,0.391731601504,2016-11-27,ligue-1
+1584,Bastia,1,Nice,1,0,1,0.671419257286,2016-11-27,ligue-1
+1585,Paris SG,2,Lyon,1,2,1,0.417606488855,2016-11-27,ligue-1
+1586,Caen,2,Lille,4,1,1,0.479886431942,2016-11-29,ligue-1
+1587,Rennes,1,Lorient,2,1,2,0.464994955893,2016-11-29,ligue-1
+1588,Monaco,1,Dijon,1,0,2,0.577056648046,2016-11-29,ligue-1
+1589,Montpellier,0,Toulouse,1,1,1,0.509883781406,2016-11-30,ligue-1
+1590,Marseille,0,Saint-Etienne,0,0,1,0.431086021036,2016-11-30,ligue-1
+1591,Lyon,6,Nantes,0,2,2,0.490165226936,2016-11-30,ligue-1
+1592,Nice,1,Guingamp,0,2,2,0.471209837913,2016-11-30,ligue-1
+1593,Bordeaux,1,Bastia,1,0,1,0.393278336811,2016-11-30,ligue-1
+1594,Metz,0,Nancy,4,1,1,0.479116603611,2016-11-30,ligue-1
+1595,Angers,0,Paris SG,2,1,1,0.644215202998,2016-11-30,ligue-1
+1596,Dijon,3,Caen,3,0,1,0.453592763525,2016-12-02,ligue-1
+1597,Paris SG,0,Montpellier,3,1,2,0.504153871985,2016-12-03,ligue-1
+1598,Bastia,0,Monaco,5,1,1,0.668580708894,2016-12-03,ligue-1
+1599,Lille,1,Bordeaux,0,2,1,0.536468569104,2016-12-03,ligue-1
+1600,Lorient,2,Angers,2,0,1,0.524573319733,2016-12-03,ligue-1
+1601,Nantes,0,Guingamp,2,1,1,0.57463590786,2016-12-03,ligue-1
+1602,Lyon,0,Metz,0,0,2,0.501323522714,2016-12-03,ligue-1
+1603,Saint-Etienne,0,Rennes,2,1,1,0.460532074331,2016-12-04,ligue-1
+1604,Nancy,0,Marseille,3,1,1,0.559930694092,2016-12-04,ligue-1
+1605,Toulouse,0,Nice,3,1,1,0.632578244194,2016-12-04,ligue-1
+1606,Marseille,2,Dijon,1,2,2,0.42755695536,2016-12-10,ligue-1
+1607,Monaco,4,Bordeaux,0,2,2,0.514485600062,2016-12-10,ligue-1
+1608,Metz,0,Bastia,2,1,1,0.456491726975,2016-12-10,ligue-1
+1609,Angers,0,Nancy,2,1,1,0.503681715215,2016-12-10,ligue-1
+1610,Lorient,2,Toulouse,3,1,1,0.600552251443,2016-12-10,ligue-1
+1611,Montpellier,1,Lille,2,1,1,0.435119496985,2016-12-10,ligue-1
+1612,Rennes,0,Lyon,1,1,1,0.554576223308,2016-12-11,ligue-1
+1613,Guingamp,0,Saint-Etienne,1,1,1,0.43346634009,2016-12-11,ligue-1
+1614,Nice,2,Paris SG,2,0,1,0.402210611877,2016-12-11,ligue-1
+1615,Nantes,2,Angers,0,2,1,0.449114118521,2016-12-16,ligue-1
+1616,Paris SG,1,Guingamp,2,1,2,0.397558346715,2016-12-17,ligue-1
+1617,Nancy,1,Toulouse,1,0,1,0.518927901917,2016-12-17,ligue-1
+1618,Bastia,2,Rennes,1,2,1,0.546431991526,2016-12-17,ligue-1
+1619,Saint-Etienne,1,Lorient,2,1,2,0.446316698845,2016-12-17,ligue-1
+1620,Bordeaux,0,Montpellier,4,1,1,0.427598775721,2016-12-17,ligue-1
+1621,Metz,0,Caen,3,1,1,0.445886495532,2016-12-18,ligue-1
+1622,Dijon,1,Nice,2,1,1,0.667719339632,2016-12-18,ligue-1
+1623,Lille,0,Marseille,2,1,1,0.579125513867,2016-12-18,ligue-1
+1624,Lyon,3,Monaco,1,2,1,0.555778795573,2016-12-18,ligue-1
+1625,Lorient,0,Paris SG,5,1,1,0.675276411365,2016-12-21,ligue-1
+1626,Toulouse,0,Dijon,2,1,1,0.391475903408,2016-12-21,ligue-1
+1627,Nancy,0,Saint-Etienne,0,0,1,0.533743822427,2016-12-21,ligue-1
+1628,Caen,1,Monaco,2,1,1,0.669551874334,2016-12-21,ligue-1
+1629,Nice,0,Bordeaux,0,0,2,0.543827535986,2016-12-21,ligue-1
+1630,Montpellier,0,Nantes,1,1,1,0.436040607574,2016-12-21,ligue-1
+1631,Rennes,1,Lille,1,0,1,0.379828699712,2016-12-21,ligue-1
+1632,Guingamp,2,Metz,2,0,2,0.43403452277,2016-12-21,ligue-1
+1633,Angers,0,Lyon,2,1,1,0.620857860769,2016-12-21,ligue-1
+1634,Marseille,2,Bastia,1,2,2,0.423545058052,2016-12-21,ligue-1
+1635,Saint-Etienne,0,Lille,0,0,1,0.37527700275,2017-01-13,ligue-1
+1636,Paris SG,0,Rennes,0,0,2,0.433308156824,2017-01-14,ligue-1
+1637,Dijon,0,Montpellier,0,0,1,0.497373111422,2017-01-14,ligue-1
+1638,Nantes,0,Toulouse,0,0,1,0.536765742709,2017-01-14,ligue-1
+1639,Bastia,0,Nancy,0,0,1,0.490026283088,2017-01-14,ligue-1
+1640,Bordeaux,0,Angers,0,0,1,0.37771581749,2017-01-14,ligue-1
+1641,Guingamp,0,Lorient,0,0,2,0.498221053752,2017-01-14,ligue-1
+1642,Metz,0,Nice,0,0,1,0.654233627044,2017-01-15,ligue-1
+1643,Lyon,0,Caen,0,0,2,0.50642325759,2017-01-15,ligue-1
+1644,Monaco,0,Marseille,0,0,2,0.432632733986,2017-01-15,ligue-1
+1645,Caen,0,Nantes,0,0,1,0.481598470708,2017-01-18,ligue-1
+1646,Lorient,0,Monaco,0,0,1,0.697106133886,2017-01-21,ligue-1
+1647,Marseille,0,Lyon,0,0,1,0.517746508285,2017-01-21,ligue-1
+1648,Nice,0,Bastia,0,0,2,0.598866248538,2017-01-21,ligue-1
+1649,Montpellier,0,Metz,0,0,1,0.441889249324,2017-01-21,ligue-1
+1650,Rennes,0,Guingamp,0,0,1,0.505352890855,2017-01-21,ligue-1
+1651,Toulouse,0,Bordeaux,0,0,1,0.463608805441,2017-01-21,ligue-1
+1652,Nancy,0,Caen,0,0,1,0.433057030083,2017-01-21,ligue-1
+1653,Paris SG,0,Nantes,0,0,2,0.545944516053,2017-01-21,ligue-1
+1654,Lille,0,Dijon,0,0,1,0.467472285624,2017-01-21,ligue-1
+1655,Angers,0,Saint-Etienne,0,0,1,0.565623762504,2017-01-21,ligue-1
+1656,Lille,0,Lyon,0,0,1,0.615361603095,2017-01-28,ligue-1
+1657,Nantes,0,Rennes,0,0,1,0.542088582793,2017-01-28,ligue-1
+1658,Caen,0,Bastia,0,0,1,0.477985343775,2017-01-28,ligue-1
+1659,Monaco,0,Paris SG,0,0,1,0.420675544168,2017-01-28,ligue-1
+1660,Bordeaux,0,Nancy,0,0,1,0.415925967681,2017-01-28,ligue-1
+1661,Guingamp,0,Nice,0,0,1,0.607596115422,2017-01-28,ligue-1
+1662,Saint-Etienne,0,Toulouse,0,0,1,0.451142241605,2017-01-28,ligue-1
+1663,Metz,0,Angers,0,0,1,0.442416984967,2017-01-28,ligue-1
+1664,Montpellier,0,Marseille,0,0,1,0.55399629036,2017-01-28,ligue-1
+1665,Dijon,0,Lorient,0,0,1,0.390340795132,2017-01-28,ligue-1
+1666,Lyon,0,Saint-Etienne,0,0,2,0.389337309709,2017-02-04,ligue-1
+1667,Paris SG,0,Dijon,0,0,2,0.544867214102,2017-02-04,ligue-1
+1668,Lorient,0,Lille,0,0,1,0.53836030805,2017-02-04,ligue-1
+1669,Caen,0,Guingamp,0,0,1,0.585366110803,2017-02-04,ligue-1
+1670,Rennes,0,Bordeaux,0,0,1,0.452601954769,2017-02-04,ligue-1
+1671,Bastia,0,Montpellier,0,0,1,0.500002310315,2017-02-04,ligue-1
+1672,Nancy,0,Nantes,0,0,1,0.447735113883,2017-02-04,ligue-1
+1673,Marseille,0,Metz,0,0,2,0.439426347125,2017-02-04,ligue-1
+1674,Nice,0,Monaco,0,0,1,0.448889522558,2017-02-04,ligue-1
+1675,Angers,0,Toulouse,0,0,1,0.551779836038,2017-02-04,ligue-1
+1676,Lille,0,Paris SG,0,0,1,0.641587564165,2017-02-08,ligue-1
+1677,Monaco,0,Montpellier,0,0,2,0.539287415021,2017-02-08,ligue-1
+1678,Rennes,0,Angers,0,0,2,0.410454772593,2017-02-08,ligue-1
+1679,Toulouse,0,Lorient,0,0,2,0.432064150454,2017-02-08,ligue-1
+1680,Bordeaux,0,Caen,0,0,1,0.381603222847,2017-02-08,ligue-1
+1681,Saint-Etienne,0,Nice,0,0,1,0.622313176195,2017-02-08,ligue-1
+1682,Dijon,0,Metz,0,0,1,0.474903825182,2017-02-08,ligue-1
+1683,Nancy,0,Lyon,0,0,1,0.597431201955,2017-02-08,ligue-1
+1684,Nantes,0,Bastia,0,0,1,0.463749774681,2017-02-08,ligue-1
+1685,Guingamp,0,Marseille,0,0,1,0.469320018534,2017-02-08,ligue-1
+1686,Bastia,0,Toulouse,0,0,1,0.540759688341,2017-02-11,ligue-1
+1687,Paris SG,0,Bordeaux,0,0,2,0.476593487157,2017-02-11,ligue-1
+1688,Marseille,0,Nantes,0,0,2,0.428063870693,2017-02-11,ligue-1
+1689,Lorient,0,Saint-Etienne,0,0,1,0.612871075036,2017-02-11,ligue-1
+1690,Metz,0,Monaco,0,0,1,0.652012790695,2017-02-11,ligue-1
+1691,Nice,0,Rennes,0,0,2,0.504044455868,2017-02-11,ligue-1
+1692,Caen,0,Dijon,0,0,1,0.48053663815,2017-02-11,ligue-1
+1693,Angers,0,Lille,0,0,1,0.483057035218,2017-02-11,ligue-1
+1694,Lyon,0,Guingamp,0,0,1,0.411121686341,2017-02-11,ligue-1
+1695,Montpellier,0,Nancy,0,0,1,0.455934411899,2017-02-11,ligue-1
+1696,Toulouse,0,Paris SG,0,0,1,0.593357193226,2017-02-18,ligue-1
+1697,Rennes,0,Marseille,0,0,1,0.50729646699,2017-02-18,ligue-1
+1698,Nantes,0,Metz,0,0,1,0.473891044233,2017-02-18,ligue-1
+1699,Saint-Etienne,0,Montpellier,0,0,1,0.407641914105,2017-02-18,ligue-1
+1700,Lille,0,Caen,0,0,1,0.453704066037,2017-02-18,ligue-1
+1701,Guingamp,0,Bordeaux,0,0,1,0.41281698811,2017-02-18,ligue-1
+1702,Nancy,0,Angers,0,0,1,0.429398744847,2017-02-18,ligue-1
+1703,Monaco,0,Bastia,0,0,2,0.573878254806,2017-02-18,ligue-1
+1704,Dijon,0,Lyon,0,0,1,0.612532959878,2017-02-18,ligue-1
+1705,Nice,0,Lorient,0,0,2,0.651920014074,2017-02-18,ligue-1
+1706,Caen,0,Saint-Etienne,0,0,1,0.563396655573,2017-02-25,ligue-1
+1707,Metz,0,Lyon,0,0,1,0.600311241675,2017-02-25,ligue-1
+1708,Bastia,0,Angers,0,0,1,0.452352738676,2017-02-25,ligue-1
+1709,Toulouse,0,Nancy,0,0,1,0.411845304273,2017-02-25,ligue-1
+1710,Lorient,0,Rennes,0,0,1,0.602190576946,2017-02-25,ligue-1
+1711,Montpellier,0,Nice,0,0,1,0.658403134398,2017-02-25,ligue-1
+1712,Dijon,0,Nantes,0,0,1,0.46822536749,2017-02-25,ligue-1
+1713,Monaco,0,Guingamp,0,0,2,0.43811150876,2017-02-25,ligue-1
+1714,Bordeaux,0,Lille,0,0,1,0.39542036552,2017-02-25,ligue-1
+1715,Paris SG,0,Marseille,0,0,2,0.392006989961,2017-02-25,ligue-1
+1716,Angers,0,Caen,0,0,1,0.470591805386,2017-03-04,ligue-1
+1717,Nancy,0,Paris SG,0,0,1,0.624887871713,2017-03-04,ligue-1
+1718,Guingamp,0,Montpellier,0,0,2,0.375612692793,2017-03-04,ligue-1
+1719,Lyon,0,Bordeaux,0,0,2,0.41490961443,2017-03-04,ligue-1
+1720,Nantes,0,Monaco,0,0,1,0.663473742897,2017-03-04,ligue-1
+1721,Marseille,0,Lorient,0,0,2,0.503252552776,2017-03-04,ligue-1
+1722,Lille,0,Toulouse,0,0,1,0.539097913155,2017-03-04,ligue-1
+1723,Nice,0,Dijon,0,0,2,0.601692046796,2017-03-04,ligue-1
+1724,Saint-Etienne,0,Bastia,0,0,1,0.373122642149,2017-03-04,ligue-1
+1725,Rennes,0,Metz,0,0,2,0.39771491127,2017-03-04,ligue-1
+1726,Bastia,0,Guingamp,0,0,1,0.579119026225,2017-03-11,ligue-1
+1727,Paris SG,0,Lorient,0,0,2,0.6058607565,2017-03-11,ligue-1
+1728,Nantes,0,Montpellier,0,0,1,0.496241374567,2017-03-11,ligue-1
+1729,Caen,0,Nice,0,0,1,0.671544592424,2017-03-11,ligue-1
+1730,Angers,0,Marseille,0,0,1,0.587879647958,2017-03-11,ligue-1
+1731,Bordeaux,0,Monaco,0,0,1,0.6260820597,2017-03-11,ligue-1
+1732,Dijon,0,Rennes,0,0,1,0.54338460392,2017-03-11,ligue-1
+1733,Metz,0,Saint-Etienne,0,0,1,0.542416324281,2017-03-11,ligue-1
+1734,Toulouse,0,Lyon,0,0,1,0.559184723752,2017-03-11,ligue-1
+1735,Lille,0,Nancy,0,0,1,0.487934469558,2017-03-11,ligue-1
+1736,Guingamp,0,Angers,0,0,2,0.446151188589,2017-03-18,ligue-1
+1737,Lyon,0,Paris SG,0,0,1,0.513650237529,2017-03-18,ligue-1
+1738,Bastia,0,Metz,0,0,1,0.477107213114,2017-03-18,ligue-1
+1739,Marseille,0,Lille,0,0,2,0.417862527882,2017-03-18,ligue-1
+1740,Monaco,0,Caen,0,0,2,0.591330437071,2017-03-18,ligue-1
+1741,Montpellier,0,Bordeaux,0,0,1,0.506717571086,2017-03-18,ligue-1
+1742,Lorient,0,Nancy,0,0,1,0.558215825674,2017-03-18,ligue-1
+1743,Rennes,0,Toulouse,0,0,1,0.45666636044,2017-03-18,ligue-1
+1744,Saint-Etienne,0,Dijon,0,0,1,0.37539171043,2017-03-18,ligue-1
+1745,Nice,0,Nantes,0,0,2,0.60303984568,2017-03-18,ligue-1
+1746,Dijon,0,Marseille,0,0,1,0.577025339797,2017-04-02,ligue-1
+1747,Saint-Etienne,0,Monaco,0,0,1,0.615357271746,2017-04-02,ligue-1
+1748,Caen,0,Lorient,0,0,1,0.404378295335,2017-04-02,ligue-1
+1749,Angers,0,Nantes,0,0,1,0.484833214506,2017-04-02,ligue-1
+1750,Toulouse,0,Montpellier,0,0,1,0.423809800844,2017-04-02,ligue-1
+1751,Paris SG,0,Metz,0,0,2,0.55659922214,2017-04-02,ligue-1
+1752,Bordeaux,0,Nice,0,0,1,0.631887543441,2017-04-02,ligue-1
+1753,Nancy,0,Guingamp,0,0,1,0.558794402417,2017-04-02,ligue-1
+1754,Lille,0,Bastia,0,0,1,0.465130105599,2017-04-02,ligue-1
+1755,Lyon,0,Rennes,0,0,1,0.371845051251,2017-04-02,ligue-1
+1756,Guingamp,0,Paris SG,0,0,1,0.560276128327,2017-04-08,ligue-1
+1757,Montpellier,0,Caen,0,0,1,0.421029690028,2017-04-08,ligue-1
+1758,Nice,0,Lille,0,0,2,0.594853446588,2017-04-08,ligue-1
+1759,Rennes,0,Nancy,0,0,1,0.399908966502,2017-04-08,ligue-1
+1760,Marseille,0,Toulouse,0,0,1,0.414679047696,2017-04-08,ligue-1
+1761,Metz,0,Bordeaux,0,0,1,0.526004954049,2017-04-08,ligue-1
+1762,Lorient,0,Lyon,0,0,1,0.657022097124,2017-04-08,ligue-1
+1763,Nantes,0,Saint-Etienne,0,0,1,0.551161525838,2017-04-08,ligue-1
+1764,Monaco,0,Angers,0,0,2,0.596484911501,2017-04-08,ligue-1
+1765,Bastia,0,Dijon,0,0,1,0.46961759545,2017-04-08,ligue-1
+1766,Lyon,0,Bastia,0,0,2,0.485660975592,2017-04-15,ligue-1
+1767,Paris SG,0,Angers,0,0,2,0.565781960554,2017-04-15,ligue-1
+1768,Lille,0,Rennes,0,0,1,0.545107039,2017-04-15,ligue-1
+1769,Caen,0,Metz,0,0,1,0.488589966685,2017-04-15,ligue-1
+1770,Dijon,0,Monaco,0,0,1,0.665075307584,2017-04-15,ligue-1
+1771,Lorient,0,Montpellier,0,0,1,0.564956790415,2017-04-15,ligue-1
+1772,Saint-Etienne,0,Marseille,0,0,1,0.499827110668,2017-04-15,ligue-1
+1773,Bordeaux,0,Nantes,0,0,1,0.396267229398,2017-04-15,ligue-1
+1774,Nancy,0,Nice,0,0,1,0.656574351032,2017-04-15,ligue-1
+1775,Toulouse,0,Guingamp,0,0,1,0.513215389882,2017-04-15,ligue-1
+1776,Marseille,0,Nancy,0,0,2,0.408414103191,2017-04-22,ligue-1
+1777,Nice,0,Toulouse,0,0,2,0.53434335131,2017-04-22,ligue-1
+1778,Metz,0,Lorient,0,0,1,0.383691773869,2017-04-22,ligue-1
+1779,Nantes,0,Caen,0,0,1,0.452656323718,2017-04-22,ligue-1
+1780,Bastia,0,Bordeaux,0,0,1,0.538231135069,2017-04-22,ligue-1
+1781,Guingamp,0,Lille,0,0,2,0.412357289076,2017-04-22,ligue-1
+1782,Montpellier,0,Paris SG,0,0,1,0.62413645524,2017-04-22,ligue-1
+1783,Monaco,0,Lyon,0,0,1,0.37079433978,2017-04-22,ligue-1
+1784,Angers,0,Dijon,0,0,1,0.483754953315,2017-04-22,ligue-1
+1785,Rennes,0,Saint-Etienne,0,0,1,0.472928996393,2017-04-22,ligue-1
+1786,Toulouse,0,Monaco,0,0,1,0.626275435986,2017-04-29,ligue-1
+1787,Bordeaux,0,Dijon,0,0,1,0.395595334544,2017-04-29,ligue-1
+1788,Nancy,0,Metz,0,0,1,0.454134697817,2017-04-29,ligue-1
+1789,Rennes,0,Bastia,0,0,2,0.382149774236,2017-04-29,ligue-1
+1790,Saint-Etienne,0,Guingamp,0,0,1,0.498091787918,2017-04-29,ligue-1
+1791,Paris SG,0,Nice,0,0,1,0.528610016347,2017-04-29,ligue-1
+1792,Marseille,0,Caen,0,0,2,0.445718189221,2017-04-29,ligue-1
+1793,Lorient,0,Nantes,0,0,1,0.540708295786,2017-04-29,ligue-1
+1794,Lyon,0,Angers,0,0,2,0.512103276898,2017-04-29,ligue-1
+1795,Lille,0,Montpellier,0,0,1,0.498123730894,2017-04-29,ligue-1
+1796,Nice,0,Marseille,0,0,2,0.465967279661,2017-05-06,ligue-1
+1797,Nantes,0,Lyon,0,0,1,0.611040324225,2017-05-06,ligue-1
+1798,Metz,0,Lille,0,0,1,0.458330581153,2017-05-06,ligue-1
+1799,Dijon,0,Guingamp,0,0,1,0.576036234936,2017-05-06,ligue-1
+1800,Angers,0,Lorient,0,0,1,0.408132313764,2017-05-06,ligue-1
+1801,Montpellier,0,Rennes,0,0,1,0.517507857481,2017-05-06,ligue-1
+1802,Bordeaux,0,Saint-Etienne,0,0,1,0.486458404852,2017-05-06,ligue-1
+1803,Caen,0,Toulouse,0,0,1,0.549383020144,2017-05-06,ligue-1
+1804,Bastia,0,Paris SG,0,0,1,0.641657437158,2017-05-06,ligue-1
+1805,Monaco,0,Nancy,0,0,2,0.563441716508,2017-05-06,ligue-1
+1806,Guingamp,0,Nantes,0,0,2,0.422610705662,2017-05-13,ligue-1
+1807,Angers,0,Nice,0,0,1,0.67151790369,2017-05-13,ligue-1
+1808,Toulouse,0,Metz,0,0,1,0.397538577097,2017-05-13,ligue-1
+1809,Lyon,0,Montpellier,0,0,2,0.445021525229,2017-05-13,ligue-1
+1810,Marseille,0,Bordeaux,0,0,1,0.410386956135,2017-05-13,ligue-1
+1811,Paris SG,0,Saint-Etienne,0,0,2,0.451886533252,2017-05-13,ligue-1
+1812,Lille,0,Monaco,0,0,1,0.668732503086,2017-05-13,ligue-1
+1813,Nancy,0,Dijon,0,0,1,0.446819529869,2017-05-13,ligue-1
+1814,Lorient,0,Bastia,0,0,1,0.536775405947,2017-05-13,ligue-1
+1815,Rennes,0,Caen,0,0,2,0.404711308585,2017-05-13,ligue-1
+1816,Caen,0,Paris SG,0,0,1,0.64369388634,2017-05-20,ligue-1
+1817,Dijon,0,Toulouse,0,0,1,0.538044916581,2017-05-20,ligue-1
+1818,Saint-Etienne,0,Nancy,0,0,1,0.395534806602,2017-05-20,ligue-1
+1819,Montpellier,0,Angers,0,0,1,0.417207611311,2017-05-20,ligue-1
+1820,Bordeaux,0,Lorient,0,0,2,0.421469354895,2017-05-20,ligue-1
+1821,Monaco,0,Rennes,0,0,2,0.472403493632,2017-05-20,ligue-1
+1822,Nantes,0,Lille,0,0,1,0.465739176642,2017-05-20,ligue-1
+1823,Metz,0,Guingamp,0,0,1,0.564847739091,2017-05-20,ligue-1
+1824,Bastia,0,Marseille,0,0,1,0.580160550086,2017-05-20,ligue-1
+1825,Nice,0,Lyon,0,0,2,0.402895270578,2017-05-20,ligue-1

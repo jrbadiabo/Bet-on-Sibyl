@@ -1,0 +1,81 @@
+Bookies_choice,Confidence,Date,Divergence_Y/N,Home_Odd,Home_Team,ID,League,Matchup_US_P,Sibyl,Time,True_Result,Visitor_Odd,Visitor_Team
+CLE,0.521,2016-09-14,N,2.0,CHW,0,MLB,CLE @ CHW,CLE,00:10,Upcoming,1.87,CLE
+HOU,0.502,2016-09-14,N,1.63,HOU,1,MLB,TEX @ HOU,HOU,00:10,Upcoming,2.37,TEX
+ARI,0.515,2016-09-14,Y,1.76,ARI,2,MLB,COL @ ARI,COL,01:40,Upcoming,2.13,COL
+SEA,0.552,2016-09-14,N,2.26,LAA,3,MLB,SEA @ LAA,SEA,02:05,Upcoming,1.68,SEA
+DET,0.674,2016-09-14,N,1.66,DET,4,MLB,MIN @ DET,DET,17:10,Upcoming,2.29,MIN
+CLE,0.521,2016-09-14,N,2.38,CHW,5,MLB,CLE @ CHW,CLE,18:10,Upcoming,1.62,CLE
+PHI,0.536,2016-09-14,Y,1.87,PHI,6,MLB,PIT @ PHI,PIT,23:05,Upcoming,1.97,PIT
+KCR,0.562,2016-09-14,N,1.64,KCR,7,MLB,OAK @ KCR,KCR,23:15,Upcoming,2.33,OAK
+CHC,0.688,2016-09-15,N,1.47,CHC,8,MLB,MIL @ CHC,CHC,00:05,Upcoming,2.76,MIL
+LAD,0.599,2016-09-15,N,2.8,ARI,9,MLB,LAD @ ARI,LAD,01:40,Upcoming,1.46,LAD
+TOR,0.574,2016-09-15,N,2.46,LAA,10,MLB,TOR @ LAA,TOR,02:05,Upcoming,1.58,TOR
+SFG,0.522,2016-09-15,N,1.62,SFG,11,MLB,STL @ SFG,SFG,02:15,Upcoming,2.37,STL
+KCR,0.511,2016-09-16,N,1.77,KCR,12,MLB,CHW @ KCR,KCR,00:15,Upcoming,2.15,CHW
+LAD,0.599,2016-09-16,N,2.4,ARI,13,MLB,LAD @ ARI,LAD,01:40,Upcoming,1.63,LAD
+WSN,0.657,2016-09-16,N,3.97,ATL,14,MLB,WSN @ ATL,WSN,17:05,Upcoming,1.28,WSN
+BOS,0.592,2016-09-16,N,1.85,BOS,15,MLB,NYY @ BOS,BOS,17:05,Upcoming,2.04,NYY
+CHC,0.688,2016-09-16,N,1.61,CHC,16,MLB,MIL @ CHC,CHC,20:05,Upcoming,2.45,MIL
+PIT,0.536,2016-09-16,N,2.36,CIN,17,MLB,PIT @ CIN,PIT,22:10,Upcoming,1.65,PIT
+TBR,0.6,2016-09-16,Y,2.19,BAL,18,MLB,TBR @ BAL,BAL,23:05,Upcoming,1.74,TBR
+COL,0.591,2016-09-17,N,1.75,COL,19,MLB,SDP @ COL,COL,00:10,Upcoming,2.18,SDP
+PIT,0.536,2016-09-17,N,2.42,CIN,20,MLB,PIT @ CIN,PIT,17:10,Upcoming,1.62,PIT
+MIA,0.528,2016-09-17,N,2.15,PHI,21,MLB,MIA @ PHI,MIA,17:35,Upcoming,1.77,MIA
+KCR,0.511,2016-09-17,N,1.82,KCR,22,MLB,CHW @ KCR,KCR,18:15,Upcoming,2.08,CHW
+KCR,0.511,2016-09-17,N,1.63,KCR,23,MLB,CHW @ KCR,KCR,18:15,Upcoming,2.37,CHW
+Charlotte Hornets,0.647,2016-12-23,N,1.58,Charlotte Hornets,0,NBA,Chicago Bulls @ Charlotte Hornets,Charlotte Hornets,20:00:00,Upcoming,2.42,Chicago Bulls
+Orlando Magic,0.643,2016-12-23,N,1.46,Orlando Magic,1,NBA,Los Angeles Lakers @ Orlando Magic,Orlando Magic,20:00:00,Upcoming,2.77,Los Angeles Lakers
+Boston Celtics,0.681,2016-12-23,N,1.57,Boston Celtics,2,NBA,Oklahoma City Thunder @ Boston Celtics,Boston Celtics,20:30:00,Upcoming,2.44,Oklahoma City Thunder
+Brooklyn Nets,0.96,2016-12-23,Y,1.95,Cleveland Cavaliers,3,NBA,Brooklyn Nets @ Cleveland Cavaliers,Cleveland Cavaliers,20:30:00,Upcoming,1.95,Brooklyn Nets
+Golden State Warriors,0.783,2016-12-23,N,3.51,Detroit Pistons,4,NBA,Golden State Warriors @ Detroit Pistons,Golden State Warriors,20:30:00,Upcoming,1.31,Golden State Warriors
+Houston Rockets,0.641,2016-12-23,N,2.36,Memphis Grizzlies,5,NBA,Houston Rockets @ Memphis Grizzlies,Houston Rockets,21:00:00,Upcoming,1.61,Houston Rockets
+Milwaukee Bucks,0.724,2016-12-23,N,1.62,Milwaukee Bucks,6,NBA,Washington Wizards @ Milwaukee Bucks,Milwaukee Bucks,21:00:00,Upcoming,2.34,Washington Wizards
+Sacramento Kings,0.651,2016-12-23,Y,1.95,Minnesota Timberwolves,7,NBA,Sacramento Kings @ Minnesota Timberwolves,Minnesota Timberwolves,21:00:00,Upcoming,1.95,Sacramento Kings
+New Orleans Pelicans,0.585,2016-12-23,N,1.48,New Orleans Pelicans,8,NBA,Miami Heat @ New Orleans Pelicans,New Orleans Pelicans,21:00:00,Upcoming,2.7,Miami Heat
+Denver Nuggets,0.624,2016-12-23,N,1.55,Denver Nuggets,9,NBA,Atlanta Hawks @ Denver Nuggets,Denver Nuggets,22:00:00,Upcoming,2.48,Atlanta Hawks
+Phoenix Suns,0.656,2016-12-23,N,1.49,Phoenix Suns,10,NBA,Philadelphia 76ers @ Phoenix Suns,Phoenix Suns,22:00:00,Upcoming,2.74,Philadelphia 76ers
+Toronto Raptors,0.557,2016-12-23,N,2.05,Utah Jazz,11,NBA,Toronto Raptors @ Utah Jazz,Toronto Raptors,22:00:00,Upcoming,1.79,Toronto Raptors
+San Antonio Spurs,0.722,2016-12-23,N,2.11,Portland Trail Blazers,12,NBA,San Antonio Spurs @ Portland Trail Blazers,San Antonio Spurs,23:00:00,Upcoming,1.75,San Antonio Spurs
+Dallas Mavericks,0.936,2016-12-23,Y,1.95,Los Angeles Clippers,13,NBA,Dallas Mavericks @ Los Angeles Clippers,Los Angeles Clippers,23:30:00,Upcoming,1.95,Dallas Mavericks
+Buffalo Bills,0.56,2016-12-24,N,1.47,Buffalo Bills,0,NFL,Miami Dolphins @ Buffalo Bills,Buffalo Bills,14:00:00,Upcoming,2.72,Miami Dolphins
+Atlanta Falcons,0.625,2016-12-24,N,2.38,Carolina Panthers,1,NFL,Atlanta Falcons @ Carolina Panthers,Atlanta Falcons,14:00:00,Upcoming,1.6,Atlanta Falcons
+San Diego Chargers,0.751,2016-12-24,N,2.92,Cleveland Browns,2,NFL,San Diego Chargers @ Cleveland Browns,San Diego Chargers,14:00:00,Upcoming,1.42,San Diego Chargers
+Washington Redskins,0.676,2016-12-24,N,2.48,Chicago Bears,3,NFL,Washington Redskins @ Chicago Bears,Washington Redskins,14:00:00,Upcoming,1.56,Washington Redskins
+Tennessee Titans,0.709,2016-12-24,N,2.81,Jacksonville Jaguars,4,NFL,Tennessee Titans @ Jacksonville Jaguars,Tennessee Titans,14:00:00,Upcoming,1.44,Tennessee Titans
+New England Patriots,0.905,2016-12-24,N,1.05,New England Patriots,5,NFL,New York Jets @ New England Patriots,New England Patriots,14:00:00,Upcoming,10.05,New York Jets
+Green Bay Packers,0.632,2016-12-24,N,1.32,Green Bay Packers,6,NFL,Minnesota Vikings @ Green Bay Packers,Green Bay Packers,14:00:00,Upcoming,3.4,Minnesota Vikings
+Oakland Raiders,0.779,2016-12-24,N,1.52,Oakland Raiders,7,NFL,Indianapolis Colts @ Oakland Raiders,Oakland Raiders,17:05:00,Upcoming,2.57,Indianapolis Colts
+Seattle Seahawks,0.736,2016-12-24,N,1.26,Seattle Seahawks,8,NFL,Arizona Cardinals @ Seattle Seahawks,Seattle Seahawks,17:25:00,Upcoming,3.89,Arizona Cardinals
+Los Angeles Rams,0.752,2016-12-24,N,1.43,Los Angeles Rams,9,NFL,San Francisco 49ers @ Los Angeles Rams,Los Angeles Rams,17:25:00,Upcoming,2.84,San Francisco 49ers
+New Orleans Saints,0.664,2016-12-24,N,1.55,New Orleans Saints,10,NFL,Tampa Bay Buccaneers @ New Orleans Saints,New Orleans Saints,17:25:00,Upcoming,2.46,Tampa Bay Buccaneers
+Houston Texans,0.613,2016-12-24,N,1.9,Houston Texans,11,NFL,Cincinnati Bengals @ Houston Texans,Houston Texans,21:25:00,Upcoming,1.91,Cincinnati Bengals
+Pittsburgh Steelers,0.642,2016-12-25,N,1.39,Pittsburgh Steelers,12,NFL,Baltimore Ravens @ Pittsburgh Steelers,Pittsburgh Steelers,17:30:00,Upcoming,3.06,Baltimore Ravens
+Kansas City Chiefs,0.639,2016-12-25,N,1.54,Kansas City Chiefs,13,NFL,Denver Broncos @ Kansas City Chiefs,Kansas City Chiefs,21:30:00,Upcoming,2.5,Denver Broncos
+Dallas Cowboys,0.617,2016-12-26,N,1.35,Dallas Cowboys,14,NFL,Detroit Lions @ Dallas Cowboys,Dallas Cowboys,21:30:00,Upcoming,3.27,Detroit Lions
+Columbus Blue Jackets,0.615,2016-12-23,N,1.62,Columbus Blue Jackets,0,NHL,Montreal Canadiens @ Columbus Blue Jackets,Columbus Blue Jackets,20:00:00,Upcoming,2.29,Montreal Canadiens
+New York Islanders,0.587,2016-12-23,N,1.67,New York Islanders,1,NHL,Buffalo Sabres @ New York Islanders,New York Islanders,20:00:00,Upcoming,2.2,Buffalo Sabres
+New York Rangers,0.588,2016-12-23,N,1.63,New York Rangers,2,NHL,Minnesota Wild @ New York Rangers,New York Rangers,20:00:00,Upcoming,2.27,Minnesota Wild
+Pittsburgh Penguins,0.745,2016-12-23,N,1.42,Pittsburgh Penguins,3,NHL,New Jersey Devils @ Pittsburgh Penguins,Pittsburgh Penguins,20:00:00,Upcoming,2.85,New Jersey Devils
+Washington Capitals,0.651,2016-12-23,N,1.44,Washington Capitals,4,NHL,Tampa Bay Lightning @ Washington Capitals,Washington Capitals,20:00:00,Upcoming,2.79,Tampa Bay Lightning
+Carolina Hurricanes,0.513,2016-12-23,Y,1.89,Carolina Hurricanes,5,NHL,Boston Bruins @ Carolina Hurricanes,Boston Bruins,20:30:00,Upcoming,1.91,Boston Bruins
+Florida Panthers,0.578,2016-12-23,N,1.63,Florida Panthers,6,NHL,Detroit Red Wings @ Florida Panthers,Florida Panthers,20:30:00,Upcoming,2.28,Detroit Red Wings
+Chicago Blackhawks,0.808,2016-12-23,N,1.33,Chicago Blackhawks,7,NHL,Colorado Avalanche @ Chicago Blackhawks,Chicago Blackhawks,21:30:00,Upcoming,3.27,Colorado Avalanche
+Dallas Stars,0.61,2016-12-23,Y,1.73,Dallas Stars,8,NHL,Los Angeles Kings @ Dallas Stars,Los Angeles Kings,21:30:00,Upcoming,2.1,Los Angeles Kings
+Toronto Maple Leafs,0.56,2016-12-23,N,2.21,Arizona Coyotes,9,NHL,Toronto Maple Leafs @ Arizona Coyotes,Toronto Maple Leafs,22:00:00,Upcoming,1.67,Toronto Maple Leafs
+Calgary Flames,0.629,2016-12-23,N,1.49,Calgary Flames,10,NHL,Vancouver Canucks @ Calgary Flames,Calgary Flames,22:00:00,Upcoming,2.63,Vancouver Canucks
+San Jose Sharks,0.643,2016-12-23,N,1.59,San Jose Sharks,11,NHL,Edmonton Oilers @ San Jose Sharks,San Jose Sharks,23:30:00,Upcoming,2.37,Edmonton Oilers
+Columbus Blue Jackets,0.713,2016-12-27,N,2.18,Columbus Blue Jackets,12,NHL,Boston Bruins @ Columbus Blue Jackets,Columbus Blue Jackets,20:00:00,Upcoming,2.95,Boston Bruins
+Pittsburgh Penguins,0.656,2016-12-27,N,3.54,New Jersey Devils,13,NHL,Pittsburgh Penguins @ New Jersey Devils,Pittsburgh Penguins,20:00:00,Upcoming,1.94,Pittsburgh Penguins
+Washington Capitals,0.619,2016-12-27,N,3.01,New York Islanders,14,NHL,Washington Capitals @ New York Islanders,Washington Capitals,20:00:00,Upcoming,2.14,Washington Capitals
+New York Rangers,0.678,2016-12-27,N,1.96,New York Rangers,15,NHL,Ottawa Senators @ New York Rangers,New York Rangers,20:00:00,Upcoming,3.42,Ottawa Senators
+Detroit Red Wings,0.589,2016-12-27,N,2.23,Detroit Red Wings,16,NHL,Buffalo Sabres @ Detroit Red Wings,Detroit Red Wings,20:30:00,Upcoming,2.89,Buffalo Sabres
+Nashville Predators,0.64,2016-12-27,Y,2.35,Nashville Predators,17,NHL,Minnesota Wild @ Nashville Predators,Minnesota Wild,21:00:00,Upcoming,2.73,Minnesota Wild
+Chicago Blackhawks,0.714,2016-12-27,N,1.84,Chicago Blackhawks,18,NHL,Winnipeg Jets @ Chicago Blackhawks,Chicago Blackhawks,21:30:00,Upcoming,3.96,Winnipeg Jets
+Dallas Stars,0.502,2016-12-27,Y,2.98,Arizona Coyotes,19,NHL,Dallas Stars @ Arizona Coyotes,Arizona Coyotes,22:00:00,Upcoming,2.19,Dallas Stars
+Calgary Flames,0.622,2016-12-27,N,2.59,Colorado Avalanche,20,NHL,Calgary Flames @ Colorado Avalanche,Calgary Flames,22:00:00,Upcoming,2.43,Calgary Flames
+Anaheim Ducks,0.567,2016-12-27,Y,2.38,Anaheim Ducks,21,NHL,San Jose Sharks @ Anaheim Ducks,San Jose Sharks,23:00:00,Upcoming,2.66,San Jose Sharks
+Toronto Maple Leafs,0.562,2016-12-28,Y,1.37,Florida Panthers,22,NHL,Toronto Maple Leafs @ Florida Panthers,Florida Panthers,20:00:00,Upcoming,1.28,Toronto Maple Leafs
+Carolina Hurricanes,0.677,2016-12-28,Y,1.3,Pittsburgh Penguins,23,NHL,Carolina Hurricanes @ Pittsburgh Penguins,Pittsburgh Penguins,20:00:00,Upcoming,1.28,Carolina Hurricanes
+Montreal Canadiens,0.603,2016-12-28,N,1.47,Tampa Bay Lightning,24,NHL,Montreal Canadiens @ Tampa Bay Lightning,Montreal Canadiens,20:30:00,Upcoming,1.28,Montreal Canadiens
+Philadelphia Flyers,0.556,2016-12-28,Y,1.41,St. Louis Blues,25,NHL,Philadelphia Flyers @ St. Louis Blues,St. Louis Blues,21:00:00,Upcoming,1.28,Philadelphia Flyers
+Los Angeles Kings,0.602,2016-12-28,N,1.69,Vancouver Canucks,26,NHL,Los Angeles Kings @ Vancouver Canucks,Los Angeles Kings,23:00:00,Upcoming,1.28,Los Angeles Kings

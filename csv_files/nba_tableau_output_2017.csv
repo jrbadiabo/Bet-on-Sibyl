@@ -1,0 +1,1231 @@
+ID,Visitor_Team,V_Team_PTS,Home_Team,H_Team_PTS,True_Result,Predicted_Result,Confidence,Date
+0,New York Knicks,88,Cleveland Cavaliers,117,1,1,0.891176182576,2016-10-25
+1,San Antonio Spurs,129,Golden State Warriors,100,0,1,0.530738383859,2016-10-25
+2,Utah Jazz,104,Portland Trail Blazers,113,1,0,0.602504096415,2016-10-25
+3,Brooklyn Nets,117,Boston Celtics,122,1,1,0.645854152492,2016-10-26
+4,Dallas Mavericks,121,Indiana Pacers,130,1,1,0.638687898256,2016-10-26
+5,Houston Rockets,114,Los Angeles Lakers,120,1,1,0.616296748836,2016-10-26
+6,Minnesota Timberwolves,98,Memphis Grizzlies,102,1,1,0.51049105314,2016-10-26
+7,Charlotte Hornets,107,Milwaukee Bucks,96,0,0,0.609893471597,2016-10-26
+8,Denver Nuggets,107,New Orleans Pelicans,102,0,0,0.590569144147,2016-10-26
+9,Miami Heat,108,Orlando Magic,96,0,0,0.777213963158,2016-10-26
+10,Oklahoma City Thunder,103,Philadelphia 76ers,97,0,0,0.871010880663,2016-10-26
+11,Sacramento Kings,113,Phoenix Suns,94,0,1,0.645263145386,2016-10-26
+12,Detroit Pistons,91,Toronto Raptors,109,1,1,0.823779118791,2016-10-26
+13,Washington Wizards,99,Atlanta Hawks,114,1,1,0.903251292606,2016-10-27
+14,Boston Celtics,99,Chicago Bulls,105,1,1,0.829429777543,2016-10-27
+15,Los Angeles Clippers,114,Portland Trail Blazers,106,0,0,0.920180672033,2016-10-27
+16,San Antonio Spurs,102,Sacramento Kings,94,0,0,0.779158757672,2016-10-27
+17,Indiana Pacers,94,Brooklyn Nets,103,1,1,0.647724699677,2016-10-28
+18,Houston Rockets,106,Dallas Mavericks,98,0,0,0.631583638621,2016-10-28
+19,Orlando Magic,82,Detroit Pistons,108,1,1,0.925295301264,2016-10-28
+20,Charlotte Hornets,97,Miami Heat,91,0,0,0.572179386745,2016-10-28
+21,Golden State Warriors,122,New Orleans Pelicans,114,0,0,0.798774258382,2016-10-28
+22,Phoenix Suns,110,Oklahoma City Thunder,113,1,1,0.88211462169,2016-10-28
+23,Cleveland Cavaliers,94,Toronto Raptors,91,0,1,0.688051782245,2016-10-28
+24,Los Angeles Lakers,89,Utah Jazz,96,1,1,0.764475138365,2016-10-28
+25,Indiana Pacers,101,Chicago Bulls,118,1,1,0.834266125675,2016-10-29
+26,Boston Celtics,104,Charlotte Hornets,98,0,1,0.901103478183,2016-10-29
+27,Orlando Magic,99,Cleveland Cavaliers,105,1,1,0.963304211363,2016-10-29
+28,Portland Trail Blazers,115,Denver Nuggets,113,0,1,0.613919202714,2016-10-29
+29,Brooklyn Nets,108,Milwaukee Bucks,110,1,1,0.766420149285,2016-10-29
+30,Memphis Grizzlies,104,New York Knicks,111,1,1,0.70607533925,2016-10-29
+31,Atlanta Hawks,104,Philadelphia 76ers,72,0,0,0.922698213529,2016-10-29
+32,Minnesota Timberwolves,103,Sacramento Kings,106,1,1,0.585777510734,2016-10-29
+33,New Orleans Pelicans,79,San Antonio Spurs,98,1,1,0.953405247493,2016-10-29
+34,Milwaukee Bucks,83,Detroit Pistons,98,1,1,0.697519150895,2016-10-30
+35,Dallas Mavericks,92,Houston Rockets,93,1,1,0.847400501056,2016-10-30
+36,Utah Jazz,75,Los Angeles Clippers,88,1,1,0.93192006304,2016-10-30
+37,Washington Wizards,103,Memphis Grizzlies,112,1,0,0.518964042783,2016-10-30
+38,San Antonio Spurs,106,Miami Heat,99,0,0,0.646646360113,2016-10-30
+39,Los Angeles Lakers,96,Oklahoma City Thunder,113,1,1,0.75286365592,2016-10-30
+40,Golden State Warriors,106,Phoenix Suns,100,0,0,0.686885263192,2016-10-30
+41,Sacramento Kings,95,Atlanta Hawks,106,1,1,0.930401936882,2016-10-31
+42,Chicago Bulls,118,Brooklyn Nets,88,0,0,0.603350760838,2016-10-31
+43,Phoenix Suns,98,Los Angeles Clippers,116,1,1,0.983776418268,2016-10-31
+44,Denver Nuggets,102,Toronto Raptors,105,1,1,0.872002741508,2016-10-31
+45,Houston Rockets,120,Cleveland Cavaliers,128,1,1,0.743432444089,2016-11-01
+46,New York Knicks,89,Detroit Pistons,102,1,1,0.794403269725,2016-11-01
+47,Los Angeles Lakers,108,Indiana Pacers,115,1,0,0.609021736761,2016-11-01
+48,Sacramento Kings,96,Miami Heat,108,1,1,0.776278697877,2016-11-01
+49,Memphis Grizzlies,80,Minnesota Timberwolves,116,1,1,0.756460203204,2016-11-01
+50,Milwaukee Bucks,117,New Orleans Pelicans,113,0,0,0.62130621811,2016-11-01
+51,Orlando Magic,103,Philadelphia 76ers,101,0,1,0.669595933091,2016-11-01
+52,Golden State Warriors,127,Portland Trail Blazers,104,0,0,0.574640283836,2016-11-01
+53,Utah Jazz,106,San Antonio Spurs,91,0,1,0.71851963961,2016-11-01
+54,Los Angeles Lakers,123,Atlanta Hawks,116,0,1,0.84338099842,2016-11-02
+55,Chicago Bulls,100,Boston Celtics,107,1,0,0.600188705703,2016-11-02
+56,Detroit Pistons,101,Brooklyn Nets,109,1,0,0.564810480852,2016-11-02
+57,Philadelphia 76ers,93,Charlotte Hornets,109,1,1,0.960249632316,2016-11-02
+58,Oklahoma City Thunder,85,Los Angeles Clippers,83,0,1,0.935835736399,2016-11-02
+59,New Orleans Pelicans,83,Memphis Grizzlies,89,1,1,0.703817857601,2016-11-02
+60,Houston Rockets,118,New York Knicks,99,0,0,0.610937832669,2016-11-02
+61,Portland Trail Blazers,115,Phoenix Suns,118,1,1,0.525697698253,2016-11-02
+62,Dallas Mavericks,81,Utah Jazz,97,1,1,0.899370426022,2016-11-02
+63,Toronto Raptors,113,Washington Wizards,103,0,0,0.680483547352,2016-11-02
+64,Boston Celtics,122,Cleveland Cavaliers,128,1,1,0.897889456218,2016-11-03
+65,Oklahoma City Thunder,96,Golden State Warriors,122,1,1,0.630881018271,2016-11-03
+66,Indiana Pacers,107,Milwaukee Bucks,125,1,1,0.770226280515,2016-11-03
+67,Denver Nuggets,102,Minnesota Timberwolves,99,0,1,0.612363004951,2016-11-03
+68,Sacramento Kings,94,Orlando Magic,102,1,0,0.644067700406,2016-11-03
+69,Charlotte Hornets,99,Brooklyn Nets,95,0,0,0.740275510114,2016-11-04
+70,New York Knicks,117,Chicago Bulls,104,0,1,0.819122305675,2016-11-04
+71,Portland Trail Blazers,105,Dallas Mavericks,95,0,0,0.502832236607,2016-11-04
+72,Golden State Warriors,97,Los Angeles Lakers,117,1,1,0.528236846746,2016-11-04
+73,Los Angeles Clippers,99,Memphis Grizzlies,88,0,0,0.962484771052,2016-11-04
+74,Phoenix Suns,112,New Orleans Pelicans,111,0,0,0.501345863465,2016-11-04
+75,Miami Heat,87,Toronto Raptors,96,1,1,0.836701884831,2016-11-04
+76,San Antonio Spurs,100,Utah Jazz,86,0,1,0.559272378928,2016-11-04
+77,Atlanta Hawks,92,Washington Wizards,95,1,0,0.742412183894,2016-11-04
+78,Houston Rockets,97,Atlanta Hawks,112,1,1,0.827753931817,2016-11-05
+79,Denver Nuggets,86,Detroit Pistons,103,1,1,0.723979805798,2016-11-05
+80,Chicago Bulls,94,Indiana Pacers,111,1,0,0.608456589927,2016-11-05
+81,Sacramento Kings,91,Milwaukee Bucks,117,1,1,0.748003910085,2016-11-05
+82,Minnesota Timberwolves,92,Oklahoma City Thunder,112,1,1,0.855954505182,2016-11-05
+83,Washington Wizards,86,Orlando Magic,88,1,0,0.721529154879,2016-11-05
+84,Cleveland Cavaliers,102,Philadelphia 76ers,101,0,0,0.878005747114,2016-11-05
+85,Los Angeles Clippers,116,San Antonio Spurs,92,0,0,0.748713778005,2016-11-05
+86,Denver Nuggets,123,Boston Celtics,107,0,1,0.532231688759,2016-11-06
+87,Milwaukee Bucks,75,Dallas Mavericks,86,1,0,0.504063217641,2016-11-06
+88,Phoenix Suns,108,Los Angeles Lakers,119,1,1,0.815527573247,2016-11-06
+89,Portland Trail Blazers,100,Memphis Grizzlies,94,0,0,0.552875798496,2016-11-06
+90,Utah Jazz,114,New York Knicks,109,0,0,0.716496373427,2016-11-06
+91,Sacramento Kings,96,Toronto Raptors,91,0,1,0.908073078162,2016-11-06
+92,Orlando Magic,80,Chicago Bulls,112,1,1,0.935553786856,2016-11-07
+93,Indiana Pacers,100,Charlotte Hornets,122,1,1,0.904142456561,2016-11-07
+94,New Orleans Pelicans,106,Golden State Warriors,116,1,1,0.927841172263,2016-11-07
+95,Detroit Pistons,82,Los Angeles Clippers,114,1,1,0.966669317084,2016-11-07
+96,Miami Heat,85,Oklahoma City Thunder,97,1,1,0.796859522894,2016-11-07
+97,Utah Jazz,109,Philadelphia 76ers,84,0,0,0.877971068634,2016-11-07
+98,Houston Rockets,114,Washington Wizards,106,0,0,0.519096212017,2016-11-07
+99,Minnesota Timberwolves,110,Brooklyn Nets,119,1,1,0.561271729904,2016-11-08
+100,Atlanta Hawks,110,Cleveland Cavaliers,106,0,1,0.520429623907,2016-11-08
+101,Dallas Mavericks,109,Los Angeles Lakers,97,0,1,0.832094646047,2016-11-08
+102,Denver Nuggets,107,Memphis Grizzlies,108,1,0,0.522096513999,2016-11-08
+103,Phoenix Suns,121,Portland Trail Blazers,124,1,1,0.74506417115,2016-11-08
+104,New Orleans Pelicans,94,Sacramento Kings,102,1,1,0.763165153752,2016-11-08
+105,Chicago Bulls,107,Atlanta Hawks,115,1,1,0.843694166928,2016-11-09
+106,Utah Jazz,98,Charlotte Hornets,104,1,1,0.651025224262,2016-11-09
+107,Dallas Mavericks,95,Golden State Warriors,116,1,1,0.888464128351,2016-11-09
+108,Philadelphia 76ers,115,Indiana Pacers,122,1,1,0.821731138899,2016-11-09
+109,Portland Trail Blazers,80,Los Angeles Clippers,111,1,1,0.973919589982,2016-11-09
+110,Brooklyn Nets,96,New York Knicks,110,1,1,0.661960678117,2016-11-09
+111,Toronto Raptors,112,Oklahoma City Thunder,102,0,1,0.579460782947,2016-11-09
+112,Minnesota Timberwolves,123,Orlando Magic,107,0,0,0.69724151919,2016-11-09
+113,Detroit Pistons,100,Phoenix Suns,107,1,0,0.537401195234,2016-11-09
+114,Houston Rockets,101,San Antonio Spurs,99,0,1,0.804242244481,2016-11-09
+115,Boston Celtics,93,Washington Wizards,118,1,1,0.737629310002,2016-11-09
+116,Golden State Warriors,0,Denver Nuggets,1,1,0,0.604598370421,2016-11-10
+117,Chicago Bulls,0,Miami Heat,1,1,1,0.583511686746,2016-11-10
+118,New Orleans Pelicans,0,Milwaukee Bucks,1,1,1,0.84163395357,2016-11-10
+119,Los Angeles Lakers,0,Sacramento Kings,1,1,0,0.579715909053,2016-11-10
+120,New York Knicks,0,Boston Celtics,1,1,1,0.626326860014,2016-11-11
+121,Toronto Raptors,0,Charlotte Hornets,1,1,1,0.603451685846,2016-11-11
+122,Los Angeles Clippers,0,Oklahoma City Thunder,1,1,0,0.818267521579,2016-11-11
+123,Utah Jazz,0,Orlando Magic,1,1,0,0.890127451419,2016-11-11
+124,Indiana Pacers,0,Philadelphia 76ers,1,1,0,0.587291670809,2016-11-11
+125,Sacramento Kings,0,Portland Trail Blazers,1,1,1,0.747074602026,2016-11-11
+126,Detroit Pistons,0,San Antonio Spurs,1,1,1,0.843953579991,2016-11-11
+127,Cleveland Cavaliers,0,Washington Wizards,1,1,0,0.63474739836,2016-11-11
+128,Philadelphia 76ers,0,Atlanta Hawks,1,1,1,0.974788617953,2016-11-12
+129,Washington Wizards,0,Chicago Bulls,1,1,1,0.756866882007,2016-11-12
+130,Detroit Pistons,0,Denver Nuggets,1,1,1,0.552567636858,2016-11-12
+131,San Antonio Spurs,0,Houston Rockets,1,1,0,0.559142492859,2016-11-12
+132,Boston Celtics,0,Indiana Pacers,1,1,1,0.634852714004,2016-11-12
+133,Utah Jazz,0,Miami Heat,1,1,0,0.563374758718,2016-11-12
+134,Memphis Grizzlies,0,Milwaukee Bucks,1,1,1,0.801000787305,2016-11-12
+135,Los Angeles Clippers,0,Minnesota Timberwolves,1,1,0,0.93697184452,2016-11-12
+136,Los Angeles Lakers,0,New Orleans Pelicans,1,1,0,0.71178080674,2016-11-12
+137,Brooklyn Nets,0,Phoenix Suns,1,1,1,0.667853753038,2016-11-12
+138,New York Knicks,0,Toronto Raptors,1,1,1,0.909386653597,2016-11-12
+139,Charlotte Hornets,0,Cleveland Cavaliers,1,1,1,0.634626126478,2016-11-13
+140,Phoenix Suns,0,Golden State Warriors,1,1,1,0.876634376099,2016-11-13
+141,Los Angeles Lakers,0,Minnesota Timberwolves,1,1,0,0.520107678513,2016-11-13
+142,Orlando Magic,0,Oklahoma City Thunder,1,1,1,0.960982820211,2016-11-13
+143,Denver Nuggets,0,Portland Trail Blazers,1,1,1,0.670737659657,2016-11-13
+144,Oklahoma City Thunder,0,Detroit Pistons,1,1,0,0.524908007481,2016-11-14
+145,Philadelphia 76ers,0,Houston Rockets,1,1,1,0.935402620835,2016-11-14
+146,Orlando Magic,0,Indiana Pacers,1,1,1,0.838459246461,2016-11-14
+147,Brooklyn Nets,0,Los Angeles Clippers,1,1,1,0.985453573931,2016-11-14
+148,Boston Celtics,0,New Orleans Pelicans,1,1,1,0.523045034535,2016-11-14
+149,Dallas Mavericks,0,New York Knicks,1,1,1,0.662718085006,2016-11-14
+150,Miami Heat,0,San Antonio Spurs,1,1,1,0.855656128243,2016-11-14
+151,Memphis Grizzlies,0,Utah Jazz,1,1,1,0.916155076392,2016-11-14
+152,Toronto Raptors,0,Cleveland Cavaliers,1,1,1,0.594912932495,2016-11-15
+153,Brooklyn Nets,0,Los Angeles Lakers,1,1,1,0.831620956313,2016-11-15
+154,Atlanta Hawks,0,Miami Heat,1,1,0,0.681592392266,2016-11-15
+155,Charlotte Hornets,0,Minnesota Timberwolves,1,1,0,0.669529085186,2016-11-15
+156,Chicago Bulls,0,Portland Trail Blazers,1,1,1,0.543927961867,2016-11-15
+157,Milwaukee Bucks,0,Atlanta Hawks,1,1,1,0.890177482573,2016-11-16
+158,Dallas Mavericks,0,Boston Celtics,1,1,1,0.646628382721,2016-11-16
+159,Phoenix Suns,0,Denver Nuggets,1,1,1,0.720834582631,2016-11-16
+160,Cleveland Cavaliers,0,Indiana Pacers,1,1,0,0.737541382326,2016-11-16
+161,Memphis Grizzlies,0,Los Angeles Clippers,1,1,1,0.98811017509,2016-11-16
+162,Detroit Pistons,0,New York Knicks,1,1,0,0.543969792871,2016-11-16
+163,Houston Rockets,0,Oklahoma City Thunder,1,1,1,0.73108474788,2016-11-16
+164,New Orleans Pelicans,0,Orlando Magic,1,1,0,0.502655438616,2016-11-16
+165,Washington Wizards,0,Philadelphia 76ers,1,1,0,0.69706729886,2016-11-16
+166,San Antonio Spurs,0,Sacramento Kings,1,1,0,0.779158757672,2016-11-16
+167,Golden State Warriors,0,Toronto Raptors,1,1,1,0.712273461154,2016-11-16
+168,Portland Trail Blazers,0,Houston Rockets,1,1,1,0.753126576557,2016-11-17
+169,Milwaukee Bucks,0,Miami Heat,1,1,1,0.677823160753,2016-11-17
+170,Philadelphia 76ers,0,Minnesota Timberwolves,1,1,1,0.868852219719,2016-11-17
+171,Chicago Bulls,0,Utah Jazz,1,1,1,0.764902102307,2016-11-17
+172,New York Knicks,0,Washington Wizards,1,1,1,0.72362286917,2016-11-17
+173,Golden State Warriors,0,Boston Celtics,1,1,0,0.707490391578,2016-11-18
+174,Atlanta Hawks,0,Charlotte Hornets,1,1,1,0.529296174337,2016-11-18
+175,Detroit Pistons,0,Cleveland Cavaliers,1,1,1,0.792293732385,2016-11-18
+176,Memphis Grizzlies,0,Dallas Mavericks,1,1,1,0.687538779445,2016-11-18
+177,Toronto Raptors,0,Denver Nuggets,1,1,0,0.67774845883,2016-11-18
+178,Phoenix Suns,0,Indiana Pacers,1,1,1,0.611937387244,2016-11-18
+179,San Antonio Spurs,0,Los Angeles Lakers,1,1,0,0.586979699686,2016-11-18
+180,Portland Trail Blazers,0,New Orleans Pelicans,1,1,0,0.6201469478,2016-11-18
+181,Brooklyn Nets,0,Oklahoma City Thunder,1,1,1,0.893159976164,2016-11-18
+182,Los Angeles Clippers,0,Sacramento Kings,1,1,0,0.94979849573,2016-11-18
+183,Boston Celtics,0,Detroit Pistons,1,1,1,0.805785388501,2016-11-19
+184,Utah Jazz,0,Houston Rockets,1,1,1,0.527915380522,2016-11-19
+185,Chicago Bulls,0,Los Angeles Clippers,1,1,1,0.961158137638,2016-11-19
+186,Minnesota Timberwolves,0,Memphis Grizzlies,1,1,1,0.51049105314,2016-11-19
+187,Golden State Warriors,0,Milwaukee Bucks,1,1,0,0.57343623689,2016-11-19
+188,Charlotte Hornets,0,New Orleans Pelicans,1,1,0,0.82195225573,2016-11-19
+189,Dallas Mavericks,0,Orlando Magic,1,1,0,0.619980339161,2016-11-19
+190,Phoenix Suns,0,Philadelphia 76ers,1,1,0,0.618924826021,2016-11-19
+191,Miami Heat,0,Washington Wizards,1,1,1,0.572051346773,2016-11-19
+192,Portland Trail Blazers,0,Brooklyn Nets,1,1,0,0.501985597702,2016-11-20
+193,Utah Jazz,0,Denver Nuggets,1,1,0,0.631757316566,2016-11-20
+194,Chicago Bulls,0,Los Angeles Lakers,1,1,1,0.643374961412,2016-11-20
+195,Atlanta Hawks,0,New York Knicks,1,1,0,0.807427092384,2016-11-20
+196,Indiana Pacers,0,Oklahoma City Thunder,1,1,1,0.89518334949,2016-11-20
+197,Toronto Raptors,0,Sacramento Kings,1,1,0,0.753058415336,2016-11-20
+198,Memphis Grizzlies,0,Charlotte Hornets,1,1,1,0.918870270861,2016-11-21
+199,Houston Rockets,0,Detroit Pistons,1,1,1,0.577556013582,2016-11-21
+200,Golden State Warriors,0,Indiana Pacers,1,1,0,0.714594499236,2016-11-21
+201,Toronto Raptors,0,Los Angeles Clippers,1,1,1,0.917804498897,2016-11-21
+202,Orlando Magic,0,Milwaukee Bucks,1,1,1,0.906253768905,2016-11-21
+203,Boston Celtics,0,Minnesota Timberwolves,1,1,1,0.714189658972,2016-11-21
+204,Miami Heat,0,Philadelphia 76ers,1,1,0,0.755989405847,2016-11-21
+205,Dallas Mavericks,0,San Antonio Spurs,1,1,1,0.926879120103,2016-11-21
+206,Phoenix Suns,0,Washington Wizards,1,1,1,0.718301914627,2016-11-21
+207,New Orleans Pelicans,0,Atlanta Hawks,1,1,1,0.959894942415,2016-11-22
+208,Chicago Bulls,0,Denver Nuggets,1,1,1,0.513075201929,2016-11-22
+209,Oklahoma City Thunder,0,Los Angeles Lakers,1,1,1,0.515344173652,2016-11-22
+210,Portland Trail Blazers,0,New York Knicks,1,1,1,0.519098586255,2016-11-22
+211,Boston Celtics,0,Brooklyn Nets,1,1,1,0.639795127237,2016-11-23
+212,San Antonio Spurs,0,Charlotte Hornets,1,1,1,0.568096312001,2016-11-23
+213,Portland Trail Blazers,0,Cleveland Cavaliers,1,1,1,0.8308373667,2016-11-23
+214,Los Angeles Clippers,0,Dallas Mavericks,1,1,0,0.954514245857,2016-11-23
+215,Miami Heat,0,Detroit Pistons,1,1,1,0.663603905449,2016-11-23
+216,Los Angeles Lakers,0,Golden State Warriors,1,1,1,0.743124534051,2016-11-23
+217,Toronto Raptors,0,Houston Rockets,1,1,0,0.522959564923,2016-11-23
+218,Atlanta Hawks,0,Indiana Pacers,1,1,0,0.823338904446,2016-11-23
+219,Minnesota Timberwolves,0,New Orleans Pelicans,1,1,0,0.55870416874,2016-11-23
+220,Phoenix Suns,0,Orlando Magic,1,1,0,0.64649670319,2016-11-23
+221,Memphis Grizzlies,0,Philadelphia 76ers,1,1,0,0.54235047071,2016-11-23
+222,Oklahoma City Thunder,0,Sacramento Kings,1,1,0,0.70012250273,2016-11-23
+223,Denver Nuggets,0,Utah Jazz,1,1,1,0.847497005378,2016-11-23
+224,San Antonio Spurs,0,Boston Celtics,1,1,0,0.793767711326,2016-11-25
+225,Dallas Mavericks,0,Cleveland Cavaliers,1,1,1,0.899399719995,2016-11-25
+226,Oklahoma City Thunder,0,Denver Nuggets,1,1,0,0.616881846545,2016-11-25
+227,Los Angeles Clippers,0,Detroit Pistons,1,1,0,0.8995322527,2016-11-25
+228,Brooklyn Nets,0,Indiana Pacers,1,1,1,0.637906012669,2016-11-25
+229,Golden State Warriors,0,Los Angeles Lakers,1,1,1,0.528236846746,2016-11-25
+230,Miami Heat,0,Memphis Grizzlies,1,1,0,0.592265070324,2016-11-25
+231,Toronto Raptors,0,Milwaukee Bucks,1,1,0,0.64900451745,2016-11-25
+232,Charlotte Hornets,0,New York Knicks,1,1,0,0.723727461263,2016-11-25
+233,Washington Wizards,0,Orlando Magic,1,1,0,0.721529154879,2016-11-25
+234,Chicago Bulls,0,Philadelphia 76ers,1,1,0,0.799196432158,2016-11-25
+235,Minnesota Timberwolves,0,Phoenix Suns,1,1,1,0.588350060436,2016-11-25
+236,New Orleans Pelicans,0,Portland Trail Blazers,1,1,1,0.840976526053,2016-11-25
+237,Houston Rockets,0,Sacramento Kings,1,1,0,0.607166724305,2016-11-25
+238,Atlanta Hawks,0,Utah Jazz,1,1,1,0.520348828362,2016-11-25
+239,New York Knicks,0,Charlotte Hornets,1,1,1,0.894576700942,2016-11-26
+240,Minnesota Timberwolves,0,Golden State Warriors,1,1,1,0.849465664785,2016-11-26
+241,Memphis Grizzlies,0,Miami Heat,1,1,1,0.824722558655,2016-11-26
+242,Detroit Pistons,0,Oklahoma City Thunder,1,1,1,0.781606767363,2016-11-26
+243,San Antonio Spurs,0,Washington Wizards,1,1,0,0.711314051783,2016-11-26
+244,Sacramento Kings,0,Brooklyn Nets,1,1,1,0.619507437176,2016-11-27
+245,New Orleans Pelicans,0,Dallas Mavericks,1,1,1,0.743933198071,2016-11-27
+246,Los Angeles Clippers,0,Indiana Pacers,1,1,0,0.955289222802,2016-11-27
+247,Atlanta Hawks,0,Los Angeles Lakers,1,1,0,0.624399137749,2016-11-27
+248,Milwaukee Bucks,0,Orlando Magic,1,1,0,0.749019161515,2016-11-27
+249,Cleveland Cavaliers,0,Philadelphia 76ers,1,1,0,0.878005747114,2016-11-27
+250,Denver Nuggets,0,Phoenix Suns,1,1,1,0.556442093144,2016-11-27
+251,Houston Rockets,0,Portland Trail Blazers,1,1,1,0.514991098492,2016-11-27
+252,Atlanta Hawks,0,Golden State Warriors,1,1,0,0.508414327915,2016-11-28
+253,Charlotte Hornets,0,Memphis Grizzlies,1,1,0,0.777603607187,2016-11-28
+254,Boston Celtics,0,Miami Heat,1,1,1,0.7910270734,2016-11-28
+255,Utah Jazz,0,Minnesota Timberwolves,1,1,0,0.661542830943,2016-11-28
+256,Oklahoma City Thunder,0,New York Knicks,1,1,0,0.703437116125,2016-11-28
+257,Philadelphia 76ers,0,Toronto Raptors,1,1,1,0.966182556987,2016-11-28
+258,Sacramento Kings,0,Washington Wizards,1,1,1,0.720444206034,2016-11-28
+259,Los Angeles Clippers,0,Brooklyn Nets,1,1,0,0.954366982462,2016-11-29
+260,Detroit Pistons,0,Charlotte Hornets,1,1,1,0.798084042371,2016-11-29
+261,Cleveland Cavaliers,0,Milwaukee Bucks,1,1,0,0.601401805731,2016-11-29
+262,Los Angeles Lakers,0,New Orleans Pelicans,1,1,0,0.71178080674,2016-11-29
+263,Orlando Magic,0,San Antonio Spurs,1,1,1,0.973835629219,2016-11-29
+264,Houston Rockets,0,Utah Jazz,1,1,1,0.743370692569,2016-11-29
+265,Detroit Pistons,0,Boston Celtics,1,1,0,0.561564447138,2016-11-30
+266,Los Angeles Lakers,0,Chicago Bulls,1,1,1,0.642285367926,2016-11-30
+267,San Antonio Spurs,0,Dallas Mavericks,1,1,0,0.796468900205,2016-11-30
+268,Miami Heat,0,Denver Nuggets,1,1,1,0.575121144451,2016-11-30
+269,New York Knicks,0,Minnesota Timberwolves,1,1,1,0.699441775554,2016-11-30
+270,Washington Wizards,0,Oklahoma City Thunder,1,1,1,0.84080435634,2016-11-30
+271,Sacramento Kings,0,Philadelphia 76ers,1,1,0,0.616418777126,2016-11-30
+272,Atlanta Hawks,0,Phoenix Suns,1,1,0,0.80328096079,2016-11-30
+273,Indiana Pacers,0,Portland Trail Blazers,1,1,1,0.769353654202,2016-11-30
+274,Memphis Grizzlies,0,Toronto Raptors,1,1,1,0.930532459026,2016-11-30
+275,Milwaukee Bucks,0,Brooklyn Nets,1,1,0,0.503216603952,2016-12-01
+276,Dallas Mavericks,0,Charlotte Hornets,1,1,1,0.902571363198,2016-12-01
+277,Los Angeles Clippers,0,Cleveland Cavaliers,1,1,0,0.808594111498,2016-12-01
+278,Houston Rockets,0,Golden State Warriors,1,1,1,0.72080564537,2016-12-01
+279,Orlando Magic,0,Memphis Grizzlies,1,1,1,0.812118803106,2016-12-01
+280,Miami Heat,0,Utah Jazz,1,1,1,0.806933991884,2016-12-01
+281,Detroit Pistons,0,Atlanta Hawks,1,1,1,0.863505180991,2016-12-02
+282,Sacramento Kings,0,Boston Celtics,1,1,1,0.622612774007,2016-12-02
+283,Cleveland Cavaliers,0,Chicago Bulls,1,1,0,0.501182405263,2016-12-02
+284,Houston Rockets,0,Denver Nuggets,1,1,0,0.51596230724,2016-12-02
+285,Los Angeles Clippers,0,New Orleans Pelicans,1,1,0,0.971325302279,2016-12-02
+286,Minnesota Timberwolves,0,New York Knicks,1,1,1,0.58192941355,2016-12-02
+287,Orlando Magic,0,Philadelphia 76ers,1,1,1,0.669595933091,2016-12-02
+288,Washington Wizards,0,San Antonio Spurs,1,1,1,0.888658855064,2016-12-02
+289,Los Angeles Lakers,0,Toronto Raptors,1,1,1,0.799160171983,2016-12-02
+290,Minnesota Timberwolves,0,Charlotte Hornets,1,1,1,0.867771378723,2016-12-03
+291,Chicago Bulls,0,Dallas Mavericks,1,1,0,0.604160961309,2016-12-03
+292,Phoenix Suns,0,Golden State Warriors,1,1,1,0.876634376099,2016-12-03
+293,Los Angeles Lakers,0,Memphis Grizzlies,1,1,0,0.651621356946,2016-12-03
+294,Brooklyn Nets,0,Milwaukee Bucks,1,1,1,0.766420149285,2016-12-03
+295,Boston Celtics,0,Philadelphia 76ers,1,1,0,0.595646577688,2016-12-03
+296,Miami Heat,0,Portland Trail Blazers,1,1,1,0.605068639707,2016-12-03
+297,Atlanta Hawks,0,Toronto Raptors,1,1,1,0.570801242277,2016-12-03
+298,Denver Nuggets,0,Utah Jazz,1,1,1,0.847497005378,2016-12-03
+299,Orlando Magic,0,Detroit Pistons,1,1,1,0.925295301264,2016-12-04
+300,Indiana Pacers,0,Los Angeles Clippers,1,1,1,0.985756932448,2016-12-04
+301,Sacramento Kings,0,New York Knicks,1,1,1,0.639185800955,2016-12-04
+302,New Orleans Pelicans,0,Oklahoma City Thunder,1,1,1,0.931225130525,2016-12-04
+303,Oklahoma City Thunder,0,Atlanta Hawks,1,1,1,0.760846987629,2016-12-05
+304,Washington Wizards,0,Brooklyn Nets,1,1,1,0.53207139723,2016-12-05
+305,Portland Trail Blazers,0,Chicago Bulls,1,1,1,0.730896125026,2016-12-05
+306,Charlotte Hornets,0,Dallas Mavericks,1,1,0,0.740926120533,2016-12-05
+307,Indiana Pacers,0,Golden State Warriors,1,1,1,0.890235043513,2016-12-05
+308,Boston Celtics,0,Houston Rockets,1,1,1,0.845243919396,2016-12-05
+309,Utah Jazz,0,Los Angeles Lakers,1,1,0,0.500508273617,2016-12-05
+310,San Antonio Spurs,0,Milwaukee Bucks,1,1,0,0.681450572768,2016-12-05
+311,Memphis Grizzlies,0,New Orleans Pelicans,1,1,1,0.576835208847,2016-12-05
+312,Denver Nuggets,0,Philadelphia 76ers,1,1,0,0.699711068773,2016-12-05
+313,Cleveland Cavaliers,0,Toronto Raptors,1,1,1,0.688051782245,2016-12-05
+314,Chicago Bulls,0,Detroit Pistons,1,1,1,0.605618667787,2016-12-06
+315,Philadelphia 76ers,0,Memphis Grizzlies,1,1,1,0.793335364664,2016-12-06
+316,New York Knicks,0,Miami Heat,1,1,1,0.77901723181,2016-12-06
+317,San Antonio Spurs,0,Minnesota Timberwolves,1,1,0,0.734901997022,2016-12-06
+318,Phoenix Suns,0,Utah Jazz,1,1,1,0.888552320181,2016-12-06
+319,Orlando Magic,0,Washington Wizards,1,1,1,0.893537866876,2016-12-06
+320,Miami Heat,0,Atlanta Hawks,1,1,1,0.873960452458,2016-12-07
+321,Denver Nuggets,0,Brooklyn Nets,1,1,1,0.528945317918,2016-12-07
+322,Detroit Pistons,0,Charlotte Hornets,1,1,1,0.798084042371,2016-12-07
+323,Sacramento Kings,0,Dallas Mavericks,1,1,1,0.618708823973,2016-12-07
+324,Los Angeles Lakers,0,Houston Rockets,1,1,1,0.668516007181,2016-12-07
+325,Golden State Warriors,0,Los Angeles Clippers,1,1,1,0.938869482829,2016-12-07
+326,Portland Trail Blazers,0,Milwaukee Bucks,1,1,1,0.643960137225,2016-12-07
+327,Cleveland Cavaliers,0,New York Knicks,1,1,0,0.716562125941,2016-12-07
+328,Boston Celtics,0,Orlando Magic,1,1,0,0.623879184708,2016-12-07
+329,Indiana Pacers,0,Phoenix Suns,1,1,1,0.672579856824,2016-12-07
+330,San Antonio Spurs,0,Chicago Bulls,1,1,0,0.587554832819,2016-12-08
+331,Portland Trail Blazers,0,Memphis Grizzlies,1,1,0,0.552875798496,2016-12-08
+332,Philadelphia 76ers,0,New Orleans Pelicans,1,1,1,0.744078095227,2016-12-08
+333,Minnesota Timberwolves,0,Toronto Raptors,1,1,1,0.885866531542,2016-12-08
+334,Golden State Warriors,0,Utah Jazz,1,1,1,0.66880179703,2016-12-08
+335,Denver Nuggets,0,Washington Wizards,1,1,1,0.63994348882,2016-12-08
+336,Toronto Raptors,0,Boston Celtics,1,1,0,0.768881797278,2016-12-09
+337,Orlando Magic,0,Charlotte Hornets,1,1,1,0.964540558152,2016-12-09
+338,Miami Heat,0,Cleveland Cavaliers,1,1,1,0.806984419782,2016-12-09
+339,Indiana Pacers,0,Dallas Mavericks,1,1,1,0.64695156,2016-12-09
+340,Phoenix Suns,0,Los Angeles Lakers,1,1,1,0.815527573247,2016-12-09
+341,Atlanta Hawks,0,Milwaukee Bucks,1,1,0,0.714474373363,2016-12-09
+342,Detroit Pistons,0,Minnesota Timberwolves,1,1,1,0.520148190611,2016-12-09
+343,Houston Rockets,0,Oklahoma City Thunder,1,1,1,0.73108474788,2016-12-09
+344,New York Knicks,0,Sacramento Kings,1,1,1,0.646458446282,2016-12-09
+345,Miami Heat,0,Chicago Bulls,1,1,1,0.69807203851,2016-12-10
+346,Charlotte Hornets,0,Cleveland Cavaliers,1,1,1,0.634626126478,2016-12-10
+347,Dallas Mavericks,0,Houston Rockets,1,1,1,0.847400501056,2016-12-10
+348,Portland Trail Blazers,0,Indiana Pacers,1,1,0,0.50733078798,2016-12-10
+349,New Orleans Pelicans,0,Los Angeles Clippers,1,1,1,0.990968696534,2016-12-10
+350,Golden State Warriors,0,Memphis Grizzlies,1,1,0,0.75040547349,2016-12-10
+351,Denver Nuggets,0,Orlando Magic,1,1,0,0.724043954691,2016-12-10
+352,Brooklyn Nets,0,San Antonio Spurs,1,1,1,0.926649261482,2016-12-10
+353,Sacramento Kings,0,Utah Jazz,1,1,1,0.889598869143,2016-12-10
+354,Milwaukee Bucks,0,Washington Wizards,1,1,1,0.609769020873,2016-12-10
+355,Philadelphia 76ers,0,Detroit Pistons,1,1,1,0.916665638309,2016-12-11
+356,New York Knicks,0,Los Angeles Lakers,1,1,1,0.819473597922,2016-12-11
+357,Golden State Warriors,0,Minnesota Timberwolves,1,1,0,0.635312548559,2016-12-11
+358,Boston Celtics,0,Oklahoma City Thunder,1,1,1,0.891894300706,2016-12-11
+359,New Orleans Pelicans,0,Phoenix Suns,1,1,1,0.76507784789,2016-12-11
+360,Denver Nuggets,0,Dallas Mavericks,1,1,1,0.528101414668,2016-12-12
+361,Brooklyn Nets,0,Houston Rockets,1,1,1,0.846962050058,2016-12-12
+362,Charlotte Hornets,0,Indiana Pacers,1,1,0,0.744365565839,2016-12-12
+363,Portland Trail Blazers,0,Los Angeles Clippers,1,1,1,0.973919589982,2016-12-12
+364,Washington Wizards,0,Miami Heat,1,1,1,0.707880927619,2016-12-12
+365,Los Angeles Lakers,0,Sacramento Kings,1,1,0,0.579715909053,2016-12-12
+366,Milwaukee Bucks,0,Toronto Raptors,1,1,1,0.856928043552,2016-12-12
+367,Orlando Magic,0,Atlanta Hawks,1,1,1,0.977546804132,2016-12-13
+368,Minnesota Timberwolves,0,Chicago Bulls,1,1,1,0.777894986692,2016-12-13
+369,Memphis Grizzlies,0,Cleveland Cavaliers,1,1,1,0.916179939616,2016-12-13
+370,Golden State Warriors,0,New Orleans Pelicans,1,1,0,0.798774258382,2016-12-13
+371,New York Knicks,0,Phoenix Suns,1,1,1,0.648880028233,2016-12-13
+372,Oklahoma City Thunder,0,Portland Trail Blazers,1,1,0,0.587219029011,2016-12-13
+373,Los Angeles Lakers,0,Brooklyn Nets,1,1,0,0.603918479972,2016-12-14
+374,Detroit Pistons,0,Dallas Mavericks,1,1,0,0.56564273093,2016-12-14
+375,Sacramento Kings,0,Houston Rockets,1,1,1,0.833516607571,2016-12-14
+376,Cleveland Cavaliers,0,Memphis Grizzlies,1,1,0,0.771394215333,2016-12-14
+377,Indiana Pacers,0,Miami Heat,1,1,1,0.796685381642,2016-12-14
+378,Los Angeles Clippers,0,Orlando Magic,1,1,0,0.984029901102,2016-12-14
+379,Toronto Raptors,0,Philadelphia 76ers,1,1,0,0.89816831053,2016-12-14
+380,Boston Celtics,0,San Antonio Spurs,1,1,1,0.925747333306,2016-12-14
+381,Oklahoma City Thunder,0,Utah Jazz,1,1,1,0.657258084806,2016-12-14
+382,Charlotte Hornets,0,Washington Wizards,1,1,0,0.642950430152,2016-12-14
+383,Portland Trail Blazers,0,Denver Nuggets,1,1,1,0.613919202714,2016-12-15
+384,New York Knicks,0,Golden State Warriors,1,1,1,0.87946646455,2016-12-15
+385,Chicago Bulls,0,Milwaukee Bucks,1,1,1,0.545149233431,2016-12-15
+386,Indiana Pacers,0,New Orleans Pelicans,1,1,1,0.531663379047,2016-12-15
+387,San Antonio Spurs,0,Phoenix Suns,1,1,0,0.77732734106,2016-12-15
+388,Charlotte Hornets,0,Boston Celtics,1,1,0,0.737730522645,2016-12-16
+389,Milwaukee Bucks,0,Chicago Bulls,1,1,1,0.729926506253,2016-12-16
+390,New Orleans Pelicans,0,Houston Rockets,1,1,1,0.899637160775,2016-12-16
+391,Sacramento Kings,0,Memphis Grizzlies,1,1,1,0.570306932986,2016-12-16
+392,Los Angeles Clippers,0,Miami Heat,1,1,0,0.907523450608,2016-12-16
+393,Brooklyn Nets,0,Orlando Magic,1,1,0,0.620777921512,2016-12-16
+394,Los Angeles Lakers,0,Philadelphia 76ers,1,1,0,0.799576954604,2016-12-16
+395,Atlanta Hawks,0,Toronto Raptors,1,1,1,0.570801242277,2016-12-16
+396,Dallas Mavericks,0,Utah Jazz,1,1,1,0.899370426022,2016-12-16
+397,Detroit Pistons,0,Washington Wizards,1,1,1,0.549462540329,2016-12-16
+398,Charlotte Hornets,0,Atlanta Hawks,1,1,1,0.742312146877,2016-12-17
+399,Los Angeles Lakers,0,Cleveland Cavaliers,1,1,1,0.764533420188,2016-12-17
+400,New York Knicks,0,Denver Nuggets,1,1,1,0.726125938097,2016-12-17
+401,Indiana Pacers,0,Detroit Pistons,1,1,1,0.811139497134,2016-12-17
+402,Portland Trail Blazers,0,Golden State Warriors,1,1,1,0.813990202386,2016-12-17
+403,Houston Rockets,0,Minnesota Timberwolves,1,1,0,0.548419033415,2016-12-17
+404,Phoenix Suns,0,Oklahoma City Thunder,1,1,1,0.88211462169,2016-12-17
+405,Sacramento Kings,0,Dallas Mavericks,1,1,1,0.618708823973,2016-12-18
+406,Utah Jazz,0,Memphis Grizzlies,1,1,0,0.77133712377,2016-12-18
+407,Boston Celtics,0,Miami Heat,1,1,1,0.7910270734,2016-12-18
+408,Toronto Raptors,0,Orlando Magic,1,1,0,0.908522304481,2016-12-18
+409,Brooklyn Nets,0,Philadelphia 76ers,1,1,0,0.592464589846,2016-12-18
+410,New Orleans Pelicans,0,San Antonio Spurs,1,1,1,0.953405247493,2016-12-18
+411,Los Angeles Clippers,0,Washington Wizards,1,1,0,0.929642371105,2016-12-18
+412,Detroit Pistons,0,Chicago Bulls,1,1,1,0.678395450518,2016-12-19
+413,Dallas Mavericks,0,Denver Nuggets,1,1,1,0.743228260382,2016-12-19
+414,Washington Wizards,0,Indiana Pacers,1,1,1,0.526744235596,2016-12-19
+415,Phoenix Suns,0,Minnesota Timberwolves,1,1,1,0.693852236056,2016-12-19
+416,Atlanta Hawks,0,Oklahoma City Thunder,1,1,1,0.504502685314,2016-12-19
+417,Los Angeles Lakers,0,Charlotte Hornets,1,1,1,0.770873812836,2016-12-20
+418,Utah Jazz,0,Golden State Warriors,1,1,1,0.615991666311,2016-12-20
+419,San Antonio Spurs,0,Houston Rockets,1,1,0,0.559142492859,2016-12-20
+420,Denver Nuggets,0,Los Angeles Clippers,1,1,1,0.976887493004,2016-12-20
+421,Boston Celtics,0,Memphis Grizzlies,1,1,1,0.591488098705,2016-12-20
+422,Orlando Magic,0,Miami Heat,1,1,1,0.918702253368,2016-12-20
+423,Cleveland Cavaliers,0,Milwaukee Bucks,1,1,0,0.601401805731,2016-12-20
+424,Indiana Pacers,0,New York Knicks,1,1,1,0.666728790462,2016-12-20
+425,New Orleans Pelicans,0,Philadelphia 76ers,1,1,1,0.526990306956,2016-12-20
+426,Portland Trail Blazers,0,Sacramento Kings,1,1,1,0.523051012962,2016-12-20
+427,Brooklyn Nets,0,Toronto Raptors,1,1,1,0.916103297273,2016-12-20
+428,Minnesota Timberwolves,0,Atlanta Hawks,1,1,1,0.913072970707,2016-12-21
+429,Washington Wizards,0,Chicago Bulls,1,1,1,0.756866882007,2016-12-21
+430,Milwaukee Bucks,0,Cleveland Cavaliers,1,1,1,0.830144164574,2016-12-21
+431,Memphis Grizzlies,0,Detroit Pistons,1,1,1,0.837589779649,2016-12-21
+432,Oklahoma City Thunder,0,New Orleans Pelicans,1,1,0,0.80695159474,2016-12-21
+433,Houston Rockets,0,Phoenix Suns,1,1,0,0.604632745626,2016-12-21
+434,Dallas Mavericks,0,Portland Trail Blazers,1,1,1,0.766144788223,2016-12-21
+435,Sacramento Kings,0,Utah Jazz,1,1,1,0.889598869143,2016-12-21
+436,Golden State Warriors,0,Brooklyn Nets,1,1,0,0.710213554393,2016-12-22
+437,Boston Celtics,0,Indiana Pacers,1,1,1,0.634852714004,2016-12-22
+438,San Antonio Spurs,0,Los Angeles Clippers,1,1,1,0.906115722,2016-12-22
+439,Los Angeles Lakers,0,Miami Heat,1,1,1,0.582934917658,2016-12-22
+440,Orlando Magic,0,New York Knicks,1,1,1,0.852276070116,2016-12-22
+441,Oklahoma City Thunder,0,Boston Celtics,1,1,0,0.71806797689,2016-12-23
+442,Chicago Bulls,0,Charlotte Hornets,1,1,1,0.771292647392,2016-12-23
+443,Brooklyn Nets,0,Cleveland Cavaliers,1,1,1,0.899092882977,2016-12-23
+444,Atlanta Hawks,0,Denver Nuggets,1,1,0,0.740004666698,2016-12-23
+445,Golden State Warriors,0,Detroit Pistons,1,1,0,0.512008403358,2016-12-23
+446,Dallas Mavericks,0,Los Angeles Clippers,1,1,1,0.985502041031,2016-12-23
+447,Houston Rockets,0,Memphis Grizzlies,1,1,0,0.676992480609,2016-12-23
+448,Washington Wizards,0,Milwaukee Bucks,1,1,1,0.67458546599,2016-12-23
+449,Sacramento Kings,0,Minnesota Timberwolves,1,1,1,0.69610179898,2016-12-23
+450,Miami Heat,0,New Orleans Pelicans,1,1,0,0.65728353844,2016-12-23
+451,Los Angeles Lakers,0,Orlando Magic,1,1,0,0.81792330153,2016-12-23
+452,Philadelphia 76ers,0,Phoenix Suns,1,1,1,0.840281906174,2016-12-23
+453,San Antonio Spurs,0,Portland Trail Blazers,1,1,0,0.682518531988,2016-12-23
+454,Toronto Raptors,0,Utah Jazz,1,1,1,0.594834916201,2016-12-23
+455,Golden State Warriors,0,Cleveland Cavaliers,1,1,1,0.668873499126,2016-12-25
+456,Los Angeles Clippers,0,Los Angeles Lakers,1,1,0,0.884006228484,2016-12-25
+457,Boston Celtics,0,New York Knicks,1,1,1,0.659001788194,2016-12-25
+458,Minnesota Timberwolves,0,Oklahoma City Thunder,1,1,1,0.855954505182,2016-12-25
+459,Chicago Bulls,0,San Antonio Spurs,1,1,1,0.821890147575,2016-12-25
+460,Charlotte Hornets,0,Brooklyn Nets,1,1,0,0.740275510114,2016-12-26
+461,Indiana Pacers,0,Chicago Bulls,1,1,1,0.834266125675,2016-12-26
+462,Cleveland Cavaliers,0,Detroit Pistons,1,1,0,0.540776079935,2016-12-26
+463,Phoenix Suns,0,Houston Rockets,1,1,1,0.832038801248,2016-12-26
+464,Denver Nuggets,0,Los Angeles Clippers,1,1,1,0.976887493004,2016-12-26
+465,Atlanta Hawks,0,Minnesota Timberwolves,1,1,0,0.764301130259,2016-12-26
+466,Dallas Mavericks,0,New Orleans Pelicans,1,1,1,0.527179941295,2016-12-26
+467,Memphis Grizzlies,0,Orlando Magic,1,1,0,0.571628103275,2016-12-26
+468,Toronto Raptors,0,Portland Trail Blazers,1,1,0,0.650125405031,2016-12-26
+469,Philadelphia 76ers,0,Sacramento Kings,1,1,1,0.838852542412,2016-12-26
+470,Milwaukee Bucks,0,Washington Wizards,1,1,1,0.609769020873,2016-12-26
+471,Memphis Grizzlies,0,Boston Celtics,1,1,1,0.691089856635,2016-12-27
+472,Houston Rockets,0,Dallas Mavericks,1,1,0,0.631583638621,2016-12-27
+473,Utah Jazz,0,Los Angeles Lakers,1,1,0,0.500508273617,2016-12-27
+474,Oklahoma City Thunder,0,Miami Heat,1,1,0,0.547714544707,2016-12-27
+475,New York Knicks,0,Atlanta Hawks,1,1,1,0.931420543961,2016-12-28
+476,Brooklyn Nets,0,Chicago Bulls,1,1,1,0.831288435476,2016-12-28
+477,Minnesota Timberwolves,0,Denver Nuggets,1,1,1,0.672184961795,2016-12-28
+478,Milwaukee Bucks,0,Detroit Pistons,1,1,1,0.697519150895,2016-12-28
+479,Toronto Raptors,0,Golden State Warriors,1,1,1,0.566820020607,2016-12-28
+480,Los Angeles Clippers,0,New Orleans Pelicans,1,1,0,0.971325302279,2016-12-28
+481,Charlotte Hornets,0,Orlando Magic,1,1,0,0.893587612399,2016-12-28
+482,Sacramento Kings,0,Portland Trail Blazers,1,1,1,0.747074602026,2016-12-28
+483,Phoenix Suns,0,San Antonio Spurs,1,1,1,0.918751153824,2016-12-28
+484,Indiana Pacers,0,Washington Wizards,1,1,1,0.744266026122,2016-12-28
+485,Miami Heat,0,Charlotte Hornets,1,1,1,0.812462130326,2016-12-29
+486,Boston Celtics,0,Cleveland Cavaliers,1,1,1,0.897889456218,2016-12-29
+487,Dallas Mavericks,0,Los Angeles Lakers,1,1,1,0.832094646047,2016-12-29
+488,Oklahoma City Thunder,0,Memphis Grizzlies,1,1,0,0.75995771572,2016-12-29
+489,Toronto Raptors,0,Phoenix Suns,1,1,0,0.751079700186,2016-12-29
+490,Philadelphia 76ers,0,Utah Jazz,1,1,1,0.958857286722,2016-12-29
+491,Detroit Pistons,0,Atlanta Hawks,1,1,1,0.863505180991,2016-12-30
+492,Miami Heat,0,Boston Celtics,1,1,0,0.53886831042,2016-12-30
+493,Philadelphia 76ers,0,Denver Nuggets,1,1,1,0.883011471369,2016-12-30
+494,Dallas Mavericks,0,Golden State Warriors,1,1,1,0.888464128351,2016-12-30
+495,Los Angeles Clippers,0,Houston Rockets,1,1,0,0.871816569717,2016-12-30
+496,Chicago Bulls,0,Indiana Pacers,1,1,0,0.608456589927,2016-12-30
+497,Milwaukee Bucks,0,Minnesota Timberwolves,1,1,1,0.581389117744,2016-12-30
+498,New York Knicks,0,New Orleans Pelicans,1,1,1,0.505266416583,2016-12-30
+499,Portland Trail Blazers,0,San Antonio Spurs,1,1,1,0.874430141667,2016-12-30
+500,Brooklyn Nets,0,Washington Wizards,1,1,1,0.740174933704,2016-12-30
+501,Milwaukee Bucks,0,Chicago Bulls,1,1,1,0.729926506253,2016-12-31
+502,Cleveland Cavaliers,0,Charlotte Hornets,1,1,1,0.650951674162,2016-12-31
+503,New York Knicks,0,Houston Rockets,1,1,1,0.835702790471,2016-12-31
+504,Los Angeles Clippers,0,Oklahoma City Thunder,1,1,0,0.818267521579,2016-12-31
+505,Memphis Grizzlies,0,Sacramento Kings,1,1,1,0.709351469973,2016-12-31
+506,Phoenix Suns,0,Utah Jazz,1,1,1,0.888552320181,2016-12-31
+507,San Antonio Spurs,0,Atlanta Hawks,1,1,1,0.677965832016,2017-01-01
+508,Orlando Magic,0,Indiana Pacers,1,1,1,0.838459246461,2017-01-01
+509,Toronto Raptors,0,Los Angeles Lakers,1,1,0,0.551247837298,2017-01-01
+510,Detroit Pistons,0,Miami Heat,1,1,1,0.621505638389,2017-01-01
+511,Portland Trail Blazers,0,Minnesota Timberwolves,1,1,1,0.582587056841,2017-01-01
+512,Utah Jazz,0,Brooklyn Nets,1,1,0,0.733317947268,2017-01-02
+513,Charlotte Hornets,0,Chicago Bulls,1,1,0,0.510069810208,2017-01-02
+514,New Orleans Pelicans,0,Cleveland Cavaliers,1,1,1,0.93519761452,2017-01-02
+515,Denver Nuggets,0,Golden State Warriors,1,1,1,0.832018704782,2017-01-02
+516,Washington Wizards,0,Houston Rockets,1,1,1,0.777604714572,2017-01-02
+517,Phoenix Suns,0,Los Angeles Clippers,1,1,1,0.983776418268,2017-01-02
+518,Oklahoma City Thunder,0,Milwaukee Bucks,1,1,0,0.58602493727,2017-01-02
+519,Orlando Magic,0,New York Knicks,1,1,1,0.852276070116,2017-01-02
+520,Utah Jazz,0,Boston Celtics,1,1,0,0.730729582541,2017-01-03
+521,Washington Wizards,0,Dallas Mavericks,1,1,1,0.531228131092,2017-01-03
+522,Sacramento Kings,0,Denver Nuggets,1,1,1,0.722965041789,2017-01-03
+523,Indiana Pacers,0,Detroit Pistons,1,1,1,0.811139497134,2017-01-03
+524,Memphis Grizzlies,0,Los Angeles Lakers,1,1,1,0.858333089803,2017-01-03
+525,Minnesota Timberwolves,0,Philadelphia 76ers,1,1,0,0.671617157087,2017-01-03
+526,Miami Heat,0,Phoenix Suns,1,1,0,0.51453555192,2017-01-03
+527,Toronto Raptors,0,San Antonio Spurs,1,1,1,0.675561831326,2017-01-03
+528,Oklahoma City Thunder,0,Charlotte Hornets,1,1,1,0.665294289329,2017-01-04
+529,Chicago Bulls,0,Cleveland Cavaliers,1,1,1,0.764960310958,2017-01-04
+530,Portland Trail Blazers,0,Golden State Warriors,1,1,1,0.813990202386,2017-01-04
+531,Memphis Grizzlies,0,Los Angeles Clippers,1,1,1,0.98811017509,2017-01-04
+532,Milwaukee Bucks,0,New York Knicks,1,1,1,0.517869229054,2017-01-04
+533,Atlanta Hawks,0,Orlando Magic,1,1,0,0.930750368253,2017-01-04
+534,Miami Heat,0,Sacramento Kings,1,1,0,0.517185872331,2017-01-04
+535,Phoenix Suns,0,Dallas Mavericks,1,1,1,0.616202235441,2017-01-05
+536,San Antonio Spurs,0,Denver Nuggets,1,1,0,0.708729911834,2017-01-05
+537,Charlotte Hornets,0,Detroit Pistons,1,1,0,0.549592017446,2017-01-05
+538,Oklahoma City Thunder,0,Houston Rockets,1,1,1,0.543689999648,2017-01-05
+539,Brooklyn Nets,0,Indiana Pacers,1,1,1,0.637906012669,2017-01-05
+540,Atlanta Hawks,0,New Orleans Pelicans,1,1,0,0.880795131458,2017-01-05
+541,Los Angeles Lakers,0,Portland Trail Blazers,1,1,1,0.543339275968,2017-01-05
+542,Utah Jazz,0,Toronto Raptors,1,1,1,0.688121260256,2017-01-05
+543,Philadelphia 76ers,0,Boston Celtics,1,1,1,0.826740176157,2017-01-06
+544,Cleveland Cavaliers,0,Brooklyn Nets,1,1,0,0.73338125015,2017-01-06
+545,Memphis Grizzlies,0,Golden State Warriors,1,1,1,0.906879557789,2017-01-06
+546,Miami Heat,0,Los Angeles Lakers,1,1,1,0.698571915381,2017-01-06
+547,New York Knicks,0,Milwaukee Bucks,1,1,1,0.750977523208,2017-01-06
+548,Houston Rockets,0,Orlando Magic,1,1,0,0.834263677288,2017-01-06
+549,Los Angeles Clippers,0,Sacramento Kings,1,1,0,0.94979849573,2017-01-06
+550,Minnesota Timberwolves,0,Washington Wizards,1,1,1,0.669413347056,2017-01-06
+551,New Orleans Pelicans,0,Boston Celtics,1,1,1,0.747079130215,2017-01-07
+552,Toronto Raptors,0,Chicago Bulls,1,1,0,0.551834737389,2017-01-07
+553,Atlanta Hawks,0,Dallas Mavericks,1,1,0,0.820706075062,2017-01-07
+554,New York Knicks,0,Indiana Pacers,1,1,1,0.618199542817,2017-01-07
+555,Utah Jazz,0,Minnesota Timberwolves,1,1,0,0.661542830943,2017-01-07
+556,Denver Nuggets,0,Oklahoma City Thunder,1,1,1,0.839117168609,2017-01-07
+557,Detroit Pistons,0,Portland Trail Blazers,1,1,1,0.582952058628,2017-01-07
+558,Charlotte Hornets,0,San Antonio Spurs,1,1,1,0.711206635456,2017-01-07
+559,Philadelphia 76ers,0,Brooklyn Nets,1,1,1,0.824841968973,2017-01-08
+560,Miami Heat,0,Los Angeles Clippers,1,1,1,0.969501491919,2017-01-08
+561,Orlando Magic,0,Los Angeles Lakers,1,1,1,0.935696702934,2017-01-08
+562,Utah Jazz,0,Memphis Grizzlies,1,1,0,0.77133712377,2017-01-08
+563,Washington Wizards,0,Milwaukee Bucks,1,1,1,0.67458546599,2017-01-08
+564,Cleveland Cavaliers,0,Phoenix Suns,1,1,0,0.711159494827,2017-01-08
+565,Golden State Warriors,0,Sacramento Kings,1,1,0,0.689163085345,2017-01-08
+566,Houston Rockets,0,Toronto Raptors,1,1,1,0.780270399282,2017-01-08
+567,Oklahoma City Thunder,0,Chicago Bulls,1,1,1,0.514751507463,2017-01-09
+568,Dallas Mavericks,0,Minnesota Timberwolves,1,1,1,0.717562275824,2017-01-09
+569,New Orleans Pelicans,0,New York Knicks,1,1,1,0.760290620855,2017-01-09
+570,Atlanta Hawks,0,Brooklyn Nets,1,1,0,0.820207198438,2017-01-10
+571,Miami Heat,0,Golden State Warriors,1,1,1,0.788366811145,2017-01-10
+572,Charlotte Hornets,0,Houston Rockets,1,1,1,0.51896564134,2017-01-10
+573,Portland Trail Blazers,0,Los Angeles Lakers,1,1,1,0.731362570914,2017-01-10
+574,Detroit Pistons,0,Sacramento Kings,1,1,0,0.54003827548,2017-01-10
+575,Milwaukee Bucks,0,San Antonio Spurs,1,1,1,0.873888460996,2017-01-10
+576,Boston Celtics,0,Toronto Raptors,1,1,1,0.915083577952,2017-01-10
+577,Cleveland Cavaliers,0,Utah Jazz,1,1,1,0.64275601981,2017-01-10
+578,Chicago Bulls,0,Washington Wizards,1,1,1,0.509939102449,2017-01-10
+579,Washington Wizards,0,Boston Celtics,1,1,1,0.535355116836,2017-01-11
+580,Orlando Magic,0,Los Angeles Clippers,1,1,1,0.995014770102,2017-01-11
+581,Houston Rockets,0,Minnesota Timberwolves,1,1,0,0.548419033415,2017-01-11
+582,Memphis Grizzlies,0,Oklahoma City Thunder,1,1,1,0.911152400384,2017-01-11
+583,New York Knicks,0,Philadelphia 76ers,1,1,0,0.61266711295,2017-01-11
+584,Cleveland Cavaliers,0,Portland Trail Blazers,1,1,0,0.602581622604,2017-01-11
+585,New Orleans Pelicans,0,Brooklyn Nets,1,1,1,0.744577807378,2017-01-12
+586,Indiana Pacers,0,Denver Nuggets,1,1,1,0.746647593383,2017-01-12
+587,Detroit Pistons,0,Golden State Warriors,1,1,1,0.772658308649,2017-01-12
+588,Chicago Bulls,0,New York Knicks,1,1,0,0.582993054433,2017-01-12
+589,Dallas Mavericks,0,Phoenix Suns,1,1,1,0.66860456623,2017-01-12
+590,Los Angeles Lakers,0,San Antonio Spurs,1,1,1,0.821542533716,2017-01-12
+591,Boston Celtics,0,Atlanta Hawks,1,1,1,0.935829933733,2017-01-13
+592,Memphis Grizzlies,0,Houston Rockets,1,1,1,0.871616146386,2017-01-13
+593,Miami Heat,0,Milwaukee Bucks,1,1,1,0.606244709176,2017-01-13
+594,Oklahoma City Thunder,0,Minnesota Timberwolves,1,1,0,0.647198645295,2017-01-13
+595,Charlotte Hornets,0,Philadelphia 76ers,1,1,0,0.881763212018,2017-01-13
+596,Orlando Magic,0,Portland Trail Blazers,1,1,1,0.905834584956,2017-01-13
+597,Cleveland Cavaliers,0,Sacramento Kings,1,1,0,0.713334426298,2017-01-13
+598,Brooklyn Nets,0,Toronto Raptors,1,1,1,0.916103297273,2017-01-13
+599,Detroit Pistons,0,Utah Jazz,1,1,1,0.792240454485,2017-01-13
+600,New Orleans Pelicans,0,Chicago Bulls,1,1,1,0.888649088095,2017-01-14
+601,Los Angeles Lakers,0,Los Angeles Clippers,1,1,1,0.961069455959,2017-01-14
+602,San Antonio Spurs,0,Phoenix Suns,1,1,0,0.77732734106,2017-01-14
+603,Orlando Magic,0,Utah Jazz,1,1,1,0.963292766384,2017-01-14
+604,Philadelphia 76ers,0,Washington Wizards,1,1,1,0.88170867058,2017-01-14
+605,Milwaukee Bucks,0,Atlanta Hawks,1,1,1,0.890177482573,2017-01-15
+606,Houston Rockets,0,Brooklyn Nets,1,1,0,0.630795266355,2017-01-15
+607,Minnesota Timberwolves,0,Dallas Mavericks,1,1,1,0.560437613047,2017-01-15
+608,Detroit Pistons,0,Los Angeles Lakers,1,1,1,0.678912920121,2017-01-15
+609,Chicago Bulls,0,Memphis Grizzlies,1,1,0,0.651082508496,2017-01-15
+610,Oklahoma City Thunder,0,Sacramento Kings,1,1,0,0.70012250273,2017-01-15
+611,New York Knicks,0,Toronto Raptors,1,1,1,0.909386653597,2017-01-15
+612,Charlotte Hornets,0,Boston Celtics,1,1,0,0.737730522645,2017-01-16
+613,Orlando Magic,0,Denver Nuggets,1,1,1,0.894725942124,2017-01-16
+614,Cleveland Cavaliers,0,Golden State Warriors,1,1,1,0.615915088671,2017-01-16
+615,New Orleans Pelicans,0,Indiana Pacers,1,1,1,0.740489963557,2017-01-16
+616,Oklahoma City Thunder,0,Los Angeles Clippers,1,1,1,0.935835736399,2017-01-16
+617,Philadelphia 76ers,0,Milwaukee Bucks,1,1,1,0.895672493525,2017-01-16
+618,Atlanta Hawks,0,New York Knicks,1,1,0,0.807427092384,2017-01-16
+619,Utah Jazz,0,Phoenix Suns,1,1,0,0.711092994316,2017-01-16
+620,Portland Trail Blazers,0,Washington Wizards,1,1,1,0.610940093322,2017-01-16
+621,Toronto Raptors,0,Brooklyn Nets,1,1,0,0.771218244427,2017-01-17
+622,Dallas Mavericks,0,Chicago Bulls,1,1,1,0.831762871426,2017-01-17
+623,Denver Nuggets,0,Los Angeles Lakers,1,1,1,0.75498898885,2017-01-17
+624,Houston Rockets,0,Miami Heat,1,1,1,0.555031755534,2017-01-17
+625,Minnesota Timberwolves,0,San Antonio Spurs,1,1,1,0.899797581622,2017-01-17
+626,New York Knicks,0,Boston Celtics,1,1,1,0.626326860014,2017-01-18
+627,Portland Trail Blazers,0,Charlotte Hornets,1,1,1,0.835775898625,2017-01-18
+628,Atlanta Hawks,0,Detroit Pistons,1,1,0,0.661362818078,2017-01-18
+629,Oklahoma City Thunder,0,Golden State Warriors,1,1,1,0.630881018271,2017-01-18
+630,Milwaukee Bucks,0,Houston Rockets,1,1,1,0.75220990171,2017-01-18
+631,Orlando Magic,0,New Orleans Pelicans,1,1,1,0.76601805513,2017-01-18
+632,Toronto Raptors,0,Philadelphia 76ers,1,1,0,0.89816831053,2017-01-18
+633,Indiana Pacers,0,Sacramento Kings,1,1,1,0.67023866018,2017-01-18
+634,Memphis Grizzlies,0,Washington Wizards,1,1,1,0.777513141408,2017-01-18
+635,Phoenix Suns,0,Cleveland Cavaliers,1,1,1,0.888584373248,2017-01-19
+636,Minnesota Timberwolves,0,Los Angeles Clippers,1,1,1,0.979655923566,2017-01-19
+637,Dallas Mavericks,0,Miami Heat,1,1,1,0.793754831637,2017-01-19
+638,Washington Wizards,0,New York Knicks,1,1,1,0.553009026538,2017-01-19
+639,Denver Nuggets,0,San Antonio Spurs,1,1,1,0.887410925491,2017-01-19
+640,Chicago Bulls,0,Atlanta Hawks,1,1,1,0.843694166928,2017-01-20
+641,Toronto Raptors,0,Charlotte Hornets,1,1,1,0.603451685846,2017-01-20
+642,Utah Jazz,0,Dallas Mavericks,1,1,0,0.733979723337,2017-01-20
+643,Golden State Warriors,0,Houston Rockets,1,1,1,0.556477583731,2017-01-20
+644,Indiana Pacers,0,Los Angeles Lakers,1,1,1,0.834593945413,2017-01-20
+645,Sacramento Kings,0,Memphis Grizzlies,1,1,1,0.570306932986,2017-01-20
+646,Brooklyn Nets,0,New Orleans Pelicans,1,1,1,0.526335707505,2017-01-20
+647,Milwaukee Bucks,0,Orlando Magic,1,1,0,0.749019161515,2017-01-20
+648,Portland Trail Blazers,0,Philadelphia 76ers,1,1,0,0.72507478397,2017-01-20
+649,Philadelphia 76ers,0,Atlanta Hawks,1,1,1,0.974788617953,2017-01-21
+650,Portland Trail Blazers,0,Boston Celtics,1,1,1,0.501313117646,2017-01-21
+651,Sacramento Kings,0,Chicago Bulls,1,1,1,0.816763872467,2017-01-21
+652,Brooklyn Nets,0,Charlotte Hornets,1,1,1,0.902273148762,2017-01-21
+653,San Antonio Spurs,0,Cleveland Cavaliers,1,1,1,0.559352170219,2017-01-21
+654,Los Angeles Clippers,0,Denver Nuggets,1,1,0,0.928816996749,2017-01-21
+655,Washington Wizards,0,Detroit Pistons,1,1,1,0.726480863957,2017-01-21
+656,Houston Rockets,0,Memphis Grizzlies,1,1,0,0.676992480609,2017-01-21
+657,Milwaukee Bucks,0,Miami Heat,1,1,1,0.677823160753,2017-01-21
+658,Phoenix Suns,0,New York Knicks,1,1,1,0.636734790162,2017-01-21
+659,Indiana Pacers,0,Utah Jazz,1,1,1,0.900987473949,2017-01-21
+660,Los Angeles Lakers,0,Dallas Mavericks,1,1,0,0.604728280519,2017-01-22
+661,Denver Nuggets,0,Minnesota Timberwolves,1,1,1,0.612363004951,2017-01-22
+662,Golden State Warriors,0,Orlando Magic,1,1,0,0.878354888075,2017-01-22
+663,Phoenix Suns,0,Toronto Raptors,1,1,1,0.90718338382,2017-01-22
+664,Los Angeles Clippers,0,Atlanta Hawks,1,1,0,0.718087539069,2017-01-23
+665,San Antonio Spurs,0,Brooklyn Nets,1,1,0,0.795919354461,2017-01-23
+666,Washington Wizards,0,Charlotte Hornets,1,1,1,0.853651583876,2017-01-23
+667,Sacramento Kings,0,Detroit Pistons,1,1,1,0.791804449787,2017-01-23
+668,New York Knicks,0,Indiana Pacers,1,1,1,0.618199542817,2017-01-23
+669,Golden State Warriors,0,Miami Heat,1,1,0,0.534885479487,2017-01-23
+670,Houston Rockets,0,Milwaukee Bucks,1,1,1,0.516220938789,2017-01-23
+671,Cleveland Cavaliers,0,New Orleans Pelicans,1,1,0,0.816689196742,2017-01-23
+672,Oklahoma City Thunder,0,Utah Jazz,1,1,1,0.657258084806,2017-01-23
+673,Utah Jazz,0,Denver Nuggets,1,1,0,0.631757316566,2017-01-24
+674,Chicago Bulls,0,Orlando Magic,1,1,0,0.8175696641,2017-01-24
+675,Los Angeles Clippers,0,Philadelphia 76ers,1,1,0,0.982053488058,2017-01-24
+676,Minnesota Timberwolves,0,Phoenix Suns,1,1,1,0.588350060436,2017-01-24
+677,San Antonio Spurs,0,Toronto Raptors,1,1,1,0.608709339893,2017-01-24
+678,Boston Celtics,0,Washington Wizards,1,1,1,0.737629310002,2017-01-24
+679,Houston Rockets,0,Boston Celtics,1,1,0,0.627717000356,2017-01-25
+680,Miami Heat,0,Brooklyn Nets,1,1,0,0.542145376829,2017-01-25
+681,Atlanta Hawks,0,Chicago Bulls,1,1,0,0.624955457184,2017-01-25
+682,Golden State Warriors,0,Charlotte Hornets,1,1,1,0.676700475209,2017-01-25
+683,Sacramento Kings,0,Cleveland Cavaliers,1,1,1,0.889630658603,2017-01-25
+684,New York Knicks,0,Dallas Mavericks,1,1,1,0.622438031907,2017-01-25
+685,Toronto Raptors,0,Memphis Grizzlies,1,1,0,0.805269024399,2017-01-25
+686,Philadelphia 76ers,0,Milwaukee Bucks,1,1,1,0.895672493525,2017-01-25
+687,Oklahoma City Thunder,0,New Orleans Pelicans,1,1,0,0.80695159474,2017-01-25
+688,Los Angeles Lakers,0,Portland Trail Blazers,1,1,1,0.543339275968,2017-01-25
+689,Phoenix Suns,0,Denver Nuggets,1,1,1,0.720834582631,2017-01-26
+690,Indiana Pacers,0,Minnesota Timberwolves,1,1,1,0.72119518068,2017-01-26
+691,Dallas Mavericks,0,Oklahoma City Thunder,1,1,1,0.893482716568,2017-01-26
+692,Los Angeles Lakers,0,Utah Jazz,1,1,1,0.764475138365,2017-01-26
+693,Washington Wizards,0,Atlanta Hawks,1,1,1,0.903251292606,2017-01-27
+694,Orlando Magic,0,Boston Celtics,1,1,1,0.843088007333,2017-01-27
+695,Miami Heat,0,Chicago Bulls,1,1,1,0.69807203851,2017-01-27
+696,Brooklyn Nets,0,Cleveland Cavaliers,1,1,1,0.899092882977,2017-01-27
+697,Sacramento Kings,0,Indiana Pacers,1,1,1,0.614454401995,2017-01-27
+698,San Antonio Spurs,0,New Orleans Pelicans,1,1,0,0.863328164395,2017-01-27
+699,Charlotte Hornets,0,New York Knicks,1,1,0,0.723727461263,2017-01-27
+700,Houston Rockets,0,Philadelphia 76ers,1,1,0,0.817195827864,2017-01-27
+701,Memphis Grizzlies,0,Portland Trail Blazers,1,1,1,0.800214719837,2017-01-27
+702,Milwaukee Bucks,0,Toronto Raptors,1,1,1,0.856928043552,2017-01-27
+703,Sacramento Kings,0,Charlotte Hornets,1,1,1,0.893073676858,2017-01-28
+704,Los Angeles Clippers,0,Golden State Warriors,1,1,0,0.825825430305,2017-01-28
+705,Detroit Pistons,0,Miami Heat,1,1,1,0.621505638389,2017-01-28
+706,Boston Celtics,0,Milwaukee Bucks,1,1,1,0.764049692862,2017-01-28
+707,Brooklyn Nets,0,Minnesota Timberwolves,1,1,1,0.716875412398,2017-01-28
+708,Denver Nuggets,0,Phoenix Suns,1,1,1,0.556442093144,2017-01-28
+709,Memphis Grizzlies,0,Utah Jazz,1,1,1,0.916155076392,2017-01-28
+710,New York Knicks,0,Atlanta Hawks,1,1,1,0.931420543961,2017-01-29
+711,Philadelphia 76ers,0,Chicago Bulls,1,1,1,0.928016964448,2017-01-29
+712,Oklahoma City Thunder,0,Cleveland Cavaliers,1,1,1,0.657331005574,2017-01-29
+713,Houston Rockets,0,Indiana Pacers,1,1,0,0.635761089558,2017-01-29
+714,Washington Wizards,0,New Orleans Pelicans,1,1,0,0.587530912291,2017-01-29
+715,Golden State Warriors,0,Portland Trail Blazers,1,1,0,0.574640283836,2017-01-29
+716,Dallas Mavericks,0,San Antonio Spurs,1,1,1,0.926879120103,2017-01-29
+717,Orlando Magic,0,Toronto Raptors,1,1,1,0.969853148964,2017-01-29
+718,Detroit Pistons,0,Boston Celtics,1,1,0,0.561564447138,2017-01-30
+719,Cleveland Cavaliers,0,Dallas Mavericks,1,1,0,0.734042926104,2017-01-30
+720,Brooklyn Nets,0,Miami Heat,1,1,1,0.793199860475,2017-01-30
+721,Orlando Magic,0,Minnesota Timberwolves,1,1,1,0.881794708487,2017-01-30
+722,Memphis Grizzlies,0,Phoenix Suns,1,1,1,0.711534493352,2017-01-30
+723,Sacramento Kings,0,Houston Rockets,1,1,1,0.833516607571,2017-01-31
+724,Denver Nuggets,0,Los Angeles Lakers,1,1,1,0.75498898885,2017-01-31
+725,Charlotte Hornets,0,Portland Trail Blazers,1,1,0,0.611064408789,2017-01-31
+726,Oklahoma City Thunder,0,San Antonio Spurs,1,1,1,0.731168555071,2017-01-31
+727,New Orleans Pelicans,0,Toronto Raptors,1,1,1,0.946483948379,2017-01-31
+728,New York Knicks,0,Washington Wizards,1,1,1,0.72362286917,2017-01-31
+729,Toronto Raptors,0,Boston Celtics,1,1,0,0.768881797278,2017-02-01
+730,New York Knicks,0,Brooklyn Nets,1,1,1,0.623233590737,2017-02-01
+731,Minnesota Timberwolves,0,Cleveland Cavaliers,1,1,1,0.863638028757,2017-02-01
+732,Philadelphia 76ers,0,Dallas Mavericks,1,1,1,0.824352137342,2017-02-01
+733,Memphis Grizzlies,0,Denver Nuggets,1,1,1,0.779676745028,2017-02-01
+734,New Orleans Pelicans,0,Detroit Pistons,1,1,1,0.871946298544,2017-02-01
+735,Charlotte Hornets,0,Golden State Warriors,1,1,1,0.607470137732,2017-02-01
+736,Atlanta Hawks,0,Miami Heat,1,1,0,0.681592392266,2017-02-01
+737,Chicago Bulls,0,Oklahoma City Thunder,1,1,1,0.753304876726,2017-02-01
+738,Indiana Pacers,0,Orlando Magic,1,1,0,0.615731293081,2017-02-01
+739,Los Angeles Clippers,0,Phoenix Suns,1,1,0,0.949290080329,2017-02-01
+740,Milwaukee Bucks,0,Utah Jazz,1,1,1,0.830098513543,2017-02-01
+741,Atlanta Hawks,0,Houston Rockets,1,1,0,0.597353945269,2017-02-02
+742,Golden State Warriors,0,Los Angeles Clippers,1,1,1,0.938869482829,2017-02-02
+743,Philadelphia 76ers,0,San Antonio Spurs,1,1,1,0.970635250911,2017-02-02
+744,Los Angeles Lakers,0,Washington Wizards,1,1,1,0.50934611959,2017-02-02
+745,Los Angeles Lakers,0,Boston Celtics,1,1,0,0.600757955882,2017-02-03
+746,Indiana Pacers,0,Brooklyn Nets,1,1,1,0.647724699677,2017-02-03
+747,Milwaukee Bucks,0,Denver Nuggets,1,1,1,0.61275141352,2017-02-03
+748,Minnesota Timberwolves,0,Detroit Pistons,1,1,1,0.749266387106,2017-02-03
+749,Chicago Bulls,0,Houston Rockets,1,1,1,0.669041617983,2017-02-03
+750,Memphis Grizzlies,0,Oklahoma City Thunder,1,1,1,0.911152400384,2017-02-03
+751,Toronto Raptors,0,Orlando Magic,1,1,0,0.908522304481,2017-02-03
+752,Dallas Mavericks,0,Portland Trail Blazers,1,1,1,0.766144788223,2017-02-03
+753,Phoenix Suns,0,Sacramento Kings,1,1,1,0.640390167256,2017-02-03
+754,Orlando Magic,0,Atlanta Hawks,1,1,1,0.977546804132,2017-02-04
+755,Detroit Pistons,0,Indiana Pacers,1,1,0,0.570058896283,2017-02-04
+756,Philadelphia 76ers,0,Miami Heat,1,1,1,0.909385565877,2017-02-04
+757,Memphis Grizzlies,0,Minnesota Timberwolves,1,1,1,0.756460203204,2017-02-04
+758,Cleveland Cavaliers,0,New York Knicks,1,1,0,0.716562125941,2017-02-04
+759,Milwaukee Bucks,0,Phoenix Suns,1,1,1,0.524469756939,2017-02-04
+760,Golden State Warriors,0,Sacramento Kings,1,1,0,0.689163085345,2017-02-04
+761,Denver Nuggets,0,San Antonio Spurs,1,1,1,0.887410925491,2017-02-04
+762,Charlotte Hornets,0,Utah Jazz,1,1,1,0.634551060258,2017-02-04
+763,New Orleans Pelicans,0,Washington Wizards,1,1,1,0.821875697573,2017-02-04
+764,Los Angeles Clippers,0,Boston Celtics,1,1,0,0.953788877848,2017-02-05
+765,Toronto Raptors,0,Brooklyn Nets,1,1,0,0.771218244427,2017-02-05
+766,Portland Trail Blazers,0,Oklahoma City Thunder,1,1,1,0.821687232759,2017-02-05
+767,Utah Jazz,0,Atlanta Hawks,1,1,1,0.749115336909,2017-02-06
+768,Dallas Mavericks,0,Denver Nuggets,1,1,1,0.743228260382,2017-02-06
+769,Philadelphia 76ers,0,Detroit Pistons,1,1,1,0.916665638309,2017-02-06
+770,Oklahoma City Thunder,0,Indiana Pacers,1,1,0,0.725015038522,2017-02-06
+771,San Antonio Spurs,0,Memphis Grizzlies,1,1,0,0.827117868158,2017-02-06
+772,Miami Heat,0,Minnesota Timberwolves,1,1,1,0.542984281351,2017-02-06
+773,Phoenix Suns,0,New Orleans Pelicans,1,1,0,0.501345863465,2017-02-06
+774,Los Angeles Lakers,0,New York Knicks,1,1,0,0.583569800557,2017-02-06
+775,Chicago Bulls,0,Sacramento Kings,1,1,0,0.579137674745,2017-02-06
+776,Los Angeles Clippers,0,Toronto Raptors,1,1,0,0.775136205571,2017-02-06
+777,Cleveland Cavaliers,0,Washington Wizards,1,1,0,0.63474739836,2017-02-06
+778,Brooklyn Nets,0,Charlotte Hornets,1,1,1,0.902273148762,2017-02-07
+779,Portland Trail Blazers,0,Dallas Mavericks,1,1,0,0.502832236607,2017-02-07
+780,Orlando Magic,0,Houston Rockets,1,1,1,0.942214296354,2017-02-07
+781,Denver Nuggets,0,Atlanta Hawks,1,1,1,0.902148908301,2017-02-08
+782,Washington Wizards,0,Brooklyn Nets,1,1,1,0.53207139723,2017-02-08
+783,Los Angeles Lakers,0,Detroit Pistons,1,1,1,0.605051791895,2017-02-08
+784,Chicago Bulls,0,Golden State Warriors,1,1,1,0.743577220288,2017-02-08
+785,Cleveland Cavaliers,0,Indiana Pacers,1,1,0,0.737541382326,2017-02-08
+786,Phoenix Suns,0,Memphis Grizzlies,1,1,1,0.567704475231,2017-02-08
+787,Miami Heat,0,Milwaukee Bucks,1,1,1,0.606244709176,2017-02-08
+788,Toronto Raptors,0,Minnesota Timberwolves,1,1,0,0.705547796801,2017-02-08
+789,Utah Jazz,0,New Orleans Pelicans,1,1,0,0.816640728242,2017-02-08
+790,Los Angeles Clippers,0,New York Knicks,1,1,0,0.950548311637,2017-02-08
+791,San Antonio Spurs,0,Philadelphia 76ers,1,1,0,0.910749094756,2017-02-08
+792,Boston Celtics,0,Sacramento Kings,1,1,1,0.66255184821,2017-02-08
+793,Houston Rockets,0,Charlotte Hornets,1,1,1,0.750155342194,2017-02-09
+794,Utah Jazz,0,Dallas Mavericks,1,1,0,0.733979723337,2017-02-09
+795,Cleveland Cavaliers,0,Oklahoma City Thunder,1,1,1,0.628063276208,2017-02-09
+796,Philadelphia 76ers,0,Orlando Magic,1,1,1,0.615142742616,2017-02-09
+797,Boston Celtics,0,Portland Trail Blazers,1,1,1,0.763160822259,2017-02-09
+798,Miami Heat,0,Brooklyn Nets,1,1,0,0.542145376829,2017-02-10
+799,San Antonio Spurs,0,Detroit Pistons,1,1,0,0.625416722113,2017-02-10
+800,Golden State Warriors,0,Memphis Grizzlies,1,1,0,0.75040547349,2017-02-10
+801,Los Angeles Lakers,0,Milwaukee Bucks,1,1,1,0.544560803986,2017-02-10
+802,New Orleans Pelicans,0,Minnesota Timberwolves,1,1,1,0.803962172407,2017-02-10
+803,Denver Nuggets,0,New York Knicks,1,1,1,0.549904498063,2017-02-10
+804,Chicago Bulls,0,Phoenix Suns,1,1,0,0.576548989255,2017-02-10
+805,Atlanta Hawks,0,Sacramento Kings,1,1,0,0.804952478314,2017-02-10
+806,Indiana Pacers,0,Washington Wizards,1,1,1,0.744266026122,2017-02-10
+807,Los Angeles Clippers,0,Charlotte Hornets,1,1,0,0.80303081182,2017-02-11
+808,Denver Nuggets,0,Cleveland Cavaliers,1,1,1,0.847538840195,2017-02-11
+809,Orlando Magic,0,Dallas Mavericks,1,1,1,0.840881924072,2017-02-11
+810,Phoenix Suns,0,Houston Rockets,1,1,1,0.832038801248,2017-02-11
+811,Milwaukee Bucks,0,Indiana Pacers,1,1,0,0.508561516628,2017-02-11
+812,Golden State Warriors,0,Oklahoma City Thunder,1,1,1,0.654604632148,2017-02-11
+813,Miami Heat,0,Philadelphia 76ers,1,1,0,0.755989405847,2017-02-11
+814,Boston Celtics,0,Utah Jazz,1,1,1,0.897859772412,2017-02-11
+815,Chicago Bulls,0,Minnesota Timberwolves,1,1,0,0.519515406352,2017-02-12
+816,San Antonio Spurs,0,New York Knicks,1,1,0,0.781871943467,2017-02-12
+817,New Orleans Pelicans,0,Sacramento Kings,1,1,1,0.763165153752,2017-02-12
+818,Detroit Pistons,0,Toronto Raptors,1,1,1,0.823779118791,2017-02-12
+819,Memphis Grizzlies,0,Brooklyn Nets,1,1,1,0.688265865077,2017-02-13
+820,Philadelphia 76ers,0,Charlotte Hornets,1,1,1,0.960249632316,2017-02-13
+821,Boston Celtics,0,Dallas Mavericks,1,1,1,0.639014283462,2017-02-13
+822,Golden State Warriors,0,Denver Nuggets,1,1,0,0.604598370421,2017-02-13
+823,San Antonio Spurs,0,Indiana Pacers,1,1,0,0.79937063337,2017-02-13
+824,Orlando Magic,0,Miami Heat,1,1,1,0.918702253368,2017-02-13
+825,Detroit Pistons,0,Milwaukee Bucks,1,1,1,0.58414872423,2017-02-13
+826,New Orleans Pelicans,0,Phoenix Suns,1,1,1,0.76507784789,2017-02-13
+827,Atlanta Hawks,0,Portland Trail Blazers,1,1,0,0.715477844016,2017-02-13
+828,Los Angeles Clippers,0,Utah Jazz,1,1,0,0.808644208608,2017-02-13
+829,Oklahoma City Thunder,0,Washington Wizards,1,1,0,0.619843769281,2017-02-13
+830,Toronto Raptors,0,Chicago Bulls,1,1,0,0.551834737389,2017-02-14
+831,Sacramento Kings,0,Los Angeles Lakers,1,1,1,0.817118722503,2017-02-14
+832,Cleveland Cavaliers,0,Minnesota Timberwolves,1,1,0,0.661615309436,2017-02-14
+833,Philadelphia 76ers,0,Boston Celtics,1,1,1,0.826740176157,2017-02-15
+834,Milwaukee Bucks,0,Brooklyn Nets,1,1,0,0.503216603952,2017-02-15
+835,Indiana Pacers,0,Cleveland Cavaliers,1,1,1,0.901016348996,2017-02-15
+836,Minnesota Timberwolves,0,Denver Nuggets,1,1,1,0.672184961795,2017-02-15
+837,Dallas Mavericks,0,Detroit Pistons,1,1,1,0.808367173294,2017-02-15
+838,Sacramento Kings,0,Golden State Warriors,1,1,1,0.877777446225,2017-02-15
+839,Miami Heat,0,Houston Rockets,1,1,1,0.721982637024,2017-02-15
+840,Atlanta Hawks,0,Los Angeles Clippers,1,1,1,0.891903617402,2017-02-15
+841,New Orleans Pelicans,0,Memphis Grizzlies,1,1,1,0.703817857601,2017-02-15
+842,New York Knicks,0,Oklahoma City Thunder,1,1,1,0.8848374283,2017-02-15
+843,San Antonio Spurs,0,Orlando Magic,1,1,0,0.919937931167,2017-02-15
+844,Los Angeles Lakers,0,Phoenix Suns,1,1,0,0.577128183241,2017-02-15
+845,Charlotte Hornets,0,Toronto Raptors,1,1,1,0.68036981419,2017-02-15
+846,Portland Trail Blazers,0,Utah Jazz,1,1,1,0.830791864001,2017-02-15
+847,Boston Celtics,0,Chicago Bulls,1,1,1,0.829429777543,2017-02-16
+848,Washington Wizards,0,Indiana Pacers,1,1,1,0.526744235596,2017-02-16
+849,New York Knicks,0,Cleveland Cavaliers,1,1,1,0.891176182576,2017-02-23
+850,Charlotte Hornets,0,Detroit Pistons,1,1,0,0.549592017446,2017-02-23
+851,Los Angeles Clippers,0,Golden State Warriors,1,1,0,0.825825430305,2017-02-23
+852,Houston Rockets,0,New Orleans Pelicans,1,1,0,0.734555462692,2017-02-23
+853,Portland Trail Blazers,0,Orlando Magic,1,1,0,0.748092336599,2017-02-23
+854,Denver Nuggets,0,Sacramento Kings,1,1,1,0.553821358499,2017-02-23
+855,Miami Heat,0,Atlanta Hawks,1,1,1,0.873960452458,2017-02-24
+856,Phoenix Suns,0,Chicago Bulls,1,1,1,0.815170334206,2017-02-24
+857,Brooklyn Nets,0,Denver Nuggets,1,1,1,0.742581422708,2017-02-24
+858,Memphis Grizzlies,0,Indiana Pacers,1,1,1,0.683659685971,2017-02-24
+859,San Antonio Spurs,0,Los Angeles Clippers,1,1,1,0.906115722,2017-02-24
+860,Utah Jazz,0,Milwaukee Bucks,1,1,0,0.601324201662,2017-02-24
+861,Dallas Mavericks,0,Minnesota Timberwolves,1,1,1,0.717562275824,2017-02-24
+862,Los Angeles Lakers,0,Oklahoma City Thunder,1,1,1,0.75286365592,2017-02-24
+863,Washington Wizards,0,Philadelphia 76ers,1,1,0,0.69706729886,2017-02-24
+864,Boston Celtics,0,Toronto Raptors,1,1,1,0.915083577952,2017-02-24
+865,Chicago Bulls,0,Cleveland Cavaliers,1,1,1,0.764960310958,2017-02-25
+866,New Orleans Pelicans,0,Dallas Mavericks,1,1,1,0.743933198071,2017-02-25
+867,Brooklyn Nets,0,Golden State Warriors,1,1,1,0.888128085877,2017-02-25
+868,Minnesota Timberwolves,0,Houston Rockets,1,1,1,0.797319544017,2017-02-25
+869,Indiana Pacers,0,Miami Heat,1,1,1,0.796685381642,2017-02-25
+870,Philadelphia 76ers,0,New York Knicks,1,1,1,0.836700081282,2017-02-25
+871,Atlanta Hawks,0,Orlando Magic,1,1,0,0.930750368253,2017-02-25
+872,Charlotte Hornets,0,Sacramento Kings,1,1,0,0.720549536508,2017-02-25
+873,Memphis Grizzlies,0,Denver Nuggets,1,1,1,0.779676745028,2017-02-26
+874,Boston Celtics,0,Detroit Pistons,1,1,1,0.805785388501,2017-02-26
+875,Charlotte Hornets,0,Los Angeles Clippers,1,1,1,0.929608152683,2017-02-26
+876,San Antonio Spurs,0,Los Angeles Lakers,1,1,0,0.586979699686,2017-02-26
+877,Phoenix Suns,0,Milwaukee Bucks,1,1,1,0.745998354535,2017-02-26
+878,New Orleans Pelicans,0,Oklahoma City Thunder,1,1,1,0.931225130525,2017-02-26
+879,Portland Trail Blazers,0,Toronto Raptors,1,1,1,0.857530696915,2017-02-26
+880,Utah Jazz,0,Washington Wizards,1,1,0,0.634672342713,2017-02-26
+881,Atlanta Hawks,0,Boston Celtics,1,1,0,0.81825315155,2017-02-27
+882,Milwaukee Bucks,0,Cleveland Cavaliers,1,1,1,0.830144164574,2017-02-27
+883,Miami Heat,0,Dallas Mavericks,1,1,0,0.542985899365,2017-02-27
+884,Indiana Pacers,0,Houston Rockets,1,1,1,0.849713119239,2017-02-27
+885,Toronto Raptors,0,New York Knicks,1,1,0,0.755991840836,2017-02-27
+886,Golden State Warriors,0,Philadelphia 76ers,1,1,0,0.865093389014,2017-02-27
+887,Minnesota Timberwolves,0,Sacramento Kings,1,1,1,0.585777510734,2017-02-27
+888,Denver Nuggets,0,Chicago Bulls,1,1,1,0.754549798694,2017-02-28
+889,Portland Trail Blazers,0,Detroit Pistons,1,1,1,0.698557069194,2017-02-28
+890,Charlotte Hornets,0,Los Angeles Lakers,1,1,0,0.509476833371,2017-02-28
+891,Phoenix Suns,0,Memphis Grizzlies,1,1,1,0.567704475231,2017-02-28
+892,Utah Jazz,0,Oklahoma City Thunder,1,1,1,0.628138894113,2017-02-28
+893,Golden State Warriors,0,Washington Wizards,1,1,0,0.607594849801,2017-02-28
+894,Dallas Mavericks,0,Atlanta Hawks,1,1,1,0.936818526498,2017-03-01
+895,Cleveland Cavaliers,0,Boston Celtics,1,1,0,0.730793274276,2017-03-01
+896,Houston Rockets,0,Los Angeles Clippers,1,1,1,0.956580516343,2017-03-01
+897,Philadelphia 76ers,0,Miami Heat,1,1,1,0.909385565877,2017-03-01
+898,Denver Nuggets,0,Milwaukee Bucks,1,1,1,0.671824238194,2017-03-01
+899,Detroit Pistons,0,New Orleans Pelicans,1,1,0,0.677638022447,2017-03-01
+900,New York Knicks,0,Orlando Magic,1,1,0,0.640428715574,2017-03-01
+901,Brooklyn Nets,0,Sacramento Kings,1,1,1,0.665495569831,2017-03-01
+902,Indiana Pacers,0,San Antonio Spurs,1,1,1,0.92808946671,2017-03-01
+903,Washington Wizards,0,Toronto Raptors,1,1,1,0.873397089459,2017-03-01
+904,Minnesota Timberwolves,0,Utah Jazz,1,1,1,0.863599900554,2017-03-01
+905,Golden State Warriors,0,Chicago Bulls,1,1,1,0.52764549574,2017-03-02
+906,Charlotte Hornets,0,Phoenix Suns,1,1,0,0.71840773678,2017-03-02
+907,Oklahoma City Thunder,0,Portland Trail Blazers,1,1,0,0.587219029011,2017-03-02
+908,Cleveland Cavaliers,0,Atlanta Hawks,1,1,1,0.749054491472,2017-03-03
+909,Memphis Grizzlies,0,Dallas Mavericks,1,1,1,0.687538779445,2017-03-03
+910,Boston Celtics,0,Los Angeles Lakers,1,1,1,0.8297652115,2017-03-03
+911,Los Angeles Clippers,0,Milwaukee Bucks,1,1,0,0.919818252148,2017-03-03
+912,San Antonio Spurs,0,New Orleans Pelicans,1,1,0,0.863328164395,2017-03-03
+913,Miami Heat,0,Orlando Magic,1,1,0,0.777213963158,2017-03-03
+914,New York Knicks,0,Philadelphia 76ers,1,1,0,0.61266711295,2017-03-03
+915,Oklahoma City Thunder,0,Phoenix Suns,1,1,0,0.697889785399,2017-03-03
+916,Brooklyn Nets,0,Utah Jazz,1,1,1,0.899063509683,2017-03-03
+917,Toronto Raptors,0,Washington Wizards,1,1,0,0.680483547352,2017-03-03
+918,Los Angeles Clippers,0,Chicago Bulls,1,1,0,0.884249313387,2017-03-04
+919,Charlotte Hornets,0,Denver Nuggets,1,1,0,0.640063996789,2017-03-04
+920,Memphis Grizzlies,0,Houston Rockets,1,1,1,0.871616146386,2017-03-04
+921,Cleveland Cavaliers,0,Miami Heat,1,1,0,0.563454387028,2017-03-04
+922,Toronto Raptors,0,Milwaukee Bucks,1,1,0,0.64900451745,2017-03-04
+923,Detroit Pistons,0,Philadelphia 76ers,1,1,0,0.772510563479,2017-03-04
+924,Brooklyn Nets,0,Portland Trail Blazers,1,1,1,0.765537468328,2017-03-04
+925,Minnesota Timberwolves,0,San Antonio Spurs,1,1,1,0.899797581622,2017-03-04
+926,Indiana Pacers,0,Atlanta Hawks,1,1,1,0.937875376588,2017-03-05
+927,Oklahoma City Thunder,0,Dallas Mavericks,1,1,0,0.721412680574,2017-03-05
+928,New Orleans Pelicans,0,Los Angeles Lakers,1,1,1,0.888883666101,2017-03-05
+929,Golden State Warriors,0,New York Knicks,1,1,0,0.692545639141,2017-03-05
+930,Boston Celtics,0,Phoenix Suns,1,1,1,0.664920334998,2017-03-05
+931,Utah Jazz,0,Sacramento Kings,1,1,0,0.713268224635,2017-03-05
+932,Orlando Magic,0,Washington Wizards,1,1,1,0.893537866876,2017-03-05
+933,Golden State Warriors,0,Atlanta Hawks,1,1,1,0.770122037379,2017-03-06
+934,Indiana Pacers,0,Charlotte Hornets,1,1,1,0.904142456561,2017-03-06
+935,Miami Heat,0,Cleveland Cavaliers,1,1,1,0.806984419782,2017-03-06
+936,Sacramento Kings,0,Denver Nuggets,1,1,1,0.722965041789,2017-03-06
+937,Chicago Bulls,0,Detroit Pistons,1,1,1,0.605618667787,2017-03-06
+938,Boston Celtics,0,Los Angeles Clippers,1,1,1,0.985263210482,2017-03-06
+939,Brooklyn Nets,0,Memphis Grizzlies,1,1,1,0.594672494782,2017-03-06
+940,Portland Trail Blazers,0,Minnesota Timberwolves,1,1,1,0.582587056841,2017-03-06
+941,New York Knicks,0,Orlando Magic,1,1,0,0.640428715574,2017-03-06
+942,Milwaukee Bucks,0,Philadelphia 76ers,1,1,0,0.726055284107,2017-03-06
+943,Houston Rockets,0,San Antonio Spurs,1,1,1,0.804242244481,2017-03-06
+944,New Orleans Pelicans,0,Utah Jazz,1,1,1,0.935177993311,2017-03-06
+945,Los Angeles Lakers,0,Dallas Mavericks,1,1,0,0.604728280519,2017-03-07
+946,Portland Trail Blazers,0,Oklahoma City Thunder,1,1,1,0.821687232759,2017-03-07
+947,Washington Wizards,0,Phoenix Suns,1,1,1,0.559537647201,2017-03-07
+948,Brooklyn Nets,0,Atlanta Hawks,1,1,1,0.936617776222,2017-03-08
+949,Washington Wizards,0,Denver Nuggets,1,1,1,0.645706878036,2017-03-08
+950,Boston Celtics,0,Golden State Warriors,1,1,1,0.886810354709,2017-03-08
+951,Utah Jazz,0,Houston Rockets,1,1,1,0.527915380522,2017-03-08
+952,Detroit Pistons,0,Indiana Pacers,1,1,0,0.570058896283,2017-03-08
+953,Charlotte Hornets,0,Miami Heat,1,1,0,0.572179386745,2017-03-08
+954,New York Knicks,0,Milwaukee Bucks,1,1,1,0.750977523208,2017-03-08
+955,Los Angeles Clippers,0,Minnesota Timberwolves,1,1,0,0.93697184452,2017-03-08
+956,Toronto Raptors,0,New Orleans Pelicans,1,1,0,0.845199099278,2017-03-08
+957,Chicago Bulls,0,Orlando Magic,1,1,0,0.8175696641,2017-03-08
+958,Sacramento Kings,0,San Antonio Spurs,1,1,1,0.91953979969,2017-03-08
+959,Cleveland Cavaliers,0,Detroit Pistons,1,1,0,0.540776079935,2017-03-09
+960,Los Angeles Clippers,0,Memphis Grizzlies,1,1,0,0.962484771052,2017-03-09
+961,San Antonio Spurs,0,Oklahoma City Thunder,1,1,1,0.543584230178,2017-03-09
+962,Los Angeles Lakers,0,Phoenix Suns,1,1,0,0.577128183241,2017-03-09
+963,Philadelphia 76ers,0,Portland Trail Blazers,1,1,1,0.895211466491,2017-03-09
+964,Toronto Raptors,0,Atlanta Hawks,1,1,1,0.708935361618,2017-03-10
+965,Houston Rockets,0,Chicago Bulls,1,1,1,0.615735482819,2017-03-10
+966,Orlando Magic,0,Charlotte Hornets,1,1,1,0.964540558152,2017-03-10
+967,Brooklyn Nets,0,Dallas Mavericks,1,1,1,0.642052404063,2017-03-10
+968,Boston Celtics,0,Denver Nuggets,1,1,1,0.740051096079,2017-03-10
+969,Indiana Pacers,0,Milwaukee Bucks,1,1,1,0.770226280515,2017-03-10
+970,Golden State Warriors,0,Minnesota Timberwolves,1,1,0,0.635312548559,2017-03-10
+971,Washington Wizards,0,Sacramento Kings,1,1,1,0.556920638715,2017-03-10
+972,New Orleans Pelicans,0,Charlotte Hornets,1,1,1,0.937319305552,2017-03-11
+973,Phoenix Suns,0,Dallas Mavericks,1,1,1,0.616202235441,2017-03-11
+974,New York Knicks,0,Detroit Pistons,1,1,1,0.794403269725,2017-03-11
+975,Philadelphia 76ers,0,Los Angeles Clippers,1,1,1,0.9943900623,2017-03-11
+976,Atlanta Hawks,0,Memphis Grizzlies,1,1,0,0.848399960207,2017-03-11
+977,Toronto Raptors,0,Miami Heat,1,1,0,0.612670245387,2017-03-11
+978,Minnesota Timberwolves,0,Milwaukee Bucks,1,1,1,0.699908349587,2017-03-11
+979,Utah Jazz,0,Oklahoma City Thunder,1,1,1,0.628138894113,2017-03-11
+980,Cleveland Cavaliers,0,Orlando Magic,1,1,0,0.890159107469,2017-03-11
+981,Washington Wizards,0,Portland Trail Blazers,1,1,1,0.673503586749,2017-03-11
+982,Denver Nuggets,0,Sacramento Kings,1,1,1,0.553821358499,2017-03-11
+983,Golden State Warriors,0,San Antonio Spurs,1,1,1,0.741203110601,2017-03-11
+984,Chicago Bulls,0,Boston Celtics,1,1,0,0.600188705703,2017-03-12
+985,New York Knicks,0,Brooklyn Nets,1,1,1,0.623233590737,2017-03-12
+986,Cleveland Cavaliers,0,Houston Rockets,1,1,1,0.527834701937,2017-03-12
+987,Miami Heat,0,Indiana Pacers,1,1,0,0.547448120342,2017-03-12
+988,Philadelphia 76ers,0,Los Angeles Lakers,1,1,1,0.928175311053,2017-03-12
+989,Portland Trail Blazers,0,Phoenix Suns,1,1,1,0.525697698253,2017-03-12
+990,Chicago Bulls,0,Charlotte Hornets,1,1,1,0.771292647392,2017-03-13
+991,Los Angeles Lakers,0,Denver Nuggets,1,1,1,0.51248238592,2017-03-13
+992,Milwaukee Bucks,0,Memphis Grizzlies,1,1,0,0.554092752153,2017-03-13
+993,Washington Wizards,0,Minnesota Timberwolves,1,1,1,0.615338078893,2017-03-13
+994,Orlando Magic,0,Sacramento Kings,1,1,1,0.854258985271,2017-03-13
+995,Atlanta Hawks,0,San Antonio Spurs,1,1,1,0.606088724924,2017-03-13
+996,Dallas Mavericks,0,Toronto Raptors,1,1,1,0.916363220895,2017-03-13
+997,Los Angeles Clippers,0,Utah Jazz,1,1,0,0.808644208608,2017-03-13
+998,Oklahoma City Thunder,0,Brooklyn Nets,1,1,0,0.720731536671,2017-03-14
+999,Detroit Pistons,0,Cleveland Cavaliers,1,1,1,0.792293732385,2017-03-14
+1000,Philadelphia 76ers,0,Golden State Warriors,1,1,1,0.95406895194,2017-03-14
+1001,Portland Trail Blazers,0,New Orleans Pelicans,1,1,0,0.6201469478,2017-03-14
+1002,Indiana Pacers,0,New York Knicks,1,1,1,0.666728790462,2017-03-14
+1003,Minnesota Timberwolves,0,Boston Celtics,1,1,1,0.564518250194,2017-03-15
+1004,Memphis Grizzlies,0,Chicago Bulls,1,1,1,0.858044316376,2017-03-15
+1005,Utah Jazz,0,Detroit Pistons,1,1,0,0.540695686999,2017-03-15
+1006,Los Angeles Lakers,0,Houston Rockets,1,1,1,0.668516007181,2017-03-15
+1007,Charlotte Hornets,0,Indiana Pacers,1,1,0,0.744365565839,2017-03-15
+1008,Milwaukee Bucks,0,Los Angeles Clippers,1,1,1,0.973794222894,2017-03-15
+1009,New Orleans Pelicans,0,Miami Heat,1,1,1,0.861350454581,2017-03-15
+1010,Sacramento Kings,0,Phoenix Suns,1,1,1,0.645263145386,2017-03-15
+1011,Portland Trail Blazers,0,San Antonio Spurs,1,1,1,0.874430141667,2017-03-15
+1012,Dallas Mavericks,0,Washington Wizards,1,1,1,0.740825707861,2017-03-15
+1013,Memphis Grizzlies,0,Atlanta Hawks,1,1,1,0.947720057522,2017-03-16
+1014,Utah Jazz,0,Cleveland Cavaliers,1,1,1,0.642904671928,2017-03-16
+1015,Los Angeles Clippers,0,Denver Nuggets,1,1,0,0.928816996749,2017-03-16
+1016,Orlando Magic,0,Golden State Warriors,1,1,1,0.958998574641,2017-03-16
+1017,Brooklyn Nets,0,New York Knicks,1,1,1,0.661960678117,2017-03-16
+1018,Oklahoma City Thunder,0,Toronto Raptors,1,1,1,0.701568828001,2017-03-16
+1019,Boston Celtics,0,Brooklyn Nets,1,1,1,0.639795127237,2017-03-17
+1020,Toronto Raptors,0,Detroit Pistons,1,1,0,0.590691391943,2017-03-17
+1021,Milwaukee Bucks,0,Los Angeles Lakers,1,1,1,0.730394012862,2017-03-17
+1022,Minnesota Timberwolves,0,Miami Heat,1,1,1,0.731643557512,2017-03-17
+1023,Houston Rockets,0,New Orleans Pelicans,1,1,0,0.734555462692,2017-03-17
+1024,Dallas Mavericks,0,Philadelphia 76ers,1,1,0,0.591646630443,2017-03-17
+1025,Orlando Magic,0,Phoenix Suns,1,1,1,0.855575222849,2017-03-17
+1026,Chicago Bulls,0,Washington Wizards,1,1,1,0.509939102449,2017-03-17
+1027,Portland Trail Blazers,0,Atlanta Hawks,1,1,1,0.890657951977,2017-03-18
+1028,Utah Jazz,0,Chicago Bulls,1,1,0,0.501101475563,2017-03-18
+1029,Washington Wizards,0,Charlotte Hornets,1,1,1,0.853651583876,2017-03-18
+1030,Houston Rockets,0,Denver Nuggets,1,1,0,0.51596230724,2017-03-18
+1031,Milwaukee Bucks,0,Golden State Warriors,1,1,1,0.813243481429,2017-03-18
+1032,Cleveland Cavaliers,0,Los Angeles Clippers,1,1,1,0.931899521703,2017-03-18
+1033,San Antonio Spurs,0,Memphis Grizzlies,1,1,0,0.827117868158,2017-03-18
+1034,Sacramento Kings,0,Oklahoma City Thunder,1,1,1,0.883213678206,2017-03-18
+1035,Dallas Mavericks,0,Brooklyn Nets,1,1,1,0.643607542306,2017-03-19
+1036,Phoenix Suns,0,Detroit Pistons,1,1,1,0.790049644844,2017-03-19
+1037,Cleveland Cavaliers,0,Los Angeles Lakers,1,1,0,0.500589203641,2017-03-19
+1038,Portland Trail Blazers,0,Miami Heat,1,1,1,0.678897550739,2017-03-19
+1039,Minnesota Timberwolves,0,New Orleans Pelicans,1,1,0,0.55870416874,2017-03-19
+1040,Boston Celtics,0,Philadelphia 76ers,1,1,0,0.595646577688,2017-03-19
+1041,Sacramento Kings,0,San Antonio Spurs,1,1,1,0.91953979969,2017-03-19
+1042,Indiana Pacers,0,Toronto Raptors,1,1,1,0.917732184072,2017-03-19
+1043,Washington Wizards,0,Boston Celtics,1,1,1,0.535355116836,2017-03-20
+1044,Atlanta Hawks,0,Charlotte Hornets,1,1,1,0.529296174337,2017-03-20
+1045,Denver Nuggets,0,Houston Rockets,1,1,1,0.775426624141,2017-03-20
+1046,Utah Jazz,0,Indiana Pacers,1,1,0,0.737478713608,2017-03-20
+1047,New York Knicks,0,Los Angeles Clippers,1,1,1,0.984193211325,2017-03-20
+1048,Golden State Warriors,0,Oklahoma City Thunder,1,1,1,0.654604632148,2017-03-20
+1049,Philadelphia 76ers,0,Orlando Magic,1,1,1,0.615142742616,2017-03-20
+1050,Detroit Pistons,0,Brooklyn Nets,1,1,0,0.564810480852,2017-03-21
+1051,Golden State Warriors,0,Dallas Mavericks,1,1,0,0.710910062115,2017-03-21
+1052,Los Angeles Clippers,0,Los Angeles Lakers,1,1,0,0.884006228484,2017-03-21
+1053,Phoenix Suns,0,Miami Heat,1,1,1,0.774430311727,2017-03-21
+1054,San Antonio Spurs,0,Minnesota Timberwolves,1,1,0,0.734901997022,2017-03-21
+1055,Memphis Grizzlies,0,New Orleans Pelicans,1,1,1,0.576835208847,2017-03-21
+1056,Milwaukee Bucks,0,Portland Trail Blazers,1,1,1,0.641698971067,2017-03-21
+1057,Chicago Bulls,0,Toronto Raptors,1,1,1,0.799540745908,2017-03-21
+1058,Indiana Pacers,0,Boston Celtics,1,1,1,0.650729580542,2017-03-22
+1059,Detroit Pistons,0,Chicago Bulls,1,1,1,0.678395450518,2017-03-22
+1060,Cleveland Cavaliers,0,Denver Nuggets,1,1,0,0.631832623691,2017-03-22
+1061,Philadelphia 76ers,0,Oklahoma City Thunder,1,1,1,0.95628088853,2017-03-22
+1062,Charlotte Hornets,0,Orlando Magic,1,1,0,0.893587612399,2017-03-22
+1063,Milwaukee Bucks,0,Sacramento Kings,1,1,1,0.521822452255,2017-03-22
+1064,New York Knicks,0,Utah Jazz,1,1,1,0.891144783801,2017-03-22
+1065,Atlanta Hawks,0,Washington Wizards,1,1,0,0.742412183894,2017-03-22
+1066,Phoenix Suns,0,Brooklyn Nets,1,1,1,0.617002848771,2017-03-23
+1067,Los Angeles Clippers,0,Dallas Mavericks,1,1,0,0.954514245857,2017-03-23
+1068,Toronto Raptors,0,Miami Heat,1,1,0,0.612670245387,2017-03-23
+1069,New York Knicks,0,Portland Trail Blazers,1,1,1,0.750055516911,2017-03-23
+1070,Memphis Grizzlies,0,San Antonio Spurs,1,1,1,0.939384662901,2017-03-23
+1071,Phoenix Suns,0,Boston Celtics,1,1,1,0.620116092058,2017-03-24
+1072,Philadelphia 76ers,0,Chicago Bulls,1,1,1,0.928016964448,2017-03-24
+1073,Cleveland Cavaliers,0,Charlotte Hornets,1,1,1,0.650951674162,2017-03-24
+1074,Sacramento Kings,0,Golden State Warriors,1,1,1,0.877777446225,2017-03-24
+1075,New Orleans Pelicans,0,Houston Rockets,1,1,1,0.899637160775,2017-03-24
+1076,Denver Nuggets,0,Indiana Pacers,1,1,1,0.523614431586,2017-03-24
+1077,Minnesota Timberwolves,0,Los Angeles Lakers,1,1,1,0.778304677848,2017-03-24
+1078,Atlanta Hawks,0,Milwaukee Bucks,1,1,0,0.714474373363,2017-03-24
+1079,Detroit Pistons,0,Orlando Magic,1,1,0,0.792692142954,2017-03-24
+1080,Brooklyn Nets,0,Washington Wizards,1,1,1,0.740174933704,2017-03-24
+1081,Washington Wizards,0,Cleveland Cavaliers,1,1,1,0.849153586211,2017-03-25
+1082,Toronto Raptors,0,Dallas Mavericks,1,1,0,0.771815235645,2017-03-25
+1083,Utah Jazz,0,Los Angeles Clippers,1,1,1,0.93192006304,2017-03-25
+1084,Minnesota Timberwolves,0,Portland Trail Blazers,1,1,1,0.69887307834,2017-03-25
+1085,New York Knicks,0,San Antonio Spurs,1,1,1,0.920703831326,2017-03-25
+1086,Brooklyn Nets,0,Atlanta Hawks,1,1,1,0.936617776222,2017-03-26
+1087,Miami Heat,0,Boston Celtics,1,1,0,0.53886831042,2017-03-26
+1088,Phoenix Suns,0,Charlotte Hornets,1,1,1,0.892056070504,2017-03-26
+1089,New Orleans Pelicans,0,Denver Nuggets,1,1,1,0.823705709868,2017-03-26
+1090,Memphis Grizzlies,0,Golden State Warriors,1,1,1,0.906879557789,2017-03-26
+1091,Oklahoma City Thunder,0,Houston Rockets,1,1,1,0.543689999648,2017-03-26
+1092,Philadelphia 76ers,0,Indiana Pacers,1,1,1,0.821731138899,2017-03-26
+1093,Sacramento Kings,0,Los Angeles Clippers,1,1,1,0.983944922894,2017-03-26
+1094,Portland Trail Blazers,0,Los Angeles Lakers,1,1,1,0.731362570914,2017-03-26
+1095,Chicago Bulls,0,Milwaukee Bucks,1,1,1,0.545149233431,2017-03-26
+1096,Oklahoma City Thunder,0,Dallas Mavericks,1,1,0,0.721412680574,2017-03-27
+1097,Detroit Pistons,0,New York Knicks,1,1,0,0.543969792871,2017-03-27
+1098,Memphis Grizzlies,0,Sacramento Kings,1,1,1,0.709351469973,2017-03-27
+1099,Cleveland Cavaliers,0,San Antonio Spurs,1,1,1,0.71845416278,2017-03-27
+1100,Orlando Magic,0,Toronto Raptors,1,1,1,0.969853148964,2017-03-27
+1101,New Orleans Pelicans,0,Utah Jazz,1,1,1,0.935177993311,2017-03-27
+1102,Phoenix Suns,0,Atlanta Hawks,1,1,1,0.929711620092,2017-03-28
+1103,Philadelphia 76ers,0,Brooklyn Nets,1,1,1,0.824841968973,2017-03-28
+1104,Milwaukee Bucks,0,Charlotte Hornets,1,1,1,0.835098917214,2017-03-28
+1105,Miami Heat,0,Detroit Pistons,1,1,1,0.663603905449,2017-03-28
+1106,Golden State Warriors,0,Houston Rockets,1,1,1,0.556477583731,2017-03-28
+1107,Minnesota Timberwolves,0,Indiana Pacers,1,1,1,0.555999594157,2017-03-28
+1108,Washington Wizards,0,Los Angeles Lakers,1,1,1,0.757303259691,2017-03-28
+1109,Denver Nuggets,0,Portland Trail Blazers,1,1,1,0.670737659657,2017-03-28
+1110,Milwaukee Bucks,0,Boston Celtics,1,1,1,0.500082080476,2017-03-29
+1111,Washington Wizards,0,Los Angeles Clippers,1,1,1,0.977169185692,2017-03-29
+1112,Indiana Pacers,0,Memphis Grizzlies,1,1,1,0.599815940102,2017-03-29
+1113,Dallas Mavericks,0,New Orleans Pelicans,1,1,1,0.527179941295,2017-03-29
+1114,Miami Heat,0,New York Knicks,1,1,0,0.521139517594,2017-03-29
+1115,Oklahoma City Thunder,0,Orlando Magic,1,1,0,0.88376883741,2017-03-29
+1116,Atlanta Hawks,0,Philadelphia 76ers,1,1,0,0.922698213529,2017-03-29
+1117,Utah Jazz,0,Sacramento Kings,1,1,0,0.713268224635,2017-03-29
+1118,Golden State Warriors,0,San Antonio Spurs,1,1,1,0.741203110601,2017-03-29
+1119,Charlotte Hornets,0,Toronto Raptors,1,1,1,0.68036981419,2017-03-29
+1120,Cleveland Cavaliers,0,Chicago Bulls,1,1,0,0.501182405263,2017-03-30
+1121,Brooklyn Nets,0,Detroit Pistons,1,1,1,0.807842002774,2017-03-30
+1122,Los Angeles Lakers,0,Minnesota Timberwolves,1,1,0,0.520107678513,2017-03-30
+1123,Los Angeles Clippers,0,Phoenix Suns,1,1,0,0.949290080329,2017-03-30
+1124,Houston Rockets,0,Portland Trail Blazers,1,1,1,0.514991098492,2017-03-30
+1125,Orlando Magic,0,Boston Celtics,1,1,1,0.843088007333,2017-03-31
+1126,Denver Nuggets,0,Charlotte Hornets,1,1,1,0.852076599365,2017-03-31
+1127,Philadelphia 76ers,0,Cleveland Cavaliers,1,1,1,0.958870055596,2017-03-31
+1128,Houston Rockets,0,Golden State Warriors,1,1,1,0.72080564537,2017-03-31
+1129,Dallas Mavericks,0,Memphis Grizzlies,1,1,1,0.595488537114,2017-03-31
+1130,New York Knicks,0,Miami Heat,1,1,1,0.77901723181,2017-03-31
+1131,Detroit Pistons,0,Milwaukee Bucks,1,1,1,0.58414872423,2017-03-31
+1132,Sacramento Kings,0,New Orleans Pelicans,1,1,1,0.501307126529,2017-03-31
+1133,San Antonio Spurs,0,Oklahoma City Thunder,1,1,1,0.543584230178,2017-03-31
+1134,Indiana Pacers,0,Toronto Raptors,1,1,1,0.917732184072,2017-03-31
+1135,Washington Wizards,0,Utah Jazz,1,1,1,0.849112115593,2017-03-31
+1136,Orlando Magic,0,Brooklyn Nets,1,1,1,0.841334531253,2017-04-01
+1137,Atlanta Hawks,0,Chicago Bulls,1,1,0,0.624955457184,2017-04-01
+1138,Los Angeles Lakers,0,Los Angeles Clippers,1,1,1,0.961069455959,2017-04-01
+1139,Sacramento Kings,0,Minnesota Timberwolves,1,1,1,0.69610179898,2017-04-01
+1140,Phoenix Suns,0,Portland Trail Blazers,1,1,1,0.74506417115,2017-04-01
+1141,Atlanta Hawks,0,Brooklyn Nets,1,1,0,0.820207198438,2017-04-02
+1142,Indiana Pacers,0,Cleveland Cavaliers,1,1,1,0.901016348996,2017-04-02
+1143,Washington Wizards,0,Golden State Warriors,1,1,1,0.833765587089,2017-04-02
+1144,Memphis Grizzlies,0,Los Angeles Lakers,1,1,1,0.858333089803,2017-04-02
+1145,Denver Nuggets,0,Miami Heat,1,1,1,0.705278789419,2017-04-02
+1146,Dallas Mavericks,0,Milwaukee Bucks,1,1,1,0.767025878611,2017-04-02
+1147,Chicago Bulls,0,New Orleans Pelicans,1,1,0,0.711293782029,2017-04-02
+1148,Boston Celtics,0,New York Knicks,1,1,1,0.659001788194,2017-04-02
+1149,Charlotte Hornets,0,Oklahoma City Thunder,1,1,1,0.619720513631,2017-04-02
+1150,Houston Rockets,0,Phoenix Suns,1,1,0,0.604632745626,2017-04-02
+1151,Utah Jazz,0,San Antonio Spurs,1,1,1,0.71851963961,2017-04-02
+1152,Philadelphia 76ers,0,Toronto Raptors,1,1,1,0.966182556987,2017-04-02
+1153,Orlando Magic,0,Cleveland Cavaliers,1,1,1,0.963304211363,2017-04-04
+1154,Minnesota Timberwolves,0,Golden State Warriors,1,1,1,0.849465664785,2017-04-04
+1155,Toronto Raptors,0,Indiana Pacers,1,1,0,0.774969147571,2017-04-04
+1156,Denver Nuggets,0,New Orleans Pelicans,1,1,0,0.590569144147,2017-04-04
+1157,Chicago Bulls,0,New York Knicks,1,1,0,0.582993054433,2017-04-04
+1158,Milwaukee Bucks,0,Oklahoma City Thunder,1,1,1,0.820964614705,2017-04-04
+1159,Brooklyn Nets,0,Philadelphia 76ers,1,1,0,0.592464589846,2017-04-04
+1160,Dallas Mavericks,0,Sacramento Kings,1,1,1,0.666249049752,2017-04-04
+1161,Memphis Grizzlies,0,San Antonio Spurs,1,1,1,0.939384662901,2017-04-04
+1162,Portland Trail Blazers,0,Utah Jazz,1,1,1,0.830791864001,2017-04-04
+1163,Charlotte Hornets,0,Washington Wizards,1,1,0,0.642950430152,2017-04-04
+1164,Cleveland Cavaliers,0,Boston Celtics,1,1,0,0.730793274276,2017-04-05
+1165,Miami Heat,0,Charlotte Hornets,1,1,1,0.812462130326,2017-04-05
+1166,Toronto Raptors,0,Detroit Pistons,1,1,0,0.590691391943,2017-04-05
+1167,Denver Nuggets,0,Houston Rockets,1,1,1,0.775426624141,2017-04-05
+1168,Dallas Mavericks,0,Los Angeles Clippers,1,1,1,0.985502041031,2017-04-05
+1169,Oklahoma City Thunder,0,Memphis Grizzlies,1,1,0,0.75995771572,2017-04-05
+1170,Golden State Warriors,0,Phoenix Suns,1,1,0,0.686885263192,2017-04-05
+1171,Los Angeles Lakers,0,San Antonio Spurs,1,1,1,0.821542533716,2017-04-05
+1172,Boston Celtics,0,Atlanta Hawks,1,1,1,0.935829933733,2017-04-06
+1173,Milwaukee Bucks,0,Indiana Pacers,1,1,0,0.508561516628,2017-04-06
+1174,Washington Wizards,0,New York Knicks,1,1,1,0.553009026538,2017-04-06
+1175,Brooklyn Nets,0,Orlando Magic,1,1,0,0.620777921512,2017-04-06
+1176,Chicago Bulls,0,Philadelphia 76ers,1,1,0,0.799196432158,2017-04-06
+1177,Minnesota Timberwolves,0,Portland Trail Blazers,1,1,1,0.69887307834,2017-04-06
+1178,Atlanta Hawks,0,Cleveland Cavaliers,1,1,1,0.520429623907,2017-04-07
+1179,San Antonio Spurs,0,Dallas Mavericks,1,1,0,0.796468900205,2017-04-07
+1180,New Orleans Pelicans,0,Denver Nuggets,1,1,1,0.823705709868,2017-04-07
+1181,Detroit Pistons,0,Houston Rockets,1,1,1,0.703201779787,2017-04-07
+1182,Sacramento Kings,0,Los Angeles Lakers,1,1,1,0.817118722503,2017-04-07
+1183,New York Knicks,0,Memphis Grizzlies,1,1,1,0.574183729013,2017-04-07
+1184,Oklahoma City Thunder,0,Phoenix Suns,1,1,0,0.697889785399,2017-04-07
+1185,Miami Heat,0,Toronto Raptors,1,1,1,0.836701884831,2017-04-07
+1186,Minnesota Timberwolves,0,Utah Jazz,1,1,1,0.863599900554,2017-04-07
+1187,Chicago Bulls,0,Brooklyn Nets,1,1,0,0.603350760838,2017-04-08
+1188,Boston Celtics,0,Charlotte Hornets,1,1,1,0.901103478183,2017-04-08
+1189,New Orleans Pelicans,0,Golden State Warriors,1,1,1,0.927841172263,2017-04-08
+1190,Indiana Pacers,0,Orlando Magic,1,1,0,0.615731293081,2017-04-08
+1191,Milwaukee Bucks,0,Philadelphia 76ers,1,1,0,0.726055284107,2017-04-08
+1192,Utah Jazz,0,Portland Trail Blazers,1,1,0,0.602504096415,2017-04-08
+1193,Los Angeles Clippers,0,San Antonio Spurs,1,1,0,0.748713778005,2017-04-08
+1194,Miami Heat,0,Washington Wizards,1,1,1,0.572051346773,2017-04-08
+1195,Cleveland Cavaliers,0,Atlanta Hawks,1,1,1,0.749054491472,2017-04-09
+1196,Oklahoma City Thunder,0,Denver Nuggets,1,1,0,0.616881846545,2017-04-09
+1197,Minnesota Timberwolves,0,Los Angeles Lakers,1,1,1,0.778304677848,2017-04-09
+1198,Detroit Pistons,0,Memphis Grizzlies,1,1,0,0.614214610505,2017-04-09
+1199,Toronto Raptors,0,New York Knicks,1,1,0,0.755991840836,2017-04-09
+1200,Dallas Mavericks,0,Phoenix Suns,1,1,1,0.66860456623,2017-04-09
+1201,Houston Rockets,0,Sacramento Kings,1,1,0,0.607166724305,2017-04-09
+1202,Brooklyn Nets,0,Boston Celtics,1,1,1,0.645854152492,2017-04-10
+1203,Orlando Magic,0,Chicago Bulls,1,1,1,0.935553786856,2017-04-10
+1204,Washington Wizards,0,Detroit Pistons,1,1,1,0.726480863957,2017-04-10
+1205,Utah Jazz,0,Golden State Warriors,1,1,1,0.615991666311,2017-04-10
+1206,Houston Rockets,0,Los Angeles Clippers,1,1,1,0.956580516343,2017-04-10
+1207,Cleveland Cavaliers,0,Miami Heat,1,1,0,0.563454387028,2017-04-10
+1208,Charlotte Hornets,0,Milwaukee Bucks,1,1,0,0.609893471597,2017-04-10
+1209,Indiana Pacers,0,Philadelphia 76ers,1,1,0,0.587291670809,2017-04-10
+1210,San Antonio Spurs,0,Portland Trail Blazers,1,1,0,0.682518531988,2017-04-10
+1211,Charlotte Hornets,0,Atlanta Hawks,1,1,1,0.742312146877,2017-04-11
+1212,Denver Nuggets,0,Dallas Mavericks,1,1,1,0.528101414668,2017-04-11
+1213,New Orleans Pelicans,0,Los Angeles Lakers,1,1,1,0.888883666101,2017-04-11
+1214,Oklahoma City Thunder,0,Minnesota Timberwolves,1,1,0,0.647198645295,2017-04-11
+1215,Phoenix Suns,0,Sacramento Kings,1,1,1,0.640390167256,2017-04-11
+1216,Milwaukee Bucks,0,Boston Celtics,1,1,1,0.500082080476,2017-04-12
+1217,Brooklyn Nets,0,Chicago Bulls,1,1,1,0.831288435476,2017-04-12
+1218,Toronto Raptors,0,Cleveland Cavaliers,1,1,1,0.594912932495,2017-04-12
+1219,Los Angeles Lakers,0,Golden State Warriors,1,1,1,0.743124534051,2017-04-12
+1220,Minnesota Timberwolves,0,Houston Rockets,1,1,1,0.797319544017,2017-04-12
+1221,Atlanta Hawks,0,Indiana Pacers,1,1,0,0.823338904446,2017-04-12
+1222,Sacramento Kings,0,Los Angeles Clippers,1,1,1,0.983944922894,2017-04-12
+1223,Dallas Mavericks,0,Memphis Grizzlies,1,1,1,0.595488537114,2017-04-12
+1224,Washington Wizards,0,Miami Heat,1,1,1,0.707880927619,2017-04-12
+1225,Philadelphia 76ers,0,New York Knicks,1,1,1,0.836700081282,2017-04-12
+1226,Denver Nuggets,0,Oklahoma City Thunder,1,1,1,0.839117168609,2017-04-12
+1227,Detroit Pistons,0,Orlando Magic,1,1,0,0.792692142954,2017-04-12
+1228,New Orleans Pelicans,0,Portland Trail Blazers,1,1,1,0.840976526053,2017-04-12
+1229,San Antonio Spurs,0,Utah Jazz,1,1,1,0.559272378928,2017-04-12

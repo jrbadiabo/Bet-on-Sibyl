@@ -1,0 +1,44 @@
+ID,League,Date,Time,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,Visi_Team_PTS,Home_Team_PTS,True_Result,Winner_Odd
+59,bundesliga,2016-08-27,14:30,Wolfsburg @ Augsburg,Wolfsburg,Augsburg,2.54,3.33,2.89,Wolfsburg,Augsburg,0.499,Y,2,0,Wolfsburg,2.54
+60,bundesliga,2016-08-27,14:30,Ingolstadt @ Hamburger SV,Ingolstadt,Hamburger SV,3.26,3.2,2.38,Hamburger SV,Hamburger SV,0.448,N,1,1,Draw,3.2
+61,bundesliga,2016-08-27,14:30,Schalke 04 @ Frankfurt,Schalke 04,Frankfurt,2.22,3.47,3.3,Schalke 04,Frankfurt,0.558,Y,0,1,Frankfurt,3.3
+62,bundesliga,2016-08-27,14:30,Darmstadt @ FC Koln,Darmstadt,FC Koln,6.69,4.09,1.55,FC Koln,FC Koln,0.603,N,0,2,FC Koln,1.55
+73,bundesliga,2016-08-27,17:30,Leverkusen @ Monchengladb.,Leverkusen,Monchengladb.,2.88,3.48,2.47,Monchengladb.,Monchengladb.,0.424,N,1,2,Monchengladb.,2.47
+85,bundesliga,2016-08-28,14:30,Freiburg @ Hertha Berlin,Freiburg,Hertha Berlin,4.0,3.45,2.0,Hertha Berlin,Hertha Berlin,0.569,N,1,2,Hertha Berlin,2.0
+88,bundesliga,2016-08-28,16:30,RB Leipzig @ Hoffenheim,RB Leipzig,Hoffenheim,2.98,3.41,2.43,Hoffenheim,Hoffenheim,0.393,N,2,2,Draw,3.41
+101,bundesliga,2016-09-09,19:30,Bayern Munich @ Schalke 04,Bayern Munich,Schalke 04,1.29,5.79,10.81,Bayern Munich,Bayern Munich,0.487,N,2,0,Bayern Munich,1.29
+104,bundesliga,2016-09-10,14:30,Hamburger SV @ Leverkusen,Hamburger SV,Leverkusen,6.38,4.35,1.53,Leverkusen,Leverkusen,0.581,N,1,3,Leverkusen,1.53
+105,bundesliga,2016-09-10,14:30,Frankfurt @ Darmstadt,Frankfurt,Darmstadt,2.29,3.34,3.29,Frankfurt,Frankfurt,0.544,N,0,1,Darmstadt,3.29
+106,bundesliga,2016-09-10,14:30,Hertha Berlin @ Ingolstadt,Hertha Berlin,Ingolstadt,3.38,3.14,2.35,Ingolstadt,Hertha Berlin,0.589,Y,2,0,Hertha Berlin,3.38
+107,bundesliga,2016-09-10,14:30,Monchengladb. @ Freiburg,Monchengladb.,Freiburg,2.01,3.69,3.68,Monchengladb.,Freiburg,0.481,Y,1,3,Freiburg,3.68
+108,bundesliga,2016-09-10,14:30,FC Koln @ Wolfsburg,FC Koln,Wolfsburg,4.54,3.76,1.81,Wolfsburg,FC Koln,0.511,Y,0,0,Draw,3.76
+120,bundesliga,2016-09-10,17:30,Dortmund @ RB Leipzig,Dortmund,RB Leipzig,1.6,4.25,5.68,Dortmund,RB Leipzig,0.525,Y,0,1,RB Leipzig,5.68
+136,bundesliga,2016-09-11,14:30,Augsburg @ Werder Bremen,Augsburg,Werder Bremen,2.97,3.47,2.41,Werder Bremen,Augsburg,0.377,Y,2,1,Augsburg,2.97
+146,bundesliga,2016-09-16,19:30,Freiburg @ FC Koln,Freiburg,FC Koln,4.93,3.84,1.74,FC Koln,FC Koln,0.566,N,0,3,FC Koln,1.74
+151,bundesliga,2016-09-17,14:30,Wolfsburg @ Hoffenheim,Wolfsburg,Hoffenheim,2.5,3.62,2.74,Wolfsburg,Hoffenheim,0.603,Y,0,0,Draw,3.62
+152,bundesliga,2016-09-17,14:30,Leverkusen @ Frankfurt,Leverkusen,Frankfurt,2.02,3.61,3.74,Leverkusen,Frankfurt,0.549,Y,1,2,Frankfurt,3.74
+153,bundesliga,2016-09-17,14:30,RB Leipzig @ Hamburger SV,RB Leipzig,Hamburger SV,2.72,3.32,2.7,Hamburger SV,RB Leipzig,0.695,Y,4,0,RB Leipzig,2.72
+154,bundesliga,2016-09-17,14:30,Darmstadt @ Dortmund,Darmstadt,Dortmund,17.78,8.24,1.16,Dortmund,Dortmund,0.618,N,0,6,Dortmund,1.16
+155,bundesliga,2016-09-17,14:30,Ingolstadt @ Bayern Munich,Ingolstadt,Bayern Munich,22.93,8.84,1.13,Bayern Munich,Bayern Munich,0.632,N,1,3,Bayern Munich,1.13
+163,bundesliga,2016-09-17,17:30,Werder Bremen @ Monchengladb.,Werder Bremen,Monchengladb.,6.93,4.98,1.44,Monchengladb.,Monchengladb.,0.565,N,1,4,Monchengladb.,1.44
+185,bundesliga,2016-09-18,16:30,Schalke 04 @ Hertha Berlin,Schalke 04,Hertha Berlin,2.66,3.33,2.74,Schalke 04,Hertha Berlin,0.558,Y,0,2,Hertha Berlin,2.74
+194,bundesliga,2016-09-20,19:00,Hoffenheim @ Darmstadt,Hoffenheim,Darmstadt,2.01,3.71,3.69,Hoffenheim,Hoffenheim,0.555,N,1,1,Draw,3.71
+195,bundesliga,2016-09-20,19:00,Frankfurt @ Ingolstadt,Frankfurt,Ingolstadt,3.95,3.36,2.03,Ingolstadt,Frankfurt,0.589,Y,2,0,Frankfurt,3.95
+196,bundesliga,2016-09-20,19:00,Hamburger SV @ Freiburg,Hamburger SV,Freiburg,3.5,3.49,2.14,Freiburg,Freiburg,0.566,N,0,1,Freiburg,2.14
+197,bundesliga,2016-09-20,19:00,Dortmund @ Wolfsburg,Dortmund,Wolfsburg,1.74,4.03,4.6,Dortmund,Dortmund,0.501,N,5,1,Dortmund,1.74
+210,bundesliga,2016-09-21,19:00,Augsburg @ Leverkusen,Augsburg,Leverkusen,6.97,4.64,1.47,Leverkusen,Leverkusen,0.513,N,0,0,Draw,4.64
+211,bundesliga,2016-09-21,19:00,FC Koln @ Schalke 04,FC Koln,Schalke 04,3.42,3.37,2.22,Schalke 04,FC Koln,0.42,Y,3,1,FC Koln,3.42
+212,bundesliga,2016-09-21,19:00,Monchengladb. @ RB Leipzig,Monchengladb.,RB Leipzig,3.34,3.51,2.2,RB Leipzig,RB Leipzig,0.603,N,1,1,Draw,3.51
+213,bundesliga,2016-09-21,19:00,Hertha Berlin @ Bayern Munich,Hertha Berlin,Bayern Munich,21.87,8.46,1.14,Bayern Munich,Bayern Munich,0.507,N,0,3,Bayern Munich,1.14
+231,bundesliga,2016-09-23,19:30,Freiburg @ Dortmund,Freiburg,Dortmund,14.53,7.38,1.2,Dortmund,Dortmund,0.579,N,1,3,Dortmund,1.2
+236,bundesliga,2016-09-24,14:30,Darmstadt @ Augsburg,Darmstadt,Augsburg,5.87,3.84,1.64,Augsburg,Augsburg,0.517,N,0,1,Augsburg,1.64
+237,bundesliga,2016-09-24,14:30,Hertha Berlin @ Frankfurt,Hertha Berlin,Frankfurt,3.3,3.19,2.36,Frankfurt,Frankfurt,0.467,N,3,3,Draw,3.19
+238,bundesliga,2016-09-24,14:30,Ingolstadt @ Monchengladb.,Ingolstadt,Monchengladb.,4.24,3.42,1.95,Monchengladb.,Monchengladb.,0.564,N,0,2,Monchengladb.,1.95
+239,bundesliga,2016-09-24,14:30,Bayern Munich @ Hamburger SV,Bayern Munich,Hamburger SV,1.21,6.96,15.05,Bayern Munich,Bayern Munich,0.666,N,1,0,Bayern Munich,1.21
+249,bundesliga,2016-09-24,17:30,Wolfsburg @ Werder Bremen,Wolfsburg,Werder Bremen,1.91,3.84,3.93,Wolfsburg,Werder Bremen,0.408,Y,1,2,Werder Bremen,3.93
+266,bundesliga,2016-09-25,14:30,Schalke 04 @ Hoffenheim,Schalke 04,Hoffenheim,2.38,3.7,2.86,Schalke 04,Hoffenheim,0.564,Y,1,2,Hoffenheim,2.86
+270,bundesliga,2016-09-25,16:45,RB Leipzig @ FC Koln,RB Leipzig,FC Koln,3.19,3.3,2.36,FC Koln,RB Leipzig,0.395,Y,1,1,Draw,3.3
+279,bundesliga,2016-09-30,19:30,Augsburg @ RB Leipzig,Augsburg,RB Leipzig,5.18,3.68,1.74,RB Leipzig,RB Leipzig,0.619,N,1,2,RB Leipzig,1.74
+285,bundesliga,2016-10-01,14:30,Hamburger SV @ Hertha Berlin,Hamburger SV,Hertha Berlin,3.97,3.31,2.05,Hertha Berlin,Hertha Berlin,0.619,N,0,2,Hertha Berlin,2.05
+286,bundesliga,2016-10-01,14:30,FC Koln @ Bayern Munich,FC Koln,Bayern Munich,16.07,6.89,1.2,Bayern Munich,Bayern Munich,0.509,N,1,1,Draw,6.89
+287,bundesliga,2016-10-01,14:30,Hoffenheim @ Ingolstadt,Hoffenheim,Ingolstadt,3.63,3.42,2.11,Ingolstadt,Hoffenheim,0.599,Y,2,1,Hoffenheim,3.63

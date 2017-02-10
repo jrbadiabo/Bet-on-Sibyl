@@ -1,0 +1,14 @@
+ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2016-11-13,14:00:00,NFL,Chicago Bears @ Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,1.73,2.4,Chicago Bears,Tampa Bay Buccaneers,0.577,Y,Upcoming
+1,2016-11-13,14:00:00,NFL,Denver Broncos @ New Orleans Saints,Denver Broncos,New Orleans Saints,2.39,1.72,New Orleans Saints,New Orleans Saints,0.568,N,Upcoming
+2,2016-11-13,14:00:00,NFL,Kansas City Chiefs @ Carolina Panthers,Kansas City Chiefs,Carolina Panthers,2.53,1.66,Carolina Panthers,Carolina Panthers,0.55,N,Upcoming
+3,2016-11-13,14:00:00,NFL,Houston Texans @ Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,2.31,1.78,Jacksonville Jaguars,Houston Texans,0.546,Y,Upcoming
+4,2016-11-13,14:00:00,NFL,Los Angeles Rams @ New York Jets,Los Angeles Rams,New York Jets,1.89,2.11,Los Angeles Rams,New York Jets,0.507,Y,Upcoming
+5,2016-11-13,14:00:00,NFL,Minnesota Vikings @ Washington Redskins,Minnesota Vikings,Washington Redskins,2.22,1.85,Washington Redskins,Washington Redskins,0.652,N,Upcoming
+6,2016-11-13,14:00:00,NFL,Atlanta Falcons @ Philadelphia Eagles,Atlanta Falcons,Philadelphia Eagles,2.06,1.96,Philadelphia Eagles,Philadelphia Eagles,0.673,N,Upcoming
+7,2016-11-13,14:00:00,NFL,Green Bay Packers @ Tennessee Titans,Green Bay Packers,Tennessee Titans,1.7,2.42,Green Bay Packers,Tennessee Titans,0.577,Y,Upcoming
+8,2016-11-13,17:05:00,NFL,Miami Dolphins @ San Diego Chargers,Miami Dolphins,San Diego Chargers,2.9,1.52,San Diego Chargers,San Diego Chargers,0.574,N,Upcoming
+9,2016-11-13,17:25:00,NFL,Dallas Cowboys @ Pittsburgh Steelers,Dallas Cowboys,Pittsburgh Steelers,2.47,1.7,Pittsburgh Steelers,Dallas Cowboys,0.617,Y,Upcoming
+10,2016-11-13,17:25:00,NFL,San Francisco 49ers @ Arizona Cardinals,San Francisco 49ers,Arizona Cardinals,8.0,1.14,Arizona Cardinals,Arizona Cardinals,0.738,N,Upcoming
+11,2016-11-13,21:30:00,NFL,Seattle Seahawks @ New England Patriots,Seattle Seahawks,New England Patriots,3.92,1.33,New England Patriots,New England Patriots,0.555,N,Upcoming
+12,2016-11-14,21:30:00,NFL,Cincinnati Bengals @ New York Giants,Cincinnati Bengals,New York Giants,2.0,2.04,Cincinnati Bengals,New York Giants,0.699,Y,Upcoming

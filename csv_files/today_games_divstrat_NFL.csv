@@ -1,0 +1,7 @@
+,ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,0,2016-11-13,14:00:00,NFL,Chicago Bears @ Tampa Bay Buccaneers,Chicago Bears,Tampa Bay Buccaneers,1.73,2.4,Chicago Bears,Tampa Bay Buccaneers,0.577,Y,Upcoming
+3,3,2016-11-13,14:00:00,NFL,Houston Texans @ Jacksonville Jaguars,Houston Texans,Jacksonville Jaguars,2.31,1.78,Jacksonville Jaguars,Houston Texans,0.546,Y,Upcoming
+4,4,2016-11-13,14:00:00,NFL,Los Angeles Rams @ New York Jets,Los Angeles Rams,New York Jets,1.89,2.11,Los Angeles Rams,New York Jets,0.507,Y,Upcoming
+7,7,2016-11-13,14:00:00,NFL,Green Bay Packers @ Tennessee Titans,Green Bay Packers,Tennessee Titans,1.7,2.42,Green Bay Packers,Tennessee Titans,0.577,Y,Upcoming
+9,9,2016-11-13,17:25:00,NFL,Dallas Cowboys @ Pittsburgh Steelers,Dallas Cowboys,Pittsburgh Steelers,2.47,1.7,Pittsburgh Steelers,Dallas Cowboys,0.617,Y,Upcoming
+12,12,2016-11-14,21:30:00,NFL,Cincinnati Bengals @ New York Giants,Cincinnati Bengals,New York Giants,2.0,2.04,Cincinnati Bengals,New York Giants,0.699,Y,Upcoming

@@ -1,0 +1,12 @@
+ID,Date,Time,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result_U
+0,2016-10-30,12:30,Washington Redskins @ Cincinnati Bengals,Washington Redskins,Cincinnati Bengals,2.29,1.65,Cincinnati Bengals,Washington Redskins,0.515,Y,Upcoming
+1,2016-10-30,16:00,Arizona Cardinals @ Carolina Panthers,Arizona Cardinals,Carolina Panthers,2.27,1.67,Carolina Panthers,Arizona Cardinals,0.567,Y,Upcoming
+2,2016-10-30,16:00,New England Patriots @ Buffalo Bills,New England Patriots,Buffalo Bills,1.38,3.13,New England Patriots,Buffalo Bills,0.598,Y,Upcoming
+3,2016-10-30,16:00,Seattle Seahawks @ New Orleans Saints,Seattle Seahawks,New Orleans Saints,1.71,2.19,Seattle Seahawks,Seattle Seahawks,0.584,N,Upcoming
+4,2016-10-30,16:00,Oakland Raiders @ Tampa Bay Buccaneers,Oakland Raiders,Tampa Bay Buccaneers,2.06,1.79,Tampa Bay Buccaneers,Oakland Raiders,0.616,Y,Upcoming
+5,2016-10-30,16:00,New York Jets @ Cleveland Browns,New York Jets,Cleveland Browns,1.58,2.44,New York Jets,New York Jets,0.502,N,Upcoming
+6,2016-10-30,16:00,Kansas City Chiefs @ Indianapolis Colts,Kansas City Chiefs,Indianapolis Colts,1.74,2.14,Kansas City Chiefs,Indianapolis Colts,0.504,Y,Upcoming
+7,2016-10-30,16:00,Detroit Lions @ Houston Texans,Detroit Lions,Houston Texans,2.14,1.73,Houston Texans,Detroit Lions,0.537,Y,Upcoming
+8,2016-10-30,19:05,San Diego Chargers @ Denver Broncos,San Diego Chargers,Denver Broncos,2.84,1.45,Denver Broncos,Denver Broncos,0.641,N,Upcoming
+9,2016-10-30,19:25,Green Bay Packers @ Atlanta Falcons,Green Bay Packers,Atlanta Falcons,2.29,1.65,Atlanta Falcons,Atlanta Falcons,0.656,N,Upcoming
+10,2016-10-30,23:30,Philadelphia Eagles @ Dallas Cowboys,Philadelphia Eagles,Dallas Cowboys,2.77,1.47,Dallas Cowboys,Dallas Cowboys,0.68,N,Upcoming

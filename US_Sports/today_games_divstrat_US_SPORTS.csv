@@ -1,0 +1,4 @@
+,Bookies_choice,Confidence,Date,Divergence_Y/N,Home_Odd,Home_Team,ID,League,Matchup_US_P,Sibyl,Time,True_Result,Visitor_Odd,Visitor_Team
+75,Toronto Maple Leafs,0.562,2016-12-28,Y,1.37,Florida Panthers,22,NHL,Toronto Maple Leafs @ Florida Panthers,Florida Panthers,20:00:00,Upcoming,1.28,Toronto Maple Leafs
+76,Carolina Hurricanes,0.677,2016-12-28,Y,1.3,Pittsburgh Penguins,23,NHL,Carolina Hurricanes @ Pittsburgh Penguins,Pittsburgh Penguins,20:00:00,Upcoming,1.28,Carolina Hurricanes
+78,Philadelphia Flyers,0.556,2016-12-28,Y,1.41,St. Louis Blues,25,NHL,Philadelphia Flyers @ St. Louis Blues,St. Louis Blues,21:00:00,Upcoming,1.28,Philadelphia Flyers

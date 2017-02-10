@@ -1,0 +1,9 @@
+,ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+5,5,2016-12-23,20:30:00,NHL,Boston Bruins @ Carolina Hurricanes,Boston Bruins,Carolina Hurricanes,1.91,1.89,Carolina Hurricanes,Boston Bruins,0.513,Y,Upcoming
+8,8,2016-12-23,21:30:00,NHL,Los Angeles Kings @ Dallas Stars,Los Angeles Kings,Dallas Stars,2.1,1.73,Dallas Stars,Los Angeles Kings,0.61,Y,Upcoming
+17,17,2016-12-27,21:00:00,NHL,Minnesota Wild @ Nashville Predators,Minnesota Wild,Nashville Predators,2.73,2.35,Nashville Predators,Minnesota Wild,0.64,Y,Upcoming
+19,19,2016-12-27,22:00:00,NHL,Dallas Stars @ Arizona Coyotes,Dallas Stars,Arizona Coyotes,2.19,2.98,Dallas Stars,Arizona Coyotes,0.502,Y,Upcoming
+21,21,2016-12-27,23:00:00,NHL,San Jose Sharks @ Anaheim Ducks,San Jose Sharks,Anaheim Ducks,2.66,2.38,Anaheim Ducks,San Jose Sharks,0.567,Y,Upcoming
+22,22,2016-12-28,20:00:00,NHL,Toronto Maple Leafs @ Florida Panthers,Toronto Maple Leafs,Florida Panthers,1.28,1.37,Toronto Maple Leafs,Florida Panthers,0.562,Y,Upcoming
+23,23,2016-12-28,20:00:00,NHL,Carolina Hurricanes @ Pittsburgh Penguins,Carolina Hurricanes,Pittsburgh Penguins,1.28,1.3,Carolina Hurricanes,Pittsburgh Penguins,0.677,Y,Upcoming
+25,25,2016-12-28,21:00:00,NHL,Philadelphia Flyers @ St. Louis Blues,Philadelphia Flyers,St. Louis Blues,1.28,1.41,Philadelphia Flyers,St. Louis Blues,0.556,Y,Upcoming

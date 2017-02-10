@@ -1,0 +1,257 @@
+ID,Visitor_Team,V_Team_PTS,Home_Team,H_Team_PTS,True_Result,Predicted_Result,Confidence,Date
+0,Carolina Panthers,20,Denver Broncos,21,1,1,0.728786457987,2016-09-08
+1,Green Bay Packers,27,Jacksonville Jaguars,23,0,0,0.700023552788,2016-09-11
+2,Buffalo Bills,7,Baltimore Ravens,13,1,1,0.587283919038,2016-09-11
+3,Cleveland Browns,10,Philadelphia Eagles,29,1,1,0.867490556918,2016-09-11
+4,Cincinnati Bengals,23,New York Jets,22,0,0,0.606661081068,2016-09-11
+5,Chicago Bears,14,Houston Texans,23,1,1,0.741416954435,2016-09-11
+6,Minnesota Vikings,25,Tennessee Titans,16,0,1,0.642187386927,2016-09-11
+7,Oakland Raiders,35,New Orleans Saints,34,0,0,0.597662889259,2016-09-11
+8,Tampa Bay Buccaneers,31,Atlanta Falcons,24,0,1,0.739508315872,2016-09-11
+9,San Diego Chargers,27,Kansas City Chiefs,33,1,1,0.739643491444,2016-09-11
+10,Miami Dolphins,10,Seattle Seahawks,12,1,1,0.6581266856,2016-09-11
+11,Detroit Lions,39,Indianapolis Colts,35,0,0,0.630650369529,2016-09-11
+12,New York Giants,20,Dallas Cowboys,19,0,1,0.73435991302,2016-09-11
+13,New England Patriots,23,Arizona Cardinals,21,0,0,0.641890202888,2016-09-11
+14,Pittsburgh Steelers,38,Washington Redskins,16,0,1,0.602561264376,2016-09-12
+15,Los Angeles Rams,0,San Francisco 49ers,28,1,0,0.58586066115,2016-09-12
+16,New York Jets,37,Buffalo Bills,31,0,1,0.819791954454,2016-09-15
+17,Tennessee Titans,16,Detroit Lions,15,0,1,0.767715719173,2016-09-18
+18,Baltimore Ravens,25,Cleveland Browns,20,0,0,0.808066133119,2016-09-18
+19,Kansas City Chiefs,12,Houston Texans,19,1,0,0.539010481999,2016-09-18
+20,Miami Dolphins,24,New England Patriots,31,1,1,0.726741178038,2016-09-18
+21,Cincinnati Bengals,16,Pittsburgh Steelers,24,1,1,0.705357901092,2016-09-18
+22,Dallas Cowboys,27,Washington Redskins,23,0,0,0.586818855371,2016-09-18
+23,New Orleans Saints,13,New York Giants,16,1,1,0.658412905811,2016-09-18
+24,San Francisco 49ers,27,Carolina Panthers,46,1,1,0.836876887173,2016-09-18
+25,Tampa Bay Buccaneers,7,Arizona Cardinals,40,1,1,0.603948331056,2016-09-18
+26,Seattle Seahawks,3,Los Angeles Rams,9,1,0,0.741901923348,2016-09-18
+27,Indianapolis Colts,20,Denver Broncos,34,1,1,0.636752024912,2016-09-18
+28,Atlanta Falcons,35,Oakland Raiders,28,0,1,0.689179236641,2016-09-18
+29,Jacksonville Jaguars,14,San Diego Chargers,38,1,1,0.778978609151,2016-09-18
+30,Green Bay Packers,14,Minnesota Vikings,17,1,1,0.555509753142,2016-09-18
+31,Philadelphia Eagles,29,Chicago Bears,14,0,0,0.544731281988,2016-09-19
+32,Houston Texans,0,New England Patriots,27,1,1,0.79550061982,2016-09-22
+33,Detroit Lions,27,Green Bay Packers,34,1,0,0.616965122127,2016-09-25
+34,Cleveland Browns,24,Miami Dolphins,30,1,1,0.91449897274,2016-09-25
+35,Denver Broncos,29,Cincinnati Bengals,17,0,0,0.511108186516,2016-09-25
+36,Arizona Cardinals,18,Buffalo Bills,33,1,1,0.647991678847,2016-09-25
+37,Baltimore Ravens,19,Jacksonville Jaguars,17,0,0,0.696794903683,2016-09-25
+38,Minnesota Vikings,22,Carolina Panthers,10,0,1,0.513706739262,2016-09-25
+39,Oakland Raiders,17,Tennessee Titans,10,0,0,0.597468172379,2016-09-25
+40,Washington Redskins,29,New York Giants,27,0,1,0.617493538068,2016-09-25
+41,San Francisco 49ers,18,Seattle Seahawks,37,1,1,0.9274193041,2016-09-25
+42,Los Angeles Rams,37,Tampa Bay Buccaneers,32,0,1,0.757100737742,2016-09-25
+43,Pittsburgh Steelers,3,Philadelphia Eagles,34,1,0,0.535452340878,2016-09-25
+44,San Diego Chargers,22,Indianapolis Colts,26,1,1,0.66246853979,2016-09-25
+45,New York Jets,3,Kansas City Chiefs,24,1,1,0.859705498053,2016-09-25
+46,Chicago Bears,17,Dallas Cowboys,31,1,1,0.903207344763,2016-09-25
+47,Atlanta Falcons,45,New Orleans Saints,32,0,1,0.504724470667,2016-09-26
+48,Miami Dolphins,7,Cincinnati Bengals,22,1,0,0.519201439495,2016-09-29
+49,Indianapolis Colts,27,Jacksonville Jaguars,30,1,0,0.687635590499,2016-10-02
+50,Detroit Lions,14,Chicago Bears,17,1,0,0.798172571374,2016-10-02
+51,Buffalo Bills,16,New England Patriots,0,0,1,0.753674081222,2016-10-02
+52,Oakland Raiders,28,Baltimore Ravens,27,0,0,0.611776081952,2016-10-02
+53,Tennessee Titans,20,Houston Texans,27,1,1,0.527619867857,2016-10-02
+54,Seattle Seahawks,27,New York Jets,17,0,0,0.762258068143,2016-10-02
+55,Carolina Panthers,33,Atlanta Falcons,48,1,1,0.781362111858,2016-10-02
+56,Cleveland Browns,20,Washington Redskins,31,1,1,0.919616439921,2016-10-02
+57,Los Angeles Rams,17,Arizona Cardinals,13,0,1,0.764433813161,2016-10-02
+58,Denver Broncos,27,Tampa Bay Buccaneers,7,0,1,0.50125821703,2016-10-02
+59,Dallas Cowboys,24,San Francisco 49ers,17,0,0,0.90977401024,2016-10-02
+60,New Orleans Saints,35,San Diego Chargers,34,0,0,0.503263710937,2016-10-02
+61,Kansas City Chiefs,14,Pittsburgh Steelers,43,1,1,0.563824030661,2016-10-02
+62,New York Giants,10,Minnesota Vikings,24,1,0,0.523817134625,2016-10-03
+63,Arizona Cardinals,33,San Francisco 49ers,21,0,0,0.758115068299,2016-10-06
+64,Chicago Bears,23,Indianapolis Colts,29,1,1,0.772336884453,2016-10-09
+65,New England Patriots,33,Cleveland Browns,13,0,0,0.90052298203,2016-10-09
+66,Tennessee Titans,30,Miami Dolphins,17,0,1,0.620306119007,2016-10-09
+67,Philadelphia Eagles,23,Detroit Lions,24,1,1,0.828801502634,2016-10-09
+68,New York Jets,13,Pittsburgh Steelers,31,1,1,0.843946810013,2016-10-09
+69,Washington Redskins,16,Baltimore Ravens,10,0,1,0.536260217295,2016-10-09
+70,Houston Texans,13,Minnesota Vikings,31,1,1,0.610517287415,2016-10-09
+71,Atlanta Falcons,23,Denver Broncos,16,0,1,0.524106902246,2016-10-09
+72,Cincinnati Bengals,14,Dallas Cowboys,28,1,1,0.837524399845,2016-10-09
+73,Buffalo Bills,30,Los Angeles Rams,19,0,0,0.655299546556,2016-10-09
+74,San Diego Chargers,31,Oakland Raiders,34,1,1,0.825453459847,2016-10-09
+75,New York Giants,16,Green Bay Packers,23,1,1,0.515832510363,2016-10-09
+76,Tampa Bay Buccaneers,17,Carolina Panthers,14,0,1,0.537788490726,2016-10-10
+77,Denver Broncos,13,San Diego Chargers,21,1,0,0.522649242929,2016-10-13
+78,Cleveland Browns,26,Tennessee Titans,28,1,1,0.905565246662,2016-10-16
+79,Cincinnati Bengals,17,New England Patriots,35,1,1,0.807934495721,2016-10-16
+80,Los Angeles Rams,28,Detroit Lions,31,1,1,0.904691921492,2016-10-16
+81,San Francisco 49ers,16,Buffalo Bills,45,1,1,0.89418742777,2016-10-16
+82,Baltimore Ravens,23,New York Giants,27,1,1,0.671566151643,2016-10-16
+83,Pittsburgh Steelers,15,Miami Dolphins,30,1,1,0.586338559927,2016-10-16
+84,Jacksonville Jaguars,17,Chicago Bears,16,0,1,0.670949929775,2016-10-16
+85,Philadelphia Eagles,20,Washington Redskins,27,1,1,0.719068598125,2016-10-16
+86,Carolina Panthers,38,New Orleans Saints,41,1,1,0.713178218021,2016-10-16
+87,Kansas City Chiefs,26,Oakland Raiders,10,0,1,0.709153220795,2016-10-16
+88,Dallas Cowboys,30,Green Bay Packers,16,0,0,0.639191264807,2016-10-16
+89,Atlanta Falcons,24,Seattle Seahawks,26,1,1,0.599219278352,2016-10-16
+90,Indianapolis Colts,23,Houston Texans,26,1,1,0.553158927389,2016-10-16
+91,New York Jets,3,Arizona Cardinals,28,1,1,0.78353138185,2016-10-17
+92,Chicago Bears,10,Green Bay Packers,26,1,1,0.782428554525,2016-10-20
+93,New York Giants,17,Los Angeles Rams,10,0,0,0.720540107203,2016-10-23
+94,Oakland Raiders,33,Jacksonville Jaguars,16,0,0,0.841377821191,2016-10-23
+95,Minnesota Vikings,10,Philadelphia Eagles,21,1,1,0.550618811608,2016-10-23
+96,Indianapolis Colts,34,Tennessee Titans,26,0,1,0.618809985224,2016-10-23
+97,Buffalo Bills,25,Miami Dolphins,28,1,1,0.627569380463,2016-10-23
+98,Washington Redskins,17,Detroit Lions,20,1,1,0.734770111191,2016-10-23
+99,Cleveland Browns,17,Cincinnati Bengals,31,1,1,0.871171235559,2016-10-23
+100,New Orleans Saints,21,Kansas City Chiefs,27,1,1,0.656877816998,2016-10-23
+101,Baltimore Ravens,16,New York Jets,24,1,0,0.673209478312,2016-10-23
+102,Tampa Bay Buccaneers,34,San Francisco 49ers,17,0,0,0.750649454525,2016-10-23
+103,San Diego Chargers,33,Atlanta Falcons,30,0,1,0.757515550469,2016-10-23
+104,New England Patriots,27,Pittsburgh Steelers,16,0,0,0.54538736473,2016-10-23
+105,Seattle Seahawks,6,Arizona Cardinals,6,0,0,0.564730646598,2016-10-23
+106,Houston Texans,9,Denver Broncos,27,1,1,0.674696017689,2016-10-24
+107,Jacksonville Jaguars,22,Tennessee Titans,36,1,1,0.839597831614,2016-10-27
+108,Washington Redskins,27,Cincinnati Bengals,27,0,0,0.535973382903,2016-10-30
+109,Arizona Cardinals,20,Carolina Panthers,30,1,1,0.527758613524,2016-10-30
+110,New England Patriots,41,Buffalo Bills,25,0,0,0.587830642494,2016-10-30
+111,Kansas City Chiefs,30,Indianapolis Colts,14,0,1,0.50296193819,2016-10-30
+112,Oakland Raiders,30,Tampa Bay Buccaneers,24,0,0,0.667022674783,2016-10-30
+113,New York Jets,31,Cleveland Browns,28,0,0,0.582514894,2016-10-30
+114,Seattle Seahawks,20,New Orleans Saints,25,1,0,0.500416186092,2016-10-30
+115,Detroit Lions,13,Houston Texans,20,1,0,0.668900308378,2016-10-30
+116,San Diego Chargers,19,Denver Broncos,27,1,1,0.701396962128,2016-10-30
+117,Green Bay Packers,32,Atlanta Falcons,33,1,1,0.687427650912,2016-10-30
+118,Philadelphia Eagles,23,Dallas Cowboys,29,1,1,0.841885728775,2016-10-30
+119,Minnesota Vikings,10,Chicago Bears,20,1,0,0.588527989544,2016-10-31
+120,Atlanta Falcons,43,Tampa Bay Buccaneers,28,0,0,0.569574333322,2016-11-03
+121,Jacksonville Jaguars,14,Kansas City Chiefs,19,1,1,0.872382509943,2016-11-06
+122,Pittsburgh Steelers,14,Baltimore Ravens,21,1,1,0.544827936,2016-11-06
+123,Philadelphia Eagles,23,New York Giants,28,1,1,0.73829379715,2016-11-06
+124,New York Jets,23,Miami Dolphins,27,1,1,0.839578075589,2016-11-06
+125,Detroit Lions,22,Minnesota Vikings,16,0,0,0.653707986035,2016-11-06
+126,Dallas Cowboys,35,Cleveland Browns,10,0,0,0.917308505795,2016-11-06
+127,New Orleans Saints,41,San Francisco 49ers,23,0,0,0.80235713961,2016-11-06
+128,Carolina Panthers,13,Los Angeles Rams,10,0,0,0.535774357719,2016-11-06
+129,Indianapolis Colts,31,Green Bay Packers,26,0,1,0.608252225019,2016-11-06
+130,Tennessee Titans,35,San Diego Chargers,43,1,0,0.503466126188,2016-11-06
+131,Denver Broncos,20,Oakland Raiders,30,1,1,0.746764973116,2016-11-06
+132,Buffalo Bills,25,Seattle Seahawks,31,1,1,0.688927642656,2016-11-07
+133,Cleveland Browns,7,Baltimore Ravens,28,1,1,0.900320696933,2016-11-10
+134,Kansas City Chiefs,20,Carolina Panthers,17,0,0,0.602365657237,2016-11-13
+135,Green Bay Packers,25,Tennessee Titans,47,1,1,0.604960834383,2016-11-13
+136,Chicago Bears,10,Tampa Bay Buccaneers,36,1,1,0.735864034144,2016-11-13
+137,Houston Texans,24,Jacksonville Jaguars,21,0,0,0.650418878837,2016-11-13
+138,Minnesota Vikings,20,Washington Redskins,26,1,1,0.681650566706,2016-11-13
+139,Denver Broncos,25,New Orleans Saints,23,0,1,0.575431291216,2016-11-13
+140,Atlanta Falcons,15,Philadelphia Eagles,24,1,0,0.589522390323,2016-11-13
+141,Los Angeles Rams,9,New York Jets,6,0,1,0.567688868788,2016-11-13
+142,Miami Dolphins,31,San Diego Chargers,24,0,0,0.530726857832,2016-11-13
+143,San Francisco 49ers,20,Arizona Cardinals,23,1,1,0.870532249657,2016-11-13
+144,Dallas Cowboys,35,Pittsburgh Steelers,30,0,0,0.595157663903,2016-11-13
+145,Seattle Seahawks,31,New England Patriots,24,0,1,0.669260818424,2016-11-13
+146,Cincinnati Bengals,20,New York Giants,21,1,1,0.731984712846,2016-11-14
+147,New Orleans Saints,20,Carolina Panthers,23,1,0,0.536825783975,2016-11-17
+148,Tennessee Titans,17,Indianapolis Colts,24,1,1,0.569251918836,2016-11-20
+149,Arizona Cardinals,24,Minnesota Vikings,30,1,1,0.607772357972,2016-11-20
+150,Chicago Bears,16,New York Giants,22,1,1,0.831763032662,2016-11-20
+151,Buffalo Bills,16,Cincinnati Bengals,12,0,1,0.515822203576,2016-11-20
+152,Baltimore Ravens,17,Dallas Cowboys,27,1,1,0.79420875028,2016-11-20
+153,Jacksonville Jaguars,19,Detroit Lions,26,1,1,0.921943164931,2016-11-20
+154,Tampa Bay Buccaneers,19,Kansas City Chiefs,17,0,1,0.720798227826,2016-11-20
+155,Pittsburgh Steelers,24,Cleveland Browns,9,0,0,0.837446265372,2016-11-20
+156,Miami Dolphins,14,Los Angeles Rams,10,0,0,0.686233779001,2016-11-20
+157,New England Patriots,30,San Francisco 49ers,17,0,0,0.891639729976,2016-11-20
+158,Philadelphia Eagles,15,Seattle Seahawks,26,1,1,0.75875289915,2016-11-20
+159,Green Bay Packers,24,Washington Redskins,42,1,1,0.646268207481,2016-11-20
+160,Houston Texans,20,Oakland Raiders,27,1,1,0.80678983833,2016-11-21
+161,Minnesota Vikings,13,Detroit Lions,16,1,1,0.801974069347,2016-11-24
+162,Washington Redskins,26,Dallas Cowboys,31,1,1,0.752898270464,2016-11-24
+163,Pittsburgh Steelers,28,Indianapolis Colts,7,0,1,0.534147117038,2016-11-24
+164,San Diego Chargers,21,Houston Texans,13,0,1,0.623893361903,2016-11-27
+165,Cincinnati Bengals,14,Baltimore Ravens,19,1,1,0.661746848345,2016-11-27
+166,Tennessee Titans,27,Chicago Bears,21,0,0,0.636708001455,2016-11-27
+167,San Francisco 49ers,24,Miami Dolphins,31,1,1,0.906734512074,2016-11-27
+168,Jacksonville Jaguars,21,Buffalo Bills,28,1,1,0.835384970658,2016-11-27
+169,Arizona Cardinals,19,Atlanta Falcons,38,1,1,0.731671680506,2016-11-27
+170,Los Angeles Rams,21,New Orleans Saints,49,1,1,0.807813137057,2016-11-27
+171,New York Giants,27,Cleveland Browns,13,0,0,0.854596917212,2016-11-27
+172,Seattle Seahawks,5,Tampa Bay Buccaneers,14,1,0,0.57460821366,2016-11-27
+173,New England Patriots,22,New York Jets,17,0,0,0.815821951856,2016-11-27
+174,Carolina Panthers,32,Oakland Raiders,35,1,1,0.843994774542,2016-11-27
+175,Kansas City Chiefs,30,Denver Broncos,27,0,1,0.547727367391,2016-11-27
+176,Green Bay Packers,27,Philadelphia Eagles,13,0,1,0.511118003402,2016-11-28
+177,Dallas Cowboys,17,Minnesota Vikings,15,0,0,0.67492543755,2016-12-01
+178,Denver Broncos,20,Jacksonville Jaguars,10,0,0,0.724866915068,2016-12-04
+179,Houston Texans,13,Green Bay Packers,21,1,1,0.647525305165,2016-12-04
+180,Philadelphia Eagles,14,Cincinnati Bengals,32,1,1,0.602059478274,2016-12-04
+181,Kansas City Chiefs,29,Atlanta Falcons,28,0,1,0.616954152635,2016-12-04
+182,Los Angeles Rams,10,New England Patriots,26,1,1,0.894953732068,2016-12-04
+183,Miami Dolphins,6,Baltimore Ravens,38,1,1,0.552949466695,2016-12-04
+184,San Francisco 49ers,6,Chicago Bears,26,1,1,0.772493990853,2016-12-04
+185,Detroit Lions,28,New Orleans Saints,13,0,0,0.606582009771,2016-12-04
+186,Buffalo Bills,24,Oakland Raiders,38,1,1,0.766594823295,2016-12-04
+187,New York Giants,14,Pittsburgh Steelers,24,1,1,0.562146545303,2016-12-04
+188,Washington Redskins,23,Arizona Cardinals,31,1,0,0.513590562924,2016-12-04
+189,Tampa Bay Buccaneers,28,San Diego Chargers,21,0,1,0.571006315492,2016-12-04
+190,Carolina Panthers,7,Seattle Seahawks,40,1,1,0.784854701689,2016-12-04
+191,Indianapolis Colts,41,New York Jets,10,0,0,0.663681576363,2016-12-05
+192,Oakland Raiders,13,Kansas City Chiefs,21,1,0,0.531950176787,2016-12-08
+193,Pittsburgh Steelers,27,Buffalo Bills,20,0,1,0.551985457402,2016-12-11
+194,Chicago Bears,17,Detroit Lions,20,1,1,0.894562059664,2016-12-11
+195,Denver Broncos,10,Tennessee Titans,13,1,1,0.575629096463,2016-12-11
+196,Cincinnati Bengals,23,Cleveland Browns,10,0,0,0.759155385164,2016-12-11
+197,Arizona Cardinals,23,Miami Dolphins,26,1,1,0.679260740001,2016-12-11
+198,Houston Texans,22,Indianapolis Colts,17,0,1,0.634102545612,2016-12-11
+199,Minnesota Vikings,25,Jacksonville Jaguars,16,0,0,0.665681702431,2016-12-11
+200,Washington Redskins,27,Philadelphia Eagles,22,0,0,0.544022294087,2016-12-11
+201,San Diego Chargers,16,Carolina Panthers,28,1,1,0.561471112479,2016-12-11
+202,New York Jets,23,San Francisco 49ers,17,0,0,0.559136294774,2016-12-11
+203,Atlanta Falcons,42,Los Angeles Rams,14,0,0,0.737944868569,2016-12-11
+204,Seattle Seahawks,10,Green Bay Packers,38,1,0,0.511344024618,2016-12-11
+205,New Orleans Saints,11,Tampa Bay Buccaneers,16,1,1,0.520647467614,2016-12-11
+206,Dallas Cowboys,7,New York Giants,10,1,0,0.563051801447,2016-12-11
+207,Baltimore Ravens,23,New England Patriots,30,1,1,0.759000207089,2016-12-12
+208,Los Angeles Rams,3,Seattle Seahawks,24,1,1,0.860467384318,2016-12-15
+209,Miami Dolphins,34,New York Jets,13,0,0,0.709259875036,2016-12-17
+210,Indianapolis Colts,34,Minnesota Vikings,6,0,1,0.569859888651,2016-12-18
+211,Detroit Lions,6,New York Giants,17,1,0,0.539514352194,2016-12-18
+212,Philadelphia Eagles,26,Baltimore Ravens,27,1,1,0.668961586549,2016-12-18
+213,Tennessee Titans,19,Kansas City Chiefs,17,0,1,0.656695296588,2016-12-18
+214,Jacksonville Jaguars,20,Houston Texans,21,1,1,0.799661627961,2016-12-18
+215,Pittsburgh Steelers,24,Cincinnati Bengals,20,0,0,0.527383573812,2016-12-18
+216,Cleveland Browns,13,Buffalo Bills,33,1,1,0.902884570732,2016-12-18
+217,Green Bay Packers,30,Chicago Bears,27,0,0,0.626346632205,2016-12-18
+218,New Orleans Saints,48,Arizona Cardinals,41,0,1,0.530694072673,2016-12-18
+219,San Francisco 49ers,13,Atlanta Falcons,41,1,1,0.926022915679,2016-12-18
+220,New England Patriots,16,Denver Broncos,3,0,0,0.561500636158,2016-12-18
+221,Oakland Raiders,19,San Diego Chargers,16,0,0,0.687926129717,2016-12-18
+222,Tampa Bay Buccaneers,20,Dallas Cowboys,26,1,1,0.830679352421,2016-12-18
+223,Carolina Panthers,26,Washington Redskins,15,0,1,0.748038246405,2016-12-19
+224,New York Giants,19,Philadelphia Eagles,24,1,0,0.568030320829,2016-12-22
+225,Miami Dolphins,1,Buffalo Bills,0,0,1,0.560082396664,2016-12-24
+226,Atlanta Falcons,1,Carolina Panthers,0,0,0,0.624881927313,2016-12-24
+227,San Diego Chargers,1,Cleveland Browns,0,0,0,0.750603874279,2016-12-24
+228,Washington Redskins,1,Chicago Bears,0,0,0,0.676471050485,2016-12-24
+229,Tennessee Titans,1,Jacksonville Jaguars,0,0,0,0.70929012281,2016-12-24
+230,New York Jets,1,New England Patriots,0,0,1,0.904787866224,2016-12-24
+231,Minnesota Vikings,1,Green Bay Packers,0,0,1,0.63189194399,2016-12-24
+232,Indianapolis Colts,1,Oakland Raiders,0,0,1,0.779211467093,2016-12-24
+233,Arizona Cardinals,1,Seattle Seahawks,0,0,1,0.735689532967,2016-12-24
+234,San Francisco 49ers,1,Los Angeles Rams,0,0,1,0.752162561219,2016-12-24
+235,Tampa Bay Buccaneers,1,New Orleans Saints,0,0,1,0.663886671273,2016-12-24
+236,Cincinnati Bengals,1,Houston Texans,0,0,1,0.612987555908,2016-12-24
+237,Baltimore Ravens,1,Pittsburgh Steelers,0,0,1,0.641873602054,2016-12-25
+238,Denver Broncos,1,Kansas City Chiefs,0,0,1,0.639180128234,2016-12-25
+239,Detroit Lions,1,Dallas Cowboys,0,0,1,0.616996506725,2016-12-26
+240,New England Patriots,1,Miami Dolphins,0,0,0,0.553507093835,2017-01-01
+241,New York Giants,1,Washington Redskins,0,0,1,0.570618945166,2017-01-01
+242,Houston Texans,1,Tennessee Titans,0,0,1,0.657620417928,2017-01-01
+243,Jacksonville Jaguars,1,Indianapolis Colts,0,0,1,0.825258434875,2017-01-01
+244,Baltimore Ravens,1,Cincinnati Bengals,0,0,1,0.523036538802,2017-01-01
+245,Buffalo Bills,1,New York Jets,0,0,0,0.679535652102,2017-01-01
+246,Dallas Cowboys,1,Philadelphia Eagles,0,0,0,0.712800882744,2017-01-01
+247,New Orleans Saints,1,Atlanta Falcons,0,0,1,0.677957589611,2017-01-01
+248,Chicago Bears,1,Minnesota Vikings,0,0,1,0.75420816266,2017-01-01
+249,Cleveland Browns,1,Pittsburgh Steelers,0,0,1,0.917029035337,2017-01-01
+250,Green Bay Packers,1,Detroit Lions,0,0,1,0.775561642966,2017-01-01
+251,Carolina Panthers,1,Tampa Bay Buccaneers,0,0,1,0.648364335372,2017-01-01
+252,Kansas City Chiefs,1,San Diego Chargers,0,0,0,0.569746386085,2017-01-01
+253,Arizona Cardinals,1,Los Angeles Rams,0,0,0,0.602009140889,2017-01-01
+254,Oakland Raiders,1,Denver Broncos,0,0,0,0.578869074846,2017-01-01
+255,Seattle Seahawks,1,San Francisco 49ers,0,0,0,0.856240171875,2017-01-01

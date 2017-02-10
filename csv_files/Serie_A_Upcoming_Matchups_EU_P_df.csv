@@ -1,0 +1,21 @@
+ID,Date,Time,League,Matchup_US_P,Home_Team,Visitor_Team,Home_Odd,Draw_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+117,2016-11-26,18:00:00,serie-a,Torino FC vs Chievo Verona,Torino FC,Chievo Verona,1.75,4.0,5.8,Torino,Torino,0.53,N,Upcoming
+118,2016-11-26,20:45:00,serie-a,Empoli vs AC Milan,Empoli,AC Milan,4.2,3.51,2.12,AC Milan,AC Milan,0.565,N,Upcoming
+119,2016-11-27,12:30:00,serie-a,Palermo vs SS Lazio,Palermo,SS Lazio,5.7,4.2,1.72,Lazio Roma,Lazio Roma,0.589,N,Upcoming
+120,2016-11-27,15:00:00,serie-a,Genoa vs Juventus FC,Genoa,Juventus FC,7.0,4.1,1.66,Juventus,Juventus,0.54,N,Upcoming
+121,2016-11-27,15:00:00,serie-a,Crotone vs Sampdoria,Crotone,Sampdoria,3.55,3.57,2.37,Sampdoria,Sampdoria,0.507,N,Upcoming
+122,2016-11-27,15:00:00,serie-a,Bologna F.C. vs Atalanta Bergamo,Bologna F.C.,Atalanta Bergamo,3.18,3.38,2.66,Atalanta,Atalanta,0.425,N,Upcoming
+123,2016-11-27,15:00:00,serie-a,Cagliari vs Udinese Calcio,Cagliari,Udinese Calcio,2.54,3.66,3.28,Cagliari,Cagliari,0.465,N,Upcoming
+124,2016-11-27,20:45:00,serie-a,AS Roma vs Pescara,AS Roma,Pescara,1.26,8.2,16.5,AS Roma,AS Roma,0.631,N,Upcoming
+125,2016-11-28,19:00:00,serie-a,Napoli vs Sassuolo,Napoli,Sassuolo,1.35,6.5,12.0,Napoli,Napoli,0.611,N,Upcoming
+126,2016-11-28,21:00:00,serie-a,Internazionale Milano vs AC Fiorentina,Internazionale Milano,AC Fiorentina,2.06,3.73,4.15,Inter Milan,Inter Milan,0.397,N,Upcoming
+127,2016-12-02,20:45:00,serie-a,Napoli vs Internazionale Milano,Napoli,Internazionale Milano,1.86,4.03,5.5,Napoli,Napoli,0.547,N,Upcoming
+128,2016-12-03,20:45:00,serie-a,Juventus FC vs Atalanta Bergamo,Juventus FC,Atalanta Bergamo,1.38,5.5,12.0,Juventus,Juventus,0.559,N,Upcoming
+129,2016-12-04,12:30:00,serie-a,AC Milan vs Crotone,AC Milan,Crotone,1.33,6.01,13.5,AC Milan,AC Milan,0.659,N,Upcoming
+130,2016-12-04,15:00:00,serie-a,Sampdoria vs Torino FC,Sampdoria,Torino FC,2.78,3.6,2.9,Sampdoria,Sampdoria,0.393,N,Upcoming
+131,2016-12-04,15:00:00,serie-a,Sassuolo vs Empoli,Sassuolo,Empoli,1.97,3.58,4.7,Sassuolo,Sassuolo,0.458,N,Upcoming
+132,2016-12-04,15:00:00,serie-a,Pescara vs Cagliari,Pescara,Cagliari,2.59,3.68,3.02,Pescara,Cagliari,0.435,Y,Upcoming
+133,2016-12-04,15:00:00,serie-a,SS Lazio vs AS Roma,SS Lazio,AS Roma,3.11,3.55,2.62,AS Roma,Lazio Roma,0.46,Y,Upcoming
+134,2016-12-04,20:45:00,serie-a,AC Fiorentina vs Palermo,AC Fiorentina,Palermo,1.36,5.85,13.0,Fiorentina,Fiorentina,0.644,N,Upcoming
+135,2016-12-05,19:00:00,serie-a,Chievo Verona vs Genoa,Chievo Verona,Genoa,2.6,3.28,3.3,Chievo,Chievo,0.46,N,Upcoming
+136,2016-12-05,21:00:00,serie-a,Udinese Calcio vs Bologna F.C.,Udinese Calcio,Bologna F.C.,2.18,3.5,4.2,Udinese,Udinese,0.451,N,Upcoming

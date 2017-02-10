@@ -1,0 +1,83 @@
+ID,League,Date,Time,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Draw_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,Home_Team_PTS,visi_team_pts,True_Result,Winner_Odd
+59,bundesliga,2016-08-27,14:30,Augsburg vs Wolfsburg,Augsburg,Wolfsburg,2.88,3.33,2.54,Wolfsburg,Augsburg,0.5,Y,0,2,Wolfsburg,2.54
+60,bundesliga,2016-08-27,14:30,Hamburger SV vs Ingolstadt,Hamburger SV,Ingolstadt,2.37,3.19,3.27,Hamburger SV,Hamburger SV,0.489,N,1,1,Draw,3.19
+61,bundesliga,2016-08-27,14:30,Frankfurt vs Schalke 04,Frankfurt,Schalke 04,3.31,3.46,2.22,Schalke 04,Frankfurt,0.599,Y,1,0,Frankfurt,3.31
+62,bundesliga,2016-08-27,14:30,FC Koln vs Darmstadt,FC Koln,Darmstadt,1.55,4.08,6.72,FC Koln,FC Koln,0.642,N,2,0,FC Koln,1.55
+73,bundesliga,2016-08-27,17:30,Monchengladb. vs Leverkusen,Monchengladb.,Leverkusen,2.47,3.48,2.88,Monchengladb.,Monchengladb.,0.411,N,2,1,Monchengladb.,2.47
+85,bundesliga,2016-08-28,14:30,Hertha Berlin vs Freiburg,Hertha Berlin,Freiburg,1.99,3.45,4.01,Hertha Berlin,Hertha Berlin,0.571,N,2,1,Hertha Berlin,1.99
+88,bundesliga,2016-08-28,16:30,Hoffenheim vs RB Leipzig,Hoffenheim,RB Leipzig,2.43,3.41,2.98,Hoffenheim,Hoffenheim,0.397,N,2,2,Draw,3.41
+101,bundesliga,2016-09-09,19:30,Schalke 04 vs Bayern Munich,Schalke 04,Bayern Munich,10.76,5.78,1.3,Bayern Munich,Bayern Munich,0.592,N,0,2,Bayern Munich,1.3
+106,bundesliga,2016-09-10,14:30,Leverkusen vs Hamburger SV,Leverkusen,Hamburger SV,1.54,4.34,6.36,Leverkusen,Leverkusen,0.547,N,3,1,Leverkusen,1.54
+107,bundesliga,2016-09-10,14:30,Darmstadt vs Frankfurt,Darmstadt,Frankfurt,3.29,3.33,2.29,Frankfurt,Frankfurt,0.605,N,1,0,Darmstadt,3.29
+108,bundesliga,2016-09-10,14:30,Ingolstadt vs Hertha Berlin,Ingolstadt,Hertha Berlin,2.34,3.13,3.38,Ingolstadt,Hertha Berlin,0.543,Y,0,2,Hertha Berlin,3.38
+109,bundesliga,2016-09-10,14:30,Freiburg vs Monchengladb.,Freiburg,Monchengladb.,3.68,3.68,2.01,Monchengladb.,Freiburg,0.529,Y,3,1,Freiburg,3.68
+110,bundesliga,2016-09-10,14:30,Wolfsburg vs FC Koln,Wolfsburg,FC Koln,1.81,3.76,4.53,Wolfsburg,FC Koln,0.419,Y,0,0,Draw,3.76
+121,bundesliga,2016-09-10,17:30,RB Leipzig vs Dortmund,RB Leipzig,Dortmund,5.67,4.24,1.6,Dortmund,RB Leipzig,0.547,Y,1,0,RB Leipzig,5.67
+137,bundesliga,2016-09-11,14:30,Werder Bremen vs Augsburg,Werder Bremen,Augsburg,2.41,3.47,2.96,Werder Bremen,Werder Bremen,0.419,N,1,2,Augsburg,2.96
+145,bundesliga,2016-09-16,19:30,FC Koln vs Freiburg,FC Koln,Freiburg,1.74,3.84,4.92,FC Koln,FC Koln,0.528,N,3,0,FC Koln,1.74
+151,bundesliga,2016-09-17,14:30,Hoffenheim vs Wolfsburg,Hoffenheim,Wolfsburg,2.74,3.62,2.5,Wolfsburg,Hoffenheim,0.621,Y,0,0,Draw,3.62
+152,bundesliga,2016-09-17,14:30,Frankfurt vs Leverkusen,Frankfurt,Leverkusen,3.75,3.6,2.02,Leverkusen,Frankfurt,0.582,Y,2,1,Frankfurt,3.75
+153,bundesliga,2016-09-17,14:30,Hamburger SV vs RB Leipzig,Hamburger SV,RB Leipzig,2.7,3.31,2.72,Hamburger SV,RB Leipzig,0.611,Y,0,4,RB Leipzig,2.72
+154,bundesliga,2016-09-17,14:30,Dortmund vs Darmstadt,Dortmund,Darmstadt,1.16,8.23,17.76,Dortmund,Dortmund,0.659,N,6,0,Dortmund,1.16
+155,bundesliga,2016-09-17,14:30,Bayern Munich vs Ingolstadt,Bayern Munich,Ingolstadt,1.14,8.77,22.65,Bayern Munich,Bayern Munich,0.686,N,3,1,Bayern Munich,1.14
+163,bundesliga,2016-09-17,17:30,Monchengladb. vs Werder Bremen,Monchengladb.,Werder Bremen,1.44,4.99,6.91,Monchengladb.,Monchengladb.,0.481,N,4,1,Monchengladb.,1.44
+185,bundesliga,2016-09-18,16:30,Hertha Berlin vs Schalke 04,Hertha Berlin,Schalke 04,2.74,3.34,2.66,Schalke 04,Hertha Berlin,0.6,Y,2,0,Hertha Berlin,2.74
+194,bundesliga,2016-09-20,19:00,Darmstadt vs Hoffenheim,Darmstadt,Hoffenheim,3.68,3.71,2.01,Hoffenheim,Hoffenheim,0.611,N,1,1,Draw,3.71
+195,bundesliga,2016-09-20,19:00,Ingolstadt vs Frankfurt,Ingolstadt,Frankfurt,2.03,3.37,3.95,Ingolstadt,Frankfurt,0.538,Y,0,2,Frankfurt,3.95
+196,bundesliga,2016-09-20,19:00,Freiburg vs Hamburger SV,Freiburg,Hamburger SV,2.14,3.48,3.5,Freiburg,Freiburg,0.558,N,1,0,Freiburg,2.14
+197,bundesliga,2016-09-20,19:00,Wolfsburg vs Dortmund,Wolfsburg,Dortmund,4.59,4.03,1.74,Dortmund,Dortmund,0.444,N,1,5,Dortmund,1.74
+210,bundesliga,2016-09-21,19:00,Leverkusen vs Augsburg,Leverkusen,Augsburg,1.47,4.64,6.96,Leverkusen,Leverkusen,0.486,N,0,0,Draw,4.64
+211,bundesliga,2016-09-21,19:00,Schalke 04 vs FC Koln,Schalke 04,FC Koln,2.22,3.36,3.42,Schalke 04,FC Koln,0.392,Y,1,3,FC Koln,3.42
+212,bundesliga,2016-09-21,19:00,RB Leipzig vs Monchengladb.,RB Leipzig,Monchengladb.,2.19,3.52,3.33,RB Leipzig,RB Leipzig,0.649,N,1,1,Draw,3.52
+213,bundesliga,2016-09-21,19:00,Bayern Munich vs Hertha Berlin,Bayern Munich,Hertha Berlin,1.14,8.5,21.82,Bayern Munich,Bayern Munich,0.569,N,3,0,Bayern Munich,1.14
+231,bundesliga,2016-09-23,19:30,Dortmund vs Freiburg,Dortmund,Freiburg,1.2,7.39,14.46,Dortmund,Dortmund,0.556,N,3,1,Dortmund,1.2
+236,bundesliga,2016-09-24,14:30,Augsburg vs Darmstadt,Augsburg,Darmstadt,1.64,3.84,5.84,Augsburg,Augsburg,0.583,N,1,0,Augsburg,1.64
+237,bundesliga,2016-09-24,14:30,Frankfurt vs Hertha Berlin,Frankfurt,Hertha Berlin,2.36,3.19,3.29,Frankfurt,Frankfurt,0.464,N,3,3,Draw,3.19
+238,bundesliga,2016-09-24,14:30,Monchengladb. vs Ingolstadt,Monchengladb.,Ingolstadt,1.94,3.43,4.24,Monchengladb.,Monchengladb.,0.525,N,2,0,Monchengladb.,1.94
+239,bundesliga,2016-09-24,14:30,Hamburger SV vs Bayern Munich,Hamburger SV,Bayern Munich,15.06,6.95,1.21,Bayern Munich,Bayern Munich,0.651,N,0,1,Bayern Munich,1.21
+249,bundesliga,2016-09-24,17:30,Werder Bremen vs Wolfsburg,Werder Bremen,Wolfsburg,3.92,3.84,1.91,Wolfsburg,Werder Bremen,0.452,Y,2,1,Werder Bremen,3.92
+266,bundesliga,2016-09-25,14:30,Hoffenheim vs Schalke 04,Hoffenheim,Schalke 04,2.86,3.7,2.39,Schalke 04,Hoffenheim,0.604,Y,2,1,Hoffenheim,2.86
+277,bundesliga,2016-09-30,19:30,RB Leipzig vs Augsburg,RB Leipzig,Augsburg,1.74,3.68,5.18,RB Leipzig,RB Leipzig,0.636,N,2,1,RB Leipzig,1.74
+283,bundesliga,2016-10-01,14:30,Darmstadt vs Werder Bremen,Darmstadt,Werder Bremen,2.98,3.42,2.42,Werder Bremen,Werder Bremen,0.427,N,2,2,Draw,3.42
+284,bundesliga,2016-10-01,14:30,Hertha Berlin vs Hamburger SV,Hertha Berlin,Hamburger SV,2.05,3.3,3.97,Hertha Berlin,Hertha Berlin,0.635,N,2,0,Hertha Berlin,2.05
+285,bundesliga,2016-10-01,14:30,Bayern Munich vs FC Koln,Bayern Munich,FC Koln,1.2,6.88,15.96,Bayern Munich,Bayern Munich,0.6,N,1,1,Draw,6.88
+286,bundesliga,2016-10-01,14:30,Ingolstadt vs Hoffenheim,Ingolstadt,Hoffenheim,2.11,3.42,3.63,Ingolstadt,Hoffenheim,0.545,Y,1,2,Hoffenheim,3.63
+287,bundesliga,2016-10-01,14:30,Freiburg vs Frankfurt,Freiburg,Frankfurt,2.37,3.4,3.07,Freiburg,Frankfurt,0.367,Y,1,0,Freiburg,2.37
+295,bundesliga,2016-10-01,17:30,Leverkusen vs Dortmund,Leverkusen,Dortmund,3.35,3.72,2.11,Dortmund,Dortmund,0.363,N,2,0,Leverkusen,3.35
+316,bundesliga,2016-10-02,16:30,Schalke 04 vs Monchengladb.,Schalke 04,Monchengladb.,2.37,3.45,3.03,Schalke 04,Schalke 04,0.491,N,4,0,Schalke 04,2.37
+326,bundesliga,2016-10-14,19:30,Dortmund vs Hertha Berlin,Dortmund,Hertha Berlin,1.41,5.02,7.44,Dortmund,Dortmund,0.449,N,1,1,Draw,5.02
+332,bundesliga,2016-10-15,14:30,FC Koln vs Ingolstadt,FC Koln,Ingolstadt,1.83,3.44,4.9,FC Koln,FC Koln,0.626,N,2,1,FC Koln,1.83
+333,bundesliga,2016-10-15,14:30,Monchengladb. vs Hamburger SV,Monchengladb.,Hamburger SV,1.68,4.01,5.09,Monchengladb.,Monchengladb.,0.504,N,0,0,Draw,4.01
+334,bundesliga,2016-10-15,14:30,Frankfurt vs Bayern Munich,Frankfurt,Bayern Munich,11.55,5.77,1.28,Bayern Munich,Bayern Munich,0.433,N,2,2,Draw,5.77
+335,bundesliga,2016-10-15,14:30,Hoffenheim vs Freiburg,Hoffenheim,Freiburg,2.04,3.64,3.63,Hoffenheim,Hoffenheim,0.575,N,2,1,Hoffenheim,2.04
+336,bundesliga,2016-10-15,14:30,Augsburg vs Schalke 04,Augsburg,Schalke 04,3.52,3.43,2.15,Schalke 04,Augsburg,0.476,Y,1,1,Draw,3.43
+345,bundesliga,2016-10-15,17:30,Werder Bremen vs Leverkusen,Werder Bremen,Leverkusen,4.99,4.37,1.64,Leverkusen,Werder Bremen,0.399,Y,2,1,Werder Bremen,4.99
+365,bundesliga,2016-10-16,16:30,Wolfsburg vs RB Leipzig,Wolfsburg,RB Leipzig,2.41,3.33,3.07,Wolfsburg,RB Leipzig,0.567,Y,0,1,RB Leipzig,3.07
+371,bundesliga,2016-10-21,19:30,Hamburger SV vs Frankfurt,Hamburger SV,Frankfurt,2.51,3.31,2.95,Hamburger SV,Frankfurt,0.529,Y,0,3,Frankfurt,2.95
+376,bundesliga,2016-10-22,14:30,Darmstadt vs Wolfsburg,Darmstadt,Wolfsburg,4.66,3.72,1.79,Wolfsburg,Wolfsburg,0.423,N,3,1,Darmstadt,4.66
+377,bundesliga,2016-10-22,14:30,Hertha Berlin vs FC Koln,Hertha Berlin,FC Koln,2.68,3.17,2.84,Hertha Berlin,Hertha Berlin,0.513,N,2,1,Hertha Berlin,2.68
+378,bundesliga,2016-10-22,14:30,Ingolstadt vs Dortmund,Ingolstadt,Dortmund,5.55,4.19,1.61,Dortmund,Dortmund,0.511,N,3,3,Draw,4.19
+379,bundesliga,2016-10-22,14:30,Leverkusen vs Hoffenheim,Leverkusen,Hoffenheim,1.59,4.32,5.59,Leverkusen,Hoffenheim,0.402,Y,0,3,Hoffenheim,5.59
+380,bundesliga,2016-10-22,14:30,Freiburg vs Augsburg,Freiburg,Augsburg,2.15,3.28,3.67,Freiburg,Freiburg,0.5,N,2,1,Freiburg,2.15
+389,bundesliga,2016-10-22,17:30,Bayern Munich vs Monchengladb.,Bayern Munich,Monchengladb.,1.18,7.72,15.72,Bayern Munich,Bayern Munich,0.664,N,2,0,Bayern Munich,1.18
+408,bundesliga,2016-10-23,14:30,RB Leipzig vs Werder Bremen,RB Leipzig,Werder Bremen,1.58,4.28,5.8,RB Leipzig,RB Leipzig,0.668,N,3,1,RB Leipzig,1.58
+428,bundesliga,2016-10-28,19:30,Monchengladb. vs Frankfurt,Monchengladb.,Frankfurt,1.93,3.42,4.38,Monchengladb.,Frankfurt,0.48,Y,0,0,Draw,3.42
+433,bundesliga,2016-10-29,14:30,Darmstadt vs RB Leipzig,Darmstadt,RB Leipzig,5.53,3.85,1.67,RB Leipzig,RB Leipzig,0.671,N,0,2,RB Leipzig,1.67
+434,bundesliga,2016-10-29,14:30,Werder Bremen vs Freiburg,Werder Bremen,Freiburg,2.25,3.52,3.19,Werder Bremen,Werder Bremen,0.382,N,1,3,Freiburg,3.19
+435,bundesliga,2016-10-29,14:30,Wolfsburg vs Leverkusen,Wolfsburg,Leverkusen,2.64,3.46,2.69,Wolfsburg,Wolfsburg,0.412,N,1,2,Leverkusen,2.69
+436,bundesliga,2016-10-29,14:30,Augsburg vs Bayern Munich,Augsburg,Bayern Munich,16.16,6.87,1.2,Bayern Munich,Bayern Munich,0.58,N,1,3,Bayern Munich,1.2
+445,bundesliga,2016-10-29,17:30,Dortmund vs Schalke 04,Dortmund,Schalke 04,1.59,4.35,5.55,Dortmund,Dortmund,0.59,N,0,0,Draw,4.35
+463,bundesliga,2016-10-30,14:30,Hoffenheim vs Hertha Berlin,Hoffenheim,Hertha Berlin,2.03,3.57,3.74,Hoffenheim,Hoffenheim,0.472,N,1,0,Hoffenheim,2.03
+467,bundesliga,2016-10-30,16:30,FC Koln vs Hamburger SV,FC Koln,Hamburger SV,1.64,3.98,5.61,FC Koln,FC Koln,0.609,N,3,0,FC Koln,1.64
+476,bundesliga,2016-11-04,19:30,Hertha Berlin vs Monchengladb.,Hertha Berlin,Monchengladb.,2.81,3.21,2.7,Monchengladb.,Hertha Berlin,0.615,Y,3,0,Hertha Berlin,2.81
+480,bundesliga,2016-11-05,14:30,Hamburger SV vs Dortmund,Hamburger SV,Dortmund,6.8,4.61,1.48,Dortmund,Dortmund,0.501,N,2,5,Dortmund,1.48
+481,bundesliga,2016-11-05,14:30,Ingolstadt vs Augsburg,Ingolstadt,Augsburg,2.42,3.16,3.24,Ingolstadt,Augsburg,0.382,Y,0,2,Augsburg,3.24
+482,bundesliga,2016-11-05,14:30,Bayern Munich vs Hoffenheim,Bayern Munich,Hoffenheim,1.17,8.36,15.18,Bayern Munich,Bayern Munich,0.564,N,1,1,Draw,8.36
+483,bundesliga,2016-11-05,14:30,Freiburg vs Wolfsburg,Freiburg,Wolfsburg,2.53,3.34,2.89,Freiburg,Freiburg,0.529,N,0,3,Wolfsburg,2.89
+484,bundesliga,2016-11-05,14:30,Leverkusen vs Darmstadt,Leverkusen,Darmstadt,1.38,4.91,9.32,Leverkusen,Leverkusen,0.591,N,3,2,Leverkusen,1.38
+492,bundesliga,2016-11-05,17:30,Frankfurt vs FC Koln,Frankfurt,FC Koln,2.57,3.24,2.94,Frankfurt,Frankfurt,0.51,N,1,0,Frankfurt,2.57
+516,bundesliga,2016-11-06,16:30,Schalke 04 vs Werder Bremen,Schalke 04,Werder Bremen,1.57,4.33,5.87,Schalke 04,Schalke 04,0.506,N,3,1,Schalke 04,1.57
+524,bundesliga,2016-11-18,19:30,Leverkusen vs RB Leipzig,Leverkusen,RB Leipzig,2.3,3.37,3.25,Leverkusen,RB Leipzig,0.498,Y,2,3,RB Leipzig,3.25
+528,bundesliga,2016-11-19,14:30,Darmstadt vs Ingolstadt,Darmstadt,Ingolstadt,2.95,3.11,2.64,Ingolstadt,Darmstadt,0.417,Y,0,1,Ingolstadt,2.64
+529,bundesliga,2016-11-19,14:30,Augsburg vs Hertha Berlin,Augsburg,Hertha Berlin,2.61,3.1,2.99,Augsburg,Hertha Berlin,0.439,Y,0,0,Draw,3.1
+530,bundesliga,2016-11-19,14:30,Wolfsburg vs Schalke 04,Wolfsburg,Schalke 04,2.46,3.33,3.0,Wolfsburg,Wolfsburg,0.443,N,0,1,Schalke 04,3.0

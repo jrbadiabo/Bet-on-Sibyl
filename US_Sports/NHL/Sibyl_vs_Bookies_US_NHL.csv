@@ -1,0 +1,51 @@
+ID,Date,Time,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,visi_team_pts,Home_Team_PTS,True_Result,Winner_Odd
+0,2016-10-14,01:00,Chicago Blackhawks @ Nashville Predators,Chicago Blackhawks,Nashville Predators,2.61,2.49,Nashville Predators,Chicago Blackhawks,0.602,Y,2,3,Nashville Predators,2.49
+1,2016-10-14,02:00,Edmonton Oilers @ Calgary Flames,Edmonton Oilers,Calgary Flames,3.85,2.47,Calgary Flames,Calgary Flames,0.501,N,5,3,Edmonton Oilers,2.47
+2,2016-10-14,03:30,Philadelphia Flyers @ Los Angeles Kings,Philadelphia Flyers,Los Angeles Kings,2.71,3.86,Philadelphia Flyers,Los Angeles Kings,0.584,Y,4,2,Philadelphia Flyers,3.86
+3,2016-10-15,00:00,San Jose Sharks @ Columbus Blue Jackets,San Jose Sharks,Columbus Blue Jackets,3.87,2.75,Columbus Blue Jackets,Columbus Blue Jackets,0.656,N,3,2,San Jose Sharks,2.75
+4,2016-10-15,00:00,Detroit Red Wings @ Florida Panthers,Detroit Red Wings,Florida Panthers,1.84,2.25,Detroit Red Wings,Florida Panthers,0.578,Y,1,4,Florida Panthers,2.25
+5,2016-10-15,00:00,Winnipeg Jets @ Minnesota Wild,Winnipeg Jets,Minnesota Wild,3.61,4.15,Winnipeg Jets,Minnesota Wild,0.746,Y,3,4,Minnesota Wild,4.15
+6,2016-10-15,00:00,Montreal Canadiens @ Ottawa Senators,Montreal Canadiens,Ottawa Senators,3.79,2.7,Ottawa Senators,Montreal Canadiens,0.565,Y,3pen.,4,Ottawa Senators,2.7
+7,2016-10-15,00:00,Anaheim Ducks @ Pittsburgh Penguins,Anaheim Ducks,Pittsburgh Penguins,1.87,2.34,Anaheim Ducks,Pittsburgh Penguins,0.668,Y,2,3,Pittsburgh Penguins,2.34
+8,2016-10-15,00:00,New Jersey Devils @ Tampa Bay Lightning,New Jersey Devils,Tampa Bay Lightning,3.53,4.09,New Jersey Devils,Tampa Bay Lightning,0.651,Y,2,3,Tampa Bay Lightning,4.09
+9,2016-10-15,00:00,Boston Bruins @ Toronto Maple Leafs,Boston Bruins,Toronto Maple Leafs,3.84,2.33,Toronto Maple Leafs,Boston Bruins,0.55,Y,1,4,Toronto Maple Leafs,2.33
+10,2016-10-15,00:00,New York Islanders @ Washington Capitals,New York Islanders,Washington Capitals,2.3,2.68,New York Islanders,Washington Capitals,0.714,Y,1,2,Washington Capitals,2.68
+11,2016-10-15,01:00,New York Rangers @ St. Louis Blues,New York Rangers,St. Louis Blues,2.97,4.01,New York Rangers,New York Rangers,0.598,N,2,3,St. Louis Blues,4.01
+12,2016-10-15,01:30,Nashville Predators @ Chicago Blackhawks,Nashville Predators,Chicago Blackhawks,2.11,2.62,Nashville Predators,Chicago Blackhawks,0.699,Y,3,5,Chicago Blackhawks,2.62
+13,2016-10-15,02:00,Philadelphia Flyers @ Arizona Coyotes,Philadelphia Flyers,Arizona Coyotes,3.96,4.22,Philadelphia Flyers,Philadelphia Flyers,0.629,N,3OT,4,Arizona Coyotes,4.22
+14,2016-10-15,02:00,Dallas Stars @ Colorado Avalanche,Dallas Stars,Colorado Avalanche,3.84,2.37,Colorado Avalanche,Dallas Stars,0.538,Y,5,6,Colorado Avalanche,2.37
+15,2016-10-15,03:00,Calgary Flames @ Vancouver Canucks,Calgary Flames,Vancouver Canucks,1.74,2.53,Calgary Flames,Calgary Flames,0.525,N,1pen.,2,Vancouver Canucks,2.53
+16,2016-10-16,00:00,Buffalo Sabres @ Edmonton Oilers,Buffalo Sabres,Edmonton Oilers,2.46,3.73,Buffalo Sabres,Edmonton Oilers,0.674,Y,6,2,Buffalo Sabres,3.73
+17,2016-10-16,03:00,Carolina Hurricanes @ Vancouver Canucks,Carolina Hurricanes,Vancouver Canucks,2.58,3.17,Carolina Hurricanes,Carolina Hurricanes,0.538,N,3OT,4,Vancouver Canucks,3.17
+18,2016-10-17,00:00,San Jose Sharks @ New York Rangers,San Jose Sharks,New York Rangers,2.67,3.9,San Jose Sharks,New York Rangers,0.61,Y,4,7,New York Rangers,3.9
+19,2016-10-17,00:00,Colorado Avalanche @ Pittsburgh Penguins,Colorado Avalanche,Pittsburgh Penguins,3.85,2.05,Pittsburgh Penguins,Pittsburgh Penguins,0.819,N,4OT,3,Colorado Avalanche,2.05
+20,2016-10-17,00:30,Ottawa Senators @ Detroit Red Wings,Ottawa Senators,Detroit Red Wings,2.32,2.66,Ottawa Senators,Ottawa Senators,0.557,N,1,5,Detroit Red Wings,2.66
+21,2016-10-17,01:00,Boston Bruins @ Winnipeg Jets,Boston Bruins,Winnipeg Jets,3.89,2.34,Winnipeg Jets,Boston Bruins,0.572,Y,4,1,Boston Bruins,2.34
+22,2016-10-18,00:00,Anaheim Ducks @ New Jersey Devils,Anaheim Ducks,New Jersey Devils,3.79,2.3,New Jersey Devils,Anaheim Ducks,0.54,Y,1,2,New Jersey Devils,2.3
+23,2016-10-18,00:00,San Jose Sharks @ New York Islanders,San Jose Sharks,New York Islanders,2.08,2.75,San Jose Sharks,San Jose Sharks,0.63,N,3,2,San Jose Sharks,2.75
+24,2016-10-18,00:00,Colorado Avalanche @ Washington Capitals,Colorado Avalanche,Washington Capitals,3.0,4.02,Colorado Avalanche,Washington Capitals,0.812,Y,0,3,Washington Capitals,4.02
+25,2016-10-18,00:30,Pittsburgh Penguins @ Montreal Canadiens,Pittsburgh Penguins,Montreal Canadiens,3.89,2.17,Montreal Canadiens,Montreal Canadiens,0.598,N,0,4,Montreal Canadiens,2.17
+26,2016-10-18,00:30,Arizona Coyotes @ Ottawa Senators,Arizona Coyotes,Ottawa Senators,2.03,2.91,Arizona Coyotes,Ottawa Senators,0.741,Y,4,7,Ottawa Senators,2.91
+27,2016-10-18,00:30,Florida Panthers @ Tampa Bay Lightning,Florida Panthers,Tampa Bay Lightning,3.15,3.96,Florida Panthers,Tampa Bay Lightning,0.6,Y,3pen.,4,Tampa Bay Lightning,3.96
+28,2016-10-18,01:00,Los Angeles Kings @ Minnesota Wild,Los Angeles Kings,Minnesota Wild,2.08,2.06,Minnesota Wild,Minnesota Wild,0.639,N,3,6,Minnesota Wild,2.06
+29,2016-10-18,01:00,Dallas Stars @ Nashville Predators,Dallas Stars,Nashville Predators,3.04,3.96,Dallas Stars,Nashville Predators,0.609,Y,2,1,Dallas Stars,3.96
+30,2016-10-18,01:30,Philadelphia Flyers @ Chicago Blackhawks,Philadelphia Flyers,Chicago Blackhawks,3.86,3.14,Chicago Blackhawks,Chicago Blackhawks,0.631,N,4,7,Chicago Blackhawks,3.14
+31,2016-10-18,02:00,Buffalo Sabres @ Calgary Flames,Buffalo Sabres,Calgary Flames,2.4,3.27,Buffalo Sabres,Calgary Flames,0.626,Y,3OT,4,Calgary Flames,3.27
+32,2016-10-18,02:00,Carolina Hurricanes @ Edmonton Oilers,Carolina Hurricanes,Edmonton Oilers,2.54,3.99,Carolina Hurricanes,Edmonton Oilers,0.592,Y,2,3,Edmonton Oilers,3.99
+33,2016-10-18,03:00,St. Louis Blues @ Vancouver Canucks,St. Louis Blues,Vancouver Canucks,4.08,1.97,Vancouver Canucks,St. Louis Blues,0.575,Y,1OT,2,Vancouver Canucks,1.97
+34,2016-10-19,01:00,Detroit Red Wings @ New York Rangers,Detroit Red Wings,New York Rangers,2.69,2.61,New York Rangers,New York Rangers,0.766,N,2,1,Detroit Red Wings,2.61
+35,2016-10-19,01:00,Toronto Maple Leafs @ Winnipeg Jets,Toronto Maple Leafs,Winnipeg Jets,2.3,3.9,Toronto Maple Leafs,Winnipeg Jets,0.531,Y,4OT,5,Winnipeg Jets,3.9
+36,2016-10-20,00:00,New Jersey Devils @ Boston Bruins,New Jersey Devils,Boston Bruins,2.04,3.74,New Jersey Devils,Boston Bruins,0.693,Y,1,2,Boston Bruins,3.74
+37,2016-10-20,00:00,Anaheim Ducks @ Philadelphia Flyers,Anaheim Ducks,Philadelphia Flyers,3.22,3.84,Anaheim Ducks,Philadelphia Flyers,0.577,Y,3,2,Anaheim Ducks,3.84
+38,2016-10-20,00:00,San Jose Sharks @ Pittsburgh Penguins,San Jose Sharks,Pittsburgh Penguins,3.84,2.38,Pittsburgh Penguins,Pittsburgh Penguins,0.553,N,2,3,Pittsburgh Penguins,2.38
+39,2016-10-20,00:30,Washington Capitals @ Florida Panthers,Washington Capitals,Florida Panthers,3.81,2.55,Florida Panthers,Washington Capitals,0.594,Y,4,2,Washington Capitals,2.55
+40,2016-10-20,00:30,Arizona Coyotes @ Montreal Canadiens,Arizona Coyotes,Montreal Canadiens,4.17,1.81,Montreal Canadiens,Montreal Canadiens,0.822,N,2,5,Montreal Canadiens,1.81
+41,2016-10-20,00:30,Colorado Avalanche @ Tampa Bay Lightning,Colorado Avalanche,Tampa Bay Lightning,2.02,2.45,Colorado Avalanche,Tampa Bay Lightning,0.742,Y,4,0,Colorado Avalanche,2.45
+42,2016-10-20,01:00,Toronto Maple Leafs @ Minnesota Wild,Toronto Maple Leafs,Minnesota Wild,2.31,3.88,Toronto Maple Leafs,Minnesota Wild,0.728,Y,2,3,Minnesota Wild,3.88
+43,2016-10-20,01:30,Los Angeles Kings @ Dallas Stars,Los Angeles Kings,Dallas Stars,2.71,3.64,Los Angeles Kings,Los Angeles Kings,0.61,N,4OT,3,Los Angeles Kings,3.64
+44,2016-10-20,02:00,Carolina Hurricanes @ Calgary Flames,Carolina Hurricanes,Calgary Flames,3.39,3.95,Carolina Hurricanes,Calgary Flames,0.54,Y,4,2,Carolina Hurricanes,3.95
+45,2016-10-20,02:00,St. Louis Blues @ Edmonton Oilers,St. Louis Blues,Edmonton Oilers,4.13,1.84,Edmonton Oilers,Edmonton Oilers,0.555,N,1,3,Edmonton Oilers,1.84
+46,2016-10-20,03:00,Buffalo Sabres @ Vancouver Canucks,Buffalo Sabres,Vancouver Canucks,1.95,2.24,Buffalo Sabres,Vancouver Canucks,0.55,Y,1,2,Vancouver Canucks,2.24
+47,2016-10-21,00:00,Chicago Blackhawks @ Columbus Blue Jackets,Chicago Blackhawks,Columbus Blue Jackets,2.47,3.9,Chicago Blackhawks,Columbus Blue Jackets,0.672,Y,2,3,Columbus Blue Jackets,3.9
+48,2016-10-21,00:00,Arizona Coyotes @ New York Islanders,Arizona Coyotes,New York Islanders,3.9,2.8,New York Islanders,New York Islanders,0.646,N,2,3,New York Islanders,2.8
+49,2016-10-21,00:30,Nashville Predators @ Detroit Red Wings,Nashville Predators,Detroit Red Wings,2.47,2.87,Nashville Predators,Detroit Red Wings,0.543,Y,3,5,Detroit Red Wings,2.87

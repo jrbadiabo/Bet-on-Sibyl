@@ -1,0 +1,28 @@
+ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2017-01-13,20:45:00,ligue-1,AS St. Etienne @ OSC Lille,AS St. Etienne,OSC Lille,3.34,3.0,2.37,OSC Lille,OSC Lille,0.375,N,Upcoming
+1,2017-01-14,17:00:00,ligue-1,Paris Saint-Germain FC @ Stade Rennes FC,Paris Saint-Germain FC,Stade Rennes FC,1.55,4.04,6.1,Paris Saint-Germain FC,Paris Saint-Germain FC,0.433,N,Upcoming
+2,2017-01-14,20:00:00,ligue-1,Dijon FCO @ Montpellier HSC,Dijon FCO,Montpellier HSC,4.97,3.72,1.71,Montpellier HSC,Montpellier HSC,0.497,N,Upcoming
+3,2017-01-14,20:00:00,ligue-1,FC Nantes @ FC Toulouse,FC Nantes,FC Toulouse,3.81,3.21,2.08,FC Toulouse,FC Toulouse,0.537,N,Upcoming
+4,2017-01-14,20:00:00,ligue-1,SC Bastia @ AS Nancy Lorraine,SC Bastia,AS Nancy Lorraine,4.28,3.22,1.96,AS Nancy Lorraine,AS Nancy Lorraine,0.49,N,Upcoming
+5,2017-01-14,20:00:00,ligue-1,FC Girondins de Bordeaux @ Angers SCO,FC Girondins de Bordeaux,Angers SCO,2.75,3.05,2.74,Angers SCO,Angers SCO,0.378,N,Upcoming
+6,2017-01-14,20:00:00,ligue-1,EA Guingamp @ FC Lorient,EA Guingamp,FC Lorient,3.03,3.12,2.47,FC Lorient,EA Guingamp,0.498,Y,Upcoming
+7,2017-01-15,15:00:00,ligue-1,FC Metz @ OGC Nice,FC Metz,OGC Nice,6.43,4.16,1.52,OGC Nice,OGC Nice,0.654,N,Upcoming
+8,2017-01-15,17:00:00,ligue-1,Olympique Lyonnais @ Stade Caen,Olympique Lyonnais,Stade Caen,1.98,3.46,3.85,Olympique Lyonnais,Olympique Lyonnais,0.506,N,Upcoming
+9,2017-01-15,21:00:00,ligue-1,AS Monaco @ Olympique Marseille,AS Monaco,Olympique Marseille,2.4,3.34,2.93,AS Monaco,AS Monaco,0.433,N,Upcoming
+10,2017-01-18,20:00:00,ligue-1,Stade Caen @ FC Nantes,Stade Caen,FC Nantes,2.69,8.07,1.69,FC Nantes,FC Nantes,0.482,N,Upcoming
+11,2017-01-21,17:00:00,ligue-1,Paris Saint-Germain FC @ FC Nantes,Paris Saint-Germain FC,FC Nantes,1.33,10.58,4.18,Paris Saint-Germain FC,Paris Saint-Germain FC,0.546,N,Upcoming
+12,2017-01-21,20:00:00,ligue-1,Montpellier HSC @ FC Metz,Montpellier HSC,FC Metz,2.2,9.0,1.92,FC Metz,FC Metz,0.442,N,Upcoming
+13,2017-01-21,20:00:00,ligue-1,Stade Rennes FC @ EA Guingamp,Stade Rennes FC,EA Guingamp,2.29,8.17,1.89,EA Guingamp,EA Guingamp,0.505,N,Upcoming
+14,2017-01-21,20:00:00,ligue-1,FC Toulouse @ FC Girondins de Bordeaux,FC Toulouse,FC Girondins de Bordeaux,2.46,9.77,1.72,FC Girondins de Bordeaux,FC Girondins de Bordeaux,0.464,N,Upcoming
+15,2017-01-21,20:00:00,ligue-1,AS Nancy Lorraine @ Stade Caen,AS Nancy Lorraine,Stade Caen,2.35,9.67,1.79,Stade Caen,Stade Caen,0.433,N,Upcoming
+16,2017-01-21,20:00:00,ligue-1,OSC Lille @ Dijon FCO,OSC Lille,Dijon FCO,1.99,8.93,2.13,OSC Lille,Dijon FCO,0.467,Y,Upcoming
+17,2017-01-28,20:00:00,ligue-1,OSC Lille @ Olympique Lyonnais,OSC Lille,Olympique Lyonnais,1.18,3.25,1.06,Olympique Lyonnais,Olympique Lyonnais,0.615,N,Upcoming
+18,2017-01-28,20:00:00,ligue-1,FC Nantes @ Stade Rennes FC,FC Nantes,Stade Rennes FC,1.27,2.52,1.09,Stade Rennes FC,Stade Rennes FC,0.542,N,Upcoming
+19,2017-01-28,20:00:00,ligue-1,Stade Caen @ SC Bastia,Stade Caen,SC Bastia,1.41,1.72,1.23,SC Bastia,SC Bastia,0.478,N,Upcoming
+20,2017-01-28,20:00:00,ligue-1,AS Monaco @ Paris Saint-Germain FC,AS Monaco,Paris Saint-Germain FC,1.25,2.3,1.15,Paris Saint-Germain FC,Paris Saint-Germain FC,0.421,N,Upcoming
+21,2017-01-28,20:00:00,ligue-1,FC Girondins de Bordeaux @ AS Nancy Lorraine,FC Girondins de Bordeaux,AS Nancy Lorraine,1.41,1.36,1.52,FC Girondins de Bordeaux,AS Nancy Lorraine,0.416,Y,Upcoming
+22,2017-01-28,20:00:00,ligue-1,EA Guingamp @ OGC Nice,EA Guingamp,OGC Nice,1.28,2.1,1.18,OGC Nice,OGC Nice,0.608,N,Upcoming
+23,2017-01-28,20:00:00,ligue-1,AS St. Etienne @ FC Toulouse,AS St. Etienne,FC Toulouse,1.42,1.54,1.33,FC Toulouse,FC Toulouse,0.451,N,Upcoming
+24,2017-01-28,20:00:00,ligue-1,FC Metz @ Angers SCO,FC Metz,Angers SCO,1.37,1.81,1.22,Angers SCO,Angers SCO,0.442,N,Upcoming
+25,2017-01-28,20:00:00,ligue-1,Montpellier HSC @ Olympique Marseille,Montpellier HSC,Olympique Marseille,1.31,1.92,1.22,Olympique Marseille,Olympique Marseille,0.554,N,Upcoming
+26,2017-01-28,20:00:00,ligue-1,Dijon FCO @ FC Lorient,Dijon FCO,FC Lorient,1.33,1.87,1.23,FC Lorient,FC Lorient,0.39,N,Upcoming

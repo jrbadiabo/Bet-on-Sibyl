@@ -1,0 +1,129 @@
+ID,League,Date,Time,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,visi_team_pts,Home_Team_PTS,True_Result,Winner_Odd
+1,premier-league,2016-08-13,15:00,Tottenham @ Everton,Tottenham,Everton,2.18,3.39,3.55,Tottenham,Tottenham,0.428,N,1,1,Draw,3.39
+2,premier-league,2016-08-13,15:00,Swansea City @ Burnley,Swansea City,Burnley,2.82,3.14,2.77,Burnley,Burnley,0.562,N,1,0,Swansea City,2.82
+3,premier-league,2016-08-13,15:00,West Bromwich @ Crystal Palace,West Bromwich,Crystal Palace,3.9,3.16,2.17,Crystal Palace,Crystal Palace,0.373,N,1,0,West Bromwich,3.9
+4,premier-league,2016-08-13,15:00,Watford @ Southampton,Watford,Southampton,4.87,3.71,1.79,Southampton,Southampton,0.504,N,1,1,Draw,3.71
+5,premier-league,2016-08-13,15:00,Stoke City @ Middlesbrough,Stoke City,Middlesbrough,3.61,3.24,2.23,Middlesbrough,Middlesbrough,0.438,N,1,1,Draw,3.24
+7,premier-league,2016-08-13,17:30,Sunderland @ Manchester City,Sunderland,Manchester City,13.98,6.44,1.24,Manchester City,Manchester City,0.681,N,1,2,Manchester City,1.24
+12,premier-league,2016-08-14,13:30,Manchester Utd @ Bournemouth,Manchester Utd,Bournemouth,1.76,3.62,5.29,Manchester Utd,Manchester Utd,0.455,N,3,1,Manchester Utd,1.76
+14,premier-league,2016-08-14,16:00,Liverpool @ Arsenal,Liverpool,Arsenal,2.7,3.37,2.73,Liverpool,Arsenal,0.424,Y,4,3,Liverpool,2.7
+17,premier-league,2016-08-15,20:00,West Ham Utd @ Chelsea,West Ham Utd,Chelsea,6.98,4.33,1.51,Chelsea,Chelsea,0.677,N,1,2,Chelsea,1.51
+19,premier-league,2016-08-19,20:00,Southampton @ Manchester Utd,Southampton,Manchester Utd,7.19,4.17,1.53,Manchester Utd,Manchester Utd,0.567,N,0,2,Manchester Utd,1.53
+21,premier-league,2016-08-20,12:30,Manchester City @ Stoke City,Manchester City,Stoke City,1.57,4.22,6.28,Manchester City,Manchester City,0.514,N,4,1,Manchester City,1.57
+22,premier-league,2016-08-20,15:00,Hull City @ Swansea City,Hull City,Swansea City,4.91,3.48,1.84,Swansea City,Swansea City,0.462,N,2,0,Hull City,4.91
+23,premier-league,2016-08-20,15:00,Chelsea @ Watford,Chelsea,Watford,1.66,3.84,5.9,Chelsea,Chelsea,0.607,N,2,1,Chelsea,1.66
+24,premier-league,2016-08-20,15:00,Crystal Palace @ Tottenham,Crystal Palace,Tottenham,7.86,4.57,1.45,Tottenham,Tottenham,0.658,N,0,1,Tottenham,1.45
+25,premier-league,2016-08-20,15:00,Everton @ West Bromwich,Everton,West Bromwich,2.59,3.14,3.01,Everton,West Bromwich,0.435,Y,2,1,Everton,2.59
+26,premier-league,2016-08-20,15:00,Liverpool @ Burnley,Liverpool,Burnley,1.52,4.33,6.96,Liverpool,Liverpool,0.562,N,0,2,Burnley,6.96
+29,premier-league,2016-08-20,17:30,Arsenal @ Leicester City,Arsenal,Leicester City,2.59,3.5,2.77,Arsenal,Arsenal,0.553,N,0,0,Draw,3.5
+38,premier-league,2016-08-21,13:30,Middlesbrough @ Sunderland,Middlesbrough,Sunderland,2.94,3.06,2.73,Sunderland,Sunderland,0.393,N,2,1,Middlesbrough,2.94
+40,premier-league,2016-08-21,16:00,Bournemouth @ West Ham Utd,Bournemouth,West Ham Utd,3.17,3.27,2.42,West Ham Utd,West Ham Utd,0.475,N,0,1,West Ham Utd,2.42
+58,premier-league,2016-08-27,12:30,Liverpool @ Tottenham,Liverpool,Tottenham,2.87,3.37,2.58,Tottenham,Tottenham,0.418,N,1,1,Draw,3.37
+63,premier-league,2016-08-27,15:00,Sunderland @ Southampton,Sunderland,Southampton,7.43,4.56,1.47,Southampton,Southampton,0.593,N,1,1,Draw,4.56
+64,premier-league,2016-08-27,15:00,Bournemouth @ Crystal Palace,Bournemouth,Crystal Palace,3.54,3.26,2.25,Crystal Palace,Crystal Palace,0.413,N,1,1,Draw,3.26
+65,premier-league,2016-08-27,15:00,Arsenal @ Watford,Arsenal,Watford,1.64,4.01,5.8,Arsenal,Arsenal,0.494,N,3,1,Arsenal,1.64
+66,premier-league,2016-08-27,15:00,Stoke City @ Everton,Stoke City,Everton,5.36,4.03,1.67,Everton,Everton,0.526,N,0,1,Everton,1.67
+67,premier-league,2016-08-27,15:00,Swansea City @ Leicester City,Swansea City,Leicester City,5.45,3.94,1.68,Leicester City,Leicester City,0.541,N,1,2,Leicester City,1.68
+68,premier-league,2016-08-27,15:00,Burnley @ Chelsea,Burnley,Chelsea,14.65,6.25,1.24,Chelsea,Chelsea,0.669,N,0,3,Chelsea,1.24
+74,premier-league,2016-08-27,17:30,Manchester Utd @ Hull City,Manchester Utd,Hull City,1.44,4.47,8.54,Manchester Utd,Manchester Utd,0.589,N,1,0,Manchester Utd,1.44
+83,premier-league,2016-08-28,13:30,Middlesbrough @ West Bromwich,Middlesbrough,West Bromwich,3.08,3.06,2.61,West Bromwich,West Bromwich,0.523,N,0,0,Draw,3.06
+86,premier-league,2016-08-28,16:00,West Ham Utd @ Manchester City,West Ham Utd,Manchester City,11.84,6.38,1.26,Manchester City,Manchester City,0.647,N,1,3,Manchester City,1.26
+105,premier-league,2016-09-10,12:30,Manchester City @ Manchester Utd,Manchester City,Manchester Utd,3.39,3.09,2.4,Manchester Utd,Manchester Utd,0.403,N,2,1,Manchester City,3.39
+112,premier-league,2016-09-10,15:00,Tottenham @ Stoke City,Tottenham,Stoke City,1.93,3.61,4.18,Tottenham,Tottenham,0.489,N,4,0,Tottenham,1.93
+113,premier-league,2016-09-10,15:00,Southampton @ Arsenal,Southampton,Arsenal,6.02,4.0,1.62,Arsenal,Arsenal,0.602,N,1,2,Arsenal,1.62
+114,premier-league,2016-09-10,15:00,Hull City @ Burnley,Hull City,Burnley,3.11,3.1,2.56,Burnley,Burnley,0.555,N,1,1,Draw,3.1
+115,premier-league,2016-09-10,15:00,West Bromwich @ Bournemouth,West Bromwich,Bournemouth,4.06,3.18,2.11,Bournemouth,Bournemouth,0.426,N,0,1,Bournemouth,2.11
+116,premier-league,2016-09-10,15:00,Crystal Palace @ Middlesbrough,Crystal Palace,Middlesbrough,3.32,3.15,2.4,Middlesbrough,Middlesbrough,0.502,N,2,1,Crystal Palace,3.32
+122,premier-league,2016-09-10,17:30,Leicester City @ Liverpool,Leicester City,Liverpool,5.35,4.02,1.68,Liverpool,Liverpool,0.681,N,1,4,Liverpool,1.68
+139,premier-league,2016-09-11,16:00,Chelsea @ Swansea City,Chelsea,Swansea City,1.58,4.17,6.29,Chelsea,Chelsea,0.689,N,2,2,Draw,4.17
+144,premier-league,2016-09-12,20:00,Everton @ Sunderland,Everton,Sunderland,2.14,3.4,3.66,Everton,Everton,0.462,N,3,0,Everton,2.14
+149,premier-league,2016-09-16,20:00,Liverpool @ Chelsea,Liverpool,Chelsea,3.43,3.5,2.18,Chelsea,Chelsea,0.51,N,2,1,Liverpool,3.43
+156,premier-league,2016-09-17,15:00,Bournemouth @ Manchester City,Bournemouth,Manchester City,12.41,6.61,1.25,Manchester City,Manchester City,0.646,N,0,4,Manchester City,1.25
+157,premier-league,2016-09-17,15:00,West Ham Utd @ West Bromwich,West Ham Utd,West Bromwich,2.71,3.21,2.82,West Ham Utd,West Bromwich,0.499,Y,2,4,West Bromwich,2.82
+158,premier-league,2016-09-17,15:00,Burnley @ Leicester City,Burnley,Leicester City,7.59,4.46,1.48,Leicester City,Leicester City,0.443,N,0,3,Leicester City,1.48
+159,premier-league,2016-09-17,15:00,Arsenal @ Hull City,Arsenal,Hull City,1.62,4.07,5.91,Arsenal,Arsenal,0.626,N,4,1,Arsenal,1.62
+165,premier-league,2016-09-17,17:30,Middlesbrough @ Everton,Middlesbrough,Everton,6.09,3.87,1.63,Everton,Everton,0.548,N,1,3,Everton,1.63
+175,premier-league,2016-09-18,12:00,Manchester Utd @ Watford,Manchester Utd,Watford,1.56,4.2,6.41,Manchester Utd,Manchester Utd,0.444,N,1,3,Watford,6.41
+181,premier-league,2016-09-18,14:15,Stoke City @ Crystal Palace,Stoke City,Crystal Palace,3.82,3.39,2.09,Crystal Palace,Crystal Palace,0.402,N,1,4,Crystal Palace,2.09
+182,premier-league,2016-09-18,14:15,Swansea City @ Southampton,Swansea City,Southampton,5.65,3.89,1.67,Southampton,Southampton,0.613,N,0,1,Southampton,1.67
+186,premier-league,2016-09-18,16:30,Sunderland @ Tottenham,Sunderland,Tottenham,10.16,5.51,1.33,Tottenham,Tottenham,0.674,N,0,1,Tottenham,1.33
+235,premier-league,2016-09-24,12:30,Leicester City @ Manchester Utd,Leicester City,Manchester Utd,5.44,3.91,1.69,Manchester Utd,Manchester Utd,0.629,N,1,4,Manchester Utd,1.69
+240,premier-league,2016-09-24,15:00,Everton @ Bournemouth,Everton,Bournemouth,2.25,3.45,3.35,Everton,Bournemouth,0.395,Y,0,1,Bournemouth,3.35
+241,premier-league,2016-09-24,15:00,Tottenham @ Middlesbrough,Tottenham,Middlesbrough,2.06,3.39,3.91,Tottenham,Tottenham,0.538,N,2,1,Tottenham,2.06
+242,premier-league,2016-09-24,15:00,West Bromwich @ Stoke City,West Bromwich,Stoke City,3.38,3.3,2.29,Stoke City,Stoke City,0.437,N,1,1,Draw,3.3
+243,premier-league,2016-09-24,15:00,Manchester City @ Swansea City,Manchester City,Swansea City,1.34,5.68,9.0,Manchester City,Manchester City,0.625,N,3,1,Manchester City,1.34
+244,premier-league,2016-09-24,15:00,Crystal Palace @ Sunderland,Crystal Palace,Sunderland,2.97,3.24,2.57,Sunderland,Sunderland,0.428,N,3,2,Crystal Palace,2.97
+245,premier-league,2016-09-24,15:00,Hull City @ Liverpool,Hull City,Liverpool,12.82,6.64,1.24,Liverpool,Liverpool,0.7,N,1,5,Liverpool,1.24
+251,premier-league,2016-09-24,17:30,Chelsea @ Arsenal,Chelsea,Arsenal,3.06,3.45,2.41,Arsenal,Chelsea,0.403,Y,0,3,Arsenal,2.41
+268,premier-league,2016-09-25,16:00,Southampton @ West Ham Utd,Southampton,West Ham Utd,2.45,3.39,3.04,Southampton,West Ham Utd,0.422,Y,3,0,Southampton,2.45
+276,premier-league,2016-09-26,20:00,Watford @ Burnley,Watford,Burnley,2.42,3.16,3.29,Watford,Burnley,0.436,Y,0,2,Burnley,3.29
+280,premier-league,2016-09-30,20:00,Crystal Palace @ Everton,Crystal Palace,Everton,5.14,3.89,1.72,Everton,Everton,0.578,N,1,1,Draw,3.89
+282,premier-league,2016-10-01,12:30,Liverpool @ Swansea City,Liverpool,Swansea City,1.44,4.98,7.28,Liverpool,Liverpool,0.63,N,2,1,Liverpool,1.44
+288,premier-league,2016-10-01,15:00,Middlesbrough @ West Ham Utd,Middlesbrough,West Ham Utd,3.98,3.43,2.03,West Ham Utd,West Ham Utd,0.489,N,1,1,Draw,3.43
+289,premier-league,2016-10-01,15:00,Chelsea @ Hull City,Chelsea,Hull City,1.45,4.74,7.57,Chelsea,Chelsea,0.704,N,2,0,Chelsea,1.45
+290,premier-league,2016-10-01,15:00,Bournemouth @ Watford,Bournemouth,Watford,3.08,3.27,2.47,Watford,Watford,0.483,N,2,2,Draw,3.27
+291,premier-league,2016-10-01,15:00,West Bromwich @ Sunderland,West Bromwich,Sunderland,3.15,3.15,2.5,Sunderland,West Bromwich,0.411,Y,1,1,Draw,3.15
+306,premier-league,2016-10-02,12:00,Stoke City @ Manchester Utd,Stoke City,Manchester Utd,11.47,5.64,1.3,Manchester Utd,Manchester Utd,0.601,N,1,1,Draw,5.64
+312,premier-league,2016-10-02,14:15,Southampton @ Leicester City,Southampton,Leicester City,3.03,3.29,2.49,Leicester City,Southampton,0.377,Y,0,0,Draw,3.29
+313,premier-league,2016-10-02,14:15,Manchester City @ Tottenham,Manchester City,Tottenham,2.43,3.41,3.02,Manchester City,Tottenham,0.446,Y,0,2,Tottenham,3.02
+317,premier-league,2016-10-02,16:30,Arsenal @ Burnley,Arsenal,Burnley,1.35,5.28,9.54,Arsenal,Arsenal,0.533,N,1,0,Arsenal,1.35
+330,premier-league,2016-10-15,12:30,Leicester City @ Chelsea,Leicester City,Chelsea,6.35,4.32,1.55,Chelsea,Chelsea,0.679,N,0,3,Chelsea,1.55
+337,premier-league,2016-10-15,15:00,Hull City @ Bournemouth,Hull City,Bournemouth,4.94,3.71,1.78,Bournemouth,Bournemouth,0.563,N,1,6,Bournemouth,1.78
+338,premier-league,2016-10-15,15:00,Sunderland @ Stoke City,Sunderland,Stoke City,4.35,3.53,1.92,Stoke City,Stoke City,0.559,N,0,2,Stoke City,1.92
+339,premier-league,2016-10-15,15:00,Swansea City @ Arsenal,Swansea City,Arsenal,13.47,6.72,1.24,Arsenal,Arsenal,0.693,N,2,3,Arsenal,1.24
+340,premier-league,2016-10-15,15:00,Everton @ Manchester City,Everton,Manchester City,6.61,4.61,1.5,Manchester City,Manchester City,0.6,N,1,1,Draw,4.61
+341,premier-league,2016-10-15,15:00,Tottenham @ West Bromwich,Tottenham,West Bromwich,1.7,3.79,5.44,Tottenham,Tottenham,0.478,N,1,1,Draw,3.79
+347,premier-league,2016-10-15,17:30,West Ham Utd @ Crystal Palace,West Ham Utd,Crystal Palace,3.48,3.4,2.2,Crystal Palace,Crystal Palace,0.403,N,1,0,West Ham Utd,3.48
+356,premier-league,2016-10-16,13:30,Watford @ Middlesbrough,Watford,Middlesbrough,3.49,3.24,2.28,Middlesbrough,Middlesbrough,0.433,N,1,0,Watford,3.49
+363,premier-league,2016-10-16,16:00,Burnley @ Southampton,Burnley,Southampton,10.25,4.99,1.36,Southampton,Southampton,0.531,N,1,3,Southampton,1.36
+370,premier-league,2016-10-17,20:00,Manchester Utd @ Liverpool,Manchester Utd,Liverpool,3.49,3.34,2.24,Liverpool,Liverpool,0.553,N,0,0,Draw,3.34
+375,premier-league,2016-10-22,12:30,Tottenham @ Bournemouth,Tottenham,Bournemouth,1.93,3.62,4.2,Tottenham,Tottenham,0.502,N,0,0,Draw,3.62
+381,premier-league,2016-10-22,15:00,Watford @ Swansea City,Watford,Swansea City,3.08,3.25,2.43,Swansea City,Watford,0.411,Y,0,0,Draw,3.25
+382,premier-league,2016-10-22,15:00,Stoke City @ Hull City,Stoke City,Hull City,2.54,3.27,2.99,Stoke City,Stoke City,0.434,N,2,0,Stoke City,2.54
+383,premier-league,2016-10-22,15:00,Everton @ Burnley,Everton,Burnley,1.69,3.72,5.8,Everton,Burnley,0.379,Y,1,2,Burnley,5.8
+384,premier-league,2016-10-22,15:00,Crystal Palace @ Leicester City,Crystal Palace,Leicester City,4.26,3.38,1.98,Leicester City,Leicester City,0.481,N,1,3,Leicester City,1.98
+385,premier-league,2016-10-22,15:00,Middlesbrough @ Arsenal,Middlesbrough,Arsenal,12.82,6.11,1.26,Arsenal,Arsenal,0.642,N,0,0,Draw,6.11
+391,premier-league,2016-10-22,17:30,West Bromwich @ Liverpool,West Bromwich,Liverpool,11.38,5.84,1.29,Liverpool,Liverpool,0.638,N,1,2,Liverpool,1.29
+401,premier-league,2016-10-23,13:30,Southampton @ Manchester City,Southampton,Manchester City,7.88,4.56,1.46,Manchester City,Manchester City,0.611,N,1,1,Draw,4.56
+410,premier-league,2016-10-23,16:00,Manchester Utd @ Chelsea,Manchester Utd,Chelsea,3.7,3.26,2.19,Chelsea,Chelsea,0.585,N,0,4,Chelsea,2.19
+432,premier-league,2016-10-29,12:30,Arsenal @ Sunderland,Arsenal,Sunderland,1.43,4.8,7.93,Arsenal,Arsenal,0.6,N,4,1,Arsenal,1.43
+437,premier-league,2016-10-29,15:00,Manchester City @ West Bromwich,Manchester City,West Bromwich,1.46,4.62,7.49,Manchester City,Manchester City,0.504,N,4,0,Manchester City,1.46
+438,premier-league,2016-10-29,15:00,Hull City @ Watford,Hull City,Watford,5.48,3.68,1.72,Watford,Watford,0.577,N,0,1,Watford,1.72
+439,premier-league,2016-10-29,15:00,Bournemouth @ Middlesbrough,Bournemouth,Middlesbrough,3.18,3.11,2.51,Middlesbrough,Middlesbrough,0.449,N,0,2,Middlesbrough,2.51
+440,premier-league,2016-10-29,15:00,Burnley @ Manchester Utd,Burnley,Manchester Utd,14.84,6.27,1.24,Manchester Utd,Manchester Utd,0.614,N,0,0,Draw,6.27
+441,premier-league,2016-10-29,15:00,Leicester City @ Tottenham,Leicester City,Tottenham,5.86,4.11,1.61,Tottenham,Tottenham,0.651,N,1,1,Draw,4.11
+447,premier-league,2016-10-29,17:30,Liverpool @ Crystal Palace,Liverpool,Crystal Palace,1.74,3.98,4.89,Liverpool,Liverpool,0.593,N,4,2,Liverpool,1.74
+457,premier-league,2016-10-30,13:30,West Ham Utd @ Everton,West Ham Utd,Everton,4.4,3.72,1.86,Everton,Everton,0.53,N,0,2,Everton,1.86
+465,premier-league,2016-10-30,16:00,Chelsea @ Southampton,Chelsea,Southampton,2.39,3.36,3.15,Chelsea,Chelsea,0.576,N,2,0,Chelsea,2.39
+475,premier-league,2016-10-31,20:00,Swansea City @ Stoke City,Swansea City,Stoke City,3.91,3.5,2.04,Stoke City,Stoke City,0.58,N,1,3,Stoke City,2.04
+485,premier-league,2016-11-05,15:00,Crystal Palace @ Burnley,Crystal Palace,Burnley,2.29,3.23,3.46,Crystal Palace,Burnley,0.505,Y,2,3,Burnley,3.46
+486,premier-league,2016-11-05,15:00,Stoke City @ West Ham Utd,Stoke City,West Ham Utd,4.0,3.49,2.0,West Ham Utd,West Ham Utd,0.464,N,1,1,Draw,3.49
+487,premier-league,2016-11-05,15:00,Middlesbrough @ Manchester City,Middlesbrough,Manchester City,15.43,7.11,1.21,Manchester City,Manchester City,0.648,N,1,1,Draw,7.11
+488,premier-league,2016-11-05,15:00,Sunderland @ Bournemouth,Sunderland,Bournemouth,5.63,4.23,1.61,Bournemouth,Bournemouth,0.55,N,2,1,Sunderland,5.63
+494,premier-league,2016-11-05,17:30,Everton @ Chelsea,Everton,Chelsea,7.17,4.49,1.49,Chelsea,Chelsea,0.638,N,0,5,Chelsea,1.49
+504,premier-league,2016-11-06,12:00,Tottenham @ Arsenal,Tottenham,Arsenal,4.17,3.58,1.94,Arsenal,Arsenal,0.472,N,1,1,Draw,3.58
+510,premier-league,2016-11-06,14:15,Watford @ Liverpool,Watford,Liverpool,12.29,6.12,1.27,Liverpool,Liverpool,0.656,N,1,6,Liverpool,1.27
+511,premier-league,2016-11-06,14:15,Southampton @ Hull City,Southampton,Hull City,1.69,3.77,5.64,Southampton,Southampton,0.473,N,1,2,Hull City,5.64
+512,premier-league,2016-11-06,15:00,Manchester Utd @ Swansea City,Manchester Utd,Swansea City,1.69,3.93,5.35,Manchester Utd,Manchester Utd,0.571,N,3,1,Manchester Utd,1.69
+517,premier-league,2016-11-06,16:30,West Bromwich @ Leicester City,West Bromwich,Leicester City,5.59,3.67,1.72,Leicester City,Leicester City,0.387,N,2,1,West Bromwich,5.59
+526,premier-league,2016-11-19,12:30,Arsenal @ Manchester Utd,Arsenal,Manchester Utd,3.13,3.24,2.47,Manchester Utd,Manchester Utd,0.42,N,1,1,Draw,3.24
+531,premier-league,2016-11-19,15:00,Swansea City @ Everton,Swansea City,Everton,6.08,4.32,1.57,Everton,Everton,0.625,N,1,1,Draw,4.32
+532,premier-league,2016-11-19,15:00,Manchester City @ Crystal Palace,Manchester City,Crystal Palace,1.47,4.9,6.75,Manchester City,Manchester City,0.586,N,2,1,Manchester City,1.47
+533,premier-league,2016-11-19,15:00,Bournemouth @ Stoke City,Bournemouth,Stoke City,3.6,3.43,2.15,Stoke City,Stoke City,0.478,N,1,0,Bournemouth,3.6
+534,premier-league,2016-11-19,15:00,Liverpool @ Southampton,Liverpool,Southampton,2.34,3.44,3.16,Liverpool,Liverpool,0.488,N,0,0,Draw,3.44
+535,premier-league,2016-11-19,15:00,Leicester City @ Watford,Leicester City,Watford,2.56,3.29,2.95,Leicester City,Watford,0.519,Y,1,2,Watford,2.95
+536,premier-league,2016-11-19,15:00,Hull City @ Sunderland,Hull City,Sunderland,3.53,3.27,2.24,Sunderland,Sunderland,0.486,N,0,3,Sunderland,2.24
+539,premier-league,2016-11-19,17:30,West Ham Utd @ Tottenham,West Ham Utd,Tottenham,6.27,4.34,1.56,Tottenham,Tottenham,0.635,N,2,3,Tottenham,1.56
+552,premier-league,2016-11-20,16:00,Chelsea @ Middlesbrough,Chelsea,Middlesbrough,1.5,4.45,7.05,Chelsea,Chelsea,0.641,N,1,0,Chelsea,1.5
+555,premier-league,2016-11-21,20:00,Burnley @ West Bromwich,Burnley,West Bromwich,4.73,3.35,1.9,West Bromwich,West Bromwich,0.521,N,0,4,West Bromwich,1.9
+557,premier-league,2016-11-26,12:30,Manchester City @ Burnley,Manchester City,Burnley,1.24,6.74,12.52,Manchester City,Manchester City,0.554,N,2,1,Manchester City,1.24
+558,premier-league,2016-11-26,15:00,Middlesbrough @ Leicester City,Middlesbrough,Leicester City,4.63,3.4,1.9,Leicester City,Leicester City,0.446,N,2,2,Draw,3.4
+559,premier-league,2016-11-26,15:00,Crystal Palace @ Swansea City,Crystal Palace,Swansea City,2.82,3.27,2.67,Swansea City,Swansea City,0.405,N,4,5,Swansea City,2.67
+560,premier-league,2016-11-26,15:00,West Bromwich @ Hull City,West Bromwich,Hull City,2.79,3.1,2.84,West Bromwich,West Bromwich,0.446,N,1,1,Draw,3.1
+561,premier-league,2016-11-26,15:00,Sunderland @ Liverpool,Sunderland,Liverpool,16.13,8.52,1.17,Liverpool,Liverpool,0.7,N,0,2,Liverpool,1.17
+563,premier-league,2016-11-26,17:30,Tottenham @ Chelsea,Tottenham,Chelsea,5.35,3.85,1.71,Chelsea,Chelsea,0.554,N,1,2,Chelsea,1.71
+569,premier-league,2016-11-27,12:00,Stoke City @ Watford,Stoke City,Watford,3.48,3.27,2.27,Watford,Watford,0.473,N,1,0,Stoke City,3.48
+571,premier-league,2016-11-27,14:15,Bournemouth @ Arsenal,Bournemouth,Arsenal,9.39,5.44,1.35,Arsenal,Arsenal,0.639,N,1,3,Arsenal,1.35
+573,premier-league,2016-11-27,16:30,Everton @ Southampton,Everton,Southampton,3.73,3.4,2.12,Southampton,Southampton,0.449,N,0,1,Southampton,2.12
+574,premier-league,2016-11-27,16:30,West Ham Utd @ Manchester Utd,West Ham Utd,Manchester Utd,9.1,5.45,1.35,Manchester Utd,Manchester Utd,0.607,N,1,1,Draw,5.45
+575,premier-league,2016-12-03,12:30,Chelsea @ Manchester City,Chelsea,Manchester City,3.6,3.43,2.15,Manchester City,Manchester City,0.387,N,3,1,Chelsea,3.6

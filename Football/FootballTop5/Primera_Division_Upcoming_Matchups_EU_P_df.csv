@@ -1,0 +1,25 @@
+ID,Date,Time,League,Matchup_US_P,Home_Team,Visitor_Team,Home_Odd,Draw_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+56,2017-01-06,20:45:00,primera-division,RCD Espanyol vs Deportivo La Coruna,RCD Espanyol,Deportivo La Coruna,2.1,3.28,3.72,Espanyol,Espanyol,0.555,N,Upcoming
+57,2017-01-07,13:00:00,primera-division,Real Madrid vs Granada CF,Real Madrid,Granada CF,1.06,13.43,30.29,Real Madrid,Real Madrid,0.702,N,Upcoming
+58,2017-01-07,16:15:00,primera-division,Eibar vs Atletico Madrid,Eibar,Atletico Madrid,5.61,3.67,1.67,Atletico Madrid,Eibar,0.388,Y,Upcoming
+59,2017-01-07,20:45:00,primera-division,Real Sociedad vs Sevilla FC,Real Sociedad,Sevilla FC,2.29,3.41,3.12,Real Sociedad,Real Sociedad,0.411,N,Upcoming
+60,2017-01-08,12:00:00,primera-division,Athletic Bilbao vs Alaves,Athletic Bilbao,Alaves,1.53,3.97,6.92,Athletic Bilbao,Athletic Bilbao,0.508,N,Upcoming
+61,2017-01-08,16:15:00,primera-division,Real Betis vs Leganes,Real Betis,Leganes,2.04,3.26,3.93,Real Betis,Real Betis,0.491,N,Upcoming
+62,2017-01-08,20:45:00,primera-division,Villarreal CF vs FC Barcelona,Villarreal CF,FC Barcelona,6.06,4.43,1.52,FC Barcelona,Villarreal,0.405,Y,Upcoming
+63,2017-01-09,20:45:00,primera-division,Osasuna vs Valencia CF,Osasuna,Valencia CF,3.84,3.52,1.98,Valencia,Osasuna,0.389,Y,Upcoming
+64,2017-01-13,20:45:00,primera-division,Malaga CF vs Real Sociedad,Malaga CF,Real Sociedad,2.6,3.24,2.75,Malaga,Real Sociedad,0.396,Y,Upcoming
+65,2017-01-14,13:00:00,primera-division,Leganes vs Athletic Bilbao,Leganes,Athletic Bilbao,3.5,3.21,2.19,Athletic Bilbao,Athletic Bilbao,0.421,N,Upcoming
+66,2017-01-14,16:15:00,primera-division,FC Barcelona vs U.D. Las Palmas de Gran Canaria,FC Barcelona,U.D. Las Palmas de Gran Canaria,1.09,10.6,22.82,FC Barcelona,FC Barcelona,0.604,N,Upcoming
+67,2017-01-14,18:30:00,primera-division,Atletico Madrid vs Real Betis,Atletico Madrid,Real Betis,1.24,5.83,13.14,Atletico Madrid,Atletico Madrid,0.597,N,Upcoming
+68,2017-01-14,20:45:00,primera-division,Celta de Vigo vs Alaves,Celta de Vigo,Alaves,1.76,3.69,4.68,Celta Vigo,Celta Vigo,0.458,N,Upcoming
+69,2017-01-15,12:00:00,primera-division,Valencia CF vs RCD Espanyol,Valencia CF,RCD Espanyol,1.75,3.78,4.59,Valencia,Espanyol,0.425,Y,Upcoming
+70,2017-01-15,18:30:00,primera-division,Granada CF vs Osasuna,Granada CF,Osasuna,1.98,3.4,3.91,Granada,Granada,0.493,N,Upcoming
+71,2017-01-15,20:45:00,primera-division,Sevilla FC vs Real Madrid,Sevilla FC,Real Madrid,3.86,3.83,1.88,Real Madrid,FC Sevilla,0.373,Y,Upcoming
+72,2017-01-16,20:45:00,primera-division,Real Sporting de Gijon vs Eibar,Real Sporting de Gijon,Eibar,2.64,3.16,2.77,Sporting Gijon,Eibar,0.457,Y,Upcoming
+73,2017-01-20,20:45:00,primera-division,U.D. Las Palmas de Gran Canaria vs Deportivo La Coruna,U.D. Las Palmas de Gran Canaria,Deportivo La Coruna,1.28,1.8,1.35,Las Palmas,Las Palmas,0.535,N,Upcoming
+74,2017-01-21,13:00:00,primera-division,RCD Espanyol vs Granada CF,RCD Espanyol,Granada CF,1.17,2.3,1.28,Espanyol,Espanyol,0.623,N,Upcoming
+75,2017-01-21,18:30:00,primera-division,Alaves vs Leganes,Alaves,Leganes,1.27,1.77,1.39,Alaves,Alaves,0.538,N,Upcoming
+76,2017-01-21,20:45:00,primera-division,Villarreal CF vs Valencia CF,Villarreal CF,Valencia CF,1.18,2.18,1.29,Villarreal,Villarreal,0.642,N,Upcoming
+77,2017-01-22,12:00:00,primera-division,Osasuna vs Sevilla FC,Osasuna,Sevilla FC,5.69,3.94,1.63,FC Sevilla,FC Sevilla,0.645,N,Upcoming
+78,2017-01-22,18:30:00,primera-division,Real Betis vs Real Sporting de Gijon,Real Betis,Real Sporting de Gijon,1.19,2.07,1.28,Real Betis,Real Betis,0.547,N,Upcoming
+79,2017-01-23,20:45:00,primera-division,Real Sociedad vs Celta de Vigo,Real Sociedad,Celta de Vigo,1.34,1.74,1.32,Celta Vigo,Real Sociedad,0.543,Y,Upcoming

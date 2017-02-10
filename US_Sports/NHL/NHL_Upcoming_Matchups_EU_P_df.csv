@@ -1,0 +1,28 @@
+ID,Date,Time,League,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+0,2016-12-23,20:00:00,NHL,Columbus Blue Jackets vs Montreal Canadiens,Columbus Blue Jackets,Montreal Canadiens,1.62,2.29,Columbus Blue Jackets,Columbus Blue Jackets,0.615,N,Upcoming
+1,2016-12-23,20:00:00,NHL,New York Islanders vs Buffalo Sabres,New York Islanders,Buffalo Sabres,1.67,2.2,New York Islanders,New York Islanders,0.587,N,Upcoming
+2,2016-12-23,20:00:00,NHL,New York Rangers vs Minnesota Wild,New York Rangers,Minnesota Wild,1.63,2.27,New York Rangers,New York Rangers,0.588,N,Upcoming
+3,2016-12-23,20:00:00,NHL,Pittsburgh Penguins vs New Jersey Devils,Pittsburgh Penguins,New Jersey Devils,1.42,2.85,Pittsburgh Penguins,Pittsburgh Penguins,0.745,N,Upcoming
+4,2016-12-23,20:00:00,NHL,Washington Capitals vs Tampa Bay Lightning,Washington Capitals,Tampa Bay Lightning,1.44,2.79,Washington Capitals,Washington Capitals,0.651,N,Upcoming
+5,2016-12-23,20:30:00,NHL,Carolina Hurricanes vs Boston Bruins,Carolina Hurricanes,Boston Bruins,1.89,1.91,Carolina Hurricanes,Boston Bruins,0.513,Y,Upcoming
+6,2016-12-23,20:30:00,NHL,Florida Panthers vs Detroit Red Wings,Florida Panthers,Detroit Red Wings,1.63,2.28,Florida Panthers,Florida Panthers,0.578,N,Upcoming
+7,2016-12-23,21:30:00,NHL,Chicago Blackhawks vs Colorado Avalanche,Chicago Blackhawks,Colorado Avalanche,1.33,3.27,Chicago Blackhawks,Chicago Blackhawks,0.808,N,Upcoming
+8,2016-12-23,21:30:00,NHL,Dallas Stars vs Los Angeles Kings,Dallas Stars,Los Angeles Kings,1.73,2.1,Dallas Stars,Los Angeles Kings,0.61,Y,Upcoming
+9,2016-12-23,22:00:00,NHL,Arizona Coyotes vs Toronto Maple Leafs,Arizona Coyotes,Toronto Maple Leafs,2.21,1.67,Toronto Maple Leafs,Toronto Maple Leafs,0.56,N,Upcoming
+10,2016-12-23,22:00:00,NHL,Calgary Flames vs Vancouver Canucks,Calgary Flames,Vancouver Canucks,1.49,2.63,Calgary Flames,Calgary Flames,0.629,N,Upcoming
+11,2016-12-23,23:30:00,NHL,San Jose Sharks vs Edmonton Oilers,San Jose Sharks,Edmonton Oilers,1.59,2.37,San Jose Sharks,San Jose Sharks,0.643,N,Upcoming
+12,2016-12-27,20:00:00,NHL,Columbus Blue Jackets vs Boston Bruins,Columbus Blue Jackets,Boston Bruins,2.18,2.95,Columbus Blue Jackets,Columbus Blue Jackets,0.713,N,Upcoming
+13,2016-12-27,20:00:00,NHL,New Jersey Devils vs Pittsburgh Penguins,New Jersey Devils,Pittsburgh Penguins,3.54,1.94,Pittsburgh Penguins,Pittsburgh Penguins,0.656,N,Upcoming
+14,2016-12-27,20:00:00,NHL,New York Islanders vs Washington Capitals,New York Islanders,Washington Capitals,3.01,2.14,Washington Capitals,Washington Capitals,0.619,N,Upcoming
+15,2016-12-27,20:00:00,NHL,New York Rangers vs Ottawa Senators,New York Rangers,Ottawa Senators,1.96,3.42,New York Rangers,New York Rangers,0.678,N,Upcoming
+16,2016-12-27,20:30:00,NHL,Detroit Red Wings vs Buffalo Sabres,Detroit Red Wings,Buffalo Sabres,2.23,2.89,Detroit Red Wings,Detroit Red Wings,0.589,N,Upcoming
+17,2016-12-27,21:00:00,NHL,Nashville Predators vs Minnesota Wild,Nashville Predators,Minnesota Wild,2.35,2.73,Nashville Predators,Minnesota Wild,0.64,Y,Upcoming
+18,2016-12-27,21:30:00,NHL,Chicago Blackhawks vs Winnipeg Jets,Chicago Blackhawks,Winnipeg Jets,1.84,3.96,Chicago Blackhawks,Chicago Blackhawks,0.714,N,Upcoming
+19,2016-12-27,22:00:00,NHL,Arizona Coyotes vs Dallas Stars,Arizona Coyotes,Dallas Stars,2.98,2.19,Dallas Stars,Arizona Coyotes,0.502,Y,Upcoming
+20,2016-12-27,22:00:00,NHL,Colorado Avalanche vs Calgary Flames,Colorado Avalanche,Calgary Flames,2.59,2.43,Calgary Flames,Calgary Flames,0.622,N,Upcoming
+21,2016-12-27,23:00:00,NHL,Anaheim Ducks vs San Jose Sharks,Anaheim Ducks,San Jose Sharks,2.38,2.66,Anaheim Ducks,San Jose Sharks,0.567,Y,Upcoming
+22,2016-12-28,20:00:00,NHL,Florida Panthers vs Toronto Maple Leafs,Florida Panthers,Toronto Maple Leafs,1.37,1.28,Toronto Maple Leafs,Florida Panthers,0.562,Y,Upcoming
+23,2016-12-28,20:00:00,NHL,Pittsburgh Penguins vs Carolina Hurricanes,Pittsburgh Penguins,Carolina Hurricanes,1.3,1.28,Carolina Hurricanes,Pittsburgh Penguins,0.677,Y,Upcoming
+24,2016-12-28,20:30:00,NHL,Tampa Bay Lightning vs Montreal Canadiens,Tampa Bay Lightning,Montreal Canadiens,1.47,1.28,Montreal Canadiens,Montreal Canadiens,0.603,N,Upcoming
+25,2016-12-28,21:00:00,NHL,St. Louis Blues vs Philadelphia Flyers,St. Louis Blues,Philadelphia Flyers,1.41,1.28,Philadelphia Flyers,St. Louis Blues,0.556,Y,Upcoming
+26,2016-12-28,23:00:00,NHL,Vancouver Canucks vs Los Angeles Kings,Vancouver Canucks,Los Angeles Kings,1.69,1.28,Los Angeles Kings,Los Angeles Kings,0.602,N,Upcoming

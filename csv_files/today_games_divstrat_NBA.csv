@@ -1,0 +1,5 @@
+,ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+3,3,2016-11-10,23:30:00,NBA,Los Angeles Lakers @ Sacramento Kings,Los Angeles Lakers,Sacramento Kings,3.0,1.49,Sacramento Kings,Los Angeles Lakers,0.58,Y,Upcoming
+6,6,2016-11-11,20:00:00,NBA,Indiana Pacers @ Philadelphia 76ers,Indiana Pacers,Philadelphia 76ers,1.22,1.03,Philadelphia 76ers,Indiana Pacers,0.587,Y,Upcoming
+8,8,2016-11-11,20:30:00,NBA,New York Knicks @ Boston Celtics,New York Knicks,Boston Celtics,1.03,1.03,New York Knicks,Boston Celtics,0.626,Y,Upcoming
+10,10,2016-11-11,21:30:00,NBA,Detroit Pistons @ San Antonio Spurs,Detroit Pistons,San Antonio Spurs,1.03,1.03,Detroit Pistons,San Antonio Spurs,0.844,Y,Upcoming

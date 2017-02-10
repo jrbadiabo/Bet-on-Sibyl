@@ -1,0 +1,137 @@
+ID,League,Date,Time,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Draw_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,Home_Team_PTS,visi_team_pts,True_Result,Winner_Odd
+0,ligue-1,2016-08-12,19:30,Monaco vs Guingamp,Monaco,Guingamp,1.69,3.68,5.48,Monaco,Monaco,0.598,N,2,2,Draw,3.68
+6,ligue-1,2016-08-13,16:00,Bordeaux vs Saint-Etienne,Bordeaux,Saint-Etienne,2.35,3.03,3.42,Bordeaux,Bordeaux,0.447,N,3,2,Bordeaux,2.35
+8,ligue-1,2016-08-13,19:00,Caen vs Lorient,Caen,Lorient,2.3,3.2,3.33,Caen,Caen,0.527,N,3,2,Caen,2.3
+9,ligue-1,2016-08-13,19:00,Montpellier vs Angers,Montpellier,Angers,1.88,3.21,4.91,Montpellier,Montpellier,0.513,N,1,0,Montpellier,1.88
+10,ligue-1,2016-08-13,19:00,Metz vs Lille,Metz,Lille,3.68,3.08,2.22,Lille,Metz,0.475,Y,3,2,Metz,3.68
+11,ligue-1,2016-08-13,19:00,Dijon vs Nantes,Dijon,Nantes,2.52,2.98,3.17,Dijon,Dijon,0.466,N,0,1,Nantes,3.17
+13,ligue-1,2016-08-14,14:00,Nancy vs Lyon,Nancy,Lyon,3.06,3.23,2.45,Lyon,Lyon,0.472,N,0,3,Lyon,2.45
+15,ligue-1,2016-08-14,16:00,Nice vs Rennes,Nice,Rennes,2.41,3.12,3.24,Nice,Nice,0.635,N,1,0,Nice,2.41
+16,ligue-1,2016-08-14,19:45,Marseille vs Toulouse,Marseille,Toulouse,2.07,3.24,3.93,Marseille,Marseille,0.515,N,0,0,Draw,3.24
+18,ligue-1,2016-08-19,19:45,Lyon vs Caen,Lyon,Caen,1.38,5.0,8.44,Lyon,Lyon,0.62,N,2,0,Lyon,1.38
+27,ligue-1,2016-08-20,16:00,Nantes vs Monaco,Nantes,Monaco,2.43,3.0,3.34,Nantes,Monaco,0.578,Y,0,1,Monaco,3.34
+30,ligue-1,2016-08-20,19:00,Angers vs Nice,Angers,Nice,2.65,2.85,3.16,Angers,Nice,0.62,Y,0,1,Nice,3.16
+31,ligue-1,2016-08-20,19:00,Toulouse vs Bordeaux,Toulouse,Bordeaux,2.6,3.09,2.95,Toulouse,Toulouse,0.471,N,4,1,Toulouse,2.6
+32,ligue-1,2016-08-20,19:00,Lille vs Dijon,Lille,Dijon,1.75,3.36,5.75,Lille,Lille,0.467,N,1,0,Lille,1.75
+33,ligue-1,2016-08-20,19:00,Rennes vs Nancy,Rennes,Nancy,2.05,3.25,4.04,Rennes,Rennes,0.525,N,2,0,Rennes,2.05
+34,ligue-1,2016-08-20,19:00,Lorient vs Bastia,Lorient,Bastia,2.16,3.08,3.89,Lorient,Lorient,0.393,N,0,3,Bastia,3.89
+39,ligue-1,2016-08-21,14:00,Guingamp vs Marseille,Guingamp,Marseille,2.86,3.11,2.69,Marseille,Guingamp,0.465,Y,2,1,Guingamp,2.86
+41,ligue-1,2016-08-21,16:00,Saint-Etienne vs Montpellier,Saint-Etienne,Montpellier,2.36,3.01,3.48,Saint-Etienne,Saint-Etienne,0.525,N,3,1,Saint-Etienne,2.36
+52,ligue-1,2016-08-21,19:45,Paris SG vs Metz,Paris SG,Metz,1.12,9.75,25.03,Paris SG,Paris SG,0.625,N,3,0,Paris SG,1.12
+56,ligue-1,2016-08-26,19:45,Marseille vs Lorient,Marseille,Lorient,1.81,3.63,4.61,Marseille,Marseille,0.63,N,2,0,Marseille,1.81
+69,ligue-1,2016-08-27,16:00,Dijon vs Lyon,Dijon,Lyon,4.94,3.66,1.76,Lyon,Lyon,0.489,N,4,2,Dijon,4.94
+75,ligue-1,2016-08-27,19:00,Metz vs Angers,Metz,Angers,2.61,3.0,3.04,Metz,Metz,0.492,N,2,0,Metz,2.61
+76,ligue-1,2016-08-27,19:00,Caen vs Bastia,Caen,Bastia,2.22,3.07,3.72,Caen,Caen,0.456,N,2,0,Caen,2.22
+77,ligue-1,2016-08-27,19:00,Nice vs Lille,Nice,Lille,2.62,2.91,3.13,Nice,Nice,0.672,N,1,1,Draw,2.91
+78,ligue-1,2016-08-27,19:00,Nancy vs Guingamp,Nancy,Guingamp,2.04,3.27,4.05,Nancy,Guingamp,0.403,Y,0,2,Guingamp,4.05
+79,ligue-1,2016-08-27,19:00,Montpellier vs Rennes,Montpellier,Rennes,2.11,3.19,3.89,Montpellier,Montpellier,0.413,N,1,1,Draw,3.19
+84,ligue-1,2016-08-28,14:00,Bordeaux vs Nantes,Bordeaux,Nantes,2.12,3.09,4.01,Bordeaux,Bordeaux,0.534,N,1,0,Bordeaux,2.12
+87,ligue-1,2016-08-28,16:00,Saint-Etienne vs Toulouse,Saint-Etienne,Toulouse,2.18,3.14,3.73,Saint-Etienne,Saint-Etienne,0.483,N,0,0,Draw,3.14
+99,ligue-1,2016-08-28,19:45,Monaco vs Paris SG,Monaco,Paris SG,4.54,3.67,1.83,Paris SG,Monaco,0.512,Y,3,1,Monaco,4.54
+103,ligue-1,2016-09-09,19:45,Paris SG vs Saint-Etienne,Paris SG,Saint-Etienne,1.37,4.97,9.36,Paris SG,Paris SG,0.581,N,1,1,Draw,4.97
+117,ligue-1,2016-09-10,16:00,Lyon vs Bordeaux,Lyon,Bordeaux,1.61,4.12,5.57,Lyon,Lyon,0.561,N,1,3,Bordeaux,5.57
+123,ligue-1,2016-09-10,19:00,Bastia vs Toulouse,Bastia,Toulouse,2.89,2.92,2.81,Toulouse,Bastia,0.389,Y,2,1,Bastia,2.89
+124,ligue-1,2016-09-10,19:00,Lorient vs Nancy,Lorient,Nancy,2.48,3.13,3.12,Lorient,Lorient,0.37,N,0,2,Nancy,3.12
+125,ligue-1,2016-09-10,19:00,Angers vs Dijon,Angers,Dijon,2.27,3.04,3.64,Angers,Angers,0.45,N,3,1,Angers,2.27
+126,ligue-1,2016-09-10,19:00,Guingamp vs Montpellier,Guingamp,Montpellier,2.37,3.15,3.27,Guingamp,Guingamp,0.553,N,1,1,Draw,3.15
+127,ligue-1,2016-09-10,19:00,Lille vs Monaco,Lille,Monaco,2.43,3.05,3.27,Lille,Monaco,0.569,Y,1,4,Monaco,3.27
+136,ligue-1,2016-09-11,14:00,Nantes vs Metz,Nantes,Metz,1.72,3.49,5.65,Nantes,Nantes,0.46,N,0,3,Metz,5.65
+140,ligue-1,2016-09-11,16:00,Rennes vs Caen,Rennes,Caen,2.06,3.35,3.84,Rennes,Rennes,0.554,N,2,0,Rennes,2.06
+148,ligue-1,2016-09-16,19:45,Caen vs Paris SG,Caen,Paris SG,7.78,4.79,1.42,Paris SG,Paris SG,0.56,N,0,6,Paris SG,1.42
+161,ligue-1,2016-09-17,16:00,Monaco vs Rennes,Monaco,Rennes,1.78,3.6,4.87,Monaco,Monaco,0.626,N,3,0,Monaco,1.78
+166,ligue-1,2016-09-17,19:00,Bordeaux vs Angers,Bordeaux,Angers,1.79,3.44,5.13,Bordeaux,Bordeaux,0.55,N,0,1,Angers,5.13
+167,ligue-1,2016-09-17,19:00,Nancy vs Nantes,Nancy,Nantes,2.31,2.97,3.66,Nancy,Nancy,0.487,N,1,1,Draw,2.97
+168,ligue-1,2016-09-17,19:00,Lorient vs Lille,Lorient,Lille,3.51,3.19,2.24,Lille,Lorient,0.39,Y,1,0,Lorient,3.51
+169,ligue-1,2016-09-17,19:00,Dijon vs Metz,Dijon,Metz,1.96,3.48,4.03,Dijon,Dijon,0.459,N,0,0,Draw,3.48
+170,ligue-1,2016-09-17,19:00,Toulouse vs Guingamp,Toulouse,Guingamp,2.11,3.28,3.78,Toulouse,Toulouse,0.417,N,2,1,Toulouse,2.11
+180,ligue-1,2016-09-18,14:00,Montpellier vs Nice,Montpellier,Nice,2.18,3.33,3.52,Montpellier,Nice,0.567,Y,1,1,Draw,3.33
+184,ligue-1,2016-09-18,16:00,Saint-Etienne vs Bastia,Saint-Etienne,Bastia,1.75,3.4,5.66,Saint-Etienne,Saint-Etienne,0.555,N,1,0,Saint-Etienne,1.75
+191,ligue-1,2016-09-18,19:45,Marseille vs Lyon,Marseille,Lyon,2.58,3.28,2.84,Marseille,Marseille,0.413,N,0,0,Draw,3.28
+193,ligue-1,2016-09-20,18:00,Lille vs Toulouse,Lille,Toulouse,2.22,3.08,3.7,Lille,Lille,0.391,N,1,2,Toulouse,3.7
+200,ligue-1,2016-09-20,20:00,Paris SG vs Dijon,Paris SG,Dijon,1.11,10.03,23.66,Paris SG,Paris SG,0.638,N,3,0,Paris SG,1.11
+203,ligue-1,2016-09-21,18:00,Guingamp vs Lorient,Guingamp,Lorient,1.97,3.39,4.17,Guingamp,Guingamp,0.63,N,1,0,Guingamp,1.97
+204,ligue-1,2016-09-21,18:00,Nantes vs Saint-Etienne,Nantes,Saint-Etienne,2.69,2.94,3.0,Nantes,Nantes,0.376,N,0,0,Draw,2.94
+205,ligue-1,2016-09-21,18:00,Nice vs Monaco,Nice,Monaco,3.43,3.29,2.23,Monaco,Nice,0.484,Y,4,0,Nice,3.43
+206,ligue-1,2016-09-21,18:00,Angers vs Caen,Angers,Caen,2.23,3.15,3.6,Angers,Angers,0.464,N,2,1,Angers,2.23
+207,ligue-1,2016-09-21,18:00,Metz vs Bordeaux,Metz,Bordeaux,3.14,3.28,2.37,Bordeaux,Metz,0.402,Y,0,3,Bordeaux,2.37
+208,ligue-1,2016-09-21,18:00,Lyon vs Montpellier,Lyon,Montpellier,1.71,3.81,5.14,Lyon,Lyon,0.594,N,5,1,Lyon,1.71
+209,ligue-1,2016-09-21,18:00,Bastia vs Nancy,Bastia,Nancy,2.29,3.0,3.66,Bastia,Bastia,0.444,N,0,0,Draw,3.0
+224,ligue-1,2016-09-21,20:00,Rennes vs Marseille,Rennes,Marseille,2.32,3.24,3.28,Rennes,Rennes,0.426,N,3,2,Rennes,2.32
+233,ligue-1,2016-09-23,19:45,Toulouse vs Paris SG,Toulouse,Paris SG,7.34,4.43,1.47,Paris SG,Paris SG,0.466,N,2,0,Toulouse,7.34
+247,ligue-1,2016-09-24,16:00,Lorient vs Lyon,Lorient,Lyon,3.9,3.42,2.02,Lyon,Lyon,0.558,N,1,0,Lorient,3.9
+252,ligue-1,2016-09-24,19:00,Dijon vs Rennes,Dijon,Rennes,2.51,3.1,3.09,Dijon,Rennes,0.386,Y,3,0,Dijon,2.51
+253,ligue-1,2016-09-24,19:00,Monaco vs Angers,Monaco,Angers,1.75,3.55,5.2,Monaco,Monaco,0.67,N,2,1,Monaco,1.75
+254,ligue-1,2016-09-24,19:00,Bordeaux vs Caen,Bordeaux,Caen,1.78,3.66,4.81,Bordeaux,Bordeaux,0.547,N,0,0,Draw,3.66
+255,ligue-1,2016-09-24,19:00,Bastia vs Guingamp,Bastia,Guingamp,2.53,2.92,3.24,Bastia,Guingamp,0.418,Y,1,0,Bastia,2.53
+256,ligue-1,2016-09-24,19:00,Montpellier vs Metz,Montpellier,Metz,1.62,3.94,5.81,Montpellier,Montpellier,0.488,N,0,1,Metz,5.81
+265,ligue-1,2016-09-25,14:00,Saint-Etienne vs Lille,Saint-Etienne,Lille,2.43,3.02,3.31,Saint-Etienne,Saint-Etienne,0.554,N,3,1,Saint-Etienne,2.43
+269,ligue-1,2016-09-25,16:00,Nancy vs Nice,Nancy,Nice,2.47,3.13,3.11,Nancy,Nice,0.589,Y,0,1,Nice,3.11
+273,ligue-1,2016-09-25,19:45,Marseille vs Nantes,Marseille,Nantes,2.12,3.19,3.86,Marseille,Marseille,0.576,N,2,1,Marseille,2.12
+279,ligue-1,2016-09-30,19:45,Rennes vs Guingamp,Rennes,Guingamp,2.11,3.2,3.88,Rennes,Rennes,0.428,N,1,0,Rennes,2.11
+293,ligue-1,2016-10-01,16:00,Paris SG vs Bordeaux,Paris SG,Bordeaux,1.27,5.87,11.63,Paris SG,Paris SG,0.594,N,2,0,Paris SG,1.27
+297,ligue-1,2016-10-01,19:00,Nantes vs Bastia,Nantes,Bastia,1.96,3.16,4.62,Nantes,Nantes,0.471,N,1,0,Nantes,1.96
+298,ligue-1,2016-10-01,19:00,Dijon vs Montpellier,Dijon,Montpellier,2.48,3.16,3.07,Dijon,Dijon,0.435,N,3,3,Draw,3.16
+299,ligue-1,2016-10-01,19:00,Caen vs Toulouse,Caen,Toulouse,2.75,3.15,2.75,Draw,Caen,0.377,Y,1,0,Caen,2.75
+300,ligue-1,2016-10-01,19:00,Metz vs Monaco,Metz,Monaco,4.75,3.73,1.77,Monaco,Monaco,0.589,N,0,7,Monaco,1.77
+301,ligue-1,2016-10-01,19:00,Lille vs Nancy,Lille,Nancy,1.8,3.36,5.22,Lille,Lille,0.446,N,1,0,Lille,1.8
+311,ligue-1,2016-10-02,14:00,Angers vs Marseille,Angers,Marseille,2.74,3.1,2.79,Angers,Marseille,0.452,Y,1,1,Draw,3.1
+315,ligue-1,2016-10-02,16:00,Nice vs Lorient,Nice,Lorient,1.69,3.77,5.37,Nice,Nice,0.697,N,2,1,Nice,1.69
+324,ligue-1,2016-10-02,19:45,Lyon vs Saint-Etienne,Lyon,Saint-Etienne,1.85,3.51,4.61,Lyon,Lyon,0.546,N,2,0,Lyon,1.85
+325,ligue-1,2016-10-14,18:00,Toulouse vs Monaco,Toulouse,Monaco,2.85,3.2,2.65,Monaco,Monaco,0.504,N,3,1,Toulouse,2.85
+328,ligue-1,2016-10-14,19:45,Nice vs Lyon,Nice,Lyon,2.89,3.39,2.49,Lyon,Nice,0.569,Y,2,0,Nice,2.89
+343,ligue-1,2016-10-15,16:00,Nancy vs Paris SG,Nancy,Paris SG,8.41,4.39,1.44,Paris SG,Paris SG,0.529,N,1,2,Paris SG,1.44
+348,ligue-1,2016-10-15,19:00,Lorient vs Nantes,Lorient,Nantes,2.66,3.03,2.96,Lorient,Lorient,0.39,N,1,2,Nantes,2.96
+349,ligue-1,2016-10-15,19:00,Montpellier vs Caen,Montpellier,Caen,2.05,3.36,3.88,Montpellier,Montpellier,0.51,N,3,2,Montpellier,2.05
+350,ligue-1,2016-10-15,19:00,Guingamp vs Lille,Guingamp,Lille,2.79,2.96,2.85,Guingamp,Guingamp,0.578,N,1,0,Guingamp,2.79
+351,ligue-1,2016-10-15,19:00,Bastia vs Angers,Bastia,Angers,2.61,2.82,3.24,Bastia,Bastia,0.481,N,1,2,Angers,3.24
+361,ligue-1,2016-10-16,14:00,Rennes vs Bordeaux,Rennes,Bordeaux,2.55,3.13,3.0,Rennes,Rennes,0.479,N,1,1,Draw,3.13
+364,ligue-1,2016-10-16,16:00,Saint-Etienne vs Dijon,Saint-Etienne,Dijon,1.76,3.49,5.36,Saint-Etienne,Saint-Etienne,0.552,N,1,1,Draw,3.49
+373,ligue-1,2016-10-21,19:45,Monaco vs Montpellier,Monaco,Montpellier,1.62,3.95,5.92,Monaco,Monaco,0.654,N,6,2,Monaco,1.62
+387,ligue-1,2016-10-22,16:00,Lyon vs Guingamp,Lyon,Guingamp,1.47,4.42,7.36,Lyon,Lyon,0.519,N,1,3,Guingamp,7.36
+392,ligue-1,2016-10-22,19:00,Dijon vs Lorient,Dijon,Lorient,2.23,3.25,3.47,Dijon,Dijon,0.539,N,1,0,Dijon,2.23
+393,ligue-1,2016-10-22,19:00,Nantes vs Rennes,Nantes,Rennes,2.36,3.06,3.42,Nantes,Rennes,0.387,Y,1,2,Rennes,3.42
+394,ligue-1,2016-10-22,19:00,Angers vs Toulouse,Angers,Toulouse,2.6,3.0,3.06,Angers,Toulouse,0.377,Y,0,0,Draw,3.0
+395,ligue-1,2016-10-22,19:00,Lille vs Bastia,Lille,Bastia,1.85,3.25,5.12,Lille,Lille,0.469,N,2,1,Lille,1.85
+396,ligue-1,2016-10-22,19:00,Bordeaux vs Nancy,Bordeaux,Nancy,1.78,3.43,5.29,Bordeaux,Bordeaux,0.516,N,1,1,Draw,3.43
+407,ligue-1,2016-10-23,14:00,Caen vs Saint-Etienne,Caen,Saint-Etienne,2.66,3.11,2.89,Caen,Saint-Etienne,0.386,Y,0,2,Saint-Etienne,2.89
+411,ligue-1,2016-10-23,16:00,Metz vs Nice,Metz,Nice,3.31,3.29,2.29,Nice,Nice,0.613,N,2,4,Nice,2.29
+417,ligue-1,2016-10-23,19:45,Paris SG vs Marseille,Paris SG,Marseille,1.28,5.83,11.03,Paris SG,Paris SG,0.559,N,0,0,Draw,5.83
+430,ligue-1,2016-10-28,19:45,Lille vs Paris SG,Lille,Paris SG,6.59,4.03,1.56,Paris SG,Paris SG,0.537,N,0,1,Paris SG,1.56
+443,ligue-1,2016-10-29,16:00,Toulouse vs Lyon,Toulouse,Lyon,2.69,3.28,2.7,Toulouse,Lyon,0.404,Y,1,2,Lyon,2.7
+448,ligue-1,2016-10-29,19:00,Bastia vs Dijon,Bastia,Dijon,2.23,3.07,3.65,Bastia,Bastia,0.465,N,0,0,Draw,3.07
+449,ligue-1,2016-10-29,19:00,Saint-Etienne vs Monaco,Saint-Etienne,Monaco,2.55,3.18,2.94,Saint-Etienne,Monaco,0.491,Y,1,1,Draw,3.18
+450,ligue-1,2016-10-29,19:00,Nancy vs Caen,Nancy,Caen,2.07,3.17,4.06,Nancy,Nancy,0.501,N,2,0,Nancy,2.07
+451,ligue-1,2016-10-29,19:00,Guingamp vs Angers,Guingamp,Angers,2.31,3.06,3.48,Guingamp,Guingamp,0.587,N,1,0,Guingamp,2.31
+452,ligue-1,2016-10-29,19:00,Lorient vs Montpellier,Lorient,Montpellier,2.08,3.4,3.72,Lorient,Montpellier,0.391,Y,2,2,Draw,3.4
+462,ligue-1,2016-10-30,14:00,Nice vs Nantes,Nice,Nantes,1.96,3.29,4.41,Nice,Nice,0.666,N,4,1,Nice,1.96
+466,ligue-1,2016-10-30,16:00,Rennes vs Metz,Rennes,Metz,1.6,3.88,6.26,Rennes,Rennes,0.533,N,1,0,Rennes,1.6
+471,ligue-1,2016-10-30,19:45,Marseille vs Bordeaux,Marseille,Bordeaux,2.18,3.27,3.58,Marseille,Marseille,0.517,N,0,0,Draw,3.27
+478,ligue-1,2016-11-04,19:45,Montpellier vs Marseille,Montpellier,Marseille,2.58,3.19,2.91,Montpellier,Marseille,0.381,Y,3,1,Montpellier,2.58
+490,ligue-1,2016-11-05,16:00,Monaco vs Nancy,Monaco,Nancy,1.47,4.32,7.71,Monaco,Monaco,0.653,N,6,0,Monaco,1.47
+495,ligue-1,2016-11-05,19:00,Angers vs Lille,Angers,Lille,2.42,2.93,3.45,Angers,Angers,0.45,N,1,0,Angers,2.42
+496,ligue-1,2016-11-05,19:00,Lyon vs Bastia,Lyon,Bastia,1.41,4.66,8.51,Lyon,Lyon,0.616,N,2,1,Lyon,1.41
+497,ligue-1,2016-11-05,19:00,Bordeaux vs Lorient,Bordeaux,Lorient,1.76,3.63,5.05,Bordeaux,Bordeaux,0.599,N,2,1,Bordeaux,1.76
+498,ligue-1,2016-11-05,19:00,Dijon vs Guingamp,Dijon,Guingamp,2.59,3.09,3.0,Dijon,Guingamp,0.422,Y,3,3,Draw,3.09
+499,ligue-1,2016-11-05,19:00,Nantes vs Toulouse,Nantes,Toulouse,2.6,2.98,3.1,Nantes,Nantes,0.392,N,1,1,Draw,2.98
+509,ligue-1,2016-11-06,14:00,Caen vs Nice,Caen,Nice,3.02,3.32,2.43,Nice,Nice,0.615,N,1,0,Caen,3.02
+515,ligue-1,2016-11-06,16:00,Metz vs Saint-Etienne,Metz,Saint-Etienne,3.59,3.23,2.19,Saint-Etienne,Metz,0.381,Y,0,0,Draw,3.23
+522,ligue-1,2016-11-06,19:45,Paris SG vs Rennes,Paris SG,Rennes,1.22,6.62,13.64,Paris SG,Paris SG,0.592,N,4,0,Paris SG,1.22
+523,ligue-1,2016-11-18,18:00,Lorient vs Monaco,Lorient,Monaco,3.88,3.64,1.96,Monaco,Monaco,0.632,N,0,3,Monaco,1.96
+525,ligue-1,2016-11-18,19:45,Lille vs Lyon,Lille,Lyon,3.06,3.16,2.51,Lyon,Lyon,0.48,N,0,1,Lyon,2.51
+537,ligue-1,2016-11-19,16:00,Paris SG vs Nantes,Paris SG,Nantes,1.21,6.64,14.83,Paris SG,Paris SG,0.637,N,2,0,Paris SG,1.21
+540,ligue-1,2016-11-19,19:00,Rennes vs Angers,Rennes,Angers,2.36,3.02,3.47,Rennes,Rennes,0.556,N,1,1,Draw,3.02
+541,ligue-1,2016-11-19,19:00,Bastia vs Montpellier,Bastia,Montpellier,2.88,3.11,2.66,Montpellier,Bastia,0.433,Y,1,1,Draw,3.11
+542,ligue-1,2016-11-19,19:00,Nancy vs Dijon,Nancy,Dijon,2.09,3.28,3.84,Nancy,Nancy,0.488,N,1,0,Nancy,2.09
+543,ligue-1,2016-11-19,19:00,Toulouse vs Metz,Toulouse,Metz,1.53,4.12,6.86,Toulouse,Toulouse,0.528,N,1,2,Metz,6.86
+551,ligue-1,2016-11-20,14:00,Guingamp vs Bordeaux,Guingamp,Bordeaux,2.52,3.18,3.01,Guingamp,Guingamp,0.516,N,1,1,Draw,3.18
+553,ligue-1,2016-11-20,16:00,Marseille vs Caen,Marseille,Caen,1.78,3.68,4.77,Marseille,Marseille,0.586,N,1,0,Marseille,1.78
+554,ligue-1,2016-11-20,19:45,Saint-Etienne vs Nice,Saint-Etienne,Nice,2.22,3.18,3.58,Saint-Etienne,Nice,0.522,Y,0,1,Nice,3.58
+556,ligue-1,2016-11-25,19:45,Rennes vs Toulouse,Rennes,Toulouse,2.4,3.16,3.22,Rennes,Rennes,0.476,N,1,0,Rennes,2.4
+562,ligue-1,2016-11-26,16:10,Monaco vs Marseille,Monaco,Marseille,1.67,3.85,5.42,Monaco,Monaco,0.597,N,4,0,Monaco,1.67
+564,ligue-1,2016-11-26,19:00,Bordeaux vs Dijon,Bordeaux,Dijon,1.62,3.92,5.84,Bordeaux,Bordeaux,0.536,N,3,2,Bordeaux,1.62
+565,ligue-1,2016-11-26,19:00,Nantes vs Lille,Nantes,Lille,2.47,2.93,3.35,Nantes,Nantes,0.468,N,0,0,Draw,2.93
+566,ligue-1,2016-11-26,19:00,Montpellier vs Nancy,Montpellier,Nancy,1.86,3.53,4.5,Montpellier,Montpellier,0.478,N,0,0,Draw,3.53
+567,ligue-1,2016-11-26,19:00,Caen vs Guingamp,Caen,Guingamp,2.36,3.12,3.31,Caen,Guingamp,0.44,Y,1,1,Draw,3.12
+568,ligue-1,2016-11-26,19:00,Metz vs Lorient,Metz,Lorient,2.51,3.24,2.95,Metz,Metz,0.548,N,3,3,Draw,3.24
+570,ligue-1,2016-11-27,14:00,Angers vs Saint-Etienne,Angers,Saint-Etienne,2.59,2.85,3.22,Angers,Saint-Etienne,0.392,Y,1,2,Saint-Etienne,3.22
+572,ligue-1,2016-11-27,16:00,Nice vs Bastia,Nice,Bastia,1.64,3.75,5.98,Nice,Nice,0.671,N,1,1,Draw,3.75

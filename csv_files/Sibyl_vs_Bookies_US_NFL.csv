@@ -1,0 +1,13 @@
+ID,Date,Time,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result,Winner_Odd
+0,2016-10-02,14:30,Indianapolis Colts @ Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,1.88,1.96,Indianapolis Colts,Jacksonville Jaguars,0.512,Y,Jacksonville Jaguars,1.96
+1,2016-10-02,18:00,Detroit Lions @ Chicago Bears,Detroit Lions,Chicago Bears,1.58,2.48,Detroit Lions,Detroit Lions,0.598,N,Chicago Bears,2.48
+2,2016-10-02,18:00,Carolina Panthers @ Atlanta Falcons,Carolina Panthers,Atlanta Falcons,1.69,2.24,Carolina Panthers,Atlanta Falcons,0.562,Y,Atlanta Falcons,2.24
+3,2016-10-02,18:00,Cleveland Browns @ Washington Redskins,Cleveland Browns,Washington Redskins,3.69,1.32,Washington Redskins,Washington Redskins,0.852,N,Washington Redskins,1.32
+4,2016-10-09,18:00,Chicago Bears @ Indianapolis Colts,Chicago Bears,Indianapolis Colts,2.68,1.51,Indianapolis Colts,Indianapolis Colts,0.65,N,Indianapolis Colts,1.51
+5,2016-10-09,18:00,Washington Redskins @ Baltimore Ravens,Washington Redskins,Baltimore Ravens,2.61,1.53,Baltimore Ravens,Baltimore Ravens,0.593,N,Washington Redskins,2.61
+6,2016-10-09,21:05,Atlanta Falcons @ Denver Broncos,Atlanta Falcons,Denver Broncos,2.63,1.52,Denver Broncos,Denver Broncos,0.664,N,Atlanta Falcons,2.63
+7,2016-10-09,21:25,Cincinnati Bengals @ Dallas Cowboys,Cincinnati Bengals,Dallas Cowboys,1.75,2.14,Cincinnati Bengals,Dallas Cowboys,0.782,Y,Dallas Cowboys,2.14
+8,2016-10-16,01:30,Indianapolis Colts @ Houston Texans,Indianapolis Colts,Houston Texans,2.35,1.63,Houston Texans,Houston Texans,0.649,N,Houston Texans,1.63
+9,2016-10-16,18:00,Jacksonville Jaguars @ Chicago Bears,Jacksonville Jaguars,Chicago Bears,2.15,1.74,Chicago Bears,Chicago Bears,0.618,N,Jacksonville Jaguars,2.15
+10,2016-10-16,21:25,Dallas Cowboys @ Green Bay Packers,Dallas Cowboys,Green Bay Packers,2.88,1.45,Green Bay Packers,Dallas Cowboys,0.616,Y,Dallas Cowboys,2.88
+11,2016-10-20,01:25,Chicago Bears @ Green Bay Packers,Chicago Bears,Green Bay Packers,3.7,1.32,Green Bay Packers,Green Bay Packers,0.656,N,Green Bay Packers,1.32

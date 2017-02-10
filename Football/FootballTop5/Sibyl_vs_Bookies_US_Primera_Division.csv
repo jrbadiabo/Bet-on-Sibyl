@@ -1,0 +1,107 @@
+ID,League,Date,Time,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,visi_team_pts,Home_Team_PTS,True_Result,Winner_Odd
+20,laliga,2016-08-19,21:00,Eibar @ Deportivo,Eibar,Deportivo,4.19,3.32,2.0,Deportivo,Eibar,0.393,Y,1,2,Deportivo,2.0
+28,laliga,2016-08-20,17:15,Real Betis @ FC Barcelona,Real Betis,FC Barcelona,28.09,11.6,1.1,FC Barcelona,FC Barcelona,0.635,N,2,6,FC Barcelona,1.1
+35,laliga,2016-08-20,19:15,Villarreal @ Granada,Villarreal,Granada,2.92,3.15,2.64,Granada,Villarreal,0.566,Y,1,1,Draw,3.15
+37,laliga,2016-08-20,21:15,Espanyol @ FC Sevilla,Espanyol,FC Sevilla,5.12,3.88,1.71,FC Sevilla,FC Sevilla,0.564,N,4,6,FC Sevilla,1.71
+43,laliga,2016-08-21,17:15,Athletic Bilbao @ Sporting Gijon,Athletic Bilbao,Sporting Gijon,1.89,3.5,4.46,Athletic Bilbao,Athletic Bilbao,0.483,N,1,2,Sporting Gijon,4.46
+44,laliga,2016-08-21,19:15,Real Madrid @ Real Sociedad,Real Madrid,Real Sociedad,1.7,3.94,5.15,Real Madrid,Real Madrid,0.427,N,3,0,Real Madrid,1.7
+53,laliga,2016-08-21,21:15,Alaves @ Atletico Madrid,Alaves,Atletico Madrid,17.52,5.88,1.24,Atletico Madrid,Atletico Madrid,0.558,N,1,1,Draw,5.88
+54,laliga,2016-08-22,19:00,Leganes @ Celta Vigo,Leganes,Celta Vigo,5.99,3.83,1.64,Celta Vigo,Celta Vigo,0.533,N,1,0,Leganes,5.99
+55,laliga,2016-08-26,19:45,Deportivo @ Real Betis,Deportivo,Real Betis,3.53,3.27,2.21,Real Betis,Real Betis,0.485,N,0,0,Draw,3.27
+57,laliga,2016-08-26,21:00,Malaga @ Espanyol,Malaga,Espanyol,3.37,3.21,2.31,Espanyol,Espanyol,0.488,N,2,2,Draw,3.21
+71,laliga,2016-08-27,17:15,Valencia @ Eibar,Valencia,Eibar,2.69,3.28,2.76,Valencia,Eibar,0.578,Y,0,1,Eibar,2.76
+72,laliga,2016-08-27,17:15,Real Sociedad @ Osasuna,Real Sociedad,Osasuna,2.54,3.11,3.08,Real Sociedad,Real Sociedad,0.605,N,2,0,Real Sociedad,2.54
+80,laliga,2016-08-27,19:15,Celta Vigo @ Real Madrid,Celta Vigo,Real Madrid,16.15,8.01,1.17,Real Madrid,Real Madrid,0.641,N,1,2,Real Madrid,1.17
+82,laliga,2016-08-27,21:15,Atletico Madrid @ Leganes,Atletico Madrid,Leganes,1.49,3.93,8.71,Atletico Madrid,Atletico Madrid,0.458,N,0,0,Draw,3.93
+90,laliga,2016-08-28,17:15,Sporting Gijon @ Alaves,Sporting Gijon,Alaves,3.24,3.16,2.42,Alaves,Alaves,0.588,N,0,0,Draw,3.16
+91,laliga,2016-08-28,17:15,Granada @ Las Palmas,Granada,Las Palmas,4.63,3.65,1.83,Las Palmas,Las Palmas,0.607,N,1,5,Las Palmas,1.83
+92,laliga,2016-08-28,19:15,FC Barcelona @ Athletic Bilbao,FC Barcelona,Athletic Bilbao,1.56,4.3,6.03,FC Barcelona,FC Barcelona,0.413,N,1,0,FC Barcelona,1.56
+100,laliga,2016-08-28,21:15,FC Sevilla @ Villarreal,FC Sevilla,Villarreal,3.05,3.41,2.39,Villarreal,Villarreal,0.436,N,0,0,Draw,3.41
+102,laliga,2016-09-09,19:45,Espanyol @ Real Sociedad,Espanyol,Real Sociedad,3.96,3.5,2.0,Real Sociedad,Real Sociedad,0.518,N,1,1,Draw,3.5
+104,laliga,2016-09-10,12:00,Atletico Madrid @ Celta Vigo,Atletico Madrid,Celta Vigo,1.72,3.53,5.8,Atletico Madrid,Atletico Madrid,0.396,N,4,0,Atletico Madrid,1.72
+111,laliga,2016-09-10,15:00,Osasuna @ Real Madrid,Osasuna,Real Madrid,37.89,15.4,1.06,Real Madrid,Real Madrid,0.699,N,2,5,Real Madrid,1.06
+119,laliga,2016-09-10,17:15,Las Palmas @ FC Sevilla,Las Palmas,FC Sevilla,6.35,4.52,1.52,FC Sevilla,FC Sevilla,0.581,N,1,2,FC Sevilla,1.52
+120,laliga,2016-09-10,17:15,Villarreal @ Malaga,Villarreal,Malaga,3.27,3.08,2.45,Malaga,Villarreal,0.398,Y,2,0,Villarreal,3.27
+128,laliga,2016-09-10,19:30,Alaves @ FC Barcelona,Alaves,FC Barcelona,31.16,11.95,1.09,FC Barcelona,FC Barcelona,0.606,N,2,1,Alaves,31.16
+130,laliga,2016-09-11,11:00,Leganes @ Sporting Gijon,Leganes,Sporting Gijon,3.22,3.07,2.49,Sporting Gijon,Sporting Gijon,0.407,N,1,2,Sporting Gijon,2.49
+138,laliga,2016-09-11,15:00,Real Betis @ Valencia,Real Betis,Valencia,6.21,4.32,1.55,Valencia,Valencia,0.406,N,3,2,Real Betis,6.21
+141,laliga,2016-09-11,17:15,Eibar @ Granada,Eibar,Granada,3.09,3.24,2.46,Granada,Eibar,0.493,Y,2,1,Eibar,3.09
+142,laliga,2016-09-11,19:30,Athletic Bilbao @ Deportivo,Athletic Bilbao,Deportivo,2.22,3.26,3.53,Athletic Bilbao,Athletic Bilbao,0.422,N,1,0,Athletic Bilbao,2.22
+146,laliga,2016-09-16,19:45,Granada @ Real Betis,Granada,Real Betis,4.95,3.79,1.75,Real Betis,Real Betis,0.567,N,2,2,Draw,3.79
+150,laliga,2016-09-17,12:00,FC Barcelona @ Leganes,FC Barcelona,Leganes,1.18,7.64,17.13,FC Barcelona,FC Barcelona,0.555,N,5,1,FC Barcelona,1.18
+160,laliga,2016-09-17,15:15,Sporting Gijon @ Atletico Madrid,Sporting Gijon,Atletico Madrid,18.52,6.97,1.19,Atletico Madrid,Atletico Madrid,0.654,N,0,5,Atletico Madrid,1.19
+164,laliga,2016-09-17,17:30,FC Sevilla @ Eibar,FC Sevilla,Eibar,2.5,3.34,2.92,FC Sevilla,FC Sevilla,0.415,N,1,1,Draw,3.34
+171,laliga,2016-09-17,19:45,Malaga @ Las Palmas,Malaga,Las Palmas,3.41,3.38,2.22,Las Palmas,Las Palmas,0.466,N,0,1,Las Palmas,2.22
+173,laliga,2016-09-18,11:00,Celta Vigo @ Osasuna,Celta Vigo,Osasuna,2.31,3.22,3.36,Celta Vigo,Celta Vigo,0.48,N,0,0,Draw,3.22
+183,laliga,2016-09-18,15:15,Valencia @ Athletic Bilbao,Valencia,Athletic Bilbao,4.43,3.67,1.84,Athletic Bilbao,Athletic Bilbao,0.596,N,1,2,Athletic Bilbao,1.84
+188,laliga,2016-09-18,17:30,Real Sociedad @ Villarreal,Real Sociedad,Villarreal,5.01,3.38,1.84,Villarreal,Villarreal,0.493,N,1,2,Villarreal,1.84
+189,laliga,2016-09-18,19:45,Real Madrid @ Espanyol,Real Madrid,Espanyol,1.41,5.0,7.79,Real Madrid,Real Madrid,0.525,N,2,0,Real Madrid,1.41
+192,laliga,2016-09-19,19:45,Deportivo @ Alaves,Deportivo,Alaves,3.47,3.04,2.35,Alaves,Alaves,0.532,N,0,0,Draw,3.04
+198,laliga,2016-09-20,19:00,Eibar @ Malaga,Eibar,Malaga,5.16,3.43,1.8,Malaga,Malaga,0.452,N,1,2,Malaga,1.8
+201,laliga,2016-09-20,21:00,Real Betis @ FC Sevilla,Real Betis,FC Sevilla,6.26,4.4,1.53,FC Sevilla,FC Sevilla,0.615,N,0,1,FC Sevilla,1.53
+214,laliga,2016-09-21,19:00,Sporting Gijon @ Celta Vigo,Sporting Gijon,Celta Vigo,5.8,4.07,1.61,Celta Vigo,Celta Vigo,0.585,N,1,2,Celta Vigo,1.61
+215,laliga,2016-09-21,19:00,Villarreal @ Real Madrid,Villarreal,Real Madrid,11.87,6.47,1.25,Real Madrid,Real Madrid,0.575,N,1,1,Draw,6.47
+225,laliga,2016-09-21,21:00,Las Palmas @ Real Sociedad,Las Palmas,Real Sociedad,4.31,3.6,1.89,Real Sociedad,Real Sociedad,0.537,N,1,4,Real Sociedad,1.89
+226,laliga,2016-09-21,21:00,Athletic Bilbao @ Granada,Athletic Bilbao,Granada,1.95,3.56,4.12,Athletic Bilbao,Athletic Bilbao,0.519,N,2,1,Athletic Bilbao,1.95
+227,laliga,2016-09-21,21:00,Atletico Madrid @ FC Barcelona,Atletico Madrid,FC Barcelona,6.18,4.26,1.56,FC Barcelona,FC Barcelona,0.531,N,1,1,Draw,4.26
+228,laliga,2016-09-22,19:00,Leganes @ Deportivo,Leganes,Deportivo,3.75,3.16,2.19,Deportivo,Deportivo,0.473,N,2,1,Leganes,3.75
+229,laliga,2016-09-22,19:00,Espanyol @ Osasuna,Espanyol,Osasuna,2.39,3.22,3.22,Espanyol,Espanyol,0.522,N,2,1,Espanyol,2.39
+230,laliga,2016-09-22,21:00,Alaves @ Valencia,Alaves,Valencia,6.3,4.32,1.55,Valencia,Alaves,0.408,Y,1,2,Valencia,1.55
+232,laliga,2016-09-23,19:45,Malaga @ Real Betis,Malaga,Real Betis,3.01,3.19,2.54,Real Betis,Real Betis,0.412,N,0,1,Real Betis,2.54
+234,laliga,2016-09-24,12:00,Real Sociedad @ Eibar,Real Sociedad,Eibar,2.86,3.15,2.68,Eibar,Eibar,0.401,N,0,2,Eibar,2.68
+246,laliga,2016-09-24,15:15,FC Barcelona @ Sporting Gijon,FC Barcelona,Sporting Gijon,1.24,6.41,13.08,FC Barcelona,FC Barcelona,0.603,N,5,0,FC Barcelona,1.24
+250,laliga,2016-09-24,17:30,FC Sevilla @ Athletic Bilbao,FC Sevilla,Athletic Bilbao,4.17,3.44,1.97,Athletic Bilbao,FC Sevilla,0.386,Y,1,3,Athletic Bilbao,1.97
+257,laliga,2016-09-24,19:45,Real Madrid @ Las Palmas,Real Madrid,Las Palmas,1.34,5.68,8.79,Real Madrid,Real Madrid,0.54,N,2,2,Draw,5.68
+259,laliga,2016-09-25,11:00,Valencia @ Leganes,Valencia,Leganes,2.46,3.3,3.02,Valencia,Leganes,0.503,Y,2,1,Valencia,2.46
+267,laliga,2016-09-25,15:15,Deportivo @ Atletico Madrid,Deportivo,Atletico Madrid,19.3,6.54,1.2,Atletico Madrid,Atletico Madrid,0.61,N,0,1,Atletico Madrid,1.2
+270,laliga,2016-09-25,17:30,Osasuna @ Villarreal,Osasuna,Villarreal,9.58,4.78,1.38,Villarreal,Villarreal,0.67,N,1,3,Villarreal,1.38
+271,laliga,2016-09-25,19:45,Celta Vigo @ Espanyol,Celta Vigo,Espanyol,3.3,3.32,2.3,Espanyol,Espanyol,0.499,N,2,0,Celta Vigo,3.3
+278,laliga,2016-09-30,19:45,Real Betis @ Real Sociedad,Real Betis,Real Sociedad,4.75,3.53,1.84,Real Sociedad,Real Sociedad,0.578,N,0,1,Real Sociedad,1.84
+281,laliga,2016-10-01,12:00,Leganes @ Granada,Leganes,Granada,3.1,3.23,2.46,Granada,Granada,0.381,N,1,0,Leganes,3.1
+292,laliga,2016-10-01,15:15,Alaves @ FC Sevilla,Alaves,FC Sevilla,8.52,4.7,1.42,FC Sevilla,FC Sevilla,0.584,N,1,2,FC Sevilla,1.42
+296,laliga,2016-10-01,17:30,Las Palmas @ Osasuna,Las Palmas,Osasuna,2.7,3.33,2.71,Las Palmas,Las Palmas,0.506,N,2,2,Draw,3.33
+302,laliga,2016-10-01,19:45,Sporting Gijon @ Deportivo,Sporting Gijon,Deportivo,4.76,3.42,1.86,Deportivo,Deportivo,0.531,N,1,2,Deportivo,1.86
+304,laliga,2016-10-02,11:00,Atletico Madrid @ Valencia,Atletico Madrid,Valencia,1.86,3.56,4.53,Atletico Madrid,Atletico Madrid,0.504,N,2,0,Atletico Madrid,1.86
+314,laliga,2016-10-02,15:15,Eibar @ Real Madrid,Eibar,Real Madrid,24.11,11.01,1.11,Real Madrid,Real Madrid,0.641,N,1,1,Draw,11.01
+320,laliga,2016-10-02,17:30,Villarreal @ Espanyol,Villarreal,Espanyol,2.53,3.1,3.11,Villarreal,Espanyol,0.382,Y,0,0,Draw,3.1
+321,laliga,2016-10-02,17:30,Athletic Bilbao @ Malaga,Athletic Bilbao,Malaga,2.98,3.1,2.62,Malaga,Malaga,0.426,N,1,2,Malaga,2.62
+322,laliga,2016-10-02,19:45,FC Barcelona @ Celta Vigo,FC Barcelona,Celta Vigo,1.43,4.85,7.53,FC Barcelona,FC Barcelona,0.502,N,3,4,Celta Vigo,7.53
+327,laliga,2016-10-14,19:45,Espanyol @ Las Palmas,Espanyol,Las Palmas,4.36,3.59,1.88,Las Palmas,Las Palmas,0.445,N,0,0,Draw,3.59
+329,laliga,2016-10-15,12:00,FC Sevilla @ Leganes,FC Sevilla,Leganes,2.16,3.39,3.56,FC Sevilla,FC Sevilla,0.533,N,3,2,FC Sevilla,2.16
+342,laliga,2016-10-15,15:15,Deportivo @ FC Barcelona,Deportivo,FC Barcelona,22.86,9.81,1.12,FC Barcelona,FC Barcelona,0.643,N,0,4,FC Barcelona,1.12
+346,laliga,2016-10-15,17:30,Granada @ Atletico Madrid,Granada,Atletico Madrid,28.47,9.94,1.11,Atletico Madrid,Atletico Madrid,0.664,N,1,7,Atletico Madrid,1.11
+352,laliga,2016-10-15,19:45,Real Madrid @ Real Betis,Real Madrid,Real Betis,1.29,6.02,10.24,Real Madrid,Real Madrid,0.592,N,6,1,Real Madrid,1.29
+354,laliga,2016-10-16,11:00,Malaga @ Alaves,Malaga,Alaves,2.81,3.01,2.83,Malaga,Alaves,0.464,Y,1,1,Draw,3.01
+362,laliga,2016-10-16,15:15,Real Sociedad @ Athletic Bilbao,Real Sociedad,Athletic Bilbao,4.7,3.48,1.85,Athletic Bilbao,Athletic Bilbao,0.428,N,2,3,Athletic Bilbao,1.85
+366,laliga,2016-10-16,17:30,Valencia @ Sporting Gijon,Valencia,Sporting Gijon,2.23,3.41,3.37,Valencia,Sporting Gijon,0.444,Y,2,1,Valencia,2.23
+367,laliga,2016-10-16,19:45,Celta Vigo @ Villarreal,Celta Vigo,Villarreal,4.0,3.35,2.04,Villarreal,Villarreal,0.57,N,0,5,Villarreal,2.04
+369,laliga,2016-10-17,19:45,Osasuna @ Eibar,Osasuna,Eibar,5.98,4.0,1.61,Eibar,Eibar,0.62,N,3,2,Osasuna,5.98
+372,laliga,2016-10-21,19:45,Real Betis @ Osasuna,Real Betis,Osasuna,2.97,3.24,2.54,Osasuna,Real Betis,0.444,Y,2,1,Real Betis,2.97
+374,laliga,2016-10-22,12:00,Eibar @ Espanyol,Eibar,Espanyol,3.71,3.27,2.15,Espanyol,Espanyol,0.474,N,3,3,Draw,3.27
+386,laliga,2016-10-22,15:15,FC Barcelona @ Valencia,FC Barcelona,Valencia,1.37,5.57,7.83,FC Barcelona,FC Barcelona,0.592,N,3,2,FC Barcelona,1.37
+390,laliga,2016-10-22,17:30,Alaves @ Real Sociedad,Alaves,Real Sociedad,5.95,3.8,1.64,Real Sociedad,Real Sociedad,0.54,N,0,3,Real Sociedad,1.64
+397,laliga,2016-10-22,19:45,Sporting Gijon @ Granada,Sporting Gijon,Granada,3.31,3.29,2.31,Granada,Granada,0.442,N,0,0,Draw,3.29
+399,laliga,2016-10-23,11:00,Deportivo @ Celta Vigo,Deportivo,Celta Vigo,5.03,3.63,1.77,Celta Vigo,Celta Vigo,0.527,N,1,4,Celta Vigo,1.77
+409,laliga,2016-10-23,15:15,Atletico Madrid @ FC Sevilla,Atletico Madrid,FC Sevilla,1.99,3.51,3.97,Atletico Madrid,FC Sevilla,0.504,Y,0,1,FC Sevilla,3.97
+413,laliga,2016-10-23,17:30,Leganes @ Malaga,Leganes,Malaga,3.87,3.19,2.14,Malaga,Malaga,0.542,N,0,4,Malaga,2.14
+414,laliga,2016-10-23,17:30,Las Palmas @ Villarreal,Las Palmas,Villarreal,5.79,3.92,1.64,Villarreal,Villarreal,0.564,N,1,2,Villarreal,1.64
+415,laliga,2016-10-23,19:45,Athletic Bilbao @ Real Madrid,Athletic Bilbao,Real Madrid,14.82,7.66,1.19,Real Madrid,Real Madrid,0.624,N,1,2,Real Madrid,1.19
+429,laliga,2016-10-28,19:45,Real Sociedad @ Leganes,Real Sociedad,Leganes,2.87,3.12,2.7,Leganes,Real Sociedad,0.477,Y,2,0,Real Sociedad,2.87
+431,laliga,2016-10-29,12:00,FC Sevilla @ Sporting Gijon,FC Sevilla,Sporting Gijon,1.86,3.64,4.42,FC Sevilla,FC Sevilla,0.584,N,1,1,Draw,3.64
+442,laliga,2016-10-29,15:15,Real Madrid @ Alaves,Real Madrid,Alaves,1.2,7.22,14.72,Real Madrid,Real Madrid,0.539,N,4,1,Real Madrid,1.2
+446,laliga,2016-10-29,17:30,Malaga @ Atletico Madrid,Malaga,Atletico Madrid,14.91,6.29,1.23,Atletico Madrid,Atletico Madrid,0.553,N,2,4,Atletico Madrid,1.23
+453,laliga,2016-10-29,19:45,Granada @ FC Barcelona,Granada,FC Barcelona,42.42,19.24,1.04,FC Barcelona,FC Barcelona,0.682,N,0,1,FC Barcelona,1.04
+455,laliga,2016-10-30,11:00,Villarreal @ Eibar,Villarreal,Eibar,2.54,3.11,3.09,Villarreal,Eibar,0.376,Y,1,2,Eibar,3.09
+464,laliga,2016-10-30,15:15,Osasuna @ Athletic Bilbao,Osasuna,Athletic Bilbao,8.49,4.63,1.42,Athletic Bilbao,Athletic Bilbao,0.635,N,1,1,Draw,4.63
+468,laliga,2016-10-30,17:30,Espanyol @ Real Betis,Espanyol,Real Betis,3.6,3.33,2.17,Real Betis,Real Betis,0.391,N,1,0,Espanyol,3.6
+469,laliga,2016-10-30,19:45,Celta Vigo @ Las Palmas,Celta Vigo,Las Palmas,3.14,3.53,2.28,Las Palmas,Las Palmas,0.477,N,3,3,Draw,3.53
+473,laliga,2016-10-31,19:45,Valencia @ Deportivo,Valencia,Deportivo,2.5,3.3,2.96,Valencia,Deportivo,0.509,Y,1,1,Draw,3.3
+477,laliga,2016-11-04,19:45,Sporting Gijon @ Malaga,Sporting Gijon,Malaga,5.6,3.74,1.69,Malaga,Malaga,0.593,N,2,3,Malaga,1.69
+479,laliga,2016-11-05,12:00,Deportivo @ Granada,Deportivo,Granada,2.87,3.14,2.69,Granada,Granada,0.375,N,1,1,Draw,3.14
+489,laliga,2016-11-05,15:15,Atletico Madrid @ Real Sociedad,Atletico Madrid,Real Sociedad,1.66,3.84,5.72,Atletico Madrid,Real Sociedad,0.452,Y,0,2,Real Sociedad,5.72
+493,laliga,2016-11-05,17:30,Alaves @ Osasuna,Alaves,Osasuna,3.19,3.1,2.5,Osasuna,Alaves,0.507,Y,1,0,Alaves,3.19
+500,laliga,2016-11-05,19:45,Eibar @ Las Palmas,Eibar,Las Palmas,3.96,3.64,1.95,Las Palmas,Las Palmas,0.452,N,0,1,Las Palmas,1.95
+502,laliga,2016-11-06,11:00,Leganes @ Real Madrid,Leganes,Real Madrid,25.86,12.68,1.09,Real Madrid,Real Madrid,0.677,N,0,3,Real Madrid,1.09
+513,laliga,2016-11-06,15:15,Athletic Bilbao @ Espanyol,Athletic Bilbao,Espanyol,2.9,3.2,2.62,Espanyol,Espanyol,0.447,N,0,0,Draw,3.2
+514,laliga,2016-11-06,15:15,Valencia @ Celta Vigo,Valencia,Celta Vigo,3.13,3.48,2.32,Celta Vigo,Celta Vigo,0.565,N,1,2,Celta Vigo,2.32
+520,laliga,2016-11-06,17:30,Real Betis @ Villarreal,Real Betis,Villarreal,6.19,3.92,1.61,Villarreal,Villarreal,0.604,N,0,2,Villarreal,1.61

@@ -1,0 +1,30 @@
+ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+27,2016-12-31,16:00:00,premier-league,West Bromwich Albion FC @ Southampton FC,West Bromwich Albion FC,Southampton FC,5.41,3.54,1.75,Southampton FC,Southampton FC,0.479,N,Upcoming
+28,2016-12-31,16:00:00,premier-league,Sunderland @ Burnley FC,Sunderland,Burnley FC,3.24,3.23,2.39,Burnley FC,Burnley FC,0.54,N,Upcoming
+29,2016-12-31,16:00:00,premier-league,Bournemouth AFC @ Swansea City,Bournemouth AFC,Swansea City,2.56,3.4,2.84,Bournemouth AFC,Bournemouth AFC,0.4,N,Upcoming
+30,2016-12-31,16:00:00,premier-league,Stoke City FC @ Chelsea,Stoke City FC,Chelsea,12.28,5.91,1.27,Chelsea,Chelsea,0.668,N,Upcoming
+31,2016-12-31,16:00:00,premier-league,West Ham United @ Leicester City,West Ham United,Leicester City,3.67,3.53,2.07,Leicester City,Leicester City,0.418,N,Upcoming
+32,2016-12-31,16:00:00,premier-league,Middlesbrough FC @ Manchester United FC,Middlesbrough FC,Manchester United FC,14.85,5.81,1.25,Manchester United FC,Manchester United FC,0.614,N,Upcoming
+33,2016-12-31,18:30:00,premier-league,Manchester City @ Liverpool,Manchester City,Liverpool,3.05,3.49,2.36,Liverpool,Liverpool,0.495,N,Upcoming
+34,2017-01-01,14:30:00,premier-league,Tottenham Hotspur @ Watford FC,Tottenham Hotspur,Watford FC,1.67,3.84,5.46,Tottenham Hotspur,Tottenham Hotspur,0.492,N,Upcoming
+35,2017-01-01,17:00:00,premier-league,Crystal Palace FC @ Arsenal,Crystal Palace FC,Arsenal,9.53,5.51,1.33,Arsenal,Arsenal,0.662,N,Upcoming
+36,2017-01-02,13:30:00,premier-league,Leicester City @ Middlesbrough FC,Leicester City,Middlesbrough FC,2.83,3.08,2.73,Middlesbrough FC,Middlesbrough FC,0.488,N,Upcoming
+37,2017-01-02,16:00:00,premier-league,Burnley FC @ Manchester City,Burnley FC,Manchester City,18.2,8.1,1.16,Manchester City,Manchester City,0.647,N,Upcoming
+38,2017-01-02,16:00:00,premier-league,Liverpool @ Sunderland,Liverpool,Sunderland,1.38,5.04,8.36,Liverpool,Liverpool,0.623,N,Upcoming
+39,2017-01-02,16:00:00,premier-league,Hull City AFC @ West Bromwich Albion FC,Hull City AFC,West Bromwich Albion FC,5.11,3.57,1.76,West Bromwich Albion FC,West Bromwich Albion FC,0.598,N,Upcoming
+40,2017-01-02,16:00:00,premier-league,Southampton FC @ Everton,Southampton FC,Everton,3.33,3.28,2.28,Everton,Everton,0.485,N,Upcoming
+41,2017-01-02,18:15:00,premier-league,Manchester United FC @ West Ham United,Manchester United FC,West Ham United,1.66,3.92,5.41,Manchester United FC,Manchester United FC,0.427,N,Upcoming
+42,2017-01-03,20:45:00,premier-league,Arsenal @ Bournemouth AFC,Arsenal,Bournemouth AFC,1.81,3.77,4.43,Arsenal,Arsenal,0.504,N,Upcoming
+43,2017-01-03,21:00:00,premier-league,Watford FC @ Stoke City FC,Watford FC,Stoke City FC,4.18,3.49,1.93,Stoke City FC,Stoke City FC,0.462,N,Upcoming
+44,2017-01-03,21:00:00,premier-league,Swansea City @ Crystal Palace FC,Swansea City,Crystal Palace FC,4.62,3.62,1.81,Crystal Palace FC,Crystal Palace FC,0.528,N,Upcoming
+45,2017-01-04,21:00:00,premier-league,Chelsea @ Tottenham Hotspur,Chelsea,Tottenham Hotspur,2.53,3.31,2.88,Chelsea,Chelsea,0.406,N,Upcoming
+46,2017-01-14,13:30:00,premier-league,West Bromwich Albion FC @ Tottenham Hotspur,West Bromwich Albion FC,Tottenham Hotspur,8.22,5.0,1.4,Tottenham Hotspur,Tottenham Hotspur,0.603,N,Upcoming
+47,2017-01-14,16:00:00,premier-league,Arsenal @ Swansea City,Arsenal,Swansea City,1.43,4.82,8.12,Arsenal,Arsenal,0.608,N,Upcoming
+48,2017-01-14,16:00:00,premier-league,Stoke City FC @ Sunderland,Stoke City FC,Sunderland,2.56,3.33,2.86,Stoke City FC,Stoke City FC,0.398,N,Upcoming
+49,2017-01-14,16:00:00,premier-league,Crystal Palace FC @ West Ham United,Crystal Palace FC,West Ham United,3.37,3.39,2.23,West Ham United,West Ham United,0.522,N,Upcoming
+50,2017-01-14,16:00:00,premier-league,Bournemouth AFC @ Hull City AFC,Bournemouth AFC,Hull City AFC,2.39,3.43,3.02,Bournemouth AFC,Bournemouth AFC,0.42,N,Upcoming
+51,2017-01-14,16:00:00,premier-league,Southampton FC @ Burnley FC,Southampton FC,Burnley FC,2.1,3.47,3.75,Southampton FC,Burnley FC,0.398,Y,Upcoming
+52,2017-01-14,16:00:00,premier-league,Middlesbrough FC @ Watford FC,Middlesbrough FC,Watford FC,3.27,3.32,2.31,Watford FC,Watford FC,0.499,N,Upcoming
+53,2017-01-14,18:30:00,premier-league,Chelsea @ Leicester City,Chelsea,Leicester City,1.65,4.09,5.53,Chelsea,Chelsea,0.65,N,Upcoming
+54,2017-01-15,14:30:00,premier-league,Manchester City @ Everton,Manchester City,Everton,1.89,3.68,4.17,Manchester City,Manchester City,0.455,N,Upcoming
+55,2017-01-15,17:00:00,premier-league,Liverpool @ Manchester United FC,Liverpool,Manchester United FC,3.48,3.41,2.18,Manchester United FC,Manchester United FC,0.376,N,Upcoming

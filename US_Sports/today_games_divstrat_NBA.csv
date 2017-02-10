@@ -1,0 +1,8 @@
+,ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+5,5,2016-12-28,21:00:00,NBA,Los Angeles Clippers @ New Orleans Pelicans,Los Angeles Clippers,New Orleans Pelicans,2.63,1.5,New Orleans Pelicans,Los Angeles Clippers,0.734,Y,Upcoming
+8,8,2016-12-28,23:00:00,NBA,Sacramento Kings @ Portland Trail Blazers,Sacramento Kings,Portland Trail Blazers,1.84,1.98,Sacramento Kings,Portland Trail Blazers,0.601,Y,Upcoming
+10,10,2016-12-29,20:00:00,NBA,Miami Heat @ Charlotte Hornets,Miami Heat,Charlotte Hornets,1.9,1.9,Miami Heat,Charlotte Hornets,0.78,Y,Upcoming
+11,11,2016-12-29,21:00:00,NBA,Boston Celtics @ Cleveland Cavaliers,Boston Celtics,Cleveland Cavaliers,1.92,1.92,Boston Celtics,Cleveland Cavaliers,0.825,Y,Upcoming
+12,12,2016-12-29,21:00:00,NBA,Oklahoma City Thunder @ Memphis Grizzlies,Oklahoma City Thunder,Memphis Grizzlies,1.9,1.9,Oklahoma City Thunder,Memphis Grizzlies,0.556,Y,Upcoming
+14,14,2016-12-29,22:00:00,NBA,Philadelphia 76ers @ Utah Jazz,Philadelphia 76ers,Utah Jazz,1.9,1.9,Philadelphia 76ers,Utah Jazz,0.93,Y,Upcoming
+15,15,2016-12-29,23:30:00,NBA,Dallas Mavericks @ Los Angeles Lakers,Dallas Mavericks,Los Angeles Lakers,1.92,1.92,Dallas Mavericks,Los Angeles Lakers,0.635,Y,Upcoming

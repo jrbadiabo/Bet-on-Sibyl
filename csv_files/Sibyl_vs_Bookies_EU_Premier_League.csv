@@ -1,0 +1,69 @@
+ID,League,Date,Time,Matchup_EU_P,Home_Team,Visitor_Team,Home_Odd,Draw_Odd,Visitor_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,Home_Team_PTS,Visi_Team_PTS,True_Result,Winner_Odd
+1,premier-league,2016-08-13,15:00,Everton vs Tottenham,Everton,Tottenham,3.55,3.4,2.19,Tottenham,Everton,0.385,Y,1,1,Draw,3.4
+2,premier-league,2016-08-13,15:00,Burnley vs Swansea City,Burnley,Swansea City,2.77,3.15,2.82,Burnley,Burnley,0.577,N,0,1,Swansea City,2.82
+3,premier-league,2016-08-13,15:00,Crystal Palace vs West Bromwich,Crystal Palace,West Bromwich,2.17,3.17,3.91,Crystal Palace,Crystal Palace,0.385,N,0,1,West Bromwich,3.91
+4,premier-league,2016-08-13,15:00,Southampton vs Watford,Southampton,Watford,1.79,3.71,4.86,Southampton,Southampton,0.427,N,1,1,Draw,3.71
+5,premier-league,2016-08-13,15:00,Middlesbrough vs Stoke City,Middlesbrough,Stoke City,2.24,3.25,3.61,Middlesbrough,Middlesbrough,0.449,N,1,1,Draw,3.25
+7,premier-league,2016-08-13,17:30,Manchester City vs Sunderland,Manchester City,Sunderland,1.24,6.44,14.1,Manchester City,Manchester City,0.647,N,2,1,Manchester City,1.24
+12,premier-league,2016-08-14,13:30,Bournemouth vs Manchester Utd,Bournemouth,Manchester Utd,5.3,3.62,1.76,Manchester Utd,Bournemouth,0.406,Y,1,3,Manchester Utd,1.76
+14,premier-league,2016-08-14,16:00,Arsenal vs Liverpool,Arsenal,Liverpool,2.74,3.36,2.71,Liverpool,Arsenal,0.437,Y,3,4,Liverpool,2.71
+17,premier-league,2016-08-15,20:00,Chelsea vs West Ham Utd,Chelsea,West Ham Utd,1.51,4.32,7.01,Chelsea,Chelsea,0.639,N,2,1,Chelsea,1.51
+19,premier-league,2016-08-19,20:00,Manchester Utd vs Southampton,Manchester Utd,Southampton,1.53,4.18,7.25,Manchester Utd,Manchester Utd,0.526,N,2,0,Manchester Utd,1.53
+21,premier-league,2016-08-20,12:30,Stoke City vs Manchester City,Stoke City,Manchester City,6.3,4.22,1.57,Manchester City,Manchester City,0.526,N,1,4,Manchester City,1.57
+22,premier-league,2016-08-20,15:00,West Bromwich vs Everton,West Bromwich,Everton,3.01,3.15,2.6,Everton,West Bromwich,0.428,Y,1,2,Everton,2.6
+23,premier-league,2016-08-20,15:00,Burnley vs Liverpool,Burnley,Liverpool,6.96,4.33,1.52,Liverpool,Liverpool,0.517,N,2,0,Burnley,6.96
+24,premier-league,2016-08-20,15:00,Swansea City vs Hull City,Swansea City,Hull City,1.84,3.48,4.92,Swansea City,Swansea City,0.418,N,0,2,Hull City,4.92
+25,premier-league,2016-08-20,15:00,Watford vs Chelsea,Watford,Chelsea,5.92,3.84,1.66,Chelsea,Chelsea,0.466,N,1,2,Chelsea,1.66
+26,premier-league,2016-08-20,15:00,Tottenham vs Crystal Palace,Tottenham,Crystal Palace,1.45,4.57,7.91,Tottenham,Tottenham,0.612,N,1,0,Tottenham,1.45
+29,premier-league,2016-08-20,17:30,Leicester City vs Arsenal,Leicester City,Arsenal,2.78,3.5,2.59,Arsenal,Arsenal,0.513,N,0,0,Draw,3.5
+38,premier-league,2016-08-21,13:30,Sunderland vs Middlesbrough,Sunderland,Middlesbrough,2.74,3.07,2.94,Sunderland,Sunderland,0.408,N,1,2,Middlesbrough,2.94
+40,premier-league,2016-08-21,16:00,West Ham Utd vs Bournemouth,West Ham Utd,Bournemouth,2.43,3.28,3.18,West Ham Utd,West Ham Utd,0.395,N,1,0,West Ham Utd,2.43
+63,premier-league,2016-08-27,15:00,Everton vs Stoke City,Everton,Stoke City,1.67,4.04,5.36,Everton,Everton,0.543,N,1,0,Everton,1.67
+64,premier-league,2016-08-27,15:00,Leicester City vs Swansea City,Leicester City,Swansea City,1.68,3.95,5.45,Leicester City,Leicester City,0.547,N,2,1,Leicester City,1.68
+65,premier-league,2016-08-27,15:00,Watford vs Arsenal,Watford,Arsenal,5.82,4.02,1.64,Arsenal,Arsenal,0.403,N,1,3,Arsenal,1.64
+66,premier-league,2016-08-27,15:00,Crystal Palace vs Bournemouth,Crystal Palace,Bournemouth,2.25,3.26,3.55,Crystal Palace,Crystal Palace,0.403,N,1,1,Draw,3.26
+67,premier-league,2016-08-27,15:00,Southampton vs Sunderland,Southampton,Sunderland,1.47,4.56,7.42,Southampton,Southampton,0.559,N,1,1,Draw,4.56
+68,premier-league,2016-08-27,15:00,Chelsea vs Burnley,Chelsea,Burnley,1.24,6.25,14.64,Chelsea,Chelsea,0.595,N,3,0,Chelsea,1.24
+74,premier-league,2016-08-27,17:30,Hull City vs Manchester Utd,Hull City,Manchester Utd,8.56,4.48,1.44,Manchester Utd,Manchester Utd,0.466,N,0,1,Manchester Utd,1.44
+83,premier-league,2016-08-28,13:30,West Bromwich vs Middlesbrough,West Bromwich,Middlesbrough,2.61,3.07,3.08,West Bromwich,West Bromwich,0.527,N,0,0,Draw,3.07
+86,premier-league,2016-08-28,16:00,Manchester City vs West Ham Utd,Manchester City,West Ham Utd,1.27,6.37,11.8,Manchester City,Manchester City,0.648,N,3,1,Manchester City,1.27
+103,premier-league,2016-09-10,12:30,Manchester Utd vs Manchester City,Manchester Utd,Manchester City,2.41,3.09,3.39,Manchester Utd,Manchester City,0.416,Y,1,2,Manchester City,3.39
+110,premier-league,2016-09-10,15:00,Arsenal vs Southampton,Arsenal,Southampton,1.62,4.01,6.05,Arsenal,Arsenal,0.591,N,2,1,Arsenal,1.62
+111,premier-league,2016-09-10,15:00,Burnley vs Hull City,Burnley,Hull City,2.57,3.11,3.11,Burnley,Burnley,0.533,N,1,1,Draw,3.11
+112,premier-league,2016-09-10,15:00,Middlesbrough vs Crystal Palace,Middlesbrough,Crystal Palace,2.4,3.16,3.32,Middlesbrough,Middlesbrough,0.483,N,1,2,Crystal Palace,3.32
+113,premier-league,2016-09-10,15:00,Stoke City vs Tottenham,Stoke City,Tottenham,4.18,3.62,1.93,Tottenham,Tottenham,0.498,N,0,4,Tottenham,1.93
+114,premier-league,2016-09-10,15:00,Bournemouth vs West Bromwich,Bournemouth,West Bromwich,2.11,3.18,4.07,Bournemouth,Bournemouth,0.45,N,1,0,Bournemouth,2.11
+115,premier-league,2016-09-10,15:00,West Ham Utd vs Watford,West Ham Utd,Watford,1.88,3.61,4.44,West Ham Utd,Watford,0.399,Y,2,4,Watford,4.44
+121,premier-league,2016-09-10,17:30,Liverpool vs Leicester City,Liverpool,Leicester City,1.68,4.02,5.37,Liverpool,Liverpool,0.644,N,4,1,Liverpool,1.68
+138,premier-league,2016-09-11,16:00,Swansea City vs Chelsea,Swansea City,Chelsea,6.31,4.17,1.58,Chelsea,Chelsea,0.643,N,2,2,Draw,4.17
+145,premier-league,2016-09-12,20:00,Sunderland vs Everton,Sunderland,Everton,3.67,3.41,2.14,Everton,Everton,0.492,N,0,3,Everton,2.14
+149,premier-league,2016-09-16,20:00,Chelsea vs Liverpool,Chelsea,Liverpool,2.18,3.51,3.44,Chelsea,Chelsea,0.46,N,1,2,Liverpool,3.44
+156,premier-league,2016-09-17,15:00,Leicester City vs Burnley,Leicester City,Burnley,1.48,4.47,7.61,Leicester City,Leicester City,0.436,N,3,0,Leicester City,1.48
+157,premier-league,2016-09-17,15:00,Manchester City vs Bournemouth,Manchester City,Bournemouth,1.25,6.63,12.5,Manchester City,Manchester City,0.602,N,4,0,Manchester City,1.25
+158,premier-league,2016-09-17,15:00,West Bromwich vs West Ham Utd,West Bromwich,West Ham Utd,2.83,3.21,2.72,West Ham Utd,West Bromwich,0.552,Y,4,2,West Bromwich,2.83
+159,premier-league,2016-09-17,15:00,Hull City vs Arsenal,Hull City,Arsenal,5.93,4.08,1.62,Arsenal,Arsenal,0.567,N,1,4,Arsenal,1.62
+165,premier-league,2016-09-17,17:30,Everton vs Middlesbrough,Everton,Middlesbrough,1.63,3.88,6.11,Everton,Everton,0.555,N,3,1,Everton,1.63
+175,premier-league,2016-09-18,12:00,Watford vs Manchester Utd,Watford,Manchester Utd,6.43,4.2,1.56,Manchester Utd,Watford,0.442,Y,3,1,Watford,6.43
+181,premier-league,2016-09-18,14:15,Crystal Palace vs Stoke City,Crystal Palace,Stoke City,2.09,3.4,3.82,Crystal Palace,Crystal Palace,0.432,N,4,1,Crystal Palace,2.09
+182,premier-league,2016-09-18,14:15,Southampton vs Swansea City,Southampton,Swansea City,1.67,3.88,5.68,Southampton,Southampton,0.583,N,1,0,Southampton,1.67
+186,premier-league,2016-09-18,16:30,Tottenham vs Sunderland,Tottenham,Sunderland,1.33,5.52,10.18,Tottenham,Tottenham,0.63,N,1,0,Tottenham,1.33
+235,premier-league,2016-09-24,12:30,Manchester Utd vs Leicester City,Manchester Utd,Leicester City,1.69,3.9,5.47,Manchester Utd,Manchester Utd,0.564,N,4,1,Manchester Utd,1.69
+240,premier-league,2016-09-24,15:00,Swansea City vs Manchester City,Swansea City,Manchester City,9.02,5.68,1.34,Manchester City,Manchester City,0.623,N,1,3,Manchester City,1.34
+241,premier-league,2016-09-24,15:00,Stoke City vs West Bromwich,Stoke City,West Bromwich,2.29,3.31,3.39,Stoke City,Stoke City,0.42,N,1,1,Draw,3.31
+242,premier-league,2016-09-24,15:00,Liverpool vs Hull City,Liverpool,Hull City,1.24,6.65,12.88,Liverpool,Liverpool,0.654,N,5,1,Liverpool,1.24
+243,premier-league,2016-09-24,15:00,Sunderland vs Crystal Palace,Sunderland,Crystal Palace,2.58,3.24,2.97,Sunderland,Sunderland,0.424,N,2,3,Crystal Palace,2.97
+244,premier-league,2016-09-24,15:00,Bournemouth vs Everton,Bournemouth,Everton,3.35,3.45,2.25,Everton,Bournemouth,0.41,Y,1,0,Bournemouth,3.35
+245,premier-league,2016-09-24,15:00,Middlesbrough vs Tottenham,Middlesbrough,Tottenham,3.92,3.4,2.06,Tottenham,Tottenham,0.527,N,1,2,Tottenham,2.06
+251,premier-league,2016-09-24,17:30,Arsenal vs Chelsea,Arsenal,Chelsea,2.42,3.44,3.05,Arsenal,Arsenal,0.44,N,3,0,Arsenal,2.42
+268,premier-league,2016-09-25,16:00,West Ham Utd vs Southampton,West Ham Utd,Southampton,3.04,3.39,2.45,Southampton,West Ham Utd,0.399,Y,0,3,Southampton,2.45
+278,premier-league,2016-09-26,20:00,Burnley vs Watford,Burnley,Watford,3.3,3.16,2.42,Watford,Burnley,0.413,Y,2,0,Burnley,3.3
+282,premier-league,2016-09-30,20:00,Everton vs Crystal Palace,Everton,Crystal Palace,1.73,3.89,5.14,Everton,Everton,0.568,N,1,1,Draw,3.89
+284,premier-league,2016-10-01,12:30,Swansea City vs Liverpool,Swansea City,Liverpool,7.29,4.98,1.44,Liverpool,Liverpool,0.613,N,1,2,Liverpool,1.44
+288,premier-league,2016-10-01,15:00,West Ham Utd vs Middlesbrough,West Ham Utd,Middlesbrough,2.04,3.43,3.98,West Ham Utd,West Ham Utd,0.442,N,1,1,Draw,3.43
+289,premier-league,2016-10-01,15:00,Hull City vs Chelsea,Hull City,Chelsea,7.57,4.74,1.45,Chelsea,Chelsea,0.614,N,0,2,Chelsea,1.45
+290,premier-league,2016-10-01,15:00,Watford vs Bournemouth,Watford,Bournemouth,2.47,3.27,3.09,Watford,Watford,0.5,N,2,2,Draw,3.27
+291,premier-league,2016-10-01,15:00,Sunderland vs West Bromwich,Sunderland,West Bromwich,2.5,3.15,3.15,Sunderland,West Bromwich,0.434,Y,1,1,Draw,3.15
+305,premier-league,2016-10-02,12:00,Manchester Utd vs Stoke City,Manchester Utd,Stoke City,1.3,5.65,11.54,Manchester Utd,Manchester Utd,0.548,N,1,1,Draw,5.65
+311,premier-league,2016-10-02,14:15,Tottenham vs Manchester City,Tottenham,Manchester City,3.02,3.41,2.44,Manchester City,Tottenham,0.434,Y,2,0,Tottenham,3.02
+312,premier-league,2016-10-02,14:15,Leicester City vs Southampton,Leicester City,Southampton,2.5,3.29,3.03,Leicester City,Leicester City,0.423,N,0,0,Draw,3.29
+315,premier-league,2016-10-02,16:30,Burnley vs Arsenal,Burnley,Arsenal,9.53,5.28,1.35,Arsenal,Arsenal,0.499,N,0,1,Arsenal,1.35

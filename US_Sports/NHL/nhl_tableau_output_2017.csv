@@ -1,0 +1,1230 @@
+ID,Visitor_Team,V_Team_PTS,Home_Team,H_Team_PTS,True_Result,Predicted_Result,Confidence,Date
+0,St. Louis Blues,5,Chicago Blackhawks,2,0,1,0.628254073875,2016-10-12
+1,Calgary Flames,4,Edmonton Oilers,7,1,1,0.604758940637,2016-10-12
+2,Toronto Maple Leafs,4,Ottawa Senators,5,1,1,0.644851119557,2016-10-12
+3,Los Angeles Kings,1,San Jose Sharks,2,1,1,0.618114957127,2016-10-12
+4,Montreal Canadiens,4,Buffalo Sabres,1,0,0,0.700104631813,2016-10-13
+5,Boston Bruins,6,Columbus Blue Jackets,3,0,1,0.712751962865,2016-10-13
+6,Anaheim Ducks,2,Dallas Stars,4,1,0,0.556185776215,2016-10-13
+7,New Jersey Devils,1,Florida Panthers,2,1,1,0.606750901338,2016-10-13
+8,New York Islanders,3,New York Rangers,5,1,1,0.767774085039,2016-10-13
+9,Washington Capitals,2,Pittsburgh Penguins,3,1,1,0.56471196146,2016-10-13
+10,Minnesota Wild,2,St. Louis Blues,3,1,0,0.563504194225,2016-10-13
+11,Detroit Red Wings,4,Tampa Bay Lightning,6,1,1,0.622948708547,2016-10-13
+12,Carolina Hurricanes,4,Winnipeg Jets,5,1,0,0.506459977369,2016-10-13
+13,Edmonton Oilers,5,Calgary Flames,3,0,1,0.501422008884,2016-10-14
+14,Philadelphia Flyers,4,Los Angeles Kings,2,0,1,0.584163590317,2016-10-14
+15,Chicago Blackhawks,2,Nashville Predators,3,1,0,0.601715747373,2016-10-14
+16,Philadelphia Flyers,3,Arizona Coyotes,4,1,0,0.629077755935,2016-10-15
+17,San Jose Sharks,3,Columbus Blue Jackets,2,0,1,0.656263053055,2016-10-15
+18,Nashville Predators,3,Chicago Blackhawks,5,1,1,0.699231567316,2016-10-15
+19,Dallas Stars,5,Colorado Avalanche,6,1,0,0.537954738475,2016-10-15
+20,Detroit Red Wings,1,Florida Panthers,4,1,1,0.577581895653,2016-10-15
+21,Winnipeg Jets,3,Minnesota Wild,4,1,1,0.745782876154,2016-10-15
+22,Montreal Canadiens,3,Ottawa Senators,4,1,0,0.564623040822,2016-10-15
+23,Anaheim Ducks,2,Pittsburgh Penguins,3,1,1,0.667925135727,2016-10-15
+24,New York Rangers,2,St. Louis Blues,3,1,0,0.597705039193,2016-10-15
+25,New Jersey Devils,2,Tampa Bay Lightning,3,1,1,0.650878589869,2016-10-15
+26,Boston Bruins,1,Toronto Maple Leafs,4,1,0,0.549687439738,2016-10-15
+27,Calgary Flames,1,Vancouver Canucks,2,1,0,0.524703186239,2016-10-15
+28,New York Islanders,1,Washington Capitals,2,1,1,0.714334018575,2016-10-15
+29,Buffalo Sabres,6,Edmonton Oilers,2,0,1,0.673974871392,2016-10-16
+30,Anaheim Ducks,2,New York Islanders,3,1,0,0.511747207461,2016-10-16
+31,Carolina Hurricanes,3,Vancouver Canucks,4,1,0,0.538406272063,2016-10-16
+32,Ottawa Senators,1,Detroit Red Wings,5,1,0,0.557080494982,2016-10-17
+33,San Jose Sharks,4,New York Rangers,7,1,1,0.610027650048,2016-10-17
+34,Colorado Avalanche,4,Pittsburgh Penguins,3,0,1,0.818712032565,2016-10-17
+35,Boston Bruins,4,Winnipeg Jets,1,0,0,0.572417099406,2016-10-17
+36,Buffalo Sabres,3,Calgary Flames,4,1,1,0.62630449393,2016-10-18
+37,Philadelphia Flyers,4,Chicago Blackhawks,7,1,1,0.63079999749,2016-10-18
+38,Carolina Hurricanes,2,Edmonton Oilers,3,1,1,0.591531235236,2016-10-18
+39,Los Angeles Kings,3,Minnesota Wild,6,1,1,0.639445064982,2016-10-18
+40,Pittsburgh Penguins,0,Montreal Canadiens,4,1,1,0.598077602145,2016-10-18
+41,Anaheim Ducks,1,New Jersey Devils,2,1,0,0.540000402715,2016-10-18
+42,Dallas Stars,2,Nashville Predators,1,0,1,0.6092482798,2016-10-18
+43,San Jose Sharks,3,New York Islanders,2,0,0,0.630146500097,2016-10-18
+44,Arizona Coyotes,4,Ottawa Senators,7,1,1,0.741476399582,2016-10-18
+45,Florida Panthers,3,Tampa Bay Lightning,4,1,1,0.599825810051,2016-10-18
+46,St. Louis Blues,1,Vancouver Canucks,2,1,0,0.575029975942,2016-10-18
+47,Colorado Avalanche,0,Washington Capitals,3,1,1,0.811968020176,2016-10-18
+48,Detroit Red Wings,2,New York Rangers,1,0,1,0.766438891941,2016-10-19
+49,Toronto Maple Leafs,4,Winnipeg Jets,5,1,1,0.530760911851,2016-10-19
+50,New Jersey Devils,1,Boston Bruins,2,1,1,0.693197748704,2016-10-20
+51,Carolina Hurricanes,4,Calgary Flames,2,0,1,0.540033130717,2016-10-20
+52,Los Angeles Kings,4,Dallas Stars,3,0,0,0.609568887177,2016-10-20
+53,St. Louis Blues,1,Edmonton Oilers,3,1,1,0.555229668244,2016-10-20
+54,Washington Capitals,4,Florida Panthers,2,0,0,0.594039049514,2016-10-20
+55,Toronto Maple Leafs,2,Minnesota Wild,3,1,1,0.727888102392,2016-10-20
+56,Arizona Coyotes,2,Montreal Canadiens,5,1,1,0.82187657247,2016-10-20
+57,Anaheim Ducks,3,Philadelphia Flyers,2,0,1,0.577113983077,2016-10-20
+58,San Jose Sharks,2,Pittsburgh Penguins,3,1,1,0.553041620928,2016-10-20
+59,Colorado Avalanche,4,Tampa Bay Lightning,0,0,1,0.741902049359,2016-10-20
+60,Buffalo Sabres,1,Vancouver Canucks,2,1,1,0.550326760292,2016-10-20
+61,Chicago Blackhawks,2,Columbus Blue Jackets,3,1,1,0.671938907414,2016-10-21
+62,Nashville Predators,3,Detroit Red Wings,5,1,1,0.543152650653,2016-10-21
+63,Arizona Coyotes,2,New York Islanders,3,1,1,0.645965092643,2016-10-21
+64,Montreal Canadiens,4,Boston Bruins,2,0,0,0.556260355603,2016-10-22
+65,St. Louis Blues,6,Calgary Flames,4,0,1,0.503000161701,2016-10-22
+66,Toronto Maple Leafs,4,Chicago Blackhawks,5,1,1,0.694713713353,2016-10-22
+67,Columbus Blue Jackets,3,Dallas Stars,0,0,0,0.758178344106,2016-10-22
+68,San Jose Sharks,0,Detroit Red Wings,3,1,0,0.628402992521,2016-10-22
+69,Colorado Avalanche,2,Florida Panthers,5,1,1,0.704048103635,2016-10-22
+70,Vancouver Canucks,3,Los Angeles Kings,4,1,1,0.699913800576,2016-10-22
+71,Minnesota Wild,1,New Jersey Devils,2,1,0,0.676469440958,2016-10-22
+72,Pittsburgh Penguins,1,Nashville Predators,5,1,0,0.617832518102,2016-10-22
+73,Tampa Bay Lightning,4,Ottawa Senators,1,0,1,0.592370094928,2016-10-22
+74,Carolina Hurricanes,3,Philadelphia Flyers,6,1,1,0.587361845803,2016-10-22
+75,New York Rangers,4,Washington Capitals,2,0,0,0.515931195859,2016-10-22
+76,Vancouver Canucks,2,Anaheim Ducks,4,1,1,0.651827817806,2016-10-23
+77,Minnesota Wild,3,New York Islanders,6,1,0,0.651183824272,2016-10-23
+78,Arizona Coyotes,2,New York Rangers,3,1,1,0.829434357061,2016-10-23
+79,Edmonton Oilers,3,Winnipeg Jets,0,0,0,0.545034951378,2016-10-23
+80,Calgary Flames,3,Chicago Blackhawks,2,0,1,0.67441987982,2016-10-24
+81,Philadelphia Flyers,1,Montreal Canadiens,3,1,1,0.686829869852,2016-10-24
+82,Minnesota Wild,5,Boston Bruins,0,0,0,0.534443576701,2016-10-25
+83,Winnipeg Jets,2,Dallas Stars,3,1,1,0.514443226853,2016-10-25
+84,Carolina Hurricanes,2,Detroit Red Wings,4,1,1,0.500652259438,2016-10-25
+85,Columbus Blue Jackets,2,Los Angeles Kings,3,1,0,0.61815079705,2016-10-25
+86,Arizona Coyotes,3,New Jersey Devils,5,1,1,0.619635914399,2016-10-25
+87,Buffalo Sabres,3,Philadelphia Flyers,4,1,1,0.670177798027,2016-10-25
+88,Florida Panthers,2,Pittsburgh Penguins,3,1,1,0.701930345375,2016-10-25
+89,Anaheim Ducks,1,San Jose Sharks,2,1,1,0.668488997108,2016-10-25
+90,Calgary Flames,4,St. Louis Blues,1,0,1,0.603249040899,2016-10-25
+91,Tampa Bay Lightning,7,Toronto Maple Leafs,3,0,0,0.50179983917,2016-10-25
+92,Ottawa Senators,3,Vancouver Canucks,0,0,0,0.595285450076,2016-10-25
+93,Nashville Predators,1,Anaheim Ducks,6,1,1,0.605414142461,2016-10-26
+94,Washington Capitals,1,Edmonton Oilers,4,1,0,0.527557462744,2016-10-26
+95,Montreal Canadiens,3,New York Islanders,2,0,0,0.670898686958,2016-10-26
+96,Boston Bruins,2,New York Rangers,5,1,1,0.670297478789,2016-10-26
+97,Minnesota Wild,4,Buffalo Sabres,0,0,0,0.681308263252,2016-10-27
+98,Nashville Predators,2,Los Angeles Kings,3,1,1,0.656532592424,2016-10-27
+99,Tampa Bay Lightning,1,Montreal Canadiens,3,1,1,0.700405401997,2016-10-27
+100,Arizona Coyotes,5,Philadelphia Flyers,4,0,1,0.722978535275,2016-10-27
+101,New York Islanders,2,Pittsburgh Penguins,4,1,1,0.723386853572,2016-10-27
+102,Columbus Blue Jackets,1,San Jose Sharks,3,1,0,0.553707721754,2016-10-27
+103,Detroit Red Wings,2,St. Louis Blues,1,0,1,0.640351096303,2016-10-27
+104,Florida Panthers,2,Toronto Maple Leafs,3,1,1,0.545381989218,2016-10-27
+105,Dallas Stars,1,Winnipeg Jets,4,1,1,0.592239988405,2016-10-27
+106,Columbus Blue Jackets,4,Anaheim Ducks,0,0,0,0.668522644706,2016-10-28
+107,New York Rangers,2,Carolina Hurricanes,3,1,0,0.632832370651,2016-10-28
+108,Ottawa Senators,2,Calgary Flames,5,1,0,0.517856080067,2016-10-28
+109,Winnipeg Jets,1,Colorado Avalanche,0,0,0,0.576844657004,2016-10-28
+110,Chicago Blackhawks,3,New Jersey Devils,2,0,0,0.640125662444,2016-10-28
+111,Edmonton Oilers,2,Vancouver Canucks,0,0,0,0.57657188794,2016-10-28
+112,Colorado Avalanche,3,Arizona Coyotes,2,0,1,0.592906456755,2016-10-29
+113,Florida Panthers,0,Buffalo Sabres,3,1,0,0.50621213628,2016-10-29
+114,Boston Bruins,1,Detroit Red Wings,0,0,0,0.565439798632,2016-10-29
+115,Dallas Stars,0,Minnesota Wild,4,1,1,0.774512289132,2016-10-29
+116,Toronto Maple Leafs,1,Montreal Canadiens,2,1,1,0.744965588531,2016-10-29
+117,Tampa Bay Lightning,1,New Jersey Devils,3,1,0,0.547823671441,2016-10-29
+118,Pittsburgh Penguins,5,Philadelphia Flyers,4,0,0,0.542985495836,2016-10-29
+119,Nashville Predators,1,San Jose Sharks,4,1,1,0.713802437711,2016-10-29
+120,Los Angeles Kings,0,St. Louis Blues,1,1,1,0.525490209714,2016-10-29
+121,Washington Capitals,5,Vancouver Canucks,2,0,0,0.653524748056,2016-10-29
+122,Philadelphia Flyers,4,Carolina Hurricanes,3,0,1,0.519478171514,2016-10-30
+123,Washington Capitals,3,Calgary Flames,1,0,0,0.57936438582,2016-10-30
+124,Los Angeles Kings,0,Chicago Blackhawks,3,1,1,0.601392908205,2016-10-30
+125,Florida Panthers,5,Detroit Red Wings,2,0,1,0.529507541594,2016-10-30
+126,Ottawa Senators,2,Edmonton Oilers,0,0,1,0.53453699093,2016-10-30
+127,Toronto Maple Leafs,1,New York Islanders,5,1,1,0.535981690256,2016-10-30
+128,Tampa Bay Lightning,1,New York Rangers,6,1,1,0.711306804804,2016-10-30
+129,Buffalo Sabres,3,Winnipeg Jets,1,0,1,0.581778350283,2016-10-30
+130,San Jose Sharks,2,Arizona Coyotes,3,1,0,0.714773933956,2016-11-01
+131,Dallas Stars,2,Columbus Blue Jackets,3,1,1,0.828316160326,2016-11-01
+132,Calgary Flames,1,Chicago Blackhawks,5,1,1,0.67441987982,2016-11-01
+133,Nashville Predators,5,Colorado Avalanche,1,0,0,0.594054947026,2016-11-01
+134,Boston Bruins,2,Florida Panthers,1,0,0,0.541386530801,2016-11-01
+135,Anaheim Ducks,4,Los Angeles Kings,0,0,1,0.607142166291,2016-11-01
+136,Buffalo Sabres,2,Minnesota Wild,1,0,1,0.766886383809,2016-11-01
+137,Tampa Bay Lightning,6,New York Islanders,1,0,0,0.519623531015,2016-11-01
+138,St. Louis Blues,0,New York Rangers,5,1,1,0.695706242294,2016-11-01
+139,Carolina Hurricanes,1,Ottawa Senators,2,1,1,0.610030826865,2016-11-01
+140,Edmonton Oilers,2,Toronto Maple Leafs,3,1,0,0.522065034068,2016-11-01
+141,Washington Capitals,3,Winnipeg Jets,2,0,0,0.623981424963,2016-11-01
+142,Pittsburgh Penguins,5,Anaheim Ducks,1,0,0,0.566551139336,2016-11-02
+143,Vancouver Canucks,0,Montreal Canadiens,3,1,1,0.784542711685,2016-11-02
+144,Detroit Red Wings,3,Philadelphia Flyers,4,1,1,0.637833220891,2016-11-02
+145,Nashville Predators,2,Arizona Coyotes,3,1,0,0.554846275659,2016-11-03
+146,Toronto Maple Leafs,2,Buffalo Sabres,1,0,1,0.502158067431,2016-11-03
+147,Colorado Avalanche,0,Chicago Blackhawks,4,1,1,0.808440156358,2016-11-03
+148,St. Louis Blues,2,Dallas Stars,6,1,0,0.582255332262,2016-11-03
+149,New Jersey Devils,3,Florida Panthers,4,1,1,0.606750901338,2016-11-03
+150,Pittsburgh Penguins,2,Los Angeles Kings,3,1,0,0.511995052434,2016-11-03
+151,Philadelphia Flyers,3,New York Islanders,2,0,0,0.535545816228,2016-11-03
+152,Edmonton Oilers,3,New York Rangers,5,1,1,0.694368192496,2016-11-03
+153,Vancouver Canucks,0,Ottawa Senators,1,1,1,0.693573896935,2016-11-03
+154,Calgary Flames,3,San Jose Sharks,2,0,1,0.689659273029,2016-11-03
+155,Boston Bruins,4,Tampa Bay Lightning,3,0,1,0.505825373103,2016-11-03
+156,Winnipeg Jets,3,Washington Capitals,4,1,1,0.718595238851,2016-11-03
+157,Arizona Coyotes,1,Anaheim Ducks,5,1,1,0.703466173086,2016-11-04
+158,Montreal Canadiens,0,Columbus Blue Jackets,10,1,1,0.614739266916,2016-11-04
+159,Winnipeg Jets,5,Detroit Red Wings,3,0,1,0.560689654428,2016-11-04
+160,New York Rangers,5,Boston Bruins,2,0,0,0.569180570676,2016-11-05
+161,Minnesota Wild,0,Colorado Avalanche,1,1,0,0.763247736784,2016-11-05
+162,Chicago Blackhawks,3,Dallas Stars,2,0,0,0.655038598878,2016-11-05
+163,Calgary Flames,0,Los Angeles Kings,5,1,1,0.630062067568,2016-11-05
+164,Philadelphia Flyers,4,Montreal Canadiens,5,1,1,0.686829869852,2016-11-05
+165,Carolina Hurricanes,3,Nashville Predators,2,0,1,0.51126784342,2016-11-05
+166,Edmonton Oilers,4,New York Islanders,3,0,0,0.539828580295,2016-11-05
+167,Buffalo Sabres,2,Ottawa Senators,1,0,1,0.690692999028,2016-11-05
+168,Pittsburgh Penguins,5,San Jose Sharks,0,0,1,0.55429860865,2016-11-05
+169,Columbus Blue Jackets,1,St. Louis Blues,2,1,0,0.644550139901,2016-11-05
+170,New Jersey Devils,1,Tampa Bay Lightning,4,1,1,0.650878589869,2016-11-05
+171,Vancouver Canucks,3,Toronto Maple Leafs,6,1,1,0.607283997881,2016-11-05
+172,Florida Panthers,2,Washington Capitals,4,1,1,0.692473820299,2016-11-05
+173,Calgary Flames,1,Anaheim Ducks,4,1,1,0.577539035336,2016-11-06
+174,New Jersey Devils,4,Carolina Hurricanes,1,0,1,0.633957743231,2016-11-06
+175,Dallas Stars,3,Chicago Blackhawks,4,1,1,0.745030981584,2016-11-06
+176,Edmonton Oilers,2,Detroit Red Wings,1,0,0,0.537971482569,2016-11-06
+177,Winnipeg Jets,2,New York Rangers,5,1,1,0.771493151004,2016-11-06
+178,Colorado Avalanche,1,St. Louis Blues,5,1,1,0.755965001444,2016-11-06
+179,Buffalo Sabres,0,Boston Bruins,4,1,1,0.69789811034,2016-11-07
+180,Tampa Bay Lightning,1,Florida Panthers,3,1,1,0.50657031162,2016-11-07
+181,Vancouver Canucks,2,New York Islanders,4,1,1,0.59014740338,2016-11-07
+182,Arizona Coyotes,4,Colorado Avalanche,2,0,1,0.513753650238,2016-11-08
+183,Boston Bruins,2,Montreal Canadiens,3,1,1,0.658590784679,2016-11-08
+184,Carolina Hurricanes,2,New Jersey Devils,3,1,0,0.529518481428,2016-11-08
+185,Ottawa Senators,1,Nashville Predators,3,1,0,0.54657749542,2016-11-08
+186,Vancouver Canucks,5,New York Rangers,3,0,1,0.793286155222,2016-11-08
+187,Detroit Red Wings,3,Philadelphia Flyers,2,0,1,0.637833220891,2016-11-08
+188,Edmonton Oilers,3,Pittsburgh Penguins,4,1,1,0.642483716123,2016-11-08
+189,Los Angeles Kings,7,Toronto Maple Leafs,0,0,0,0.548711632524,2016-11-08
+190,Dallas Stars,2,Winnipeg Jets,8,1,1,0.592239988405,2016-11-08
+191,San Jose Sharks,3,Washington Capitals,0,0,1,0.541943948297,2016-11-08
+192,Ottawa Senators,2,Buffalo Sabres,1,0,0,0.592024041438,2016-11-09
+193,Anaheim Ducks,2,Columbus Blue Jackets,3,1,1,0.756306034051,2016-11-09
+194,Chicago Blackhawks,2,St. Louis Blues,1,0,0,0.523410846223,2016-11-09
+195,Winnipeg Jets,3,Arizona Coyotes,2,0,0,0.537268518269,2016-11-10
+196,Columbus Blue Jackets,2,Boston Bruins,5,1,0,0.61722003707,2016-11-10
+197,Anaheim Ducks,4,Carolina Hurricanes,2,0,1,0.543236293113,2016-11-10
+198,Dallas Stars,4,Calgary Flames,2,0,1,0.636348532616,2016-11-10
+199,Vancouver Canucks,1,Detroit Red Wings,3,1,1,0.591953852128,2016-11-10
+200,San Jose Sharks,4,Florida Panthers,2,0,0,0.605402705467,2016-11-10
+201,Los Angeles Kings,1,Montreal Canadiens,4,1,1,0.659476447882,2016-11-10
+202,St. Louis Blues,1,Nashville Predators,3,1,0,0.525826053331,2016-11-10
+203,Minnesota Wild,4,Pittsburgh Penguins,2,0,1,0.530354183892,2016-11-10
+204,New York Islanders,1,Tampa Bay Lightning,4,1,1,0.624702523609,2016-11-10
+205,New Jersey Devils,2,Buffalo Sabres,1,0,1,0.548178603673,2016-11-11
+206,Washington Capitals,3,Chicago Blackhawks,2,0,1,0.547993920191,2016-11-11
+207,Winnipeg Jets,2,Colorado Avalanche,3,1,0,0.576844657004,2016-11-11
+208,Dallas Stars,3,Edmonton Oilers,2,0,1,0.683385360594,2016-11-11
+209,Los Angeles Kings,1,Ottawa Senators,2,1,1,0.546243666261,2016-11-11
+210,Philadelphia Flyers,3,Toronto Maple Leafs,6,1,0,0.51776463199,2016-11-11
+211,Boston Bruins,2,Arizona Coyotes,1,0,0,0.658492134686,2016-11-12
+212,Washington Capitals,1,Carolina Hurricanes,5,1,0,0.565896851363,2016-11-12
+213,St. Louis Blues,4,Columbus Blue Jackets,8,1,1,0.736176687421,2016-11-12
+214,New York Rangers,4,Calgary Flames,1,0,0,0.645524082367,2016-11-12
+215,New York Islanders,2,Florida Panthers,3,1,1,0.579404256209,2016-11-12
+216,Detroit Red Wings,0,Montreal Canadiens,5,1,1,0.75690786065,2016-11-12
+217,Buffalo Sabres,2,New Jersey Devils,4,1,1,0.559148729191,2016-11-12
+218,Anaheim Ducks,0,Nashville Predators,5,1,1,0.500736530657,2016-11-12
+219,Minnesota Wild,2,Philadelphia Flyers,3,1,0,0.566187361288,2016-11-12
+220,Toronto Maple Leafs,1,Pittsburgh Penguins,4,1,1,0.708887928048,2016-11-12
+221,San Jose Sharks,3,Tampa Bay Lightning,1,0,0,0.559417863389,2016-11-12
+222,Montreal Canadiens,2,Chicago Blackhawks,3,1,0,0.508543824226,2016-11-13
+223,Boston Bruins,2,Colorado Avalanche,0,0,0,0.693612848804,2016-11-13
+224,New York Rangers,3,Edmonton Oilers,1,0,0,0.596186185588,2016-11-13
+225,Minnesota Wild,2,Ottawa Senators,1,0,0,0.542879540745,2016-11-13
+226,Dallas Stars,4,Vancouver Canucks,5,1,1,0.560981454804,2016-11-13
+227,Los Angeles Kings,2,Winnipeg Jets,3,1,0,0.571452146776,2016-11-13
+228,Tampa Bay Lightning,4,New York Islanders,0,0,0,0.519623531015,2016-11-14
+229,Edmonton Oilers,1,Anaheim Ducks,4,1,1,0.525691346459,2016-11-15
+230,San Jose Sharks,0,Carolina Hurricanes,1,1,0,0.577487969591,2016-11-15
+231,Washington Capitals,1,Columbus Blue Jackets,2,1,1,0.66686172538,2016-11-15
+232,Los Angeles Kings,1,Colorado Avalanche,4,1,0,0.692774608947,2016-11-15
+233,New Jersey Devils,2,Dallas Stars,1,0,1,0.537469379133,2016-11-15
+234,Tampa Bay Lightning,4,Detroit Red Wings,3,0,0,0.517757734908,2016-11-15
+235,Calgary Flames,1,Minnesota Wild,0,0,1,0.708875399154,2016-11-15
+236,Florida Panthers,4,Montreal Canadiens,3,0,1,0.738552250204,2016-11-15
+237,Ottawa Senators,3,Philadelphia Flyers,2,0,1,0.530247833835,2016-11-15
+238,Buffalo Sabres,1,St. Louis Blues,4,1,1,0.672586235248,2016-11-15
+239,Nashville Predators,2,Toronto Maple Leafs,6,1,1,0.558950187605,2016-11-15
+240,New York Rangers,7,Vancouver Canucks,2,0,0,0.713782531072,2016-11-15
+241,Chicago Blackhawks,0,Winnipeg Jets,4,1,0,0.618583339772,2016-11-15
+242,Arizona Coyotes,1,Calgary Flames,2,1,1,0.682804564043,2016-11-16
+243,Pittsburgh Penguins,1,Washington Capitals,7,1,1,0.542575226318,2016-11-16
+244,New Jersey Devils,2,Anaheim Ducks,3,1,1,0.643678599841,2016-11-17
+245,Tampa Bay Lightning,4,Buffalo Sabres,1,0,0,0.553316067073,2016-11-17
+246,Colorado Avalanche,2,Dallas Stars,3,1,1,0.64178815171,2016-11-17
+247,Edmonton Oilers,2,Los Angeles Kings,4,1,1,0.579972396796,2016-11-17
+248,Boston Bruins,0,Minnesota Wild,1,1,1,0.638535858481,2016-11-17
+249,Nashville Predators,5,Ottawa Senators,1,0,1,0.649734836315,2016-11-17
+250,Winnipeg Jets,2,Philadelphia Flyers,5,1,1,0.644379206179,2016-11-17
+251,San Jose Sharks,2,St. Louis Blues,3,1,0,0.540906974389,2016-11-17
+252,Florida Panthers,1,Toronto Maple Leafs,6,1,1,0.545381989218,2016-11-17
+253,Arizona Coyotes,2,Vancouver Canucks,3,1,1,0.611182671851,2016-11-17
+254,Montreal Canadiens,2,Carolina Hurricanes,3,1,0,0.620548465779,2016-11-18
+255,New York Rangers,2,Columbus Blue Jackets,4,1,1,0.602230518451,2016-11-18
+256,Chicago Blackhawks,3,Calgary Flames,2,0,0,0.573763315388,2016-11-18
+257,Pittsburgh Penguins,3,New York Islanders,2,0,0,0.629553562437,2016-11-18
+258,Detroit Red Wings,0,Washington Capitals,1,1,1,0.71280650162,2016-11-18
+259,San Jose Sharks,2,Arizona Coyotes,3,1,0,0.714773933956,2016-11-19
+260,Winnipeg Jets,1,Boston Bruins,4,1,1,0.673210507337,2016-11-19
+261,Pittsburgh Penguins,1,Buffalo Sabres,2,1,0,0.660572326795,2016-11-19
+262,Edmonton Oilers,5,Dallas Stars,2,0,0,0.583790003649,2016-11-19
+263,New Jersey Devils,2,Los Angeles Kings,4,1,1,0.692358876888,2016-11-19
+264,Colorado Avalanche,3,Minnesota Wild,2,0,1,0.832240562558,2016-11-19
+265,Toronto Maple Leafs,1,Montreal Canadiens,2,1,1,0.744965588531,2016-11-19
+266,Florida Panthers,4,Ottawa Senators,1,0,1,0.637146452756,2016-11-19
+267,Tampa Bay Lightning,3,Philadelphia Flyers,0,0,1,0.569399150928,2016-11-19
+268,Nashville Predators,1,St. Louis Blues,3,1,1,0.630513033191,2016-11-19
+269,Chicago Blackhawks,4,Vancouver Canucks,3,0,0,0.648311740891,2016-11-19
+270,Los Angeles Kings,3,Anaheim Ducks,2,0,0,0.501073259903,2016-11-20
+271,Winnipeg Jets,1,Carolina Hurricanes,3,1,1,0.612269842239,2016-11-20
+272,Calgary Flames,3,Detroit Red Wings,2,0,1,0.51440702994,2016-11-20
+273,Florida Panthers,3,New York Rangers,2,0,1,0.748563890259,2016-11-20
+274,Columbus Blue Jackets,3,Washington Capitals,2,0,0,0.565374338294,2016-11-20
+275,Calgary Flames,2,Buffalo Sabres,4,1,0,0.521330352221,2016-11-21
+276,Colorado Avalanche,3,Columbus Blue Jackets,2,0,1,0.874501797097,2016-11-21
+277,Minnesota Wild,2,Dallas Stars,3,1,0,0.69060425018,2016-11-21
+278,Chicago Blackhawks,0,Edmonton Oilers,5,1,0,0.521835893515,2016-11-21
+279,Tampa Bay Lightning,1,Nashville Predators,3,1,0,0.507147228255,2016-11-21
+280,New York Rangers,5,Pittsburgh Penguins,2,0,0,0.504737257424,2016-11-21
+281,New Jersey Devils,0,San Jose Sharks,4,1,1,0.745966448403,2016-11-21
+282,New York Islanders,3,Anaheim Ducks,2,0,1,0.617280124905,2016-11-22
+283,St. Louis Blues,4,Boston Bruins,2,0,1,0.582468280059,2016-11-22
+284,Philadelphia Flyers,3,Florida Panthers,1,0,0,0.509400467963,2016-11-22
+285,Ottawa Senators,4,Montreal Canadiens,3,0,1,0.666182278398,2016-11-22
+286,Carolina Hurricanes,2,Toronto Maple Leafs,1,0,1,0.516611503858,2016-11-22
+287,Vancouver Canucks,4,Arizona Coyotes,1,0,0,0.505315829175,2016-11-23
+288,Detroit Red Wings,2,Buffalo Sabres,1,0,1,0.518115507772,2016-11-23
+289,Calgary Flames,2,Columbus Blue Jackets,0,0,1,0.773766206359,2016-11-23
+290,Edmonton Oilers,6,Colorado Avalanche,3,0,0,0.669510960391,2016-11-23
+291,New York Islanders,2,Los Angeles Kings,4,1,1,0.667705085868,2016-11-23
+292,Winnipeg Jets,1,Minnesota Wild,3,1,1,0.745782876154,2016-11-23
+293,Toronto Maple Leafs,4,New Jersey Devils,5,1,1,0.507706688505,2016-11-23
+294,Dallas Stars,2,Nashville Predators,5,1,1,0.6092482798,2016-11-23
+295,Pittsburgh Penguins,6,New York Rangers,1,0,1,0.610632511381,2016-11-23
+296,Chicago Blackhawks,1,San Jose Sharks,2,1,1,0.570966029029,2016-11-23
+297,Philadelphia Flyers,2,Tampa Bay Lightning,4,1,1,0.537833048797,2016-11-23
+298,St. Louis Blues,3,Washington Capitals,4,1,1,0.633596361992,2016-11-23
+299,Carolina Hurricanes,1,Montreal Canadiens,2,1,1,0.715632420112,2016-11-24
+300,Boston Bruins,1,Ottawa Senators,3,1,1,0.545266569961,2016-11-24
+301,Chicago Blackhawks,3,Anaheim Ducks,2,0,0,0.549847427735,2016-11-25
+302,Edmonton Oilers,2,Arizona Coyotes,3,1,0,0.633088943819,2016-11-25
+303,Calgary Flames,2,Boston Bruins,1,0,1,0.630980270588,2016-11-25
+304,Vancouver Canucks,1,Dallas Stars,2,1,1,0.546335653569,2016-11-25
+305,Pittsburgh Penguins,2,Minnesota Wild,6,1,1,0.576752447348,2016-11-25
+306,Detroit Red Wings,5,New Jersey Devils,4,0,1,0.523654986541,2016-11-25
+307,Winnipeg Jets,1,Nashville Predators,5,1,1,0.571122261301,2016-11-25
+308,New York Rangers,3,Philadelphia Flyers,2,0,0,0.60032708333,2016-11-25
+309,New York Islanders,2,San Jose Sharks,3,1,1,0.72389547044,2016-11-25
+310,Columbus Blue Jackets,5,Tampa Bay Lightning,3,0,0,0.661497289689,2016-11-25
+311,Buffalo Sabres,1,Washington Capitals,3,1,1,0.741172408859,2016-11-25
+312,Vancouver Canucks,3,Colorado Avalanche,2,0,0,0.545312015093,2016-11-26
+313,Montreal Canadiens,2,Detroit Red Wings,1,0,0,0.669246452959,2016-11-26
+314,Columbus Blue Jackets,1,Florida Panthers,2,1,0,0.702493921575,2016-11-26
+315,Chicago Blackhawks,1,Los Angeles Kings,2,1,1,0.504937301937,2016-11-26
+316,Carolina Hurricanes,1,Ottawa Senators,2,1,1,0.610030826865,2016-11-26
+317,New Jersey Devils,3,Pittsburgh Penguins,4,1,1,0.745484194072,2016-11-26
+318,Anaheim Ducks,3,San Jose Sharks,2,0,1,0.668488997108,2016-11-26
+319,Minnesota Wild,3,St. Louis Blues,4,1,0,0.563504194225,2016-11-26
+320,Washington Capitals,2,Toronto Maple Leafs,4,1,0,0.602087399049,2016-11-26
+321,Tampa Bay Lightning,1,Boston Bruins,4,1,1,0.600540951509,2016-11-27
+322,Florida Panthers,2,Carolina Hurricanes,3,1,1,0.582019580591,2016-11-27
+323,Arizona Coyotes,2,Edmonton Oilers,1,0,1,0.726415888422,2016-11-27
+324,Ottawa Senators,2,New York Rangers,0,0,1,0.677756031815,2016-11-27
+325,Calgary Flames,3,Philadelphia Flyers,5,1,1,0.60063341376,2016-11-27
+326,Nashville Predators,0,Winnipeg Jets,3,1,1,0.536084832423,2016-11-27
+327,Calgary Flames,1,New York Islanders,2,1,1,0.512539979719,2016-11-28
+328,Dallas Stars,3,St. Louis Blues,4,1,1,0.682017895727,2016-11-28
+329,Montreal Canadiens,1,Anaheim Ducks,2,1,0,0.610578353784,2016-11-29
+330,Tampa Bay Lightning,1,Columbus Blue Jackets,5,1,1,0.75044666371,2016-11-29
+331,Florida Panthers,1,Chicago Blackhawks,2,1,1,0.687566672636,2016-11-29
+332,Nashville Predators,5,Colorado Avalanche,3,0,0,0.594054947026,2016-11-29
+333,Dallas Stars,1,Detroit Red Wings,3,1,1,0.599092079171,2016-11-29
+334,Toronto Maple Leafs,4,Edmonton Oilers,2,0,1,0.626993335919,2016-11-29
+335,Carolina Hurricanes,2,New York Rangers,3,1,1,0.726196351946,2016-11-29
+336,Buffalo Sabres,5,Ottawa Senators,4,0,1,0.690692999028,2016-11-29
+337,Boston Bruins,2,Philadelphia Flyers,3,1,1,0.521784103184,2016-11-29
+338,Arizona Coyotes,1,San Jose Sharks,2,1,1,0.794081618329,2016-11-29
+339,Minnesota Wild,4,Vancouver Canucks,5,1,0,0.684236609916,2016-11-29
+340,New Jersey Devils,2,Winnipeg Jets,3,1,1,0.576367979321,2016-11-29
+341,Toronto Maple Leafs,0,Calgary Flames,3,1,1,0.576767267454,2016-11-30
+342,San Jose Sharks,4,Los Angeles Kings,1,0,0,0.512630486859,2016-11-30
+343,Pittsburgh Penguins,3,New York Islanders,5,1,0,0.629553562437,2016-11-30
+344,Los Angeles Kings,4,Arizona Coyotes,3,0,0,0.657605240572,2016-12-01
+345,Carolina Hurricanes,1,Boston Bruins,2,1,1,0.618075919017,2016-12-01
+346,New York Rangers,3,Buffalo Sabres,4,1,0,0.711012463226,2016-12-01
+347,New Jersey Devils,3,Chicago Blackhawks,4,1,1,0.732419253755,2016-12-01
+348,Columbus Blue Jackets,3,Colorado Avalanche,2,0,0,0.819111705207,2016-12-01
+349,Florida Panthers,2,Detroit Red Wings,1,0,1,0.529507541594,2016-12-01
+350,Philadelphia Flyers,3,Ottawa Senators,2,0,1,0.576856670766,2016-12-01
+351,Dallas Stars,2,Pittsburgh Penguins,6,1,1,0.757683867199,2016-12-01
+352,Tampa Bay Lightning,4,St. Louis Blues,5,1,1,0.572073599533,2016-12-01
+353,Anaheim Ducks,3,Vancouver Canucks,1,0,0,0.548858884304,2016-12-01
+354,Edmonton Oilers,6,Winnipeg Jets,3,0,0,0.545034951378,2016-12-01
+355,New York Islanders,3,Washington Capitals,0,0,1,0.714334018575,2016-12-01
+356,Minnesota Wild,2,Calgary Flames,3,1,0,0.612754684169,2016-12-02
+357,Montreal Canadiens,1,San Jose Sharks,2,1,1,0.509025000634,2016-12-02
+358,Columbus Blue Jackets,3,Arizona Coyotes,2,0,0,0.794106444733,2016-12-03
+359,Boston Bruins,2,Buffalo Sabres,1,0,0,0.600197152954,2016-12-03
+360,Dallas Stars,3,Colorado Avalanche,0,0,0,0.537954738475,2016-12-03
+361,Anaheim Ducks,2,Edmonton Oilers,3,1,1,0.581313108421,2016-12-03
+362,New Jersey Devils,5,Nashville Predators,4,0,1,0.593583997262,2016-12-03
+363,Carolina Hurricanes,2,New York Rangers,4,1,1,0.726196351946,2016-12-03
+364,Florida Panthers,0,Ottawa Senators,2,1,1,0.637146452756,2016-12-03
+365,Chicago Blackhawks,1,Philadelphia Flyers,3,1,0,0.526133217443,2016-12-03
+366,Detroit Red Wings,3,Pittsburgh Penguins,5,1,1,0.721888897627,2016-12-03
+367,Winnipeg Jets,3,St. Louis Blues,2,0,1,0.646876767554,2016-12-03
+368,Washington Capitals,1,Tampa Bay Lightning,2,1,0,0.54771926373,2016-12-03
+369,Toronto Maple Leafs,2,Vancouver Canucks,3,1,0,0.501221926212,2016-12-03
+370,Tampa Bay Lightning,0,Carolina Hurricanes,1,1,1,0.535400966919,2016-12-04
+371,Anaheim Ducks,3,Calgary Flames,8,1,1,0.529551305484,2016-12-04
+372,Winnipeg Jets,2,Chicago Blackhawks,1,0,1,0.713932716344,2016-12-04
+373,Minnesota Wild,2,Edmonton Oilers,1,0,0,0.561950849588,2016-12-04
+374,Montreal Canadiens,5,Los Angeles Kings,4,0,0,0.557233011311,2016-12-04
+375,Philadelphia Flyers,4,Nashville Predators,2,0,0,0.52310351697,2016-12-04
+376,Detroit Red Wings,4,New York Islanders,3,0,1,0.55182258669,2016-12-04
+377,Florida Panthers,3,Boston Bruins,4,1,1,0.644957720806,2016-12-05
+378,Arizona Coyotes,1,Columbus Blue Jackets,4,1,1,0.855805534676,2016-12-05
+379,Ottawa Senators,5,Pittsburgh Penguins,8,1,1,0.624576196406,2016-12-05
+380,Buffalo Sabres,2,Washington Capitals,3,1,1,0.741172408859,2016-12-05
+381,Edmonton Oilers,3,Buffalo Sabres,4,1,0,0.573267779616,2016-12-06
+382,Arizona Coyotes,0,Chicago Blackhawks,4,1,1,0.782351681451,2016-12-06
+383,Calgary Flames,2,Dallas Stars,1,0,0,0.532087936502,2016-12-06
+384,Vancouver Canucks,2,New Jersey Devils,3,1,1,0.562478724141,2016-12-06
+385,Colorado Avalanche,3,Nashville Predators,4,1,1,0.692487858535,2016-12-06
+386,New York Rangers,2,New York Islanders,4,1,0,0.682386880106,2016-12-06
+387,Florida Panthers,2,Philadelphia Flyers,3,1,1,0.615059073279,2016-12-06
+388,Montreal Canadiens,2,St. Louis Blues,3,1,0,0.585016573343,2016-12-06
+389,Detroit Red Wings,4,Winnipeg Jets,3,0,1,0.546629278854,2016-12-06
+390,Carolina Hurricanes,5,Anaheim Ducks,6,1,1,0.564057033478,2016-12-07
+391,Ottawa Senators,4,San Jose Sharks,2,0,1,0.625172357536,2016-12-07
+392,Minnesota Wild,3,Toronto Maple Leafs,2,0,0,0.634810894116,2016-12-07
+393,Boston Bruins,3,Washington Capitals,4,1,1,0.605938949401,2016-12-07
+394,Calgary Flames,2,Arizona Coyotes,1,0,0,0.583137954343,2016-12-08
+395,Colorado Avalanche,4,Boston Bruins,2,0,1,0.776968462671,2016-12-08
+396,Nashville Predators,2,Dallas Stars,5,1,0,0.503282795025,2016-12-08
+397,Pittsburgh Penguins,5,Florida Panthers,1,0,0,0.604794977957,2016-12-08
+398,Carolina Hurricanes,3,Los Angeles Kings,1,0,1,0.617145089563,2016-12-08
+399,New Jersey Devils,2,Montreal Canadiens,5,1,1,0.778443954625,2016-12-08
+400,St. Louis Blues,2,New York Islanders,3,1,0,0.538260020134,2016-12-08
+401,Edmonton Oilers,5,Philadelphia Flyers,6,1,1,0.549408731726,2016-12-08
+402,Vancouver Canucks,5,Tampa Bay Lightning,1,0,1,0.658950388867,2016-12-08
+403,New York Rangers,2,Winnipeg Jets,1,0,0,0.686915783462,2016-12-08
+404,San Jose Sharks,2,Anaheim Ducks,3,1,0,0.567175589063,2016-12-09
+405,Washington Capitals,4,Buffalo Sabres,1,0,0,0.65045708312,2016-12-09
+406,New York Rangers,1,Chicago Blackhawks,0,0,0,0.521658654022,2016-12-09
+407,Columbus Blue Jackets,4,Detroit Red Wings,1,0,0,0.722429659674,2016-12-09
+408,Edmonton Oilers,2,Minnesota Wild,3,1,1,0.663762220926,2016-12-09
+409,St. Louis Blues,4,New Jersey Devils,1,0,0,0.566279296492,2016-12-09
+410,Nashville Predators,1,Arizona Coyotes,4,1,0,0.554846275659,2016-12-10
+411,Toronto Maple Leafs,4,Boston Bruins,1,0,1,0.652586964686,2016-12-10
+412,New York Islanders,2,Columbus Blue Jackets,6,1,1,0.801395861419,2016-12-10
+413,Winnipeg Jets,2,Calgary Flames,6,1,1,0.599126882849,2016-12-10
+414,Vancouver Canucks,2,Florida Panthers,4,1,1,0.61523983857,2016-12-10
+415,Ottawa Senators,1,Los Angeles Kings,4,1,1,0.561072855139,2016-12-10
+416,Colorado Avalanche,1,Montreal Canadiens,10,1,1,0.844171034001,2016-12-10
+417,Dallas Stars,2,Philadelphia Flyers,4,1,1,0.679645792021,2016-12-10
+418,Carolina Hurricanes,3,San Jose Sharks,4,1,1,0.677758948347,2016-12-10
+419,Pittsburgh Penguins,4,Tampa Bay Lightning,3,0,0,0.55879092791,2016-12-10
+420,Ottawa Senators,1,Anaheim Ducks,5,1,1,0.506427948553,2016-12-11
+421,Dallas Stars,1,Chicago Blackhawks,3,1,1,0.745030981584,2016-12-11
+422,Philadelphia Flyers,1,Detroit Red Wings,0,0,0,0.533686364759,2016-12-11
+423,Winnipeg Jets,2,Edmonton Oilers,3,1,1,0.648317428605,2016-12-11
+424,St. Louis Blues,1,Minnesota Wild,3,1,1,0.665169650787,2016-12-11
+425,New Jersey Devils,0,New York Rangers,5,1,1,0.787367813789,2016-12-11
+426,Colorado Avalanche,3,Toronto Maple Leafs,1,0,1,0.69702428676,2016-12-11
+427,Vancouver Canucks,0,Washington Capitals,3,1,1,0.743757568377,2016-12-11
+428,Boston Bruins,2,Montreal Canadiens,1,0,1,0.658590784679,2016-12-12
+429,Arizona Coyotes,0,Pittsburgh Penguins,7,1,1,0.793665440249,2016-12-12
+430,Los Angeles Kings,3,Buffalo Sabres,6,1,0,0.599251001964,2016-12-13
+431,Vancouver Canucks,6,Carolina Hurricanes,8,1,1,0.642205702716,2016-12-13
+432,Anaheim Ducks,2,Dallas Stars,6,1,0,0.556185776215,2016-12-13
+433,Arizona Coyotes,4,Detroit Red Wings,1,0,1,0.647672399472,2016-12-13
+434,Columbus Blue Jackets,3,Edmonton Oilers,1,0,0,0.643102541853,2016-12-13
+435,Florida Panthers,1,Minnesota Wild,5,1,1,0.721206032347,2016-12-13
+436,St. Louis Blues,3,Nashville Predators,6,1,0,0.525826053331,2016-12-13
+437,Washington Capitals,4,New York Islanders,2,0,0,0.619047027231,2016-12-13
+438,Chicago Blackhawks,2,New York Rangers,1,0,1,0.626612364229,2016-12-13
+439,San Jose Sharks,3,Toronto Maple Leafs,2,0,0,0.6133723942,2016-12-13
+440,Tampa Bay Lightning,6,Calgary Flames,3,0,1,0.521687923156,2016-12-14
+441,Philadelphia Flyers,4,Colorado Avalanche,3,0,0,0.665687686053,2016-12-14
+442,San Jose Sharks,4,Ottawa Senators,3,0,0,0.520123862079,2016-12-14
+443,Boston Bruins,3,Pittsburgh Penguins,4,1,1,0.616583089641,2016-12-14
+444,Anaheim Ducks,4,Boston Bruins,3,0,1,0.608081871308,2016-12-15
+445,New York Rangers,2,Dallas Stars,0,0,0,0.719798346161,2016-12-15
+446,Los Angeles Kings,4,Detroit Red Wings,1,0,0,0.564471080468,2016-12-15
+447,Minnesota Wild,5,Nashville Predators,2,0,0,0.639755546194,2016-12-15
+448,Chicago Blackhawks,5,New York Islanders,4,0,0,0.613621968026,2016-12-15
+449,New Jersey Devils,2,St. Louis Blues,5,1,1,0.667679578086,2016-12-15
+450,Arizona Coyotes,3,Toronto Maple Leafs,2,0,1,0.662104120358,2016-12-15
+451,Florida Panthers,3,Winnipeg Jets,4,1,1,0.522414240164,2016-12-15
+452,New York Islanders,2,Buffalo Sabres,3,1,1,0.519981202985,2016-12-16
+453,Washington Capitals,4,Carolina Hurricanes,3,0,0,0.565896851363,2016-12-16
+454,Columbus Blue Jackets,4,Calgary Flames,1,0,0,0.689691769321,2016-12-16
+455,Florida Panthers,3,Colorado Avalanche,1,0,0,0.607216689667,2016-12-16
+456,San Jose Sharks,4,Montreal Canadiens,2,0,1,0.597466094221,2016-12-16
+457,Los Angeles Kings,1,Pittsburgh Penguins,0,0,1,0.61751443864,2016-12-16
+458,Tampa Bay Lightning,2,Vancouver Canucks,4,1,0,0.55665518663,2016-12-16
+459,Buffalo Sabres,1,Carolina Hurricanes,2,1,1,0.639093164855,2016-12-17
+460,Philadelphia Flyers,1,Dallas Stars,3,1,0,0.579597754567,2016-12-17
+461,Anaheim Ducks,4,Detroit Red Wings,6,1,0,0.509879674407,2016-12-17
+462,Tampa Bay Lightning,2,Edmonton Oilers,3,1,1,0.573618284407,2016-12-17
+463,Arizona Coyotes,1,Minnesota Wild,4,1,1,0.808626160883,2016-12-17
+464,New York Rangers,2,Nashville Predators,1,0,0,0.671465135298,2016-12-17
+465,New Jersey Devils,1,Ottawa Senators,3,1,1,0.685930982947,2016-12-17
+466,Chicago Blackhawks,6,St. Louis Blues,4,0,0,0.523410846223,2016-12-17
+467,Pittsburgh Penguins,1,Toronto Maple Leafs,2,1,0,0.612769090032,2016-12-17
+468,Montreal Canadiens,2,Washington Capitals,1,0,0,0.502809000726,2016-12-17
+469,Los Angeles Kings,0,Boston Bruins,1,1,1,0.554643988235,2016-12-18
+470,San Jose Sharks,1,Chicago Blackhawks,4,1,1,0.536243449722,2016-12-18
+471,Ottawa Senators,6,New York Islanders,2,0,0,0.558923758719,2016-12-18
+472,New Jersey Devils,2,New York Rangers,3,1,1,0.787367813789,2016-12-18
+473,Columbus Blue Jackets,4,Vancouver Canucks,3,0,0,0.752703434441,2016-12-18
+474,Colorado Avalanche,1,Winnipeg Jets,4,1,1,0.677182963597,2016-12-18
+475,Calgary Flames,4,Arizona Coyotes,2,0,0,0.583137954343,2016-12-19
+476,Nashville Predators,2,Philadelphia Flyers,1,0,1,0.627966297817,2016-12-19
+477,Edmonton Oilers,3,St. Louis Blues,2,0,1,0.552109675842,2016-12-19
+478,Anaheim Ducks,3,Toronto Maple Leafs,2,0,1,0.506084099054,2016-12-19
+479,New York Islanders,4,Boston Bruins,2,0,1,0.668579003496,2016-12-20
+480,Los Angeles Kings,2,Columbus Blue Jackets,3,1,1,0.71355823298,2016-12-20
+481,Ottawa Senators,4,Chicago Blackhawks,3,0,1,0.608563638084,2016-12-20
+482,St. Louis Blues,3,Dallas Stars,2,0,0,0.582255332262,2016-12-20
+483,Buffalo Sabres,3,Florida Panthers,4,1,1,0.61203443283,2016-12-20
+484,Colorado Avalanche,0,Minnesota Wild,2,1,1,0.832240562558,2016-12-20
+485,Anaheim Ducks,1,Montreal Canadiens,5,1,1,0.706980946028,2016-12-20
+486,Nashville Predators,5,New Jersey Devils,1,0,1,0.513052201087,2016-12-20
+487,New York Rangers,2,Pittsburgh Penguins,7,1,0,0.504737257424,2016-12-20
+488,Calgary Flames,1,San Jose Sharks,4,1,1,0.689659273029,2016-12-20
+489,Detroit Red Wings,1,Tampa Bay Lightning,4,1,1,0.622948708547,2016-12-20
+490,Winnipeg Jets,1,Vancouver Canucks,4,1,1,0.521842118071,2016-12-20
+491,Edmonton Oilers,3,Arizona Coyotes,2,0,0,0.633088943819,2016-12-21
+492,Washington Capitals,2,Philadelphia Flyers,3,1,0,0.531849496637,2016-12-21
+493,Carolina Hurricanes,3,Buffalo Sabres,1,0,0,0.535044510806,2016-12-22
+494,Pittsburgh Penguins,1,Columbus Blue Jackets,7,1,1,0.656836542733,2016-12-22
+495,Toronto Maple Leafs,6,Colorado Avalanche,0,0,0,0.599203024998,2016-12-22
+496,Boston Bruins,3,Florida Panthers,1,0,0,0.541386530801,2016-12-22
+497,Minnesota Wild,4,Montreal Canadiens,2,0,1,0.575301964726,2016-12-22
+498,Philadelphia Flyers,0,New Jersey Devils,4,1,0,0.563596259772,2016-12-22
+499,Los Angeles Kings,4,Nashville Predators,0,0,0,0.554003027035,2016-12-22
+500,Anaheim Ducks,1,Ottawa Senators,2,1,1,0.599962513739,2016-12-22
+501,St. Louis Blues,2,Tampa Bay Lightning,5,1,1,0.535118502737,2016-12-22
+502,Winnipeg Jets,4,Vancouver Canucks,1,0,1,0.521842118071,2016-12-22
+503,Toronto Maple Leafs,0,Arizona Coyotes,1,1,0,0.560123403261,2016-12-23
+504,Boston Bruins,0,Carolina Hurricanes,1,1,0,0.512589168592,2016-12-23
+505,Montreal Canadiens,0,Columbus Blue Jackets,1,1,1,0.614739266916,2016-12-23
+506,Vancouver Canucks,0,Calgary Flames,1,1,1,0.629463378245,2016-12-23
+507,Colorado Avalanche,0,Chicago Blackhawks,1,1,1,0.808440156358,2016-12-23
+508,Los Angeles Kings,0,Dallas Stars,1,1,0,0.609568887177,2016-12-23
+509,Detroit Red Wings,0,Florida Panthers,1,1,1,0.577581895653,2016-12-23
+510,Buffalo Sabres,0,New York Islanders,1,1,1,0.586873324664,2016-12-23
+511,Minnesota Wild,0,New York Rangers,1,1,1,0.588078316586,2016-12-23
+512,New Jersey Devils,0,Pittsburgh Penguins,1,1,1,0.745484194072,2016-12-23
+513,Edmonton Oilers,0,San Jose Sharks,1,1,1,0.643067691589,2016-12-23
+514,Tampa Bay Lightning,0,Washington Capitals,1,1,1,0.650782808886,2016-12-23
+515,San Jose Sharks,0,Anaheim Ducks,1,1,0,0.567175589063,2016-12-27
+516,Dallas Stars,0,Arizona Coyotes,1,1,1,0.502092740029,2016-12-27
+517,Boston Bruins,0,Columbus Blue Jackets,1,1,1,0.712751962865,2016-12-27
+518,Winnipeg Jets,0,Chicago Blackhawks,1,1,1,0.713932716344,2016-12-27
+519,Calgary Flames,0,Colorado Avalanche,1,1,0,0.621554382805,2016-12-27
+520,Buffalo Sabres,0,Detroit Red Wings,1,1,1,0.588684146324,2016-12-27
+521,Pittsburgh Penguins,0,New Jersey Devils,1,1,0,0.655577824816,2016-12-27
+522,Minnesota Wild,0,Nashville Predators,1,1,0,0.639755546194,2016-12-27
+523,Washington Capitals,0,New York Islanders,1,1,0,0.619047027231,2016-12-27
+524,Ottawa Senators,0,New York Rangers,1,1,1,0.677756031815,2016-12-27
+525,Toronto Maple Leafs,0,Florida Panthers,1,1,1,0.561928680417,2016-12-28
+526,Carolina Hurricanes,0,Pittsburgh Penguins,1,1,1,0.677203240524,2016-12-28
+527,Philadelphia Flyers,0,St. Louis Blues,1,1,1,0.556366226796,2016-12-28
+528,Montreal Canadiens,0,Tampa Bay Lightning,1,1,0,0.603054112512,2016-12-28
+529,Los Angeles Kings,0,Vancouver Canucks,1,1,0,0.602493428444,2016-12-28
+530,New York Rangers,0,Arizona Coyotes,1,1,0,0.759620787612,2016-12-29
+531,Boston Bruins,0,Buffalo Sabres,1,1,0,0.600197152954,2016-12-29
+532,Anaheim Ducks,0,Calgary Flames,1,1,1,0.529551305484,2016-12-29
+533,Colorado Avalanche,0,Dallas Stars,1,1,1,0.64178815171,2016-12-29
+534,Los Angeles Kings,0,Edmonton Oilers,1,1,1,0.527064034521,2016-12-29
+535,Montreal Canadiens,0,Florida Panthers,1,1,0,0.647355530441,2016-12-29
+536,New York Islanders,0,Minnesota Wild,1,1,1,0.741785414546,2016-12-29
+537,Chicago Blackhawks,0,Nashville Predators,1,1,0,0.601715747373,2016-12-29
+538,Detroit Red Wings,0,Ottawa Senators,1,1,1,0.65933761953,2016-12-29
+539,Toronto Maple Leafs,0,Tampa Bay Lightning,1,1,1,0.607835172214,2016-12-29
+540,Columbus Blue Jackets,0,Winnipeg Jets,1,1,0,0.728098419312,2016-12-29
+541,New Jersey Devils,0,Washington Capitals,1,1,1,0.736891511533,2016-12-29
+542,Chicago Blackhawks,0,Carolina Hurricanes,1,1,0,0.560252565441,2016-12-30
+543,Philadelphia Flyers,0,San Jose Sharks,1,1,1,0.647012481845,2016-12-30
+544,Nashville Predators,0,St. Louis Blues,1,1,1,0.630513033191,2016-12-30
+545,Anaheim Ducks,0,Vancouver Canucks,1,1,0,0.548858884304,2016-12-30
+546,Buffalo Sabres,0,Boston Bruins,1,1,1,0.69789811034,2016-12-31
+547,Arizona Coyotes,0,Calgary Flames,1,1,1,0.682804564043,2016-12-31
+548,New York Rangers,0,Colorado Avalanche,1,1,0,0.78769452497,2016-12-31
+549,Florida Panthers,0,Dallas Stars,1,1,0,0.516994698071,2016-12-31
+550,Vancouver Canucks,0,Edmonton Oilers,1,1,1,0.676938650033,2016-12-31
+551,San Jose Sharks,0,Los Angeles Kings,1,1,0,0.512630486859,2016-12-31
+552,Columbus Blue Jackets,0,Minnesota Wild,1,1,0,0.531025424283,2016-12-31
+553,Washington Capitals,0,New Jersey Devils,1,1,0,0.645393640703,2016-12-31
+554,Montreal Canadiens,0,Pittsburgh Penguins,1,1,1,0.508389373456,2016-12-31
+555,Carolina Hurricanes,0,Tampa Bay Lightning,1,1,1,0.5717955994,2016-12-31
+556,New York Islanders,0,Winnipeg Jets,1,1,1,0.54848078428,2016-12-31
+557,Philadelphia Flyers,0,Anaheim Ducks,1,1,1,0.529985229507,2017-01-01
+558,Detroit Red Wings,0,Toronto Maple Leafs,1,1,1,0.569392378159,2017-01-01
+559,Ottawa Senators,0,Washington Capitals,1,1,1,0.614015044896,2017-01-01
+560,Boston Bruins,0,New Jersey Devils,1,1,0,0.594859126777,2017-01-02
+561,Chicago Blackhawks,0,St. Louis Blues,1,1,0,0.523410846223,2017-01-02
+562,Colorado Avalanche,0,Vancouver Canucks,1,1,1,0.648572150158,2017-01-02
+563,New Jersey Devils,0,Carolina Hurricanes,1,1,1,0.633957743231,2017-01-03
+564,Edmonton Oilers,0,Columbus Blue Jackets,1,1,1,0.734948796842,2017-01-03
+565,Montreal Canadiens,0,Nashville Predators,1,1,0,0.659778857341,2017-01-03
+566,Buffalo Sabres,0,New York Rangers,1,1,1,0.791060303591,2017-01-03
+567,Los Angeles Kings,0,San Jose Sharks,1,1,1,0.618114957127,2017-01-03
+568,Winnipeg Jets,0,Tampa Bay Lightning,1,1,1,0.629607497034,2017-01-03
+569,Toronto Maple Leafs,0,Washington Capitals,1,1,1,0.6995576586,2017-01-03
+570,Detroit Red Wings,0,Anaheim Ducks,1,1,1,0.615512972167,2017-01-04
+571,Colorado Avalanche,0,Calgary Flames,1,1,1,0.716501428274,2017-01-04
+572,Montreal Canadiens,0,Dallas Stars,1,1,0,0.709086452926,2017-01-04
+573,Winnipeg Jets,0,Florida Panthers,1,1,1,0.584507497271,2017-01-04
+574,New York Rangers,0,Philadelphia Flyers,1,1,0,0.60032708333,2017-01-04
+575,Arizona Coyotes,0,Vancouver Canucks,1,1,1,0.611182671851,2017-01-04
+576,Edmonton Oilers,0,Boston Bruins,1,1,1,0.580932233556,2017-01-05
+577,Buffalo Sabres,0,Chicago Blackhawks,1,1,1,0.736746921382,2017-01-05
+578,Detroit Red Wings,0,Los Angeles Kings,1,1,1,0.666044799517,2017-01-05
+579,Minnesota Wild,0,San Jose Sharks,1,1,1,0.530987611415,2017-01-05
+580,Carolina Hurricanes,0,St. Louis Blues,1,1,1,0.590005061398,2017-01-05
+581,Nashville Predators,0,Tampa Bay Lightning,1,1,1,0.612922362384,2017-01-05
+582,Columbus Blue Jackets,0,Washington Capitals,1,1,0,0.565374338294,2017-01-05
+583,Arizona Coyotes,0,Anaheim Ducks,1,1,1,0.703466173086,2017-01-06
+584,Carolina Hurricanes,0,Chicago Blackhawks,1,1,1,0.662221395714,2017-01-06
+585,New York Islanders,0,Colorado Avalanche,1,1,0,0.581956547139,2017-01-06
+586,Nashville Predators,0,Florida Panthers,1,1,1,0.567187341922,2017-01-06
+587,Toronto Maple Leafs,0,New Jersey Devils,1,1,1,0.507706688505,2017-01-06
+588,Calgary Flames,0,Vancouver Canucks,1,1,0,0.524703186239,2017-01-06
+589,New York Islanders,0,Arizona Coyotes,1,1,0,0.54247930558,2017-01-07
+590,Winnipeg Jets,0,Buffalo Sabres,1,1,1,0.525214630137,2017-01-07
+591,New York Rangers,0,Columbus Blue Jackets,1,1,1,0.602230518451,2017-01-07
+592,Vancouver Canucks,0,Calgary Flames,1,1,1,0.629463378245,2017-01-07
+593,Boston Bruins,0,Florida Panthers,1,1,0,0.541386530801,2017-01-07
+594,Minnesota Wild,0,Los Angeles Kings,1,1,0,0.535424114459,2017-01-07
+595,Edmonton Oilers,0,New Jersey Devils,1,1,0,0.567829096373,2017-01-07
+596,Washington Capitals,0,Ottawa Senators,1,1,0,0.508298965276,2017-01-07
+597,Tampa Bay Lightning,0,Philadelphia Flyers,1,1,1,0.569399150928,2017-01-07
+598,Detroit Red Wings,0,San Jose Sharks,1,1,1,0.722399211851,2017-01-07
+599,Dallas Stars,0,St. Louis Blues,1,1,1,0.682017895727,2017-01-07
+600,Montreal Canadiens,0,Toronto Maple Leafs,1,1,0,0.654960814245,2017-01-07
+601,Minnesota Wild,0,Anaheim Ducks,1,1,0,0.58946117807,2017-01-08
+602,Boston Bruins,0,Carolina Hurricanes,1,1,0,0.512589168592,2017-01-08
+603,Philadelphia Flyers,0,Columbus Blue Jackets,1,1,1,0.738291385832,2017-01-08
+604,Nashville Predators,0,Chicago Blackhawks,1,1,1,0.699231567316,2017-01-08
+605,Edmonton Oilers,0,Ottawa Senators,1,1,1,0.572645708148,2017-01-08
+606,Tampa Bay Lightning,0,Pittsburgh Penguins,1,1,1,0.660893540666,2017-01-08
+607,Dallas Stars,0,Los Angeles Kings,1,1,1,0.706101089583,2017-01-09
+608,Washington Capitals,0,Montreal Canadiens,1,1,1,0.608796994712,2017-01-09
+609,Florida Panthers,0,New Jersey Devils,1,1,0,0.500663237502,2017-01-09
+610,Calgary Flames,0,Winnipeg Jets,1,1,1,0.507297904106,2017-01-09
+611,Dallas Stars,0,Anaheim Ducks,1,1,1,0.658522846047,2017-01-10
+612,Philadelphia Flyers,0,Buffalo Sabres,1,1,0,0.569047783523,2017-01-10
+613,Columbus Blue Jackets,0,Carolina Hurricanes,1,1,0,0.677792108564,2017-01-10
+614,Detroit Red Wings,0,Chicago Blackhawks,1,1,1,0.708087029131,2017-01-10
+615,San Jose Sharks,0,Edmonton Oilers,1,1,0,0.539338953304,2017-01-10
+616,Vancouver Canucks,0,Nashville Predators,1,1,1,0.602170802872,2017-01-10
+617,Boston Bruins,0,St. Louis Blues,1,1,1,0.524507325111,2017-01-10
+618,San Jose Sharks,0,Calgary Flames,1,1,0,0.590855895095,2017-01-11
+619,Florida Panthers,0,New York Islanders,1,1,1,0.527645237702,2017-01-11
+620,Montreal Canadiens,0,Winnipeg Jets,1,1,0,0.675513507065,2017-01-11
+621,Pittsburgh Penguins,0,Washington Capitals,1,1,1,0.542575226318,2017-01-11
+622,Anaheim Ducks,0,Colorado Avalanche,1,1,0,0.644126302946,2017-01-12
+623,Detroit Red Wings,0,Dallas Stars,1,1,1,0.507334123417,2017-01-12
+624,New Jersey Devils,0,Edmonton Oilers,1,1,1,0.669078785564,2017-01-12
+625,St. Louis Blues,0,Los Angeles Kings,1,1,1,0.58150942706,2017-01-12
+626,Montreal Canadiens,0,Minnesota Wild,1,1,1,0.531833254064,2017-01-12
+627,Boston Bruins,0,Nashville Predators,1,1,0,0.5549766722,2017-01-12
+628,Pittsburgh Penguins,0,Ottawa Senators,1,1,0,0.519489039799,2017-01-12
+629,Vancouver Canucks,0,Philadelphia Flyers,1,1,1,0.673159355262,2017-01-12
+630,Buffalo Sabres,0,Tampa Bay Lightning,1,1,1,0.655905469008,2017-01-12
+631,Winnipeg Jets,0,Arizona Coyotes,1,1,0,0.537268518269,2017-01-13
+632,Buffalo Sabres,0,Carolina Hurricanes,1,1,1,0.639093164855,2017-01-13
+633,New Jersey Devils,0,Calgary Flames,1,1,1,0.621094987397,2017-01-13
+634,New York Islanders,0,Florida Panthers,1,1,1,0.579404256209,2017-01-13
+635,Toronto Maple Leafs,0,New York Rangers,1,1,1,0.754813172648,2017-01-13
+636,Columbus Blue Jackets,0,Tampa Bay Lightning,1,1,0,0.661497289689,2017-01-13
+637,Chicago Blackhawks,0,Washington Capitals,1,1,1,0.559332520032,2017-01-13
+638,Anaheim Ducks,0,Arizona Coyotes,1,1,0,0.606550762105,2017-01-14
+639,Philadelphia Flyers,0,Boston Bruins,1,1,1,0.585120700744,2017-01-14
+640,New York Islanders,0,Carolina Hurricanes,1,1,1,0.607278484618,2017-01-14
+641,Nashville Predators,0,Colorado Avalanche,1,1,0,0.594054947026,2017-01-14
+642,Minnesota Wild,0,Dallas Stars,1,1,0,0.69060425018,2017-01-14
+643,Pittsburgh Penguins,0,Detroit Red Wings,1,1,0,0.62780891065,2017-01-14
+644,Calgary Flames,0,Edmonton Oilers,1,1,1,0.604758940637,2017-01-14
+645,Columbus Blue Jackets,0,Florida Panthers,1,1,0,0.702493921575,2017-01-14
+646,Winnipeg Jets,0,Los Angeles Kings,1,1,1,0.67234281722,2017-01-14
+647,New York Rangers,0,Montreal Canadiens,1,1,1,0.540660219849,2017-01-14
+648,Toronto Maple Leafs,0,Ottawa Senators,1,1,1,0.644851119557,2017-01-14
+649,St. Louis Blues,0,San Jose Sharks,1,1,1,0.644515352855,2017-01-14
+650,St. Louis Blues,0,Anaheim Ducks,1,1,1,0.527265104292,2017-01-15
+651,Minnesota Wild,0,Chicago Blackhawks,1,1,1,0.51345349182,2017-01-15
+652,New Jersey Devils,0,Vancouver Canucks,1,1,1,0.544827845044,2017-01-15
+653,Philadelphia Flyers,0,Washington Capitals,1,1,1,0.636126889131,2017-01-15
+654,New York Islanders,0,Boston Bruins,1,1,1,0.668579003496,2017-01-16
+655,Dallas Stars,0,Buffalo Sabres,1,1,1,0.56430839316,2017-01-16
+656,Montreal Canadiens,0,Detroit Red Wings,1,1,0,0.669246452959,2017-01-16
+657,Arizona Coyotes,0,Edmonton Oilers,1,1,1,0.726415888422,2017-01-16
+658,Tampa Bay Lightning,0,Los Angeles Kings,1,1,1,0.599595071353,2017-01-16
+659,Washington Capitals,0,Pittsburgh Penguins,1,1,1,0.56471196146,2017-01-16
+660,Winnipeg Jets,0,San Jose Sharks,1,1,1,0.728068359253,2017-01-16
+661,Tampa Bay Lightning,0,Anaheim Ducks,1,1,1,0.545864230862,2017-01-17
+662,Carolina Hurricanes,0,Columbus Blue Jackets,1,1,1,0.763987342081,2017-01-17
+663,Florida Panthers,0,Calgary Flames,1,1,1,0.568573753484,2017-01-17
+664,Chicago Blackhawks,0,Colorado Avalanche,1,1,0,0.732801742377,2017-01-17
+665,New Jersey Devils,0,Minnesota Wild,1,1,1,0.76289472931,2017-01-17
+666,Dallas Stars,0,New York Rangers,1,1,1,0.798103595389,2017-01-17
+667,Ottawa Senators,0,St. Louis Blues,1,1,1,0.532965998505,2017-01-17
+668,Buffalo Sabres,0,Toronto Maple Leafs,1,1,1,0.604054967627,2017-01-17
+669,Nashville Predators,0,Vancouver Canucks,1,1,1,0.50412584588,2017-01-17
+670,Boston Bruins,0,Detroit Red Wings,1,1,0,0.565439798632,2017-01-18
+671,Florida Panthers,0,Edmonton Oilers,1,1,1,0.61913007594,2017-01-18
+672,San Jose Sharks,0,Los Angeles Kings,1,1,0,0.512630486859,2017-01-18
+673,Pittsburgh Penguins,0,Montreal Canadiens,1,1,1,0.598077602145,2017-01-18
+674,Arizona Coyotes,0,Winnipeg Jets,1,1,1,0.641153274994,2017-01-18
+675,Colorado Avalanche,0,Anaheim Ducks,1,1,1,0.735817325036,2017-01-19
+676,Ottawa Senators,0,Columbus Blue Jackets,1,1,1,0.719651793071,2017-01-19
+677,Nashville Predators,0,Calgary Flames,1,1,1,0.581980311648,2017-01-19
+678,Arizona Coyotes,0,Minnesota Wild,1,1,1,0.808626160883,2017-01-19
+679,Dallas Stars,0,New York Islanders,1,1,1,0.597295733503,2017-01-19
+680,Tampa Bay Lightning,0,San Jose Sharks,1,1,1,0.661463290087,2017-01-19
+681,Washington Capitals,0,St. Louis Blues,1,1,0,0.529130574864,2017-01-19
+682,New York Rangers,0,Toronto Maple Leafs,1,1,0,0.666728991622,2017-01-19
+683,Chicago Blackhawks,0,Boston Bruins,1,1,1,0.505922533461,2017-01-20
+684,Detroit Red Wings,0,Buffalo Sabres,1,1,1,0.518115507772,2017-01-20
+685,Pittsburgh Penguins,0,Carolina Hurricanes,1,1,0,0.57686729836,2017-01-20
+686,Nashville Predators,0,Edmonton Oilers,1,1,1,0.631982473622,2017-01-20
+687,Montreal Canadiens,0,New Jersey Devils,1,1,0,0.695423618437,2017-01-20
+688,Florida Panthers,0,Vancouver Canucks,1,1,0,0.509591288727,2017-01-20
+689,Tampa Bay Lightning,0,Arizona Coyotes,1,1,0,0.614051141887,2017-01-21
+690,Carolina Hurricanes,0,Columbus Blue Jackets,1,1,1,0.763987342081,2017-01-21
+691,Edmonton Oilers,0,Calgary Flames,1,1,1,0.501422008884,2017-01-21
+692,Washington Capitals,0,Dallas Stars,1,1,0,0.660204156027,2017-01-21
+693,Anaheim Ducks,0,Minnesota Wild,1,1,1,0.68842375463,2017-01-21
+694,Buffalo Sabres,0,Montreal Canadiens,1,1,1,0.78224855532,2017-01-21
+695,Los Angeles Kings,0,New York Islanders,1,1,0,0.566307531861,2017-01-21
+696,New Jersey Devils,0,Philadelphia Flyers,1,1,1,0.665253011348,2017-01-21
+697,Colorado Avalanche,0,San Jose Sharks,1,1,1,0.819089207016,2017-01-21
+698,Ottawa Senators,0,Toronto Maple Leafs,1,1,0,0.541270950375,2017-01-21
+699,St. Louis Blues,0,Winnipeg Jets,1,1,0,0.543469129598,2017-01-21
+700,Vancouver Canucks,0,Chicago Blackhawks,1,1,1,0.739360738645,2017-01-22
+701,New York Rangers,0,Detroit Red Wings,1,1,0,0.680764877914,2017-01-22
+702,Nashville Predators,0,Minnesota Wild,1,1,1,0.732104333167,2017-01-22
+703,Philadelphia Flyers,0,New York Islanders,1,1,0,0.535545816228,2017-01-22
+704,Columbus Blue Jackets,0,Ottawa Senators,1,1,0,0.625207936728,2017-01-22
+705,Boston Bruins,0,Pittsburgh Penguins,1,1,1,0.616583089641,2017-01-22
+706,Florida Panthers,0,Arizona Coyotes,1,1,0,0.568355567098,2017-01-23
+707,San Jose Sharks,0,Colorado Avalanche,1,1,0,0.746336278966,2017-01-23
+708,Los Angeles Kings,0,New York Rangers,1,1,1,0.671167936228,2017-01-23
+709,Calgary Flames,0,Toronto Maple Leafs,1,1,1,0.530339061981,2017-01-23
+710,Anaheim Ducks,0,Winnipeg Jets,1,1,0,0.516987016946,2017-01-23
+711,Carolina Hurricanes,0,Washington Capitals,1,1,1,0.667334019253,2017-01-23
+712,Detroit Red Wings,0,Boston Bruins,1,1,1,0.666920905435,2017-01-24
+713,Tampa Bay Lightning,0,Chicago Blackhawks,1,1,1,0.645550922113,2017-01-24
+714,Minnesota Wild,0,Dallas Stars,1,1,0,0.69060425018,2017-01-24
+715,Calgary Flames,0,Montreal Canadiens,1,1,1,0.726698083658,2017-01-24
+716,Los Angeles Kings,0,New Jersey Devils,1,1,0,0.593908890332,2017-01-24
+717,Buffalo Sabres,0,Nashville Predators,1,1,1,0.598927496606,2017-01-24
+718,Columbus Blue Jackets,0,New York Islanders,1,1,0,0.723925816869,2017-01-24
+719,Washington Capitals,0,Ottawa Senators,1,1,0,0.508298965276,2017-01-24
+720,St. Louis Blues,0,Pittsburgh Penguins,1,1,1,0.643932434453,2017-01-24
+721,San Jose Sharks,0,Winnipeg Jets,1,1,0,0.635021892255,2017-01-24
+722,Edmonton Oilers,0,Anaheim Ducks,1,1,1,0.525691346459,2017-01-25
+723,Vancouver Canucks,0,Colorado Avalanche,1,1,0,0.545312015093,2017-01-25
+724,Toronto Maple Leafs,0,Detroit Red Wings,1,1,1,0.537839915048,2017-01-25
+725,Philadelphia Flyers,0,New York Rangers,1,1,1,0.698012264928,2017-01-25
+726,Vancouver Canucks,0,Arizona Coyotes,1,1,0,0.505315829175,2017-01-26
+727,Pittsburgh Penguins,0,Boston Bruins,1,1,0,0.51101022619,2017-01-26
+728,Los Angeles Kings,0,Carolina Hurricanes,1,1,0,0.511604397612,2017-01-26
+729,Winnipeg Jets,0,Chicago Blackhawks,1,1,1,0.713932716344,2017-01-26
+730,Buffalo Sabres,0,Dallas Stars,1,1,1,0.542982622053,2017-01-26
+731,Tampa Bay Lightning,0,Florida Panthers,1,1,1,0.50657031162,2017-01-26
+732,St. Louis Blues,0,Minnesota Wild,1,1,1,0.665169650787,2017-01-26
+733,Washington Capitals,0,New Jersey Devils,1,1,0,0.645393640703,2017-01-26
+734,Columbus Blue Jackets,0,Nashville Predators,1,1,0,0.713833454927,2017-01-26
+735,Montreal Canadiens,0,New York Islanders,1,1,0,0.670898686958,2017-01-26
+736,Calgary Flames,0,Ottawa Senators,1,1,1,0.623041220074,2017-01-26
+737,Toronto Maple Leafs,0,Philadelphia Flyers,1,1,1,0.622955196758,2017-01-26
+738,Edmonton Oilers,0,San Jose Sharks,1,1,1,0.643067691589,2017-01-26
+739,Colorado Avalanche,0,Anaheim Ducks,1,1,1,0.735817325036,2017-01-31
+740,Los Angeles Kings,0,Arizona Coyotes,1,1,0,0.657605240572,2017-01-31
+741,Philadelphia Flyers,0,Carolina Hurricanes,1,1,1,0.519478171514,2017-01-31
+742,Toronto Maple Leafs,0,Dallas Stars,1,1,0,0.508629853278,2017-01-31
+743,New Jersey Devils,0,Detroit Red Wings,1,1,1,0.583299124579,2017-01-31
+744,Minnesota Wild,0,Edmonton Oilers,1,1,0,0.561950849588,2017-01-31
+745,Ottawa Senators,0,Florida Panthers,1,1,0,0.532946718332,2017-01-31
+746,Buffalo Sabres,0,Montreal Canadiens,1,1,1,0.78224855532,2017-01-31
+747,Washington Capitals,0,New York Islanders,1,1,0,0.619047027231,2017-01-31
+748,Columbus Blue Jackets,0,New York Rangers,1,1,1,0.504063530787,2017-01-31
+749,Nashville Predators,0,Pittsburgh Penguins,1,1,1,0.713282592351,2017-01-31
+750,Chicago Blackhawks,0,San Jose Sharks,1,1,1,0.570966029029,2017-01-31
+751,Winnipeg Jets,0,St. Louis Blues,1,1,1,0.646876767554,2017-01-31
+752,Boston Bruins,0,Tampa Bay Lightning,1,1,1,0.505825373103,2017-01-31
+753,Minnesota Wild,0,Calgary Flames,1,1,0,0.612754684169,2017-02-01
+754,Colorado Avalanche,0,Los Angeles Kings,1,1,1,0.776284719326,2017-02-01
+755,Boston Bruins,0,Washington Capitals,1,1,1,0.605938949401,2017-02-01
+756,Chicago Blackhawks,0,Arizona Coyotes,1,1,0,0.70023175279,2017-02-02
+757,New York Rangers,0,Buffalo Sabres,1,1,0,0.711012463226,2017-02-02
+758,Winnipeg Jets,0,Dallas Stars,1,1,1,0.514443226853,2017-02-02
+759,Edmonton Oilers,0,Nashville Predators,1,1,0,0.527399766025,2017-02-02
+760,Montreal Canadiens,0,Philadelphia Flyers,1,1,0,0.587664265593,2017-02-02
+761,Toronto Maple Leafs,0,St. Louis Blues,1,1,1,0.625515778812,2017-02-02
+762,Ottawa Senators,0,Tampa Bay Lightning,1,1,1,0.514308641083,2017-02-02
+763,San Jose Sharks,0,Vancouver Canucks,1,1,0,0.664164645238,2017-02-02
+764,Edmonton Oilers,0,Carolina Hurricanes,1,1,1,0.515176109039,2017-02-03
+765,New York Islanders,0,Detroit Red Wings,1,1,1,0.555516332867,2017-02-03
+766,Anaheim Ducks,0,Florida Panthers,1,1,1,0.514450910437,2017-02-03
+767,Calgary Flames,0,New Jersey Devils,1,1,0,0.515788837181,2017-02-03
+768,Columbus Blue Jackets,0,Pittsburgh Penguins,1,1,0,0.554336119522,2017-02-03
+769,Toronto Maple Leafs,0,Boston Bruins,1,1,1,0.652586964686,2017-02-04
+770,Ottawa Senators,0,Buffalo Sabres,1,1,0,0.592024041438,2017-02-04
+771,New Jersey Devils,0,Columbus Blue Jackets,1,1,1,0.818822220764,2017-02-04
+772,Winnipeg Jets,0,Colorado Avalanche,1,1,0,0.576844657004,2017-02-04
+773,Chicago Blackhawks,0,Dallas Stars,1,1,0,0.655038598878,2017-02-04
+774,Washington Capitals,0,Montreal Canadiens,1,1,1,0.608796994712,2017-02-04
+775,Detroit Red Wings,0,Nashville Predators,1,1,1,0.564139919905,2017-02-04
+776,Carolina Hurricanes,0,New York Islanders,1,1,0,0.50121614692,2017-02-04
+777,Los Angeles Kings,0,Philadelphia Flyers,1,1,1,0.522767495153,2017-02-04
+778,Arizona Coyotes,0,San Jose Sharks,1,1,1,0.794081618329,2017-02-04
+779,Pittsburgh Penguins,0,St. Louis Blues,1,1,0,0.540275344808,2017-02-04
+780,Anaheim Ducks,0,Tampa Bay Lightning,1,1,1,0.561449792415,2017-02-04
+781,Minnesota Wild,0,Vancouver Canucks,1,1,0,0.684236609916,2017-02-04
+782,Edmonton Oilers,0,Montreal Canadiens,1,1,1,0.683112119694,2017-02-05
+783,Calgary Flames,0,New York Rangers,1,1,1,0.737002011181,2017-02-05
+784,Los Angeles Kings,0,Washington Capitals,1,1,1,0.606879668955,2017-02-05
+785,Buffalo Sabres,0,New Jersey Devils,1,1,1,0.559148729191,2017-02-06
+786,Toronto Maple Leafs,0,New York Islanders,1,1,1,0.535981690256,2017-02-06
+787,St. Louis Blues,0,Philadelphia Flyers,1,1,1,0.550971013441,2017-02-06
+788,San Jose Sharks,0,Buffalo Sabres,1,1,0,0.661142339191,2017-02-07
+789,Montreal Canadiens,0,Colorado Avalanche,1,1,0,0.778780524975,2017-02-07
+790,Columbus Blue Jackets,0,Detroit Red Wings,1,1,0,0.722429659674,2017-02-07
+791,Vancouver Canucks,0,Nashville Predators,1,1,1,0.602170802872,2017-02-07
+792,Anaheim Ducks,0,New York Rangers,1,1,1,0.717739506341,2017-02-07
+793,St. Louis Blues,0,Ottawa Senators,1,1,1,0.574189865022,2017-02-07
+794,Calgary Flames,0,Pittsburgh Penguins,1,1,1,0.689114673969,2017-02-07
+795,Los Angeles Kings,0,Tampa Bay Lightning,1,1,1,0.506810563508,2017-02-07
+796,Dallas Stars,0,Toronto Maple Leafs,1,1,1,0.614328770008,2017-02-07
+797,Minnesota Wild,0,Winnipeg Jets,1,1,0,0.655933319247,2017-02-07
+798,Carolina Hurricanes,0,Washington Capitals,1,1,1,0.667334019253,2017-02-07
+799,Chicago Blackhawks,0,Minnesota Wild,1,1,1,0.593196434049,2017-02-08
+800,Montreal Canadiens,0,Arizona Coyotes,1,1,0,0.749902316327,2017-02-09
+801,San Jose Sharks,0,Boston Bruins,1,1,0,0.511645719826,2017-02-09
+802,Anaheim Ducks,0,Buffalo Sabres,1,1,0,0.545508987908,2017-02-09
+803,Vancouver Canucks,0,Columbus Blue Jackets,1,1,1,0.824060700546,2017-02-09
+804,Pittsburgh Penguins,0,Colorado Avalanche,1,1,0,0.745854487524,2017-02-09
+805,Los Angeles Kings,0,Florida Panthers,1,1,0,0.540407775355,2017-02-09
+806,Nashville Predators,0,New York Rangers,1,1,1,0.758750486021,2017-02-09
+807,Dallas Stars,0,Ottawa Senators,1,1,1,0.699835844665,2017-02-09
+808,New York Islanders,0,Philadelphia Flyers,1,1,1,0.639557861289,2017-02-09
+809,St. Louis Blues,0,Toronto Maple Leafs,1,1,0,0.520489708338,2017-02-09
+810,Detroit Red Wings,0,Washington Capitals,1,1,1,0.71280650162,2017-02-09
+811,Tampa Bay Lightning,0,Minnesota Wild,1,1,1,0.681619311834,2017-02-10
+812,Chicago Blackhawks,0,Winnipeg Jets,1,1,0,0.618583339772,2017-02-10
+813,Pittsburgh Penguins,0,Arizona Coyotes,1,1,0,0.71425514681,2017-02-11
+814,Vancouver Canucks,0,Boston Bruins,1,1,1,0.700740975974,2017-02-11
+815,Detroit Red Wings,0,Columbus Blue Jackets,1,1,1,0.800203673555,2017-02-11
+816,Carolina Hurricanes,0,Dallas Stars,1,1,0,0.54576242978,2017-02-11
+817,Chicago Blackhawks,0,Edmonton Oilers,1,1,0,0.521835893515,2017-02-11
+818,St. Louis Blues,0,Montreal Canadiens,1,1,1,0.684477055892,2017-02-11
+819,Florida Panthers,0,Nashville Predators,1,1,1,0.540073226073,2017-02-11
+820,Colorado Avalanche,0,New York Rangers,1,1,1,0.850954410585,2017-02-11
+821,New York Islanders,0,Ottawa Senators,1,1,1,0.661014279984,2017-02-11
+822,San Jose Sharks,0,Philadelphia Flyers,1,1,0,0.543616547236,2017-02-11
+823,Buffalo Sabres,0,Toronto Maple Leafs,1,1,1,0.604054967627,2017-02-11
+824,Tampa Bay Lightning,0,Winnipeg Jets,1,1,0,0.524857294428,2017-02-11
+825,Anaheim Ducks,0,Washington Capitals,1,1,1,0.657915538499,2017-02-11
+826,Montreal Canadiens,0,Boston Bruins,1,1,0,0.556260355603,2017-02-12
+827,Vancouver Canucks,0,Buffalo Sabres,1,1,1,0.557008792299,2017-02-12
+828,Detroit Red Wings,0,Minnesota Wild,1,1,1,0.740351330868,2017-02-12
+829,San Jose Sharks,0,New Jersey Devils,1,1,0,0.656151858732,2017-02-12
+830,Dallas Stars,0,Nashville Predators,1,1,1,0.6092482798,2017-02-12
+831,Colorado Avalanche,0,New York Islanders,1,1,1,0.681751463807,2017-02-12
+832,New York Rangers,0,Columbus Blue Jackets,1,1,1,0.602230518451,2017-02-13
+833,Arizona Coyotes,0,Calgary Flames,1,1,1,0.682804564043,2017-02-13
+834,Arizona Coyotes,0,Edmonton Oilers,1,1,1,0.726415888422,2017-02-14
+835,Anaheim Ducks,0,Minnesota Wild,1,1,1,0.68842375463,2017-02-14
+836,Colorado Avalanche,0,New Jersey Devils,1,1,1,0.656669146137,2017-02-14
+837,Buffalo Sabres,0,Ottawa Senators,1,1,1,0.690692999028,2017-02-14
+838,Vancouver Canucks,0,Pittsburgh Penguins,1,1,1,0.752201421378,2017-02-14
+839,New York Islanders,0,Toronto Maple Leafs,1,1,1,0.571223841121,2017-02-14
+840,Dallas Stars,0,Winnipeg Jets,1,1,1,0.592239988405,2017-02-14
+841,Toronto Maple Leafs,0,Columbus Blue Jackets,1,1,1,0.789797688636,2017-02-15
+842,Philadelphia Flyers,0,Calgary Flames,1,1,1,0.505729023832,2017-02-15
+843,St. Louis Blues,0,Detroit Red Wings,1,1,0,0.536402028506,2017-02-15
+844,Florida Panthers,0,San Jose Sharks,1,1,1,0.702462187581,2017-02-15
+845,Colorado Avalanche,0,Buffalo Sabres,1,1,1,0.651647498292,2017-02-16
+846,Philadelphia Flyers,0,Edmonton Oilers,1,1,1,0.557923795859,2017-02-16
+847,Arizona Coyotes,0,Los Angeles Kings,1,1,1,0.747186470966,2017-02-16
+848,Dallas Stars,0,Minnesota Wild,1,1,1,0.774512289132,2017-02-16
+849,Ottawa Senators,0,New Jersey Devils,1,1,0,0.586652043383,2017-02-16
+850,New York Rangers,0,New York Islanders,1,1,0,0.682386880106,2017-02-16
+851,Winnipeg Jets,0,Pittsburgh Penguins,1,1,1,0.727564536379,2017-02-16
+852,Vancouver Canucks,0,St. Louis Blues,1,1,1,0.675556560639,2017-02-16
+853,Florida Panthers,0,Anaheim Ducks,1,1,1,0.592232560092,2017-02-17
+854,Colorado Avalanche,0,Carolina Hurricanes,1,1,1,0.727546150214,2017-02-17
+855,Pittsburgh Penguins,0,Columbus Blue Jackets,1,1,1,0.656836542733,2017-02-17
+856,San Jose Sharks,0,Arizona Coyotes,1,1,0,0.714773933956,2017-02-18
+857,St. Louis Blues,0,Buffalo Sabres,1,1,0,0.571722773006,2017-02-18
+858,Edmonton Oilers,0,Chicago Blackhawks,1,1,1,0.626778538078,2017-02-18
+859,Tampa Bay Lightning,0,Dallas Stars,1,1,0,0.563956052869,2017-02-18
+860,Washington Capitals,0,Detroit Red Wings,1,1,0,0.617282974644,2017-02-18
+861,Florida Panthers,0,Los Angeles Kings,1,1,1,0.644054677437,2017-02-18
+862,Nashville Predators,0,Minnesota Wild,1,1,1,0.732104333167,2017-02-18
+863,Winnipeg Jets,0,Montreal Canadiens,1,1,1,0.762104352546,2017-02-18
+864,New York Islanders,0,New Jersey Devils,1,1,1,0.525518875541,2017-02-18
+865,Ottawa Senators,0,Toronto Maple Leafs,1,1,0,0.541270950375,2017-02-18
+866,Calgary Flames,0,Vancouver Canucks,1,1,0,0.524703186239,2017-02-18
+867,Los Angeles Kings,0,Anaheim Ducks,1,1,0,0.501073259903,2017-02-19
+868,Chicago Blackhawks,0,Buffalo Sabres,1,1,0,0.645222976725,2017-02-19
+869,Toronto Maple Leafs,0,Carolina Hurricanes,1,1,1,0.590141811906,2017-02-19
+870,Nashville Predators,0,Columbus Blue Jackets,1,1,1,0.793327029496,2017-02-19
+871,Tampa Bay Lightning,0,Colorado Avalanche,1,1,0,0.651322146928,2017-02-19
+872,New Jersey Devils,0,New York Islanders,1,1,1,0.581481449976,2017-02-19
+873,Washington Capitals,0,New York Rangers,1,1,1,0.621229121595,2017-02-19
+874,Winnipeg Jets,0,Ottawa Senators,1,1,1,0.665698639261,2017-02-19
+875,Detroit Red Wings,0,Pittsburgh Penguins,1,1,1,0.721888897627,2017-02-19
+876,Boston Bruins,0,San Jose Sharks,1,1,1,0.617184163888,2017-02-19
+877,Philadelphia Flyers,0,Vancouver Canucks,1,1,0,0.572360192231,2017-02-19
+878,Anaheim Ducks,0,Arizona Coyotes,1,1,0,0.606550762105,2017-02-20
+879,Florida Panthers,0,St. Louis Blues,1,1,1,0.617640365827,2017-02-20
+880,Pittsburgh Penguins,0,Carolina Hurricanes,1,1,0,0.57686729836,2017-02-21
+881,Los Angeles Kings,0,Colorado Avalanche,1,1,0,0.692774608947,2017-02-21
+882,New York Islanders,0,Detroit Red Wings,1,1,1,0.555516332867,2017-02-21
+883,Chicago Blackhawks,0,Minnesota Wild,1,1,1,0.593196434049,2017-02-21
+884,Ottawa Senators,0,New Jersey Devils,1,1,0,0.586652043383,2017-02-21
+885,Calgary Flames,0,Nashville Predators,1,1,1,0.525007626991,2017-02-21
+886,Montreal Canadiens,0,New York Rangers,1,1,1,0.566607073768,2017-02-21
+887,Edmonton Oilers,0,Tampa Bay Lightning,1,1,1,0.5335477603,2017-02-21
+888,Winnipeg Jets,0,Toronto Maple Leafs,1,1,1,0.576353764607,2017-02-21
+889,Boston Bruins,0,Anaheim Ducks,1,1,0,0.502058597971,2017-02-22
+890,Edmonton Oilers,0,Florida Panthers,1,1,0,0.513705403581,2017-02-22
+891,Washington Capitals,0,Philadelphia Flyers,1,1,0,0.531849496637,2017-02-22
+892,Arizona Coyotes,0,Chicago Blackhawks,1,1,1,0.782351681451,2017-02-23
+893,Boston Bruins,0,Los Angeles Kings,1,1,1,0.552696000852,2017-02-23
+894,New York Islanders,0,Montreal Canadiens,1,1,1,0.758280355816,2017-02-23
+895,Colorado Avalanche,0,Nashville Predators,1,1,1,0.692487858535,2017-02-23
+896,Calgary Flames,0,Tampa Bay Lightning,1,1,1,0.585214267029,2017-02-23
+897,New York Rangers,0,Toronto Maple Leafs,1,1,0,0.666728991622,2017-02-23
+898,Ottawa Senators,0,Carolina Hurricanes,1,1,0,0.50410482536,2017-02-24
+899,Arizona Coyotes,0,Dallas Stars,1,1,1,0.604117465146,2017-02-24
+900,Calgary Flames,0,Florida Panthers,1,1,1,0.538669539361,2017-02-24
+901,Edmonton Oilers,0,Washington Capitals,1,1,1,0.632129614585,2017-02-24
+902,New York Islanders,0,Columbus Blue Jackets,1,1,1,0.801395861419,2017-02-25
+903,Buffalo Sabres,0,Colorado Avalanche,1,1,0,0.548662162116,2017-02-25
+904,Anaheim Ducks,0,Los Angeles Kings,1,1,1,0.607142166291,2017-02-25
+905,New York Rangers,0,New Jersey Devils,1,1,0,0.706430315056,2017-02-25
+906,Washington Capitals,0,Nashville Predators,1,1,0,0.607200966776,2017-02-25
+907,Philadelphia Flyers,0,Pittsburgh Penguins,1,1,1,0.646431411895,2017-02-25
+908,Montreal Canadiens,0,Toronto Maple Leafs,1,1,0,0.654960814245,2017-02-25
+909,San Jose Sharks,0,Vancouver Canucks,1,1,0,0.664164645238,2017-02-25
+910,Buffalo Sabres,0,Arizona Coyotes,1,1,0,0.508695162252,2017-02-26
+911,Calgary Flames,0,Carolina Hurricanes,1,1,1,0.567226967143,2017-02-26
+912,St. Louis Blues,0,Chicago Blackhawks,1,1,1,0.628254073875,2017-02-26
+913,Boston Bruins,0,Dallas Stars,1,1,0,0.61050651134,2017-02-26
+914,Ottawa Senators,0,Florida Panthers,1,1,0,0.532946718332,2017-02-26
+915,Edmonton Oilers,0,Nashville Predators,1,1,0,0.527399766025,2017-02-26
+916,Columbus Blue Jackets,0,New York Rangers,1,1,1,0.504063530787,2017-02-26
+917,Los Angeles Kings,0,Minnesota Wild,1,1,1,0.639445064982,2017-02-27
+918,Montreal Canadiens,0,New Jersey Devils,1,1,0,0.695423618437,2017-02-27
+919,Ottawa Senators,0,Tampa Bay Lightning,1,1,1,0.514308641083,2017-02-27
+920,Arizona Coyotes,0,Boston Bruins,1,1,1,0.7479302698,2017-02-28
+921,Nashville Predators,0,Buffalo Sabres,1,1,1,0.507505385215,2017-02-28
+922,Los Angeles Kings,0,Calgary Flames,1,1,0,0.525343503649,2017-02-28
+923,Pittsburgh Penguins,0,Dallas Stars,1,1,0,0.670180357819,2017-02-28
+924,Carolina Hurricanes,0,Florida Panthers,1,1,1,0.524967373465,2017-02-28
+925,Columbus Blue Jackets,0,Montreal Canadiens,1,1,0,0.509062947059,2017-02-28
+926,Washington Capitals,0,New York Rangers,1,1,1,0.621229121595,2017-02-28
+927,Colorado Avalanche,0,Philadelphia Flyers,1,1,1,0.753945517337,2017-02-28
+928,Toronto Maple Leafs,0,San Jose Sharks,1,1,1,0.709412495249,2017-02-28
+929,Edmonton Oilers,0,St. Louis Blues,1,1,1,0.552109675842,2017-02-28
+930,Detroit Red Wings,0,Vancouver Canucks,1,1,1,0.514739159676,2017-02-28
+931,Minnesota Wild,0,Winnipeg Jets,1,1,0,0.655933319247,2017-02-28
+932,Pittsburgh Penguins,0,Chicago Blackhawks,1,1,1,0.536875870348,2017-03-01
+933,Carolina Hurricanes,0,Tampa Bay Lightning,1,1,1,0.5717955994,2017-03-01
+934,New York Rangers,0,Boston Bruins,1,1,0,0.569180570676,2017-03-02
+935,Arizona Coyotes,0,Buffalo Sabres,1,1,1,0.614390681083,2017-03-02
+936,Minnesota Wild,0,Columbus Blue Jackets,1,1,1,0.635360525779,2017-03-02
+937,New York Islanders,0,Dallas Stars,1,1,1,0.509202019462,2017-03-02
+938,Toronto Maple Leafs,0,Los Angeles Kings,1,1,1,0.65169284664,2017-03-02
+939,Nashville Predators,0,Montreal Canadiens,1,1,1,0.749008454734,2017-03-02
+940,Colorado Avalanche,0,Ottawa Senators,1,1,1,0.771030465106,2017-03-02
+941,Florida Panthers,0,Philadelphia Flyers,1,1,1,0.615059073279,2017-03-02
+942,Vancouver Canucks,0,San Jose Sharks,1,1,1,0.752675170572,2017-03-02
+943,New Jersey Devils,0,Washington Capitals,1,1,1,0.736891511533,2017-03-02
+944,Toronto Maple Leafs,0,Anaheim Ducks,1,1,1,0.600292625822,2017-03-03
+945,Arizona Coyotes,0,Carolina Hurricanes,1,1,1,0.694602516632,2017-03-03
+946,Detroit Red Wings,0,Calgary Flames,1,1,1,0.592274982093,2017-03-03
+947,New York Islanders,0,Chicago Blackhawks,1,1,1,0.709629422357,2017-03-03
+948,Tampa Bay Lightning,0,Pittsburgh Penguins,1,1,1,0.660893540666,2017-03-03
+949,St. Louis Blues,0,Winnipeg Jets,1,1,0,0.543469129598,2017-03-03
+950,New Jersey Devils,0,Boston Bruins,1,1,1,0.693197748704,2017-03-04
+951,Tampa Bay Lightning,0,Buffalo Sabres,1,1,0,0.553316067073,2017-03-04
+952,Detroit Red Wings,0,Edmonton Oilers,1,1,1,0.641803638449,2017-03-04
+953,Dallas Stars,0,Florida Panthers,1,1,1,0.62223067292,2017-03-04
+954,Vancouver Canucks,0,Los Angeles Kings,1,1,1,0.699913800576,2017-03-04
+955,Chicago Blackhawks,0,Nashville Predators,1,1,0,0.601715747373,2017-03-04
+956,Montreal Canadiens,0,New York Rangers,1,1,1,0.566607073768,2017-03-04
+957,Columbus Blue Jackets,0,Ottawa Senators,1,1,0,0.625207936728,2017-03-04
+958,Colorado Avalanche,0,Winnipeg Jets,1,1,1,0.677182963597,2017-03-04
+959,Philadelphia Flyers,0,Washington Capitals,1,1,1,0.636126889131,2017-03-04
+960,Vancouver Canucks,0,Anaheim Ducks,1,1,1,0.651827817806,2017-03-05
+961,Carolina Hurricanes,0,Arizona Coyotes,1,1,0,0.596452036908,2017-03-05
+962,New York Islanders,0,Calgary Flames,1,1,1,0.594078503497,2017-03-05
+963,St. Louis Blues,0,Colorado Avalanche,1,1,0,0.668112673821,2017-03-05
+964,San Jose Sharks,0,Minnesota Wild,1,1,1,0.576131488694,2017-03-05
+965,Columbus Blue Jackets,0,New Jersey Devils,1,1,0,0.745995220208,2017-03-05
+966,Buffalo Sabres,0,Pittsburgh Penguins,1,1,1,0.749672777861,2017-03-05
+967,Boston Bruins,0,Ottawa Senators,1,1,1,0.545266569961,2017-03-06
+968,New York Rangers,0,Tampa Bay Lightning,1,1,0,0.615553494875,2017-03-06
+969,San Jose Sharks,0,Winnipeg Jets,1,1,0,0.635021892255,2017-03-06
+970,Dallas Stars,0,Washington Capitals,1,1,1,0.749364583246,2017-03-06
+971,Nashville Predators,0,Anaheim Ducks,1,1,1,0.605414142461,2017-03-07
+972,Philadelphia Flyers,0,Buffalo Sabres,1,1,0,0.569047783523,2017-03-07
+973,New Jersey Devils,0,Columbus Blue Jackets,1,1,1,0.818822220764,2017-03-07
+974,Carolina Hurricanes,0,Colorado Avalanche,1,1,0,0.634410723104,2017-03-07
+975,New York Islanders,0,Edmonton Oilers,1,1,1,0.643519938756,2017-03-07
+976,New York Rangers,0,Florida Panthers,1,1,0,0.659248147663,2017-03-07
+977,St. Louis Blues,0,Minnesota Wild,1,1,1,0.665169650787,2017-03-07
+978,Detroit Red Wings,0,Toronto Maple Leafs,1,1,1,0.569392378159,2017-03-07
+979,Montreal Canadiens,0,Vancouver Canucks,1,1,0,0.702935571765,2017-03-07
+980,Detroit Red Wings,0,Boston Bruins,1,1,1,0.666920905435,2017-03-08
+981,Ottawa Senators,0,Dallas Stars,1,1,0,0.60240454121,2017-03-08
+982,Pittsburgh Penguins,0,Winnipeg Jets,1,1,0,0.634432236322,2017-03-08
+983,Ottawa Senators,0,Arizona Coyotes,1,1,0,0.650817422812,2017-03-09
+984,New York Rangers,0,Carolina Hurricanes,1,1,0,0.632832370651,2017-03-09
+985,Montreal Canadiens,0,Calgary Flames,1,1,0,0.633418824252,2017-03-09
+986,Anaheim Ducks,0,Chicago Blackhawks,1,1,1,0.652733490164,2017-03-09
+987,New Jersey Devils,0,Colorado Avalanche,1,1,0,0.554152661867,2017-03-09
+988,Nashville Predators,0,Los Angeles Kings,1,1,1,0.656532592424,2017-03-09
+989,Washington Capitals,0,San Jose Sharks,1,1,1,0.565337027995,2017-03-09
+990,Minnesota Wild,0,Tampa Bay Lightning,1,1,0,0.581808374933,2017-03-09
+991,Philadelphia Flyers,0,Toronto Maple Leafs,1,1,0,0.51776463199,2017-03-09
+992,New York Islanders,0,Vancouver Canucks,1,1,1,0.516605730908,2017-03-09
+993,Buffalo Sabres,0,Columbus Blue Jackets,1,1,1,0.822091906502,2017-03-10
+994,Chicago Blackhawks,0,Detroit Red Wings,1,1,0,0.611848545504,2017-03-10
+995,Pittsburgh Penguins,0,Edmonton Oilers,1,1,0,0.538707006197,2017-03-10
+996,Minnesota Wild,0,Florida Panthers,1,1,0,0.627014397958,2017-03-10
+997,Anaheim Ducks,0,St. Louis Blues,1,1,1,0.579775878173,2017-03-10
+998,New Jersey Devils,0,Arizona Coyotes,1,1,0,0.514241403925,2017-03-11
+999,Philadelphia Flyers,0,Boston Bruins,1,1,1,0.585120700744,2017-03-11
+1000,Columbus Blue Jackets,0,Buffalo Sabres,1,1,0,0.750178212306,2017-03-11
+1001,Toronto Maple Leafs,0,Carolina Hurricanes,1,1,1,0.590141811906,2017-03-11
+1002,Ottawa Senators,0,Colorado Avalanche,1,1,0,0.686351466321,2017-03-11
+1003,Washington Capitals,0,Los Angeles Kings,1,1,0,0.500798162557,2017-03-11
+1004,Nashville Predators,0,San Jose Sharks,1,1,1,0.713802437711,2017-03-11
+1005,New York Islanders,0,St. Louis Blues,1,1,1,0.642070475006,2017-03-11
+1006,Florida Panthers,0,Tampa Bay Lightning,1,1,1,0.599825810051,2017-03-11
+1007,Pittsburgh Penguins,0,Vancouver Canucks,1,1,0,0.663597129997,2017-03-11
+1008,Calgary Flames,0,Winnipeg Jets,1,1,1,0.507297904106,2017-03-11
+1009,Washington Capitals,0,Anaheim Ducks,1,1,0,0.555519311348,2017-03-12
+1010,Minnesota Wild,0,Chicago Blackhawks,1,1,1,0.51345349182,2017-03-12
+1011,New York Rangers,0,Detroit Red Wings,1,1,0,0.680764877914,2017-03-12
+1012,Montreal Canadiens,0,Edmonton Oilers,1,1,0,0.583483197835,2017-03-12
+1013,Dallas Stars,0,San Jose Sharks,1,1,1,0.758150504919,2017-03-12
+1014,Colorado Avalanche,0,Arizona Coyotes,1,1,1,0.592906456755,2017-03-13
+1015,Pittsburgh Penguins,0,Calgary Flames,1,1,0,0.590240927496,2017-03-13
+1016,St. Louis Blues,0,Los Angeles Kings,1,1,1,0.58150942706,2017-03-13
+1017,Winnipeg Jets,0,Nashville Predators,1,1,1,0.571122261301,2017-03-13
+1018,Carolina Hurricanes,0,New York Islanders,1,1,0,0.50121614692,2017-03-13
+1019,Tampa Bay Lightning,0,New York Rangers,1,1,1,0.711306804804,2017-03-13
+1020,Columbus Blue Jackets,0,Philadelphia Flyers,1,1,0,0.647047158346,2017-03-13
+1021,Boston Bruins,0,Vancouver Canucks,1,1,0,0.603436990164,2017-03-13
+1022,New York Islanders,0,Carolina Hurricanes,1,1,1,0.607278484618,2017-03-14
+1023,Dallas Stars,0,Edmonton Oilers,1,1,1,0.683385360594,2017-03-14
+1024,Toronto Maple Leafs,0,Florida Panthers,1,1,1,0.561928680417,2017-03-14
+1025,Arizona Coyotes,0,Los Angeles Kings,1,1,1,0.747186470966,2017-03-14
+1026,Chicago Blackhawks,0,Montreal Canadiens,1,1,1,0.614247211659,2017-03-14
+1027,Winnipeg Jets,0,New Jersey Devils,1,1,1,0.530746412737,2017-03-14
+1028,Tampa Bay Lightning,0,Ottawa Senators,1,1,1,0.592370094928,2017-03-14
+1029,Buffalo Sabres,0,San Jose Sharks,1,1,1,0.750149755627,2017-03-14
+1030,Minnesota Wild,0,Washington Capitals,1,1,1,0.51918294522,2017-03-14
+1031,St. Louis Blues,0,Anaheim Ducks,1,1,1,0.527265104292,2017-03-15
+1032,Boston Bruins,0,Calgary Flames,1,1,0,0.526326220736,2017-03-15
+1033,Detroit Red Wings,0,Colorado Avalanche,1,1,0,0.583773635329,2017-03-15
+1034,Pittsburgh Penguins,0,Philadelphia Flyers,1,1,0,0.542985495836,2017-03-15
+1035,Detroit Red Wings,0,Arizona Coyotes,1,1,0,0.544333631261,2017-03-16
+1036,Minnesota Wild,0,Carolina Hurricanes,1,1,0,0.599617412335,2017-03-16
+1037,Florida Panthers,0,Columbus Blue Jackets,1,1,1,0.784185138455,2017-03-16
+1038,Boston Bruins,0,Edmonton Oilers,1,1,1,0.526081469851,2017-03-16
+1039,Buffalo Sabres,0,Los Angeles Kings,1,1,1,0.697066474047,2017-03-16
+1040,Philadelphia Flyers,0,New Jersey Devils,1,1,0,0.563596259772,2017-03-16
+1041,Winnipeg Jets,0,New York Islanders,1,1,1,0.558847945679,2017-03-16
+1042,Chicago Blackhawks,0,Ottawa Senators,1,1,0,0.502564079366,2017-03-16
+1043,St. Louis Blues,0,San Jose Sharks,1,1,1,0.644515352855,2017-03-16
+1044,Toronto Maple Leafs,0,Tampa Bay Lightning,1,1,1,0.607835172214,2017-03-16
+1045,Dallas Stars,0,Vancouver Canucks,1,1,1,0.560981454804,2017-03-16
+1046,Nashville Predators,0,Washington Capitals,1,1,1,0.704034367584,2017-03-16
+1047,Buffalo Sabres,0,Anaheim Ducks,1,1,1,0.648753203521,2017-03-17
+1048,Dallas Stars,0,Calgary Flames,1,1,1,0.636348532616,2017-03-17
+1049,Florida Panthers,0,New York Rangers,1,1,1,0.748563890259,2017-03-17
+1050,New Jersey Devils,0,Pittsburgh Penguins,1,1,1,0.745484194072,2017-03-17
+1051,St. Louis Blues,0,Arizona Coyotes,1,1,0,0.631621346153,2017-03-18
+1052,Nashville Predators,0,Carolina Hurricanes,1,1,1,0.595305708398,2017-03-18
+1053,Colorado Avalanche,0,Detroit Red Wings,1,1,1,0.683370784723,2017-03-18
+1054,Vancouver Canucks,0,Edmonton Oilers,1,1,1,0.676938650033,2017-03-18
+1055,New York Rangers,0,Minnesota Wild,1,1,1,0.518740027705,2017-03-18
+1056,Columbus Blue Jackets,0,New York Islanders,1,1,0,0.723925816869,2017-03-18
+1057,Montreal Canadiens,0,Ottawa Senators,1,1,0,0.564623040822,2017-03-18
+1058,Anaheim Ducks,0,San Jose Sharks,1,1,1,0.668488997108,2017-03-18
+1059,Washington Capitals,0,Tampa Bay Lightning,1,1,0,0.54771926373,2017-03-18
+1060,Chicago Blackhawks,0,Toronto Maple Leafs,1,1,0,0.596578214782,2017-03-18
+1061,Los Angeles Kings,0,Calgary Flames,1,1,0,0.525343503649,2017-03-19
+1062,Colorado Avalanche,0,Chicago Blackhawks,1,1,1,0.808440156358,2017-03-19
+1063,Ottawa Senators,0,Montreal Canadiens,1,1,1,0.666182278398,2017-03-19
+1064,Columbus Blue Jackets,0,New Jersey Devils,1,1,0,0.745995220208,2017-03-19
+1065,Carolina Hurricanes,0,Philadelphia Flyers,1,1,1,0.587361845803,2017-03-19
+1066,Florida Panthers,0,Pittsburgh Penguins,1,1,1,0.701930345375,2017-03-19
+1067,Minnesota Wild,0,Winnipeg Jets,1,1,0,0.655933319247,2017-03-19
+1068,San Jose Sharks,0,Dallas Stars,1,1,0,0.670742277548,2017-03-20
+1069,Buffalo Sabres,0,Detroit Red Wings,1,1,1,0.588684146324,2017-03-20
+1070,Los Angeles Kings,0,Edmonton Oilers,1,1,1,0.527064034521,2017-03-20
+1071,Arizona Coyotes,0,Nashville Predators,1,1,1,0.657301902599,2017-03-20
+1072,Boston Bruins,0,Toronto Maple Leafs,1,1,0,0.549687439738,2017-03-20
+1073,Ottawa Senators,0,Boston Bruins,1,1,1,0.56204326737,2017-03-21
+1074,Pittsburgh Penguins,0,Buffalo Sabres,1,1,0,0.660572326795,2017-03-21
+1075,Vancouver Canucks,0,Chicago Blackhawks,1,1,1,0.739360738645,2017-03-21
+1076,St. Louis Blues,0,Colorado Avalanche,1,1,0,0.668112673821,2017-03-21
+1077,Carolina Hurricanes,0,Florida Panthers,1,1,1,0.524967373465,2017-03-21
+1078,San Jose Sharks,0,Minnesota Wild,1,1,1,0.576131488694,2017-03-21
+1079,Detroit Red Wings,0,Montreal Canadiens,1,1,1,0.75690786065,2017-03-21
+1080,New York Rangers,0,New Jersey Devils,1,1,0,0.706430315056,2017-03-21
+1081,Arizona Coyotes,0,Tampa Bay Lightning,1,1,1,0.710002353533,2017-03-21
+1082,Philadelphia Flyers,0,Winnipeg Jets,1,1,0,0.540759420905,2017-03-21
+1083,Calgary Flames,0,Washington Capitals,1,1,1,0.679437244201,2017-03-21
+1084,Edmonton Oilers,0,Anaheim Ducks,1,1,1,0.525691346459,2017-03-22
+1085,Toronto Maple Leafs,0,Columbus Blue Jackets,1,1,1,0.789797688636,2017-03-22
+1086,New York Islanders,0,New York Rangers,1,1,1,0.767774085039,2017-03-22
+1087,Tampa Bay Lightning,0,Boston Bruins,1,1,1,0.600540951509,2017-03-23
+1088,Dallas Stars,0,Chicago Blackhawks,1,1,1,0.745030981584,2017-03-23
+1089,Edmonton Oilers,0,Colorado Avalanche,1,1,0,0.669510960391,2017-03-23
+1090,Arizona Coyotes,0,Florida Panthers,1,1,1,0.669553692599,2017-03-23
+1091,Winnipeg Jets,0,Los Angeles Kings,1,1,1,0.67234281722,2017-03-23
+1092,Philadelphia Flyers,0,Minnesota Wild,1,1,1,0.667596519867,2017-03-23
+1093,Carolina Hurricanes,0,Montreal Canadiens,1,1,1,0.715632420112,2017-03-23
+1094,Calgary Flames,0,Nashville Predators,1,1,1,0.525007626991,2017-03-23
+1095,Pittsburgh Penguins,0,Ottawa Senators,1,1,0,0.519489039799,2017-03-23
+1096,Vancouver Canucks,0,St. Louis Blues,1,1,1,0.675556560639,2017-03-23
+1097,New Jersey Devils,0,Toronto Maple Leafs,1,1,1,0.598734013476,2017-03-23
+1098,Columbus Blue Jackets,0,Washington Capitals,1,1,0,0.565374338294,2017-03-23
+1099,Winnipeg Jets,0,Anaheim Ducks,1,1,1,0.622223442453,2017-03-24
+1100,San Jose Sharks,0,Dallas Stars,1,1,0,0.670742277548,2017-03-24
+1101,Tampa Bay Lightning,0,Detroit Red Wings,1,1,0,0.517757734908,2017-03-24
+1102,New York Islanders,0,Pittsburgh Penguins,1,1,1,0.723386853572,2017-03-24
+1103,Toronto Maple Leafs,0,Buffalo Sabres,1,1,1,0.502158067431,2017-03-25
+1104,Philadelphia Flyers,0,Columbus Blue Jackets,1,1,1,0.738291385832,2017-03-25
+1105,Colorado Avalanche,0,Edmonton Oilers,1,1,1,0.757127705215,2017-03-25
+1106,Chicago Blackhawks,0,Florida Panthers,1,1,0,0.588494593355,2017-03-25
+1107,New York Rangers,0,Los Angeles Kings,1,1,0,0.570146790708,2017-03-25
+1108,Vancouver Canucks,0,Minnesota Wild,1,1,1,0.769294656913,2017-03-25
+1109,Ottawa Senators,0,Montreal Canadiens,1,1,1,0.666182278398,2017-03-25
+1110,Carolina Hurricanes,0,New Jersey Devils,1,1,0,0.529518481428,2017-03-25
+1111,San Jose Sharks,0,Nashville Predators,1,1,0,0.618432845773,2017-03-25
+1112,Boston Bruins,0,New York Islanders,1,1,0,0.567275296665,2017-03-25
+1113,Calgary Flames,0,St. Louis Blues,1,1,1,0.603249040899,2017-03-25
+1114,Arizona Coyotes,0,Washington Capitals,1,1,1,0.786232961474,2017-03-25
+1115,New York Rangers,0,Anaheim Ducks,1,1,0,0.62298892759,2017-03-26
+1116,Minnesota Wild,0,Detroit Red Wings,1,1,0,0.64948432434,2017-03-26
+1117,Dallas Stars,0,New Jersey Devils,1,1,1,0.569757812023,2017-03-26
+1118,Philadelphia Flyers,0,Pittsburgh Penguins,1,1,1,0.646431411895,2017-03-26
+1119,Vancouver Canucks,0,Winnipeg Jets,1,1,1,0.585064258715,2017-03-26
+1120,Florida Panthers,0,Buffalo Sabres,1,1,0,0.50621213628,2017-03-27
+1121,Colorado Avalanche,0,Calgary Flames,1,1,1,0.716501428274,2017-03-27
+1122,Nashville Predators,0,New York Islanders,1,1,1,0.541297568925,2017-03-27
+1123,Arizona Coyotes,0,St. Louis Blues,1,1,1,0.725159529161,2017-03-27
+1124,Chicago Blackhawks,0,Tampa Bay Lightning,1,1,0,0.542029901934,2017-03-27
+1125,Nashville Predators,0,Boston Bruins,1,1,1,0.657420817554,2017-03-28
+1126,Detroit Red Wings,0,Carolina Hurricanes,1,1,1,0.605494665239,2017-03-28
+1127,Buffalo Sabres,0,Columbus Blue Jackets,1,1,1,0.822091906502,2017-03-28
+1128,Los Angeles Kings,0,Edmonton Oilers,1,1,1,0.527064034521,2017-03-28
+1129,Washington Capitals,0,Minnesota Wild,1,1,1,0.587648458121,2017-03-28
+1130,Dallas Stars,0,Montreal Canadiens,1,1,1,0.78950984984,2017-03-28
+1131,Ottawa Senators,0,Philadelphia Flyers,1,1,1,0.530247833835,2017-03-28
+1132,New York Rangers,0,San Jose Sharks,1,1,0,0.504101487099,2017-03-28
+1133,Florida Panthers,0,Toronto Maple Leafs,1,1,1,0.545381989218,2017-03-28
+1134,Anaheim Ducks,0,Vancouver Canucks,1,1,0,0.548858884304,2017-03-28
+1135,St. Louis Blues,0,Arizona Coyotes,1,1,0,0.631621346153,2017-03-29
+1136,Los Angeles Kings,0,Calgary Flames,1,1,0,0.525343503649,2017-03-29
+1137,Washington Capitals,0,Colorado Avalanche,1,1,0,0.737269900557,2017-03-29
+1138,Chicago Blackhawks,0,Pittsburgh Penguins,1,1,1,0.570342905227,2017-03-29
+1139,Dallas Stars,0,Boston Bruins,1,1,1,0.706918351579,2017-03-30
+1140,Columbus Blue Jackets,0,Carolina Hurricanes,1,1,0,0.677792108564,2017-03-30
+1141,San Jose Sharks,0,Edmonton Oilers,1,1,0,0.539338953304,2017-03-30
+1142,Ottawa Senators,0,Minnesota Wild,1,1,1,0.646333818837,2017-03-30
+1143,Florida Panthers,0,Montreal Canadiens,1,1,1,0.738552250204,2017-03-30
+1144,Toronto Maple Leafs,0,Nashville Predators,1,1,1,0.548378076334,2017-03-30
+1145,New York Islanders,0,Philadelphia Flyers,1,1,1,0.639557861289,2017-03-30
+1146,Detroit Red Wings,0,Tampa Bay Lightning,1,1,1,0.622948708547,2017-03-30
+1147,Anaheim Ducks,0,Winnipeg Jets,1,1,0,0.516987016946,2017-03-30
+1148,Washington Capitals,0,Arizona Coyotes,1,1,0,0.705025319284,2017-03-31
+1149,San Jose Sharks,0,Calgary Flames,1,1,0,0.590855895095,2017-03-31
+1150,Columbus Blue Jackets,0,Chicago Blackhawks,1,1,0,0.571003222801,2017-03-31
+1151,St. Louis Blues,0,Colorado Avalanche,1,1,0,0.668112673821,2017-03-31
+1152,New Jersey Devils,0,New York Islanders,1,1,1,0.581481449976,2017-03-31
+1153,Pittsburgh Penguins,0,New York Rangers,1,1,1,0.610632511381,2017-03-31
+1154,Los Angeles Kings,0,Vancouver Canucks,1,1,0,0.602493428444,2017-03-31
+1155,Florida Panthers,0,Boston Bruins,1,1,1,0.644957720806,2017-04-01
+1156,Dallas Stars,0,Carolina Hurricanes,1,1,1,0.648986118389,2017-04-01
+1157,Toronto Maple Leafs,0,Detroit Red Wings,1,1,1,0.537839915048,2017-04-01
+1158,Anaheim Ducks,0,Edmonton Oilers,1,1,1,0.581313108421,2017-04-01
+1159,Minnesota Wild,0,Nashville Predators,1,1,0,0.639755546194,2017-04-01
+1160,New Jersey Devils,0,Philadelphia Flyers,1,1,1,0.665253011348,2017-04-01
+1161,Montreal Canadiens,0,Tampa Bay Lightning,1,1,0,0.603054112512,2017-04-01
+1162,Ottawa Senators,0,Winnipeg Jets,1,1,0,0.564088541572,2017-04-01
+1163,New York Islanders,0,Buffalo Sabres,1,1,1,0.519981202985,2017-04-02
+1164,Washington Capitals,0,Columbus Blue Jackets,1,1,1,0.66686172538,2017-04-02
+1165,Anaheim Ducks,0,Calgary Flames,1,1,1,0.529551305484,2017-04-02
+1166,Boston Bruins,0,Chicago Blackhawks,1,1,1,0.600447703214,2017-04-02
+1167,Arizona Coyotes,0,Los Angeles Kings,1,1,1,0.747186470966,2017-04-02
+1168,Colorado Avalanche,0,Minnesota Wild,1,1,1,0.832240562558,2017-04-02
+1169,Philadelphia Flyers,0,New York Rangers,1,1,1,0.698012264928,2017-04-02
+1170,Carolina Hurricanes,0,Pittsburgh Penguins,1,1,1,0.677203240524,2017-04-02
+1171,Nashville Predators,0,St. Louis Blues,1,1,1,0.630513033191,2017-04-02
+1172,Dallas Stars,0,Tampa Bay Lightning,1,1,1,0.665578724436,2017-04-02
+1173,San Jose Sharks,0,Vancouver Canucks,1,1,0,0.664164645238,2017-04-02
+1174,Toronto Maple Leafs,0,Buffalo Sabres,1,1,1,0.502158067431,2017-04-03
+1175,Ottawa Senators,0,Detroit Red Wings,1,1,0,0.557080494982,2017-04-03
+1176,Montreal Canadiens,0,Florida Panthers,1,1,0,0.647355530441,2017-04-03
+1177,Calgary Flames,0,Anaheim Ducks,1,1,1,0.577539035336,2017-04-04
+1178,Tampa Bay Lightning,0,Boston Bruins,1,1,1,0.600540951509,2017-04-04
+1179,Chicago Blackhawks,0,Colorado Avalanche,1,1,0,0.732801742377,2017-04-04
+1180,Arizona Coyotes,0,Dallas Stars,1,1,1,0.604117465146,2017-04-04
+1181,Edmonton Oilers,0,Los Angeles Kings,1,1,1,0.579972396796,2017-04-04
+1182,Carolina Hurricanes,0,Minnesota Wild,1,1,1,0.697388613019,2017-04-04
+1183,Philadelphia Flyers,0,New Jersey Devils,1,1,0,0.563596259772,2017-04-04
+1184,New York Islanders,0,Nashville Predators,1,1,1,0.565976693997,2017-04-04
+1185,Detroit Red Wings,0,Ottawa Senators,1,1,1,0.65933761953,2017-04-04
+1186,Columbus Blue Jackets,0,Pittsburgh Penguins,1,1,0,0.554336119522,2017-04-04
+1187,Vancouver Canucks,0,San Jose Sharks,1,1,1,0.752675170572,2017-04-04
+1188,Winnipeg Jets,0,St. Louis Blues,1,1,1,0.646876767554,2017-04-04
+1189,Washington Capitals,0,Toronto Maple Leafs,1,1,0,0.602087399049,2017-04-04
+1190,Montreal Canadiens,0,Buffalo Sabres,1,1,0,0.700104631813,2017-04-05
+1191,New York Rangers,0,Washington Capitals,1,1,0,0.515931195859,2017-04-05
+1192,Chicago Blackhawks,0,Anaheim Ducks,1,1,0,0.549847427735,2017-04-06
+1193,Vancouver Canucks,0,Arizona Coyotes,1,1,0,0.505315829175,2017-04-06
+1194,Ottawa Senators,0,Boston Bruins,1,1,1,0.56204326737,2017-04-06
+1195,New York Islanders,0,Carolina Hurricanes,1,1,1,0.607278484618,2017-04-06
+1196,Winnipeg Jets,0,Columbus Blue Jackets,1,1,1,0.804713435816,2017-04-06
+1197,Minnesota Wild,0,Colorado Avalanche,1,1,0,0.763247736784,2017-04-06
+1198,Nashville Predators,0,Dallas Stars,1,1,0,0.503282795025,2017-04-06
+1199,St. Louis Blues,0,Florida Panthers,1,1,0,0.51212827315,2017-04-06
+1200,Calgary Flames,0,Los Angeles Kings,1,1,1,0.630062067568,2017-04-06
+1201,Pittsburgh Penguins,0,New Jersey Devils,1,1,0,0.655577824816,2017-04-06
+1202,Edmonton Oilers,0,San Jose Sharks,1,1,1,0.643067691589,2017-04-06
+1203,Tampa Bay Lightning,0,Toronto Maple Leafs,1,1,0,0.50179983917,2017-04-06
+1204,Tampa Bay Lightning,0,Montreal Canadiens,1,1,1,0.700405401997,2017-04-07
+1205,Minnesota Wild,0,Arizona Coyotes,1,1,0,0.733036938809,2017-04-08
+1206,Washington Capitals,0,Boston Bruins,1,1,1,0.500187184808,2017-04-08
+1207,St. Louis Blues,0,Carolina Hurricanes,1,1,1,0.516752683838,2017-04-08
+1208,Colorado Avalanche,0,Dallas Stars,1,1,1,0.64178815171,2017-04-08
+1209,Montreal Canadiens,0,Detroit Red Wings,1,1,0,0.669246452959,2017-04-08
+1210,Buffalo Sabres,0,Florida Panthers,1,1,1,0.61203443283,2017-04-08
+1211,Chicago Blackhawks,0,Los Angeles Kings,1,1,1,0.504937301937,2017-04-08
+1212,New York Islanders,0,New Jersey Devils,1,1,1,0.525518875541,2017-04-08
+1213,New York Rangers,0,Ottawa Senators,1,1,0,0.577484711284,2017-04-08
+1214,Columbus Blue Jackets,0,Philadelphia Flyers,1,1,0,0.647047158346,2017-04-08
+1215,Calgary Flames,0,San Jose Sharks,1,1,1,0.689659273029,2017-04-08
+1216,Pittsburgh Penguins,0,Toronto Maple Leafs,1,1,0,0.612769090032,2017-04-08
+1217,Edmonton Oilers,0,Vancouver Canucks,1,1,0,0.57657188794,2017-04-08
+1218,Nashville Predators,0,Winnipeg Jets,1,1,1,0.536084832423,2017-04-08
+1219,Los Angeles Kings,0,Anaheim Ducks,1,1,0,0.501073259903,2017-04-09
+1220,New Jersey Devils,0,Detroit Red Wings,1,1,1,0.583299124579,2017-04-09
+1221,Vancouver Canucks,0,Edmonton Oilers,1,1,1,0.676938650033,2017-04-09
+1222,Ottawa Senators,0,New York Islanders,1,1,0,0.558923758719,2017-04-09
+1223,Pittsburgh Penguins,0,New York Rangers,1,1,1,0.610632511381,2017-04-09
+1224,Carolina Hurricanes,0,Philadelphia Flyers,1,1,1,0.587361845803,2017-04-09
+1225,Colorado Avalanche,0,St. Louis Blues,1,1,1,0.755965001444,2017-04-09
+1226,Buffalo Sabres,0,Tampa Bay Lightning,1,1,1,0.655905469008,2017-04-09
+1227,Columbus Blue Jackets,0,Toronto Maple Leafs,1,1,0,0.70944379457,2017-04-09
+1228,Florida Panthers,0,Washington Capitals,1,1,1,0.692473820299,2017-04-09

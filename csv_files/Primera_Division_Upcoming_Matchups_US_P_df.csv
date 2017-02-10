@@ -1,0 +1,21 @@
+ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+86,2016-11-25,20:45:00,primera-division,Real Betis @ Eibar,Real Betis,Eibar,4.4,3.6,2.05,Eibar,Eibar,0.512,N,Upcoming
+87,2016-11-26,13:00:00,primera-division,Deportivo La Coruna @ Malaga CF,Deportivo La Coruna,Malaga CF,4.3,3.5,2.06,Malaga CF,Malaga CF,0.546,N,Upcoming
+88,2016-11-26,16:15:00,primera-division,Real Sporting de Gijon @ Real Madrid,Real Sporting de Gijon,Real Madrid,52.05,18.0,1.1,Real Madrid,Real Madrid,0.654,N,Upcoming
+89,2016-11-26,18:30:00,primera-division,Leganes @ RCD Espanyol,Leganes,RCD Espanyol,5.31,3.5,1.93,RCD Espanyol,RCD Espanyol,0.529,N,Upcoming
+90,2016-11-26,20:45:00,primera-division,Valencia CF @ Sevilla FC,Valencia CF,Sevilla FC,4.8,4.22,1.82,Sevilla FC,Sevilla FC,0.611,N,Upcoming
+91,2016-11-27,12:00:00,primera-division,Alaves @ Villarreal CF,Alaves,Villarreal CF,8.63,4.2,1.58,Villarreal CF,Villarreal CF,0.579,N,Upcoming
+92,2016-11-27,16:15:00,primera-division,Atletico Madrid @ Osasuna,Atletico Madrid,Osasuna,1.36,6.0,13.5,Atletico Madrid,Atletico Madrid,0.531,N,Upcoming
+93,2016-11-27,18:30:00,primera-division,Granada CF @ Celta de Vigo,Granada CF,Celta de Vigo,7.0,4.5,1.61,Celta de Vigo,Celta de Vigo,0.61,N,Upcoming
+94,2016-11-27,20:45:00,primera-division,FC Barcelona @ Real Sociedad,FC Barcelona,Real Sociedad,1.57,5.14,7.1,FC Barcelona,Real Sociedad,0.398,Y,Upcoming
+95,2016-11-28,20:45:00,primera-division,Athletic Bilbao @ U.D. Las Palmas de Gran Canaria,Athletic Bilbao,U.D. Las Palmas de Gran Canaria,2.9,3.55,2.75,U.D. Las Palmas de Gran Canaria,U.D. Las Palmas de Gran Canaria,0.422,N,Upcoming
+96,2016-12-03,13:00:00,primera-division,Sevilla FC @ Granada CF,Sevilla FC,Granada CF,1.85,3.89,4.9,Sevilla FC,Sevilla FC,0.6,N,Upcoming
+97,2016-12-03,16:15:00,primera-division,Real Madrid @ FC Barcelona,Real Madrid,FC Barcelona,5.1,4.55,1.74,FC Barcelona,FC Barcelona,0.406,N,Upcoming
+98,2016-12-03,18:30:00,primera-division,Villarreal CF @ Leganes,Villarreal CF,Leganes,2.42,3.3,3.4,Villarreal CF,Villarreal CF,0.453,N,Upcoming
+99,2016-12-03,20:45:00,primera-division,RCD Espanyol @ Atletico Madrid,RCD Espanyol,Atletico Madrid,16.5,7.0,1.27,Atletico Madrid,Atletico Madrid,0.538,N,Upcoming
+100,2016-12-04,12:00:00,primera-division,Celta de Vigo @ Real Betis,Celta de Vigo,Real Betis,3.24,3.56,2.45,Real Betis,Real Betis,0.421,N,Upcoming
+101,2016-12-04,16:15:00,primera-division,Eibar @ Athletic Bilbao,Eibar,Athletic Bilbao,5.9,3.93,1.76,Athletic Bilbao,Athletic Bilbao,0.494,N,Upcoming
+102,2016-12-04,18:30:00,primera-division,Osasuna @ Real Sporting de Gijon,Osasuna,Real Sporting de Gijon,4.25,3.47,2.15,Real Sporting de Gijon,Real Sporting de Gijon,0.487,N,Upcoming
+103,2016-12-04,18:30:00,primera-division,U.D. Las Palmas de Gran Canaria @ Alaves,U.D. Las Palmas de Gran Canaria,Alaves,3.05,3.47,2.67,Alaves,Alaves,0.424,N,Upcoming
+104,2016-12-04,20:45:00,primera-division,Malaga CF @ Valencia CF,Malaga CF,Valencia CF,5.0,3.81,1.88,Valencia CF,Valencia CF,0.377,N,Upcoming
+105,2016-12-05,20:45:00,primera-division,Real Sociedad @ Deportivo La Coruna,Real Sociedad,Deportivo La Coruna,2.98,3.37,2.79,Deportivo La Coruna,Real Sociedad,0.503,Y,Upcoming

@@ -1,0 +1,5 @@
+,ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+8,8,2016-12-29,20:30:00,NHL,Toronto Maple Leafs @ Tampa Bay Lightning,Toronto Maple Leafs,Tampa Bay Lightning,1.24,1.32,Toronto Maple Leafs,Tampa Bay Lightning,0.582,Y,Upcoming
+10,10,2016-12-29,21:00:00,NHL,Chicago Blackhawks @ Nashville Predators,Chicago Blackhawks,Nashville Predators,2.04,1.77,Nashville Predators,Chicago Blackhawks,0.574,Y,Upcoming
+18,18,2016-12-30,21:00:00,NHL,Nashville Predators @ St. Louis Blues,Nashville Predators,St. Louis Blues,1.66,2.4,Nashville Predators,St. Louis Blues,0.637,Y,Upcoming
+19,19,2016-12-30,23:00:00,NHL,Philadelphia Flyers @ San Jose Sharks,Philadelphia Flyers,San Jose Sharks,1.64,2.44,Philadelphia Flyers,San Jose Sharks,0.668,Y,Upcoming

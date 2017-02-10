@@ -1,0 +1,4 @@
+,ID,Date,Time,League,Matchup_US_P,Visitor_Team,Home_Team,Visitor_Odd,Draw_Odd,Home_Odd,Bookies_choice,Sibyl,Confidence,Divergence_Y/N,True_Result
+3,3,2016-11-26,15:30:00,bundesliga,TSG 1899 Hoffenheim @ Borussia Monchengladbach,TSG 1899 Hoffenheim,Borussia Monchengladbach,3.9,3.99,2.2,Borussia Monchengladbach,TSG 1899 Hoffenheim,0.476,Y,Upcoming
+4,4,2016-11-26,15:30:00,bundesliga,Borussia Dortmund @ Eintracht Frankfurt,Borussia Dortmund,Eintracht Frankfurt,1.75,4.5,5.5,Borussia Dortmund,Eintracht Frankfurt,0.458,Y,Upcoming
+5,5,2016-11-26,15:30:00,bundesliga,VfL Wolfsburg @ FC Ingolstadt 04,VfL Wolfsburg,FC Ingolstadt 04,2.66,3.37,3.05,VfL Wolfsburg,FC Ingolstadt 04,0.398,Y,Upcoming
