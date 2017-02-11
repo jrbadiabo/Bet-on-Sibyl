@@ -4,7 +4,10 @@
     <option name="CUSTOM_SCOPE_NAME" value="All Places" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="896b991a-0766-43f6-abc0-2a71890ae27b" name="Default" comment="" />
+    <list default="true" id="896b991a-0766-43f6-abc0-2a71890ae27b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +37,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ScrapeATPStats.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ScrapeATPStats.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tennis/ATP/ScrapeATPStats.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="561">
               <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="e#15#34#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="272">
+                <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+                <folding>
+                  <marker date="1486846296588" expanded="true" signature="2705:3396" ph="{&quot;name&quot;: &quot;vendor/mysite&quot;...}" />
+                  <marker date="1486846296588" expanded="true" signature="2860:2936" ph="[...]" />
+                  <marker date="1486846296588" expanded="true" signature="2953:3033" ph="{&quot;typo3/cms&quot;: &quot;~7.6&quot;...}" />
+                  <marker date="1486846296588" expanded="true" signature="3048:3178" ph="{...}" />
+                  <marker date="1486846296588" expanded="true" signature="3071:3172" ph="{&quot;cms-package-dir&quot;: &quot;{$vendor-dir}/typo3/cms&quot;...}" />
+                  <marker date="1486846296588" expanded="true" signature="3195:3394" ph="{...}" />
+                  <marker date="1486846296588" expanded="true" signature="3225:3292" ph="[...]" />
+                  <marker date="1486846296588" expanded="true" signature="3321:3388" ph="[...]" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -163,7 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/US_Sports/NHL/ScrapeMatchupDatetimeOddsTwoChoicesNHL.ipynb" />
         <option value="$PROJECT_DIR$/US_Sports/MLB/RunModelMLB.ipynb" />
         <option value="$PROJECT_DIR$/US_Sports/MLB/ScrapeMLBGameStats.ipynb" />
         <option value="$PROJECT_DIR$/US_Sports/MLB/ModelMetricsMLB.py" />
@@ -214,6 +238,7 @@
         <option value="$PROJECT_DIR$/Tennis/ATP/AcquireBetBrainATPUpcomingGames.ipynb" />
         <option value="$PROJECT_DIR$/Tennis/ATP/AcquireBetBrainATPUpcomingGames.py" />
         <option value="$PROJECT_DIR$/Tennis/ATP/ScrapeATPStats.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -224,8 +249,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1024" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -253,6 +280,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Bet-on-Sibyl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bet-on-Sibyl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bet-on-Sibyl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -589,17 +630,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1024" height="728" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38381743" sideWeight="0.48319328" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.48319328" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5060514" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39542484" sideWeight="0.49092284" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3305369" sideWeight="0.6520424" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32189542" sideWeight="0.6520424" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30786687" sideWeight="0.51476794" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -638,13 +679,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Football/FootballTop5/Month_teams_Primera_Division.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Football/FootballTop5/Month_teams_Serie_A.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -899,11 +933,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tennis/ATP/ScrapeATPStats.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="561">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="e#15#34#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486846296588" expanded="true" signature="2705:3396" ph="{&quot;name&quot;: &quot;vendor/mysite&quot;...}" />
+            <marker date="1486846296588" expanded="true" signature="2860:2936" ph="[...]" />
+            <marker date="1486846296588" expanded="true" signature="2953:3033" ph="{&quot;typo3/cms&quot;: &quot;~7.6&quot;...}" />
+            <marker date="1486846296588" expanded="true" signature="3048:3178" ph="{...}" />
+            <marker date="1486846296588" expanded="true" signature="3071:3172" ph="{&quot;cms-package-dir&quot;: &quot;{$vendor-dir}/typo3/cms&quot;...}" />
+            <marker date="1486846296588" expanded="true" signature="3195:3394" ph="{...}" />
+            <marker date="1486846296588" expanded="true" signature="3225:3292" ph="[...]" />
+            <marker date="1486846296588" expanded="true" signature="3321:3388" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <folding>
+              <marker date="1486846296588" expanded="true" signature="2705:3396" ph="{&quot;name&quot;: &quot;vendor/mysite&quot;...}" />
+              <marker date="1486846296588" expanded="true" signature="2860:2936" ph="[...]" />
+              <marker date="1486846296588" expanded="true" signature="2953:3033" ph="{&quot;typo3/cms&quot;: &quot;~7.6&quot;...}" />
+              <marker date="1486846296588" expanded="true" signature="3048:3178" ph="{...}" />
+              <marker date="1486846296588" expanded="true" signature="3071:3172" ph="{&quot;cms-package-dir&quot;: &quot;{$vendor-dir}/typo3/cms&quot;...}" />
+              <marker date="1486846296588" expanded="true" signature="3195:3394" ph="{...}" />
+              <marker date="1486846296588" expanded="true" signature="3225:3292" ph="[...]" />
+              <marker date="1486846296588" expanded="true" signature="3321:3388" ph="[...]" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,5 @@
-<a href="https://marvelapp.com/31dgaj4/screen/17384930">
-    <img src="C:\Users\jbadiabo\Pictures\BetonSibyl\Sibyl_white_logo.png" alt="Sibyl logo" title="Sibyl" align="right" height="60" />
-</a>
+======================[![Sibyl Logo](Images/Sibyl_white_logo.png)]======================
+
 
 Sport Predictions Project - Bet on Sibyl 
 ======================
@@ -12,7 +11,7 @@ At launch, the platform will cover the four major US sports, soccer and tennis. 
 performance of the algorithm for the current season (for each sport) along with bankroll comparaison stats with bookmaker 
 (scraping from the [oddsportal's website](http://www.oddsportal.com/) to do so)
 
-[![Aimeos TYPO3 demo](C:\Users\jbadiabo\Pictures\Sibyl_mobile_app_screenshots.png)](https://marvelapp.com/31dgaj4/screen/17384930)
+[![Prototype images](Images/Sibyl_mobile_app_screenshots.png)](https://marvelapp.com/31dgaj4/screen/17384930)
 
 ## Table of content
 
