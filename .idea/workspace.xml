@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="896b991a-0766-43f6-abc0-2a71890ae27b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,20 +52,31 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-                <folding>
-                  <marker date="1486846296588" expanded="true" signature="2705:3396" ph="{&quot;name&quot;: &quot;vendor/mysite&quot;...}" />
-                  <marker date="1486846296588" expanded="true" signature="2860:2936" ph="[...]" />
-                  <marker date="1486846296588" expanded="true" signature="2953:3033" ph="{&quot;typo3/cms&quot;: &quot;~7.6&quot;...}" />
-                  <marker date="1486846296588" expanded="true" signature="3048:3178" ph="{...}" />
-                  <marker date="1486846296588" expanded="true" signature="3071:3172" ph="{&quot;cms-package-dir&quot;: &quot;{$vendor-dir}/typo3/cms&quot;...}" />
-                  <marker date="1486846296588" expanded="true" signature="3195:3394" ph="{...}" />
-                  <marker date="1486846296588" expanded="true" signature="3225:3292" ph="[...]" />
-                  <marker date="1486846296588" expanded="true" signature="3321:3388" ph="[...]" />
-                </folding>
+              <first_editor relative-caret-position="245">
+                <caret line="242" column="0" lean-forward="true" selection-start-line="242" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
+                <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelNHL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/US_Sports/NHL/ModelNHL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="80" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelMetricsFootballTop5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Football/FootballTop5/ModelMetricsFootballTop5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="191" column="29" lean-forward="false" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -293,7 +303,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Images" />
+              <option name="myItemId" value="US_Sports" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bet-on-Sibyl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bet-on-Sibyl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="US_Sports" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NHL" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -679,13 +707,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Football/FootballTop5/Month_teams_Serie_A.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Football/FootballTop5/Month_teams_Bundesliga.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -789,13 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Football/FootballTop5/ModelMetricsFootballTop5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3179">
-          <caret line="191" column="29" lean-forward="false" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -941,36 +955,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Football/FootballTop5/ModelMetricsFootballTop5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="191" column="29" lean-forward="false" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/US_Sports/NHL/ModelNHL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="80" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1486846296588" expanded="true" signature="2705:3396" ph="{&quot;name&quot;: &quot;vendor/mysite&quot;...}" />
-            <marker date="1486846296588" expanded="true" signature="2860:2936" ph="[...]" />
-            <marker date="1486846296588" expanded="true" signature="2953:3033" ph="{&quot;typo3/cms&quot;: &quot;~7.6&quot;...}" />
-            <marker date="1486846296588" expanded="true" signature="3048:3178" ph="{...}" />
-            <marker date="1486846296588" expanded="true" signature="3071:3172" ph="{&quot;cms-package-dir&quot;: &quot;{$vendor-dir}/typo3/cms&quot;...}" />
-            <marker date="1486846296588" expanded="true" signature="3195:3394" ph="{...}" />
-            <marker date="1486846296588" expanded="true" signature="3225:3292" ph="[...]" />
-            <marker date="1486846296588" expanded="true" signature="3321:3388" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-            <folding>
-              <marker date="1486846296588" expanded="true" signature="2705:3396" ph="{&quot;name&quot;: &quot;vendor/mysite&quot;...}" />
-              <marker date="1486846296588" expanded="true" signature="2860:2936" ph="[...]" />
-              <marker date="1486846296588" expanded="true" signature="2953:3033" ph="{&quot;typo3/cms&quot;: &quot;~7.6&quot;...}" />
-              <marker date="1486846296588" expanded="true" signature="3048:3178" ph="{...}" />
-              <marker date="1486846296588" expanded="true" signature="3071:3172" ph="{&quot;cms-package-dir&quot;: &quot;{$vendor-dir}/typo3/cms&quot;...}" />
-              <marker date="1486846296588" expanded="true" signature="3195:3394" ph="{...}" />
-              <marker date="1486846296588" expanded="true" signature="3225:3292" ph="[...]" />
-              <marker date="1486846296588" expanded="true" signature="3321:3388" ph="[...]" />
-            </folding>
+          <first_editor relative-caret-position="245">
+            <caret line="242" column="0" lean-forward="true" selection-start-line="242" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
