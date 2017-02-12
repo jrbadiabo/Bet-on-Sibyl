@@ -222,7 +222,7 @@ The Bet on Sibyl is licensed under the terms of the GPL Open Source
 license and is available for free.
 
 ## Links
-Here are all the website sources for data web scraping
+Here are all the website sources for data web scraping:
 * [http://www.baseball-reference.com/](http://www.baseball-reference.com/) (Beautiful Soup)
 * [http://www.basketball-reference.com/](http://www.basketball-reference.com/) (Selenium/Phantom JS)
 * [http://www.pro-football-reference.com/](http://www.pro-football-reference.com/) (Selenium)
@@ -231,6 +231,9 @@ Here are all the website sources for data web scraping
 * [http://www.coretennis.net/](http://www.coretennis.net/) (Selenium/ Phantom JS)
 * [http://www.oddsportal.com](http://www.oddsportal.com) (Selenium)
 * [https://www.betbrain.com](https://www.betbrain.com) (Selenium)
+
+Here is the link for the mobile app prototype:
+* [https://marvelapp.com/31dgaj4/screen/17384930](https://marvelapp.com/31dgaj4/screen/17384930)
 
 ## Notes
 
